@@ -1,12 +1,11 @@
 ---
 title:
   - PHIL 251 - Metaphysics and Epistemelogy
-  - <%  tp.file.title %>
 draft: false
 tags:
   - class
   - philosophy
-  - 
+  -
 ---
   
 > Author:  Dr. Gerry Callaghan, University of Waterloo Lecturer - Fall 2025 UW
