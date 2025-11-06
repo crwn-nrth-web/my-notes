@@ -1,6 +1,6 @@
 ---
 title:
-  - Welcome to Quartz
+  - About
 draft: false
 ---
 Welcome!! My name is Sibaal and I am an a third-year undergraduate studying Physics & Astronomy with a minor in Philosophy at the University of Waterloo. 
