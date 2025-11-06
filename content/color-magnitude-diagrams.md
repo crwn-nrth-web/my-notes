@@ -16,8 +16,14 @@ Magnitudes can be used to describe the brightness of objects in the sky. Magnitu
 
 The physical property that magnitudes measure is *flux* (the amount of light that arrives in a given area on Earth in a given amount of time)
 
-Apparent magnitude (m) related to flux (f) =$$ \begin{align} m = 22.5 - 2.5 \times \log(f) \\ m_1 - m_2 = -2.5 \times \log (f_1 / f_2) \end{align}$$
-Distance from Earth in parsecs (d), apparent magnitude (m) and absolute magnitude (M) are related with the distance modulus equation = $$m - M = 5 \log(d) - 5$$
+Apparent magnitude (m) related to flux (f) =
+$$ 
+\begin{align} m = 22.5 - 2.5 \times \log(f) \\ m_1 - m_2 = -2.5 \times \log (f_1 / f_2) \end{align}
+$$
+Distance from Earth in parsecs (d), apparent magnitude (m) and absolute magnitude (M) are related with the distance modulus equation = 
+$$
+m - M = 5 \log(d) - 5
+$$
 **Luminosity** represents the same physical property as absolute magnitude, which is the amount of energy released in a given amount of time.
 
 ### Star Clusters
@@ -29,7 +35,6 @@ Because of the way they formed, we know that stars in clusters are in the same s
 
 When stars in the cluster first form, most of them lie in the **main sequence**. Their exact position is determined by their mass, with the more massive stars sitting in the brighter bluer area. The most massive stars often evolve into red giants, staying at about the same luminosity but redder, producing the **red giant branch**. The corner or bend where the main sequence leads into the red giant branch is called the **main sequence turn-off**.  
 ![[Pasted image 20251104123230.png]]
-
 From a CMD, we can estimate two key physical properties of the cluster:
 1. age = based on the lifetime of the bluest and most massive stars still on the main sequence.
 2. distance from earth = using the distance modulus equation and magnitudes at the main sequence turn-off point
