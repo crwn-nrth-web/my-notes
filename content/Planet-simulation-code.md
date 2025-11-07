@@ -8,7 +8,6 @@ title: Planet-simulation-code
 ---
  
 
-
 ```python
 import math
 import pygame
