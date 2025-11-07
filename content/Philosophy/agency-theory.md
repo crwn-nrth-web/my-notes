@@ -6,12 +6,13 @@ tags:
   - philosophy
   -
 ---
-> [!Source] Taylor, R. (1974). "[Freedom and Determinism](https://learn.uwaterloo.ca/content/enforced/1162856-PHIL251_081_cel_1259/media/documents/week03/taylor-freedom-and-determination.pdf?ou=1162856)". In _Metaphysics_, second edition. Englewood Cliffs, N.J.: Prentice-Hall.
+
+> [!source] Taylor, R. (1974). "[Freedom and Determinism](https://learn.uwaterloo.ca/content/enforced/1162856-PHIL251_081_cel_1259/media/documents/week03/taylor-freedom-and-determination.pdf?ou=1162856)". In _Metaphysics_, second edition. Englewood Cliffs, N.J.: Prentice-Hall.
 
 ![[Determinism#^b63314]]
- 
 
-Taylor explains the theory as 
+Taylor e> [!bug]
+> Contentsxplains the theory as 
 > "The only conception of action that accords with our data is one according to which men… are sometimes, but of course not always, self-determining beings; that is beings which are sometimes causes of their own behaviour.”
 
 There is a notion of **self determinism** = humans are capable of determining their own actions without causal influence or causal necessitation from the outside

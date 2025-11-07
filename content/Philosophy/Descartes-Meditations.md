@@ -7,9 +7,8 @@ aliases:
 draft: false
 title: Descartes-Meditations
 ---
- 
- 
 >[!source] Descartes, R. (2000). [Meditations on First Philosophy](https://learn.uwaterloo.ca/content/enforced/1162856-PHIL251_081_cel_1259/media/documents/week05/descartes-meditation-2-and-6.pdf?ou=1162856). Selections from *Meditations 2 and 6*. In R. Ariew and E. Watkins (Eds.), Readings in Modern Philosophy Volume 1: Descartes, Spinoza and Leibniz, pp. 30-32, 50. Indianapolis, Ind.: Hackett publishing. (Original work published in 1641).
+>
 >See also: [Meditations on First Philosophy (Modern version)](https://www.earlymoderntexts.com/assets/pdfs/descartes1641.pdf) 
 
 Descartes' method in the Meditations is known as **Method of Doubt**. The goal is to establish knowledge on a foundation of absolute certainty, rejecting any belief that can be even slightly doubted

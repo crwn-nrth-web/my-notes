@@ -5,9 +5,7 @@ tags:
 draft: false
 title: analyzing-universals
 ---
- 
-
-Russell's position on [[Universals|universals]] is a form of *Realism*, stating that universals are objective elements of reality. The reality that universals inhabit, however, is not the same everyday world of particulars that sensation acquaints us with.  ^1eb87a
+ Russell's position on [[Universals|universals]] is a form of *Realism*, stating that universals are objective elements of reality. The reality that universals inhabit, however, is not the same everyday world of particulars that sensation acquaints us with.  ^1eb87a
 
 For Russell, the non-sensible world of universals is very extensive. Any characterisation of an object in terms of qualities, use of generic terms, or claims involving relations, references universals.
 
