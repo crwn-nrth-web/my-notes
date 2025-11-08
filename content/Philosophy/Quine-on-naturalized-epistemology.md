@@ -16,6 +16,8 @@ Because of the failed project of epistemology, outlined in [[Quine-on-the-defect
 
 Instead of the traditional approach, Quine argues for focusing on the psychological transition between sensory information and the theories we produce.
 
+Naturalized epistemology is also interested in how the sensory experiences give rise to ordinary perceptual beliefs made about ordinary objects in our perceptual environment. For Quine, our common-sense beliefs are continuous with our scientific beliefs.
+
 Our thought is a kind of input/output system where input is the sensory information, and output are the theories of the world. Traditional epistemology asked the question "how does the input justify the output? how does our sensory experience justify our theories?" According to Quine, there is no good answer for that. Naturalized epistemology on the other hand asks the question: "what are the psychological mechanisms that mediate between the sensory input and the theoretical output?"
 
 #### Epistemology as psychology
@@ -35,9 +37,6 @@ In other words, circularity would be problematic only for the traditional episte
 
 Naturalized epistemology, according to Quine, gives up on the problematic task of validating science, and in doing so, it frees itself to appeal to science as a means of understanding the relationship between sensory evidence and theory. Epistemology now becomes the scientific study of that relationship.
 
-#### common-sense belief
-Naturalized epistemology is also interested in how the sensory experiences give rise to ordinary perceptual beliefs made about ordinary objects in our perceptual environment. For Quine, our common-sense beliefs are continuous with our scientific beliefs.
+[[Kim-on-justification-in-epistemology#Kim's critique of naturalized epistemology|Kim's critique of naturalized epistemology]]
 
-Traditional epistemology honors distinctions between good and bad beliefs by insisting on the notion of justification, that no belief is a candidate for being knowledge unless it can be justified by some appropriate means (as directly supported by sensory experience, as supported by inference, or as supported by a priori considerations). 
 
-Quine's approach of naturalized epistemology does not support this approach, and does not fully provide a basis of honoring these distinctions, which is a problem according to [[Kim-on-justification-in-epistemology]]

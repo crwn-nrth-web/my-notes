@@ -16,7 +16,6 @@ tags:
 - metaphysics of selves
 
 1. [[Universals]]
-	- [[Essay-tension-in-Russel's-theory-of-universals]]
 2. [[Causality]]
 3. [[Determinism]]
 4. [[Identity]]
@@ -30,7 +29,7 @@ tags:
 1. [[Skepticism]]
 2. [[Inductive-inferences]]
 3. [[epistemological-gap-between-experience-and-theory]]
-4. logical empiricism / naturalized epistemology
-5. analysis of knowledge
+4. [[logical-empiricism]]
+5. [[traditional-analysis-of-knowledge|analysis-of-knowledge]]
 6. structure of knowledge
 7. sociology of epistemology
