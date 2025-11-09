@@ -25,25 +25,25 @@ Inductive arguments are supposed to provide their conclusions with some measure 
 
 > “None but a fool or a mad man will ever pretend to dispute the authority of experience, or to reject that great guide to human life.”
 
-Hume is not denying the importance of inductive inferences on the basis of past experiences. But there is a problem of the philosophical justification of induction.
+Hume is not denying the importance of inductive inferences on the basis of past experiences, but there is a problem of the philosophical justification of induction.
 
 For [[Foster-proposed-solution-to-the-problem-of-induction]], observed regularities are evidence of natural necessity, and the inference to laws embodying natural necessity justifies conclusions that past regularities will persist in the future. 
 
 In contrast, for Hume, observed regularities brings us to expect that future cases will be like past cases but they don't justify these expectations. Hume's view is because of his concept of [[causal necessity]] that necessity is just a projection of our subjective feelings of expectation onto the world. 
-
 #### Limits of perceptual knowledge
 
 1. *Predictive beliefs* = it cannot be justified on perceptual experience along as it is a belief about events that haven't occurred yet
 2. *generalizations* = these claims have implications regarding not only observed cases but also cases that have not been observed
 
 Both predictive beliefs and generalizations tend to be made on the basis of extrapolation from observed cases.
-
 #### Induction as causal reasoning
 Hume argues that our inductive reasoning is grounded in our idea of [[Causality]]. When we see one event regularly followed by another, we form the belief that the first caused the second and we can then make predictions. 
 
-*the problem of induction* = what rational basis do we have for believing that the causal relations we've experienced in the past will persist into the future? e cannot justify it deductively and we cannot justify it inductively.
+ *on what basis do we make all our causal inferences and predictions about the world?* Hume's answer is past experience. 
 
-Hume's answer is past experience. Hume’s metaphysical [[Humean-theory-of-causation]] that the [[causal necessity|necessary-connection]] between cause and effect is not real but psychological leads to his epistemological view that our confidence in induction is not rationally justified, but rather a product of habit formed by repeated experiences of conjoined events.
+**the problem of induction** = what rational basis do we have for believing that the causal relations we've experienced in the past will persist into the future? we cannot justify it deductively and we cannot justify it inductively.
+
+In [[Humean-theory-of-causation]], the metaphysical claim that [[causal necessity|necessary-connection]] between cause and effect is not real but psychological leads to his epistemological view that our confidence in induction is not rationally justified, but rather a product of habit formed by repeated experiences of conjoined events.
 
 Hume notes that experience provides us with an answer to how we go about making causal inferences, but it is more complicated to explain exactly how our limited experience provides justification for these kinds of inferences. i.e. what kind of reasoning would allow us to draw conclusions about unobserved cases on the basis of observed cases?
 
@@ -58,7 +58,6 @@ This makes an inductive argument into a deductive one. Example:
 Conclusion: Therefore, in the future, any object of type X will be accompanied by effects of type Y
 
 The principle of the uniformity of nature acts as bridge between the observed cases to the unobserved.
-
 #### Why believe in the principle?
 Hume notes:
 - the principle is not a tautology (necessary truth)
@@ -73,7 +72,6 @@ However, by arguing from past experiences, it forms an inductive argument to def
 **Problem of circularity** = in order to justify inductive arguments, the principle of the uniformity of nature is required to bridge the gap between the premises about that we have observed to the conclusion about cases that we haven't observed. However, in order to justify the principle itself and inductive argument is needed. This makes the whole approach viciously circular / it seems to "beg the question"
 
 i.e. that the attempt to justify inductive inference already relies on inductive inference
-
 #### causal powers as evidence
 from the regular connection that we’ve observed between fire and smoke, can we not infer that fire has a causal power to produce smoke, generally?
 

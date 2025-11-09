@@ -20,9 +20,8 @@ Jackson talks about Mary’s thought experiment as the knowledge argument.
 If yes, then physicalism is false. Physicalism tells us that everything in the world is physical stuff obeying physical laws, and there is nothing else. Our intuition says that Mary learns something when she leaves her black-and-white room and sees color for the first time. as she never knew what it looked like before.  The new knowledge is not only knowledge about her own experience, but it’s also indirectly knowledge about other people’s experience. She comes to know what everybody else knows about the experience of color. 
 
 Jackson's conclusion from this thought experiment is that since there is something that she came to learn, then physicalism offers an incomplete description of reality, leaving out the phenomenal aspects of [[consciousness]].
-
 ##### Other views on the the thought experiment
-It could be argued that while Mary does have a new kind of experience when she leaves the black-and-white room, the facts are the same physical facts she knew before leaving the room. David Lewis argues that physicalism remains true; Mary gains a new ability *know-how* to differentiate color, but she learns nothing new about color itself (*knowledge-that*). 
+It could be argued that while Mary does have a new kind of experience when she leaves the black-and-white room, the facts are the same physical facts she knew before leaving the room. David Lewis argues that physicalism remains true; Mary gains a new ability *know-how* to differentiate color, but she learns nothing new about color itself (*know-that*). 
 
 Another argument by Dennett is that Jackson's thought experiment relies on intuition, and we don't know how an omniscient being will think: are we in any real position to say what Mary would and wouldn't know, given her omniscient physical knowledge. It can be argued that if her knowledge of the physical world is complete, she would not be surprised when she sees red for the first time as she would have been able to infer from her physical knowledge what the experience would be like. We can't say anything on Mary's situation as we are not omniscient. 
 

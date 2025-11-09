@@ -18,7 +18,7 @@ This, in turn, posses a problem for the doctrine side. Showing that mathematical
 #### Defects in the epistemological branch
 >“The parallel is as follows. Just as mathematics is to be reduced to logic, or logic and set theory, so natural knowledge is to be based somehow on sense experience. This means explaining the notion of body in sensory terms; here is the conceptual side. And it means justifying our knowledge of truths of nature in sensory terms; here is the doctrinal side…”
 
-Quine's view is that the logical empiricist's attempt to reduce natural scientific theories to sense experience failed. On the conceptual side, the translation of theoretical claims into claims about sense experience by [[Ayer-definitions-in-use]] (contextual definitions) proved to be problematic. 
+Quine's view is that the logical empiricist's attempt to reduce natural scientific theories to sense experience failed. On the conceptual side, the translation of theoretical claims into claims about sense experience by [[Ayer-1936-definitions-in-use]] (contextual definitions) proved to be problematic. 
 
 You cannot just talk about sense-data, you had to talk about "sets upon sets of sense data". He also notes that there is no real adequate way of reducing talk of spatial-temporal location to talk about sense-data, 
 
