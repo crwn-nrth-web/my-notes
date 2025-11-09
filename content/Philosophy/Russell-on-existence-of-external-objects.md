@@ -18,9 +18,7 @@ Russell also agrees with [[Cartesian-Skepticism]] that dreams provide a source o
 
 **Russell's view on Philosophy** = he believes philosophy's job is to rationalize our fundamental beliefs about the world. There is no point in critiquing those beliefs, especially since we're probably incapable of getting rid of those beliefs anyways.
 
-> “Philosophy should show us the hierarchy of our instinctive beliefs, beginning with those we hold most strongly… it should take care to show that, in the form in which they are finally set forth, our instinctive beliefs do not clash, but form a harmonious system. There can never be any reason for rejecting one instinctive belief except that it clashes with others; thus, if they are found to harmonize, the whole system becomes worthy of acceptance.”
-
-
+> “Philosophy should show us the hierarchy of our instinctive beliefs, beginning with those we hold most strongly . . . it should take care to show that, in the form in which they are finally set forth, our instinctive beliefs do not clash, but form a harmonious system. There can never be any reason for rejecting one instinctive belief except that it clashes with others; thus, if they are found to harmonize, the whole system becomes worthy of acceptance.” (p. 39)
 #### Russell approach to the problem
 Russell frames the issue with two competing hypotheses:
 **Hypothesis 1** = our sense data generally derive from external objects
@@ -28,14 +26,16 @@ Russell frames the issue with two competing hypotheses:
 
 Russell posits that if there are no rational grounds for deciding between Hypothesis 1 and 2, we should be skeptics regarding our knowledge of the external world, like [[Skepticism|Humean-skepticism-about-the-external-world]]. If there are rational grounds for favoring Hypothesis 1, then we don't have to be skeptics about our knowledge of the external world. This method is known as *inference to the best explanation* [^1]
 
+Russell notes that although it is not a logical impossibility to assume that our whole lives are dreams and there is nothing but ourselves, there is no reason to suppose that it is true. For Russell, [[Cartesian-Skepticism#Dream argument|Descartes Dream argument]] is just a less simple hypothesis than the common-sense hypothesis that there are objects independent of us (p. 35).
+
+He notes that our belief that there are external objects corresponding to our sense-data is an *instinctive belief*. For Russell, since our belief in external objects doesn't lead to any difficulties and in fact simplifies our account of our experiences, we have no good reason to reject this hypothesis.
 ###### Appealing to the experience of other people
 
-> “When ten people are sitting around a dinner-table, it seems preposterous to maintain that they are not seeing the same tablecloth… [Al]though different people may see the table slightly differently, still they all see more or less similar things when they look at the table… Thus it is the fact that different people have similar sense-data… which makes us suppose that over and above the sense-data there is a permanent public object which underlies or causes the sense-data of various people at various times”
+> “When ten people are sitting around a dinner-table, it seems preposterous to maintain that they are not seeing the same tablecloth . . . [Al]though different people may see the table slightly differently, still they all see more or less similar things when they look at the table . . . Thus it is the fact that different people have similar sense-data  . . . which makes us suppose that over and above the sense-data there is a permanent public object which underlies or causes the sense-data of various people at various times” (p. 32 - 33)
 
 The existence of physical objects that our sense-data derives from is an important assumption for the view that we live in a common world. If each person only had private sense-data with nothing external to cause them, it would be a remarkable coincidence that everyone’s experiences are so similar. So, the simplest explanation is that there exists a single, physical object that causes our shared sense-data.
 
-The problem with this argument is that it appeals to other people as evidence that there are external objects causing our sense-data, but any knowledge we might have of other people is mediated by our sense-data. If we are not convinced that our sense-data reveals external objects, then we can't be convinced that our sense-data reveals other people. 
-
+Russel himself brings up the problem with this argument that it appeals to other people as evidence that there are external objects causing our sense-data. Any knowledge we might have of other people is mediated by our sense-data. We cannot appeal to the testimony of other people as that relies on sense-data, and if we are not convinced that our sense data reveals external objects, we can't be convinced that sense-data reveals other people (p. 33 - 34).
 ###### the physical world as the best explanation
 Russell argues that belief in a physical world is rationally justified and the simplest explanation for the structure of our experiences based on evidence from our own private sense-data.
 
@@ -44,21 +44,18 @@ Our sense-data shows continuity over time. Examples given by Russell:
 - sense-data regularly experience a cat meowing around feeding time. The best explanation is that there is a real cat that feels hunger and meows as a result. Repeated, predictable sense-data suggest underlying physical causes
 - Sense data of people speaking, moving, expressing thoughts similar to us explains that there are other minds and physical people producing those patterns. 
 
-Russell adresses [[Cartesian-Skepticism#Dream argument|Descartes Dream argument]] that while dreams produce false sense-data, they do reflect and are influenced by waking life. So, dreams indirectly support realism as they depend on the physical world for their content and explanation.
+Russell addresses that while dreams produce false sense-data, they do reflect and are influenced by waking life. So, dreams indirectly support realism as they depend on the physical world for their content and explanation.
 
 > “Of course, similar things happen in dreams… but dreams are more or less suggested by what we call waking life, and are capable of being more or less accounted for on scientific principles if we assume that there really is a physical world.”
 
 Hence, the hypothesis of a physical world provides the simplest, most coherent, and most explanatory account of our patterns of sense-data.
-
 #### Comparing Hume and Russell
 
 Russell and Hume both deny that we have any immediate experience of external objects; what we experience immediately are our own private sense data. Both agree that we acquire beliefs about external objects as "instinctive belief".
 
-Hume believes that our beliefs are not justified and are simply non-rational effects of our faculty of imagination. Russell believes that our belief in the external world can be justified as a kind of causal explanatory theory of why our sense impression appear the way they do, and uses the process of "inference to the best explanation". Russell concludes that physical objects are the best explanation for the sense impressions that we have. 
+[[Skepticism|Humean-skepticism-about-the-external-world]] believes that our beliefs are not justified and are simply non-rational effects of our faculty of imagination. Russell believes that our belief in the external world can be justified as a kind of causal explanatory theory of why our sense impression appear the way they do, and uses the process of "inference to the best explanation". Russell concludes that physical objects are the best explanation for the sense impressions that we have. 
 
-Russell thinks Hume's skeptical conclusion is too hasty. Russell searches for rational grounds for believing in external objects despite the senses not providing any proof. For Hume, if sense impressions do not provide the evidence, then there are no proof for the existence of external objects. 
-
-Russell admits that his reasoning is not beyond all doubt, but it does defeat [[Skepticism]]. And that his argument is sufficiently strong enough to show that the non-skeptical view is on stronger grounds than the skeptical view of Hume or Descartes.
+Russell thinks Hume's skeptical conclusion is too hasty. Russell searches for rational grounds for believing in external objects despite the senses not providing any proof. For Hume, if sense impressions do not provide the evidence, then there are no proof for the existence of external objects.  Russell admits that his reasoning is not beyond all doubt, but it does defeat [[Skepticism]]. And that his argument is sufficiently strong enough to show that the non-skeptical view is on stronger grounds than the skeptical view of Hume or Descartes.
 
 Russell and Hume's different views of philosophy can support how they ended up on different sides of the debate, and can show how various approaches affect the approach to problems in philosophy.
 
