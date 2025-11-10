@@ -28,7 +28,7 @@ Russell posits that if there are no rational grounds for deciding between Hypoth
 
 Russell notes that although it is not a logical impossibility to assume that our whole lives are dreams and there is nothing but ourselves, there is no reason to suppose that it is true. For Russell, [[Cartesian-Skepticism#Dream argument|Descartes Dream argument]] is just a less simple hypothesis than the common-sense hypothesis that there are objects independent of us (p. 35).
 
-He notes that our belief that there are external objects corresponding to our sense-data is an *instinctive belief*. For Russell, since our belief in external objects doesn't lead to any difficulties and in fact simplifies our account of our experiences, we have no good reason to reject this hypothesis.
+He agrees with Hume that our belief in external objects corresponding to our sense-data is an *instinctive belief*. For Russell, since our belief in external objects doesn't lead to any difficulties and in fact simplifies our account of our experiences, we have no good reason to reject this hypothesis.
 ###### Appealing to the experience of other people
 
 > “When ten people are sitting around a dinner-table, it seems preposterous to maintain that they are not seeing the same tablecloth . . . [Al]though different people may see the table slightly differently, still they all see more or less similar things when they look at the table . . . Thus it is the fact that different people have similar sense-data  . . . which makes us suppose that over and above the sense-data there is a permanent public object which underlies or causes the sense-data of various people at various times” (p. 32 - 33)

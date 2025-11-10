@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: Ayer-definitions-in-use
 tags:
   - philosophy

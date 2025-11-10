@@ -15,8 +15,11 @@ title: Skepticism
 There are localized versions of skepticism that are less extreme. E.g. a kind of localized skepticism may claim that we don't have any empirical knowledge of *x* but we have a priori knowledge about *y* 
 
 [[Cartesian-Skepticism]]
+An alternative approach to the issues outlined by Hume is given by [[Russell-on-existence-of-external-objects]]
 
 **Hume's view on the issue of the external world** = Hume believes that the senses provide no rational basis for our belief in external objects. But we cannot avoid these beliefs and should acknowledge them as non-rational effects of our faculty of imagination.
+
+> "[senses] give us no notion of continued existence, because they cannot operate beyond the extent, in which they really operate. They as little produce the opinion of a distinct existence, because they neither can offer it to the mind as represented, nor as original."
 
 **Hume's view of philosophy** = Hume believes philosophy serves as a kind of skeptic critic that emphasizes the rational shortcomings of our belief system. It doesn't undermine that belief system because Hume thinks that we're not capable of casting off our fundamental beliefs anyways. Philosophy serves to show that there are rational shortcomings and that we do believe things irrationally.
 #### Humean skepticism about the external world
@@ -29,8 +32,6 @@ He raises two questions on the matter:
 > "These two questions concerning the continued and  distinct existence of body are intimately connected together. For if the objects of our senses continue to exist, even when they are not perceived, their existence is of course independent of and distinct from the perception: and vice versa . . ." (p. 1)
 
 Hume argues that the continued and distinct existence of external objects is not rationally supported by our sensory impressions. There is a gap between what we perceive and what we believe about external objects.
-
-An alternative approach to the issues outlined by Hume is given by [[Russell-on-existence-of-external-objects]]
 ##### Skeptical argument concerning the continued existence of bodies
 He argues that the senses can't prove that bodies continue to exist beyond being perceived as its a contradiction.
 
