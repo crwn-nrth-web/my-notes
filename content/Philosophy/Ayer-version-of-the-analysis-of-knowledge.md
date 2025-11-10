@@ -4,6 +4,8 @@ draft: false
 tags:
   - philosophy
 ---
+> [!source] Ayer, A.J (1965) *"The Problem of Knowledge"* Ch. 1. Section V, pp. 28-34, New York: MacMillan. (Original work published in 1956)
+
  Ayer's version of [[Kim-on-justification-in-epistemology|traditional-analysis-of-knowledge]] = A person S knows that P, for some proposition P, if and only if:
  1. P is true
  2. S is sure that P

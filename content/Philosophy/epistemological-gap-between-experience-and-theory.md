@@ -9,7 +9,7 @@ aliases:
 [[Skepticism]] points out a justification gap between experience and theory i.e. our sensory experiences don't logically or necessarily justify the broader claims we make about the world.
 
 Example:
-- [[Skepticism|Humean-skepticism-about-the-external-world]] and [[Russell-on-existence-of-external-objects|Russell-answer-to-Humean-skepticism]]= we believe in physical objects existing independently of perception, but all we experience are perceptions with no direct evidence of the objects themselves
+- [[Skepticism|Humean-skepticism-about-the-external-world]] and [[Russell-on-existence-of-external-objects|Russell-answer-to-Humean-skepticism]] = we believe in physical objects existing independently of perception, but all we experience are perceptions with no direct evidence of the objects themselves
 - [[Inductive-inferences|induction]] and [[Foster-proposed-solution-to-the-problem-of-induction]]= we believe the future will resemble the past, but all our evidence concerns the past not the future.
 
 #### Theories to bridge the gap

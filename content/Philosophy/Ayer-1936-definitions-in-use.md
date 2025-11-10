@@ -4,8 +4,9 @@ title: Ayer-definitions-in-use
 tags:
   - philosophy
 aliases:
-  - Ayer-account-of-logical-empiricism
+  - Ayer-1936-account-of-logical-empiricism
 ---
+> [!source] Ayer, A.J (1971) "The Nature of Philosophical Analysis" Ch. 3. , pp. 59-68, of _Language, Truth and Logic_. London: Penguin. (Original work published in 1936)
  
 For Ayer, logical empiricism (reducing object-talk to experience-talk) involves a form of philosophical analysis that uses a technique called definitions in use
 
@@ -36,10 +37,12 @@ Ayer uses the term **the given** which means whatever is directly given to us in
 For logical empiricists like Ayer, material objects are just logical constructions out of sense-contents, or out of the "given". The statements we make about material objects are logically equivalent to the statements we could make about sense-contents. The reduction goes via the logic of the language.
 
 #### The problem of perception
-Ayer describes the **problem of perception** as the problem of reduction of material things to sense-content, i.e. the problem of giving an actual rule for translating sentences about a material thing to sentences about sense-content 
-
-For Ayer, this view solves the **problem of perception**, which is a version of [[epistemological-gap-between-experience-and-theory]] and is the problem of bridging the gap between the kinds of things we want to say about the world and the kind of experiential evidence that we have to work with.
+Ayer describes the **problem of perception** (a version of the [[epistemological-gap-between-experience-and-theory]]) as the problem of reduction of material things to sense-content, i.e. the problem of giving an actual rule for translating sentences about a material thing to sentences about sense-content.
 
 **Problem of perception** = if illusion and hallucinations are possible, how can perceptual experience provide us with direct perceptions of the world?[^1]
+
+Ayer notes that ordinary language isn't good at precisely describing sense data and so, it is more convenient to talk about the world in the language of material objects instead. When we talk about material things, we are actually talking about sense-data in a more convenient, indirect way. In other words, to explain what a "material thing" is, we don't have to point at something beyond experience, we just describe what kinds of relations our different sense experiences must have to count as experience of the same object (p. 65).
+
+Ayer agrees with [[Skepticism|Humean-skepticism-about-the-external-world]] that what we directly know are sense-contents, not mind-independent objects. But instead of leaving it as a matter of psychological habit, Ayer gives this relationship a logical and linguistic reinterpretation.
 
 [^1]: as defined by [Stanford encyclopedia](https://plato.stanford.edu/entries/perception-problem/#toc)
