@@ -3,6 +3,9 @@ title: Kim-on-justification-in-epistemology
 draft: false
 tags:
   - philosophy
+aliases:
+  - Kim-on-traditional-analysis-of-knowledge
+  - traditional-analysis-of-knowledge
 ---
 ### Kim on traditional epistemology 
 According to Kim, traditional epistemology involves attempts to provide answers to two interrelated questions:
