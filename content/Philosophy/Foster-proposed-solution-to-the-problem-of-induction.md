@@ -7,12 +7,13 @@ aliases:
 draft: false
 title: Foster-proposed-solution-to-the-problem-of-induction
 ---
- 
-Hume introduces his skeptical approach to [[Inductive-inferences]] and that they could rationally justified if we had good reasons for expecting that future cases will resemble past cases of causal regularity. For Hume, there seems to be no grounds for supposing *the principle of the uniformity of nature* that the future will resemble the past. 
+ Hume introduces his skeptical approach to [[Inductive-inferences]] and that they could rationally justified if we had good reasons for expecting that future cases will resemble past cases of causal regularity. For Hume, there seems to be no grounds for supposing *the principle of the uniformity of nature* that the future will resemble the past. 
 
 Foster allows that that if our reasoning about future cases (prediction) or generalizations is based on inductive inference, then its problematic. For Foster, induction is not fundamental. There's a more basic kind of inference that underlies our reasoning about future cases.
 
-**inference to the best explanation** justify the expectation that past regularities will persist in the future. This is because
+**inference to the best explanation** =  inferences are made from the available evidence to the hypothesis that would, if correct, best explain that evidence
+
+This method can be used to justify the expectation that past regularities will persist in the future. This is because
 1. the best explanations of observed regularities typically take the form of explanatory laws / laws of nature
 2. because laws of nature are expressions of *natural necessity* 
 
