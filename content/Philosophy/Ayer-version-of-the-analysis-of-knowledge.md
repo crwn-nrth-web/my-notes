@@ -7,9 +7,9 @@ tags:
 > [!source] Ayer, A.J (1965) *"The Problem of Knowledge"* Ch. 1. Section V, pp. 28-34, New York: MacMillan. (Original work published in 1956)
 
  Ayer's version of [[Kim-on-justification-in-epistemology|Kim-on-traditional-analysis-of-knowledge]] = A person S knows that P, for some proposition P, if and only if:
- 1. P is true
- 2. S is sure that P
- 3. S has the right to be sure that P
+ 1. **P is true**
+ 2. **S is sure that P**
+ 3. **S has the right to be sure that P**
 #### Ayer's refinement to the analysis of knowledge
 The belief condition that "S should believe that P" in the traditional analysis is replaced with the condition that "S must be sure that P".
 - By doing this, Ayer is emphasizing that not all beliefs are equally strong, and that knowledge requires a belief with a high degree of confidence or conviction. 

@@ -3,17 +3,19 @@ title: Gettier-challenge-to-the-traditional-analysis
 draft: false
 tags:
   - philosophy
+aliases:
+  - Gettier-cases
 ---
- 
+> [!source] Gettier, E. (1963). *"Is Justified True Belief Knowledge?"* Analysis, 23 (6), 121-123.
+
 Gettier challenges the [[Kim-on-justification-in-epistemology|traditional-analysis-of-knowledge]] (as well as [[Ayer-version-of-the-analysis-of-knowledge]]) and is an influential paper, leading to philosophers undertaking the task of re-analyzing the notion of propositional knowledge.
 
 > “I shall argue that [the traditional analysis] is false in that the conditions states therein do not constitute a sufficient condition for the truth of the proposition that _S_ knows that _P_.”
 
 Gettier is specifically challenging the notion that the three conditions of the analysis jointly constitute as a sufficient condition for knowledge. One way of doing this is by suggesting that they are cases where all three conditions are fulfilled, but they still don't count as knowledge.
-
 #### Gettier Cases / Gettier Counter-Examples
 
-###### **Simplified version of a Gettier case** 
+##### Simplified version of a Gettier case 
 > Suppose that Smith has strong evidence for the proposition: 
 > *(A) Jones owns a Ford*. 
 > 
@@ -28,8 +30,7 @@ This example satisfies all three conditions of the traditional analysis.
 The problem is that it does not seem right to say that Smith *knows* that Jones owns a Ford. Smith's belief that Jones owns a Ford is based on a false belief deriving from Brown's mistaken testimony, which happens to be true by coincidence. This seems like a classic example of *"right answer, wrong equation*. 
 
 The evidence brought Smith to the right belief, but it brought him to that belief in the wrong way because the evidence was obviously mistaken, and even false, since it wasn't true that Jones always had own a Ford. So despite Smith's belief being justified due to the reliable testimony, Smith still doesn't have knowledge because the belief was accidently true.
-
-###### **simplified version of Gettier's case II**
+##### simplified version of Gettier's case II
 > Suppose that Smith has strong evidence, and is justified in believing, the proposition that
 >  *(A) Jones owns a Ford*. 
 >  
@@ -53,16 +54,22 @@ This example satisfies all three conditions:
 
 However, Smith’s evidence for (A) was misleading. His belief in (B) rests on a false premise, and its truth is merely accidental. Therefore, Smith cannot be said to know that "either Jones owns a Ford or Brown is in Barcelona".
 
-###### **Simplified version of Gettier's case I**
-> Suppose two coworkers, Smith and Jones, are applying for a job. Smith has strong evidence for:
-> *(A) Jones will get the job, and Jones has ten coins in his pocket*
-> since he heard the boss say Jones will be hired, and he counted the coins in Jones' pocket. So, Smith forms logically infers:
-> *(B) the man who will get the job has ten coins in his pocket*,
-> It turns out that Smith is wrong about who gets the job. Unexpectedly, Smith himself gets the job and by coincidence, he also happens to have ten coins in his pocket. So, proposition (A) turns out to be true.
+### Analyzing the Gettier cases
+In both examples, the three conditions of the traditional analysis of knowledge are fulfilled: S believes that P, P is true, and according to Gettier, S believes the P is justified. The Gettier cases posits that even with all the conditions fulfilled, there can still be cases where it is not knowledge. 
 
-This example satisfies all three conditions:
-- condition 1: Smith believes in proposition (B)
-- condition 2: proposition (B) is true (since Smith )
+In each of the cases, Smith had evidence for his belief, but the evidence was false, and yet, his belief happens to be true despite the false evidence. It could be argued that evidence, even strong evidence, doesn't count as genuine justification unless the evidence itself is true. If this is the case, then Gettier would be wrong to suggest that the counter-examples fulfil the conditions of the traditional analysis, since the justification condition is no longer satisfied.
+
+So, [[Kim-on-justification-in-epistemology|traditional-analysis-of-knowledge]] can be salvaged by requiring that the justification for our beliefs must involve only true claims. There is a problem that arises with this kind of thinking.
+
+Note that Smith has good reasons to trust the evidence in both cases. In the first example, he is trusting a generally reliable source, and in the second example, he is trusting his own memory, perceptions, and deductive inference. In both examples, he is not in a position to assess the truth of the evidence, for he has good reason to trust the evidence. This shows that to demand as a condition for justification that the evidence be true would seem too demanding as a conception of justification; it would make justification into something we would rarely be able to access.
+
+[[Goldman-on-the-Gettier-cases]]
+
+
+
+
+
+
 
 
 

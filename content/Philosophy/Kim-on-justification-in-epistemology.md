@@ -31,7 +31,10 @@ The traditional analysis is intended to apply to propositional knowledge (know-t
 
 [[Ayer-version-of-the-analysis-of-knowledge]] refines the traditional analysis of knowledge presented by Kim by tightening what counts as belief (requiring sureness) and clarifying what counts as justification (having the right to be sure).
 
-[[Gettier-challenge-to-the-traditional-analysis]]
+Agreeing with the problems that [[Gettier-challenge-to-the-traditional-analysis]] poses to the traditional analysis, [[Goldman-on-the-Gettier-cases]] offers a modification that adds causal connections to the analysis of knowledge.
+
+*Goldman on the justification condition:*
+![[Goldman-on-the-Gettier-cases#^1d949b]]
 ##### Epistemology as normative
 In Kim's view, traditional epistemology is a **normative discipline** = seeks to understand the conditions (norms) under which propositions are actually ought to be believed.
 
