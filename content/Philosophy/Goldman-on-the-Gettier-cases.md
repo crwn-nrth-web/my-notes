@@ -16,6 +16,7 @@ Goldman agrees that the [[Gettier-challenge-to-the-traditional-analysis|Gettier-
 
 Formally put, **S knows that P if and only if P is causally connected in an appropriate way with S's believing that P**
 
+This forms a causal analysis of knoweledge.
 #### Causal connections to knowledge
 Gettier outlines causal connections that are necessary in order for a belief to count as a case of knowledge:
 ##### case of perception
