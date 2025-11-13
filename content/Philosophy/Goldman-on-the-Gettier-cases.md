@@ -35,12 +35,14 @@ Memory is understood as a genuine process of recall, so there is a causal chain 
  \textrm{fact} \rightarrow \textrm{perception} \rightarrow \textrm{belief (yesterday)} \rightarrow \textrm{memory belief (today)}
 $$
 ##### knowledge based on inference
+
 Goldman is uncommitted on this stance but posits that inference at least may constitute a causal connection. 
 
 Goldman speculates that inference itself should count as a kind of causal process, by which new beliefs are produced from old one.
+
 $$ 
 	 \textrm{fact (?)} \rightarrow \textrm{perception} + \textrm{background belief } \rightarrow \textrm{inference}
-	 $$
+$$
 
 Goldman gives the following example: imagine S perceives that there is a solidified lava in the countryside, and concludes P: "a nearby mountain must have erupted long ago". S's perception of the lava supports the belief in conjunction of S's background belief that lava us caused by volcanoes; S is making an inference P based on both the perception and his background belief.  Suppose that S's belief that P is true. 
 
