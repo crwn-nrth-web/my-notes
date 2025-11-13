@@ -99,7 +99,6 @@ Externalism liberates us from the requirement of being in a position to provide 
 > “It should be noted that I have made no attempt to answer skeptical problems. My analysis gives no answer to the skeptic who asks that I start from the content of my own experience, then prove that I know that there is a material world, a past, etc. I do not take this as to be one of the jobs of giving truth conditions for S knows that P.”
 
 For an externalist, it does not matter whether the person can defend a belief against skeptical challenges, that is not necessary in order to have knowledge. Externalists emphasize that knowledge is about the objective situation of the belief relative to the reality. 
-
 #### Comparing with Naturalism
 Goldman's causal analysis of knowledge is similar to [[Quine-on-naturalized-epistemology]] that it sidesteps skeptical arguments rather than refuting them. In both theories, we are free to study knowledge in causal terms without questioning our scientific and common sense beliefs about the world. 
 
