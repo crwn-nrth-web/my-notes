@@ -102,7 +102,7 @@ For an externalist, it does not matter whether the person can defend a belief ag
 #### Comparing with Naturalism
 Goldman's causal analysis of knowledge is similar to [[Quine-on-naturalized-epistemology]] that it sidesteps skeptical arguments rather than refuting them. In both theories, we are free to study knowledge in causal terms without questioning our scientific and common sense beliefs about the world. 
 
+Goldmans does not commit himself to the idea that causal processes involved in knowledge are based on input/output like [[Quine-on-naturalized-epistemology]] does. 
 
-
-
+[[Kim-on-justification-in-epistemology#Kim's critique of naturalized epistemology|Kim's critique of naturalized epistemology]] is that it loses the normalized dimension. While Goldman's view also rejects the internalist idea of justification as a basis of normativity, the causal view still appeals to the notion of appropriate causal connections as a means to differentiate between beliefs that meet the standard for knowledge and those that don't.
 

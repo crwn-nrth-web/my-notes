@@ -18,7 +18,7 @@ Instead of the traditional approach, Quine argues for focusing on the psychologi
 
 Naturalized epistemology is also interested in how the sensory experiences give rise to ordinary perceptual beliefs made about ordinary objects in our perceptual environment. For Quine, our common-sense beliefs are continuous with our scientific beliefs.
 
-Our thought is a kind of input/output system where input is the sensory information, and output are the theories of the world. Traditional epistemology asked the question "how does the input justify the output? how does our sensory experience justify our theories?" According to Quine, there is no good answer for that. Naturalized epistemology on the other hand asks the question: "what are the psychological mechanisms that mediate between the sensory input and the theoretical output?"
+For Quine, our thought is a kind of *input/output system* where input is the sensory information, and output are the theories of the world. Traditional epistemology asked the question "how does the input justify the output? how does our sensory experience justify our theories?" According to Quine, there is no good answer for that. Naturalized epistemology on the other hand asks the question: "what are the psychological mechanisms that mediate between the sensory input and the theoretical output?"
 
 #### Epistemology as psychology
 > “…epistemology still goes on, though in a new setting and a clarified status. Epistemology, or something like it, simply falls into place as a chapter of psychology and hence of natural science. It studies a natural phenomenon (that is, a physical human subject). This human subject is accorded controlled input (in the form of sensory stimulations, says Quine) … and in the fullness of time the subject delivers as output a description of the three-dimensional external world and its history. The relationship between the meager input and the torrential output is a relation that we are prompted to study for somewhat the same reasons that always prompted epistemology; namely, in order to see how evidence relates to theory, and in what ways one’s theory of natural transcends any available evidence.”
@@ -37,6 +37,6 @@ In other words, circularity would be problematic only for the traditional episte
 
 Naturalized epistemology, according to Quine, gives up on the problematic task of validating science, and in doing so, it frees itself to appeal to science as a means of understanding the relationship between sensory evidence and theory. Epistemology now becomes the scientific study of that relationship.
 
-[[Kim-on-justification-in-epistemology#Kim's critique of naturalized epistemology|Kim's critique of naturalized epistemology]]
+[[Kim-on-justification-in-epistemology#Kim's critique of naturalized epistemology|Kim's critique of naturalized epistemology]] is that it fails to reflect the normative dimension of epistemology and is purely descriptive. There is no good or bad reasoning in Quine's view. 
 
 

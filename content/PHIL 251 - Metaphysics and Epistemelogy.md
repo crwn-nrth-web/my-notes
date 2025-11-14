@@ -30,6 +30,6 @@ tags:
 2. [[Inductive-inferences]]
 3. [[epistemological-gap-between-experience-and-theory]]
 4. [[logical-empiricism]]
-5. [[traditional-analysis-of-knowledge|analysis-of-knowledge]]
-6. structure of knowledge
+5. [[Kim-on-justification-in-epistemology|traditional-analysis-of-knowledge]]
+6. [[structure-of-knowledge]]
 7. sociology of epistemology
