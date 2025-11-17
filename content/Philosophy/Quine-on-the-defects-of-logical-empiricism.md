@@ -7,7 +7,6 @@ tags:
 According to Quine, [[epistemological-gap-between-experience-and-theory|logical empiricism]] is an account of two sides in the reductionist initiatives, in both mathematical and empirical sciences
 - **conceptual side** = the aim was to clarify concepts or meanings involved in the sciences
 - **doctrinal side** = the aim of clarifying how we can know the truth of the claims made in the sciences
-
 #### Defects in the mathematical branch
 On the conceptual side, the reduction of mathematics to logical terms was not entirely successful. Instead of reducing it to pure logic alone, mathematic could only be reduced to logic and set theory.
 
