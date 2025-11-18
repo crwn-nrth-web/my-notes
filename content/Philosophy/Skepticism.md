@@ -56,7 +56,7 @@ Hume disagrees with representationalism's explanation because, for him, represen
 > “That the senses offer not their impressions as the images of something distinct, or independent, and external, is evident: because they convey to us nothing but a single perception, and never give us the least intimation of anything beyond. A single perception can never produce the idea of a double existence, but by some inference either of reason or the imagination.” (p. 2)
 
 Ordinarily we can distinguish between a representation and the thing it represents only when both fall within our experience. E.g. we can compare a picture of a tree and the tree itself because we direct access to both. But if all our perceptions are merely internal impressions, then our senses could never represent something beyond them. We never actually perceive external objects themselves, only our impressions of them. Thus, representationalism presupposes the distinct existence of external objects that we have no way of directly perceiving.
-###### Argument against perception = external object
+##### Argument against perception = external object
 sensory impressions themselves are distinct from our consciousness of them. This is the common sense view that the things we perceive exist just as they appear i.e. the perceptions themselves are the external objects and there is no distinction between the idea and the object.
 
 > ". . . To make it appear as original, they must convey a falsehood; and this falsehood must lie in the relations and situation: In order to which they must be able to compare the object with ourselves. . .(p. 3)
