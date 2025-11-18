@@ -10,9 +10,9 @@ Knowledge is a structured system of justified beliefs. This applies to not just 
 
 [[Bonjour-on-coherentism]]
 
-Knowledge has a structure, because justification has a structure. The very idea of justification is in a sense a notion of **epistemic dependency** which means that a belief's justification depends on something else (Belief A is justified because of B, and B is justified because of C)
+Knowledge has a structure, because [[justification]] has a structure. The very idea of [[justification]] is in a sense a notion of **epistemic dependency** which means that a belief's justification depends on something else (Belief A is justified because of B, and B is justified because of C)
 
-Two plausible possibilities of how knowledge (i.e. justification) is structured:
+Two plausible possibilities of how knowledge (i.e. [[justification]]) is structured:
 1. *structure of knowledge is linear* 
 	The simplistic version would be $\textrm {belief } D \rightarrow C \rightarrow B . . .$ 
 	 Even a branching order of dependencies (for any belief in the structure, there are several other beliefs that go into that belief's justification) would count as a linear justification structure.
@@ -30,7 +30,7 @@ Two plausible possibilities of how knowledge (i.e. justification) is structured:
 #### Foundationalism
 The linear conception of epistemic structure leads to **foundationalism** = the view that in any justificatory hierarchy of beliefs, there must be certain basic beliefs that don't require justification from further beliefs. In other words, there is a subset of beliefs at the base of the justificatory structure (the chain ends). 
 
-A **basic belief** is a justified belief but a belief whose justification doesn't require the support of any other beliefs. 
+A **basic belief** is a justified belief but a belief whose [[justification]] doesn't require the support of any other beliefs. 
 
 One argument for why there must be beliefs is the **regress argument** =
 1. if justification is linear and there are no basic beliefs, then the justification of a given belief B will require an infinite series of justifying beliefs in order to serve as premises
@@ -46,7 +46,7 @@ This conclusion, however, doesn't necessarily follow from the premises, because 
 - A broader idea for empiricists is that perceptual beliefs ("there is a cat on the mat") could count as basic beliefs.
 
 *what characteristics must a belief have  to count as basic* =
-- **minimal Foundationalism** = a belief's justification must not depend on any further beliefs
+- **minimal Foundationalism** = a belief's [[justification]] must not depend on any further beliefs
 - **strong foundationalism** = in addition to a belief being epistemically independent of other beliefs, a belief must have some epistemic characteristic that makes it especially secure (the belief has to be indubitable; or infallible; or have the property of incorrigibility; or must be self-justifying)
 
 

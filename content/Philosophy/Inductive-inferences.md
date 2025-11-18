@@ -25,7 +25,7 @@ Inductive arguments are supposed to provide their conclusions with some measure 
 
 > “None but a fool or a mad man will ever pretend to dispute the authority of experience, or to reject that great guide to human life.”
 
-Hume is not denying the importance of inductive inferences on the basis of past experiences, but there is a problem of the philosophical justification of induction.
+Hume is not denying the importance of inductive inferences on the basis of past experiences, but there is a problem of the philosophical [[justification]] of induction.
 
 For [[Foster-proposed-solution-to-the-problem-of-induction]], observed regularities are evidence of natural necessity, and the inference to laws embodying natural necessity justifies conclusions that past regularities will persist in the future. 
 
@@ -45,7 +45,7 @@ Hume argues that our inductive reasoning is grounded in our idea of [[Causality]
 
 In [[Humean-theory-of-causation]], the metaphysical claim that [[causal necessity|necessary-connection]] between cause and effect is not real but psychological leads to his epistemological view that our confidence in induction is not rationally justified, but rather a product of habit formed by repeated experiences of conjoined events.
 
-Hume notes that experience provides us with an answer to how we go about making causal inferences, but it is more complicated to explain exactly how our limited experience provides justification for these kinds of inferences. i.e. what kind of reasoning would allow us to draw conclusions about unobserved cases on the basis of observed cases?
+Hume notes that experience provides us with an answer to how we go about making causal inferences, but it is more complicated to explain exactly how our limited experience provides [[justification]] for these kinds of inferences. i.e. what kind of reasoning would allow us to draw conclusions about unobserved cases on the basis of observed cases?
 
 > “As to past Experience, it can be allowed to give direct and certain information of those precise objects only, and that precise period of time, which fell under its cognizance: but why this experience should be extended to future times, and to other objects, which for aught we know, may be only in appearance similar; this is the main question on which I would insist.”
 

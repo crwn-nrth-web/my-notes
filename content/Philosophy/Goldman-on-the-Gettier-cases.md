@@ -70,29 +70,15 @@ Goldman points out a significant difference between the causal analysis and vers
 
 > “In at least one popular interpretation of the traditional analysis, a knower must be able to justify or give evidence for any proposition he knows. For S to know a proposition, P, at time T, S must be able at T to state his justification for believing P, or his grounds for P. My analysis makes no such requirement, and the absence of this requirement enables me to account for cases of knowledge that are wrongly excluded from the traditional analysis.”
 
-Goldman notes that one interpretation of the traditional analysis of knowledge focuses on justification that Goldman's view does not require. In fact, he posits that the justification condition is an inappropriate requirement that ends up excluding legitimate cases of knowledge. ^1d949b
+The difference between the two views is the definition of [[justification]] that traditional analysis of knowledge relies on an **internalist** theory of knowledge while Goldman's view relies on an **externalist** theory of knowledge. 
+
+[[justification#Internalist and externalist theory of knowledge|Internalist and externalist theories of knowledge]]
+
+Goldman posits that the justification condition is an inappropriate requirement that ends up excluding legitimate cases of knowledge. 
 
 One example he gives is: knowing Abraham Lincoln's birth year might be knowledge one gains on the testimony found in a history book. Suppose that S retains the belief of Lincoln's birth year but forgets the basis for forming the belief. 
 
 This is still a legitimate case of knowledge, even if one can't recall the justification for forming the belief. This would pose a problem for the traditional analysis, but not for Goldman's version, as the belief just has to have the right causal connection.
-
-This difference between views demonstrates the distinction between **internalist** and **externalist** theories of knowledge.
-
-**internalist theories of knowledge** maintains that for a belief to qualify as knowledge, the justificatory grounds must be internal (i.e. accessible) to the knower.
-
-This means that in order to qualify as knowledge, the belief must be mentally accessible to states or conditions that justify the belief. E.g. 
-- for a perceptual belief, you need to be able to access the perceptions, or recover the perceptions from memory.
-- for inferential knowledge, you need to be able to recover the justifying reasons that form the basis for the inference
-
-internalist asks = what justification can you give for your belief? is it adequate?
-
-**externalist theories of knowledge** maintains that at least some of the grounds of a belief's qualifying as knowledge can be external to the knower.
-
-Goldman's theory of knowledge involves factors external to the knower, such as the objective causal connections that the knower does not need to be aware of. 
-
-externalist asks = does the belief hook up with the world in an appropriate way, even if the knower can't give evidence or proof?
-
-The externalist does not deny that there can be internal reasons that play some role in establishing relevant relationship with the facts. However, even when internal reasoning is involved, it's how that process fits into the broader objective relationship between your belief and the fact.
 
 Externalism liberates us from the requirement of being in a position to provide justifications that we have actual access to internally, and so liberates us from some of the problems of [[Skepticism]]. 
 

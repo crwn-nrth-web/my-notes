@@ -12,7 +12,7 @@ According to Kim, traditional epistemology involves attempts to provide answers 
 - "what conditions must a belief meet if we are justified in accepting it as true?"
 - "what beliefs are we justified in accepting?"
 
-Traditional epistemology honors distinctions between good and bad beliefs by insisting on the notion of justification, that no belief is a candidate for being knowledge unless it can be justified by some appropriate means (as directly supported by sensory experience, as supported by inference, or as supported by a priori considerations).
+Traditional epistemology honors distinctions between good and bad beliefs by insisting on the notion of [[justification]], that no belief is a candidate for being knowledge unless it can be justified by some appropriate means (as directly supported by sensory experience, as supported by inference, or as supported by a priori considerations).
 ##### The traditional tripartite analysis of knowledge
 The traditional tripartite analysis of knowledge gives the *necessary* and *sufficient* set of conditions[^1] that a person must meet in order to qualify as knowing something.
 
@@ -25,16 +25,14 @@ To have knowledge is not sufficient to have true belief. Conditions 1 and 2 ensu
 
 > “… there is a simple reason for our preoccupation with justification: it is the only specifically epistemic component in the classic tripartite conception of knowledge. Neither belief nor truth is a specifically epistemic notion: belief is a psychological concept and truth is a semantical-metaphysical concept.”
 
-**Belief** is a kind of mental attitude we take towards propositions, and knowing what propositions someone believes doesn't tell us anything about what they actually know. **Truth** is about the objective relationship between thought and reality, and is independent of knowledge. There could be many true facts about the world that we simply haven't discovered. **Justification** is thus the component of the analysis that relates belief and truth to knowledge.
+**Belief** is a kind of mental attitude we take towards propositions, and knowing what propositions someone believes doesn't tell us anything about what they actually know. **Truth** is about the objective relationship between thought and reality, and is independent of knowledge. There could be many true facts about the world that we simply haven't discovered. **[[Justification]]** is thus the component of the analysis that relates belief and truth to knowledge.
 
 The traditional analysis is intended to apply to propositional knowledge (know-that). 
 
 [[Ayer-version-of-the-analysis-of-knowledge]] refines the traditional analysis of knowledge presented by Kim by tightening what counts as belief (requiring sureness) and clarifying what counts as justification (having the right to be sure).
 
-Agreeing with the problems that [[Gettier-challenge-to-the-traditional-analysis]] poses to the traditional analysis, [[Goldman-on-the-Gettier-cases]] offers a modification that adds causal connections to the analysis of knowledge.
-
-*Goldman on the justification condition:*
-![[Goldman-on-the-Gettier-cases#^1d949b]]
+[[Gettier-challenge-to-the-traditional-analysis]]
+[[Goldman-on-the-Gettier-cases]]
 ##### Epistemology as normative
 In Kim's view, traditional epistemology is a **normative discipline** = seeks to understand the conditions (norms) under which propositions are actually ought to be believed.
 

@@ -59,7 +59,7 @@ In both examples, the three conditions of the traditional analysis of knowledge 
 
 In each of the cases, Smith had evidence for his belief, but the evidence was false, and yet, his belief happens to be true despite the false evidence. It could be argued that evidence, even strong evidence, doesn't count as genuine justification unless the evidence itself is true. If this is the case, then Gettier would be wrong to suggest that the counter-examples fulfil the conditions of the traditional analysis, since the justification condition is no longer satisfied.
 
-So, [[Kim-on-justification-in-epistemology|traditional-analysis-of-knowledge]] can be salvaged by requiring that the justification for our beliefs must involve only true claims. There is a problem that arises with this kind of thinking.
+So, [[Kim-on-justification-in-epistemology|traditional-analysis-of-knowledge]] can be salvaged by requiring that the [[justification]] for our beliefs must involve only true claims. There is a problem that arises with this kind of thinking.
 
 Note that Smith has good reasons to trust the evidence in both cases. In the first example, he is trusting a generally reliable source, and in the second example, he is trusting his own memory, perceptions, and deductive inference. In both examples, he is not in a position to assess the truth of the evidence, for he has good reason to trust the evidence. This shows that to demand as a condition for justification that the evidence be true would seem too demanding as a conception of justification; it would make justification into something we would rarely be able to access.
 

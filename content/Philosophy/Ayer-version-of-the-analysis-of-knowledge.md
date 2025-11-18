@@ -15,11 +15,13 @@ The belief condition that "S should believe that P" in the traditional analysis 
 - By doing this, Ayer is emphasizing that not all beliefs are equally strong, and that knowledge requires a belief with a high degree of confidence or conviction. 
 - To know something, it's not enough to believe it, you must be sure of it.
 
-The justification condition is understood in terms of "**the right to be sure**"
+The [[justification]] condition is understood in terms of "**the right to be sure**"
 - it now matches the idea of being sure as the belief condition
 - "the right to be sure" means that the confidence is supported by adequate justification, by evidence, reasoning, or experience that makes the belief reasonable 
 
-[[Kim-on-justification-in-epistemology|Kim-on-traditional-analysis-of-knowledge]] Knowledge = True belief + Justification. Ayer's reformulation preserves the same idea but adjusts the language: Knowledge = True belief with sureness +  justified sureness
+[[Kim-on-justification-in-epistemology|Kim-on-traditional-analysis-of-knowledge]] Knowledge = True belief + Justification. 
+
+Ayer's reformulation preserves the same idea but adjusts the language: Knowledge = True belief +  justified sureness
 
 Ayer's version includes subjective certainty (the belief condition) and objective entitlement (justification condition).
 ##### standards associated with "the right to be sure"

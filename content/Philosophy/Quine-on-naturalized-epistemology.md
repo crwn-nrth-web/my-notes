@@ -28,7 +28,7 @@ In this way, epistemology becomes a kind of empirical scientific enterprise.
 #### Contrasting the traditional epistemology to naturalized epistemology
 This can be seen by Quine's response to the circularity objection.
 
- **circularity objection to naturalized epistemology** = If a part of epistemology is to show how  we can justify the our theories of the world, how can we appeal to psychology as a basis? Since psychology itself is a scientific theory, it presumably is in need of justification too. Hence there is a circular reasoning in using psychology as a basis for justifying itself, in a sense.  
+ **circularity objection to naturalized epistemology** = If a part of epistemology is to show how  we can justify the our theories of the world, how can we appeal to psychology as a basis? Since psychology itself is a scientific theory, it presumably is in need of [[justification]] too. Hence there is a circular reasoning in using psychology as a basis for justifying itself, in a sense.  
 
 Quine's response to this concern =
 > “Such scruples against circularity have little point once we stop dreaming of deducing science from observations. If we are out simply to understand the link between observation and science, we are well advised to use any available information, including that provided by the very science whose link with observations we are seeking to understand.”
