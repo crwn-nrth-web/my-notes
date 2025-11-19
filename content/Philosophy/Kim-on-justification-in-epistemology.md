@@ -25,7 +25,7 @@ To have knowledge is not sufficient to have true belief. Conditions 1 and 2 ensu
 
 > “… there is a simple reason for our preoccupation with justification: it is the only specifically epistemic component in the classic tripartite conception of knowledge. Neither belief nor truth is a specifically epistemic notion: belief is a psychological concept and truth is a semantical-metaphysical concept.”
 
-**Belief** is a kind of mental attitude we take towards propositions, and knowing what propositions someone believes doesn't tell us anything about what they actually know. **Truth** is about the objective relationship between thought and reality, and is independent of knowledge. There could be many true facts about the world that we simply haven't discovered. **[[Justification]]** is thus the component of the analysis that relates belief and truth to knowledge.
+**Belief** is a kind of mental attitude we take towards propositions, and knowing what propositions someone believes doesn't tell us anything about what they actually know. **Truth** is about the objective relationship between thought and reality, and is independent of knowledge. There could be many true facts about the world that we simply haven't discovered. **[[justification]]** is thus the component of the analysis that relates belief and truth to knowledge.
 
 The traditional analysis is intended to apply to propositional knowledge (know-that). 
 

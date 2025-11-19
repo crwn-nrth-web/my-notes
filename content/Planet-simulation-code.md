@@ -6,9 +6,19 @@ tags:
 draft: false
 title: Planet-simulation-code
 ---
- 
+[[pygame-documentation]]
+##### Version 1 (Nov 3, 2025) 
+This version has the four inner planets with their approximate orbits based on the forces of gravitation from the sun and the other planets. 
 
-```python
+Notes on the code =
+- it sets up a simulation by defining a class (Planet) which includes functions to draw the planets and their orbits, calculate the total force of attraction on each planet, and update the position of the planet
+- in order to set up the code, it required each planets mass, radius, distance from the sun (x), and vertical velocity (vy)
+	- note: since this is an approximation, I used the Mean orbital speed of the planet as the vertical velocity 
+
+Notes on the physics =
+[ADD HERE]
+
+```python cpp fold title:planet_simulation_version_1 
 import math
 import pygame
 
@@ -19,7 +29,7 @@ WIN = pygame.display.set_mode((WIDTH, HEIGHT)) # this gives the pygame game surf
 pygame.display.set_caption('Planet Simulation')
 
 WHITE = (255, 255, 255) #rgb for white
- YELLOW = (255, 255, 0)
+YELLOW = (255, 255, 0)
 BLUE = (100, 149, 237)
 RED = (188, 39, 50)
 DARK_GREY = (80, 78, 81)
@@ -70,11 +80,6 @@ class Planet:
             
         pygame.draw.circle(WIN, self.color, (scale_x , scale_y), scale_radius)
 
-#        if not self.sun:
-#            distance_text = FONT.render(f"{round(self.distance_to_sun/100, 1)} km", 1, WHITE)
-#            win.blit(distance_text, (scale_x - distance_text.get_width()/2, scale_y - distance_text.get_height()/2))
-
-
     def attraction(self, other): 
         ## x, y is in AU 
         other_x , other_y = other.x , other.y
@@ -113,7 +118,7 @@ class Planet:
 
 def main():
     run = True
-    clock = pygame.time.Clock() ## this gives the frame rate (how many times the game is refreshing)
+    clock = pygame.time.Clock() 
 
     sun = Planet(0,0, 1.98892e30, 699700, YELLOW)
     sun.sun = True
@@ -129,27 +134,15 @@ def main():
     
     mars = Planet(1.524*Planet.AU, 0, 6.39e23, 3390, RED)
     mars.vy = 24.077e3
-
-    jupiter = Planet(5.2*Planet.AU, 0, 1.9e27, 69911, ORANGE)
-    jupiter.vy = 13.069
-
-    saturn = Planet(9.54*Planet.AU, 0, 5.685e26, 60268, PALE_YELLOW)
-    saturn.vy = 9.68
-
-    uranus = Planet(19.2*Planet.AU, 0, 8.682e25, 25559, TEAL)
-    uranus.vy = 6.8
-
-    neptune = Planet(30.06*Planet.AU, 0, 1.024e26, 24766, GREY_BLUE)
-    neptune.vy = 5.43
-
+    
     planets = [sun, mercury, venus, earth, mars]
     
     while run:
         clock.tick(60)
         WIN.fill((0,0,0)) # this makes sure we do not see the old drawings of the planets as they move
     
-        for event in pygame.event.get():     ### this makes a loop that allows the user to quit the game
-            if event.type == pygame.QUIT:
+        for event in pygame.event.get():     
+            if event.type == pygame.QUIT: ### this makes a loop that allows the user to quit the game
                 run = False
                 
         for planet in planets:
