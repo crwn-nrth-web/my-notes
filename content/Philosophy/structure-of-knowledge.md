@@ -8,8 +8,6 @@ aliases:
 ---
 Knowledge is a structured system of justified beliefs. This applies to not just theoretical beliefs grounded in more basic experiential beliefs, but also to our personal knowledge. 
 
-[[Bonjour-on-coherentism]]
-
 Knowledge has a structure, because [[justification]] has a structure. The very idea of [[justification]] is in a sense a notion of **epistemic dependency** which means that a belief's justification depends on something else (Belief A is justified because of B, and B is justified because of C)
 
 Two plausible possibilities of how knowledge (i.e. [[justification]]) is structured:
@@ -47,6 +45,10 @@ This conclusion, however, doesn't necessarily follow from the premises, because 
 
 *what characteristics must a belief have  to count as basic* =
 - **minimal Foundationalism** = a belief's [[justification]] must not depend on any further beliefs
-- **strong foundationalism** = in addition to a belief being epistemically independent of other beliefs, a belief must have some epistemic characteristic that makes it especially secure (the belief has to be indubitable; or infallible; or have the property of incorrigibility; or must be self-justifying)
+- **strong foundationalism** = in addition to a belief being epistemically independent of other beliefs, a belief must have some epistemic characteristic that makes it especially secure (the belief has to be indubitable; or infallible; or have the property of incorrigibility; or must be self-justifying
 
 ##### foundationalism on perceptual beliefs
+Perceptual beliefs are derived from observational experience in a direct way, and provide a basis for our broader theories; empirical scientific theories must be based on kinds of perceptual beliefs. 
+
+There are different ways philosophers identify perceptual beliefs:
+- beliefs as 
