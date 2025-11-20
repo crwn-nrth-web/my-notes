@@ -49,4 +49,4 @@ This conclusion, however, doesn't necessarily follow from the premises, because 
 - **minimal Foundationalism** = a belief's [[justification]] must not depend on any further beliefs
 - **strong foundationalism** = in addition to a belief being epistemically independent of other beliefs, a belief must have some epistemic characteristic that makes it especially secure (the belief has to be indubitable; or infallible; or have the property of incorrigibility; or must be self-justifying)
 
-
+##### foundationalism on perceptual beliefs
