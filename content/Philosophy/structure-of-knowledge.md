@@ -50,5 +50,9 @@ This conclusion, however, doesn't necessarily follow from the premises, because 
 ##### foundationalism on perceptual beliefs
 Perceptual beliefs are derived from observational experience in a direct way, and provide a basis for our broader theories; empirical scientific theories must be based on kinds of perceptual beliefs. 
 
-There are different ways philosophers identify perceptual beliefs:
-- beliefs as 
+There are different ways philosophers identify perceptual beliefs as
+- beliefs about our own sense-data (and possibly about our other mental states)
+- beliefs about what we perceive in our perceptual environment
+
+The special status of perceptual beliefs is one factor that has traditionally led philosophers to favor foundationalism because perceptual beliefs are good candidates for qualifying as basic beliefs. 
+

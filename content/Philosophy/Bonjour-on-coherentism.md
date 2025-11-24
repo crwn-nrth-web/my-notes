@@ -46,7 +46,12 @@ Bonjour points out that our preference for linear kinds of justification systems
 
 > “And hence, a coherence theory will claim, the apparent circle of justification is not in fact vicious _because it is not genuinely a circle_: the justification of a particular empirical belief depends, not on other particular empirical beliefs as the linear conception of justification would have it, but instead on the overall system and its coherence.”
 
+#### Coherentism view on perceptual beliefs
+Bonjour uses *"putative observational knowledge"* as the term for perceptual beliefs.
 
+Bonjour describes the way we get perceptual beliefs as *"cognitively spontaneous"*, meaning we get the belief independently of other beliefs, or on the basis of some kind of reasoning process. 
+
+As a coherentist, he argues that despite the belief's cognitive spontaneity, the justification requires inference from other beliefs. He is making a distinction between the acquiring of the beliefs, and the justification of the belief.
 
 
 [^1]: traditional view of coherentism
