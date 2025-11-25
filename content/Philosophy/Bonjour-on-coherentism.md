@@ -53,6 +53,16 @@ Bonjour describes the way we get perceptual beliefs as *"cognitively spontaneous
 
 As a coherentist, he argues that despite the belief's cognitive spontaneity, the justification requires inference from other beliefs. He is making a distinction between the acquiring of the beliefs, and the justification of the belief.
 
+Bonjour establishes the further beliefs needed to justify a perceptual belief
+- the perceptual belief P is cognitively spontaneous $K^1$
+- the standard perceptual conditions are good $C^1$
+- beliefs of type $K^1$ in $C^1$ are reliable (and likely to be true)
+Therefore, the belief P is likely to be true.
+
+
+
+
+
 
 
 
