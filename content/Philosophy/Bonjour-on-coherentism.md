@@ -54,6 +54,8 @@ Bonjour describes the way we get perceptual beliefs as *"cognitively spontaneous
 As a coherentist, he argues that despite the belief's cognitive spontaneity, the justification requires inference from other beliefs. He is making a distinction between the acquiring of the beliefs, and the justification of the belief.
 
 
+
+
 [^1]: traditional view of coherentism
 ``` mermaid 
 	graph LR
