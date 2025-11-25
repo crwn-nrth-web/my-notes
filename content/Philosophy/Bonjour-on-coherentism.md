@@ -7,6 +7,8 @@ aliases:
   - Bonjour-on-coherence-theory-of-empirical-justification
   - coherentism
 ---
+> [!source] Bonjour, L. (2002). *"The Structure of Empirical Knowledge"* In M. Huemer (Ed.), Epistemology: Contemporary Readings, pp. 387-394. New York: Routledge. (Original work published in 1983).
+
 Bonjour argues that [[structure-of-knowledge|foundationalism]] is indefensible as an account of the justification of empirical knowledge, and argues against the foundationalist structure of knowledge. Instead, he defends a view commonly referred to as a coherence theory of empirical justification = **coherentism**
 
 Schematically, the coherentist maintains that the structure of empirical justification is not linear but circular. This view entails that no beliefs are basic in the foundationalist sense. 
@@ -51,9 +53,9 @@ Bonjour uses *"putative observational knowledge"* as the term for perceptual bel
 
 Bonjour describes the way we get perceptual beliefs as *"cognitively spontaneous"*, meaning we get the belief independently of other beliefs, or on the basis of some kind of reasoning process. 
 
-As a coherentist, he argues that despite the belief's cognitive spontaneity, the justification requires inference from other beliefs. He is making a distinction between the acquiring of the beliefs, and the justification of the belief.
+As a coherentist, he argues that despite the belief's cognitive spontaneity, the justification requires inference from other beliefs. He is making a distinction between the acquiring of the beliefs, and the justification of the belief that while we acquire perceptual beliefs independently of other beliefs, they do require further beliefs for justification.
 
-Bonjour establishes the further beliefs needed to justify a perceptual belief
+Bonjour outlines the further beliefs needed to justify a perceptual belief = ^6e7854
 - the perceptual belief P is cognitively spontaneous $K^1$
 - the standard perceptual conditions are good $C^1$
 - beliefs of type $K^1$ in $C^1$ are reliable (and likely to be true)

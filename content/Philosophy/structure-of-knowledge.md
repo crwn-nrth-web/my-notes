@@ -28,7 +28,7 @@ Two plausible possibilities of how knowledge (i.e. [[justification]]) is structu
 #### Foundationalism
 The linear conception of epistemic structure leads to **foundationalism** = the view that in any justificatory hierarchy of beliefs, there must be certain basic beliefs that don't require justification from further beliefs. In other words, there is a subset of beliefs at the base of the justificatory structure (the chain ends). 
 
-A **basic belief** is a justified belief but a belief whose [[justification]] doesn't require the support of any other beliefs. 
+A **basic belief** is a justified belief but a belief whose [[justification]] doesn't require the support of any other beliefs. See *[[Alston-and-Will-Foundationalism-vs-coherentism|foundational justification]]* 
 
 One argument for why there must be beliefs is the **regress argument** =
 1. if justification is linear and there are no basic beliefs, then the justification of a given belief B will require an infinite series of justifying beliefs in order to serve as premises
@@ -47,6 +47,7 @@ This conclusion, however, doesn't necessarily follow from the premises, because 
 - **minimal Foundationalism** = a belief's [[justification]] must not depend on any further beliefs
 - **strong foundationalism** = in addition to a belief being epistemically independent of other beliefs, a belief must have some epistemic characteristic that makes it especially secure (the belief has to be indubitable; or infallible; or have the property of incorrigibility; or must be self-justifying
 
+[[Alston-and-Will-Foundationalism-vs-coherentism]]
 ##### foundationalism on perceptual beliefs
 Perceptual beliefs are derived from observational experience in a direct way, and provide a basis for our broader theories; empirical scientific theories must be based on kinds of perceptual beliefs. 
 

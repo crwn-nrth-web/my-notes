@@ -32,4 +32,5 @@ tags:
 4. [[logical-empiricism]]
 5. [[Kim-on-justification-in-epistemology|traditional-analysis-of-knowledge]]
 6. [[structure-of-knowledge]]
-7. sociology of epistemology
+7. [[social-epistemology]]
+
