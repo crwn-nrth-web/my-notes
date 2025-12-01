@@ -20,7 +20,7 @@ tags:
 3. [[Determinism]]
 4. [[Identity]]
 5. [[Mind-Body-problem]]
-6. sociology of metaphysics
+6. [[is-reality-social]]
 
 **Epistemology** = branch of philosophy that deals with the nature of knowledge.
 - deals with what knowledge is and how knowledge is different from mere belief, true belief, etc.

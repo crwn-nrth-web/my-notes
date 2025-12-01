@@ -2,7 +2,7 @@
 draft: false
 title: consciousness
 tags:
-  -
+  - philosophy
 ---
 [[Armstrong-materialist-view-of-the-mind#Armstrong on consciousness|Armstrong on consciousness]]
 

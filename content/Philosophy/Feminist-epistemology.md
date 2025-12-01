@@ -3,6 +3,8 @@ title: Feminist-epistemology
 draft: false
 tags:
   - philosophy
+aliases:
+  - Longino-on-feminist-epistemology
 ---
 #### Political motivations of feminist epistemology
 Longino points out that women have been marginalized in traditional knowledge practices, and specifically in natural sciences, there has been a long history where women have been excluded from the practice. For Longino, this is one of the reasons for pursuing a feminist epistemology. 

@@ -22,4 +22,4 @@ Possible ways to assess the nature of social positioning with respect to knowled
 
 [[Feminist-epistemology]] is an approach to epistemology that acknowledges the specifics of women's social contextualization. It seeks to show how the exclusion of women's perspectives has impoverished traditional conceptions of knowledge, and how, in turn, the incorporation of women's perspectives can improve our knowledge-seeking practices.
 
-[[Mills-on-alternative-epistemologies]] is a more radical step and is associated with the social positioning of socially subordinated groups.
+[[Mills-on-alternative-epistemology]] is a more radical step and is associated with the social positioning of socially subordinated groups.
