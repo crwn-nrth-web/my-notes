@@ -11,8 +11,7 @@ tags:
 
 ![[Determinism#^b63314]]
 
-Taylor e> [!bug]
-> Contentsxplains the theory as 
+Taylor explains the theory as 
 > "The only conception of action that accords with our data is one according to which men… are sometimes, but of course not always, self-determining beings; that is beings which are sometimes causes of their own behaviour.”
 
 There is a notion of **self determinism** = humans are capable of determining their own actions without causal influence or causal necessitation from the outside

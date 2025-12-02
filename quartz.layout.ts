@@ -58,7 +58,7 @@ export const defaultContentPageLayout: PageLayout = {
    },
   }),
  ],
-},
+};
 
 
 // components for pages that display lists of pages  (e.g. tags or folders)
