@@ -50,12 +50,12 @@ export const defaultContentPageLayout: PageLayout = {
   Component.Comments({
   provider: "giscus",
   options: {
-    repo: 'crwn-nrth-web/my-notes'
-    repoId: 'R_kgDOQQBZMA'
-    category: 'Ideas'
-    categoryId: 'DIC_kwDOQQBZMM4CzULC'
-    lang: 'en'
-   }
+    repo: 'crwn-nrth-web/my-notes',
+    repoId: 'R_kgDOQQBZMA',
+    category: 'Ideas',
+    categoryId: 'DIC_kwDOQQBZMM4CzULC',
+    lang: 'en',
+   },
   }),
 ],
 
