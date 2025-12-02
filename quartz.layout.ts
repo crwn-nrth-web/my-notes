@@ -57,7 +57,8 @@ export const defaultContentPageLayout: PageLayout = {
     lang: 'en',
    },
   }),
-],
+ ],
+},
 
 
 // components for pages that display lists of pages  (e.g. tags or folders)
