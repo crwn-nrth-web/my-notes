@@ -46,7 +46,19 @@ export const defaultContentPageLayout: PageLayout = {
     Component.RecentNotes({ limit: 5 }),
     Component.Backlinks(),
   ],
-}
+  afterBody: [
+  Component.Comments({
+  provider: "giscus",
+  options: {
+    repo: 'crwn-nrth-web/my-notes'
+    repoId: 'R_kgDOQQBZMA'
+    category: 'Ideas'
+    categoryId: 'DIC_kwDOQQBZMM4CzULC'
+    lang: 'en'
+   }
+  }),
+],
+
 
 // components for pages that display lists of pages  (e.g. tags or folders)
 export const defaultListPageLayout: PageLayout = {
