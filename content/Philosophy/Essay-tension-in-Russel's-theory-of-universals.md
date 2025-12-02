@@ -1,44 +1,14 @@
 ---
-tags:
-  - philosophy
-  - 
-draft: true
 title: Essay-tension-in-Russel's-theory-of-universals
+tags:
+draft: false
 ---
- 
-> **Prompt** In defending his view of universals, Russell maintains that universals dont inhabit the world of sense (i.e., the world of particular objects known by sensory experience). However, he also maintains that our knowledge of at least some universals is a posteriori having a basis in our acquaintance with sense-data. In your own words, explain how these two claims might be reconciled. Then. evaluate the proposed reconciliation. Does it succeed in showing that Russel's position is consistent? why or why not? Argue for your position.
+ >***Prompt:* In defending his view of universals, Russell maintains that universals dont inhabit the world of sense (i.e., the world of particular objects known by sensory experience). However, he also maintains that our knowledge of at least some universals is a posteriori having a basis in our acquaintance with sense-data. In your own words, explain how these two claims might be reconciled. Then. evaluate the proposed reconciliation. Does it succeed in showing that Russel's position is consistent? why or why not? Argue for your position.**
 
-### Notes
-- Russel's [[Universals]] takes from Plato the idea that universals do not inhabit the world of sense (atemporal aspatial entities). However, his [[Knowledge-of-universals]] posits that some universals (qualities) are knowable by experience (it is a posteriori)
-- *problem* = if universals are non-sensible, how can experience give us knowledge of them?
-- *Russel's position* = we are acquainted with sensible particulars and through that acquaintance, we grasp the universal through the process of abstraction
-- [[Russell-on-acquaintance]] = direct relation
-- recognizes [[Russell-on-acquaintance|acquaintance]] as a primitive relation and abstraction as our way of becoming aware of the universal that acquaintance had already presented to us
+> [!sources]
+> [[Universals]]
+> [[analyzing-universals]]
 
-**My stance / evaluation**
-- if our only access to universals is through particulars, then why not just say that ww're dealing with patterns among particulars? remove universals entirely (Occam's razor argument)
-- if we are being geniunely acquainted with a universal, then how can our sensory experience give us access to a non-empirical entity? univerals feel like too much as an "otherwordly entity" 
-- his idea of "acquaintance" is considered as a primitve relation and is doing too much of the heavy liftting
-
-**Arguements**
-- ==The reconcilliation is consistent only if we accept acquaintance at face value as a primitive relation, at the cost of explanatory depth = asked to accept a mysterious faculty and so it is unsatisfying==
-- To say that we are acquainted with, for example, “similarity” or “being to the left of” through abstraction presupposes that such universals are present to the mind in the same way that colors or shapes are.
-- If acquaintance is treated as a primitive, unanalyzable relation, then abstraction can be seen as a way of navigating within the field of acquaintance, making his system internally coherent. But if we demand an explanation of _how_ abstraction delivers genuine acquaintance with universals rather than derivative concepts, the account wavers, suggesting that acquaintance is not as secure or self-explanatory as Russell assumes.
-
-- distinguish
-	- *Abstraction as concept-formation* (deriving general ideas from particulars).
-	- *Abstraction as access to universals* (direct acquaintance with non-empirical entities).
-- Abstraction is simply how we attend to them, not how we create them. Abstraction does not create new knowledge, it just reveals what was already there
-
-Three arguments:
-- is it simply enough to accept a primitive relation at the cost of explanatory depth
-- abstraction vs acquaitance = circular reasoning
-	-  if what is happening is just abstraction, then we dont need universals at all
-	- how do we know what we abstract from particulars corresponds to the universal and not just a mental construct?
-	- abstraction presupposes the existance of [[Russell-on-acquaintance|acquaintance]]
-- acquaitance doing the heavy lifting
-
-### Essay
 Bertrand Russell's attempt to reconcile a realist metaphysical claim of universals with an empirical epistemeology -- by insisting that some universals are known a posteriori through acquaintance with sense-data -- is consistent only if one accepts Russell's notion of acquaintance at face value, i.e. as a primitive relation. This, however, comes at cost of explanatory depth, as we are asked to accept a mysterious faculty without a clear account of how it works.
 
 Russell endorses two claims that initially seem at odd. Ontologically, he treats, universals as real, non-spatical, non-temporal entities that do not inhabit the world of sense but are nevertheless shared by many particulars (L2, W1). Epistemologically, he asserts that knowledge of  at least some universals, (called sensible universals), is a posteriori, obtained through sensory acquaintance with particulars. He distinguishes this as knowledge by acquaintance, contrasting knowledge by description which is a priori. The tension that arises: how can experience give us knowledge of non-empirical entities that do not belong to world of sense?
