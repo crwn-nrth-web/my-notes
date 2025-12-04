@@ -26,7 +26,6 @@ One counter argument to Russell's [[Universals#Argument against Nominalism|Argum
 > One approach to this is the "Family Resemblance Approach (Wittgenstein)" where classification based on resemblance works through a network of overlapping similarities (particular resemblances that are group together by us in a web of local likeness)
 > 
 > It could also be said that "resemblance" is a linguisitic convention -- we are just describing how we use language to group particulars. Language can be lacking; we draw multiple different forms of traingle to ensure we are defining it correctly. This uses resemblances as a form of linguisitic coomunication / conceptual practice. See [[#Conceptualism]]
-
 #### Conceptualism
 similar to nominalism in rejecting real universals, but it maintains that the generality associated with general words is grounded in *general concept*, where concepts are understood to be something more than recognized resemblance relations.
 

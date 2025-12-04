@@ -19,7 +19,7 @@ Anscombe highlights the connection between [[Causality]] and necessity, beginnin
 
 Anscombe's idea against [[causal necessity]] is that while it may be true that, in an individual case, that contact with a carrier caused the disease; it's not true to say that contact with a carrier necessarily leads to disease. *in other words*, it's not a true generalization to say that contact with a carrier always leads to diseases.
 
-Even if causal claims were true in many individual cases, that does not mean they will be universal generalizations (generalizations with no exceptions), and so the causes in question do not neccessarily  bring about the effects, like [[Humean-theory-of-causation]] insists.
+Even if causal claims were true in many individual cases, that does not mean they will be universal generalizations (generalizations with no exceptions), and so the causes in question do not neccessarily bring about the effects, like [[Humean-theory-of-causation]] insists.
 
 > See [[Hume-vs-Anscombe-on-causation]] for Humean view $\rightarrow$ full cause
 #### Definition of cause from Anscombe's view

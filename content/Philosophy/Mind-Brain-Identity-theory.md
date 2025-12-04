@@ -24,7 +24,6 @@ An objection to type physicalism is the **Chauvinism objection** *(See Putnam an
 For instance, octopuses have different brain structures than us, so type physicalism says that they cannot feel pain like us, which seems irrational. 
 
 Example of brain-damaged humans shows that mental functions like memory can sometimes be recovered by different parts of the brain than those originally responsible. This suggests that the same mental state (e.g., remembering) can be realized by different physical brain states. However, type physicalism claims that each mental type must correspond to one specific physical type. So, if memory originally occurred in one brain region, and after recovery occurs in another, the type physicalist would have to say it’s not really memory anymore—since it no longer matches the same physical type, which is absurd.
-
 #### Token Physicalism
 This version of identity theory suggests that there is no type-to-type map of mental states and brain states. It tries to address the chauvinist objection by telling us that a particular kind of mental state can be realized, or, that is, actualized in various ways by various physical systems.
 
