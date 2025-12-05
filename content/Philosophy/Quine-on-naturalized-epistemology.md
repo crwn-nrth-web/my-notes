@@ -7,7 +7,8 @@ aliases:
   - epistemology-as-psychology
   - naturalized epistemology
 ---
- 
+> [!source] W.V. Quine (1969). *"Epistemology Naturalized"*. Ch. 3, pp. 69-76 and 82-84, of Ontological Relativity and Other Essays. New York: Columbia University Press.
+
 Because of the failed project of epistemology, outlined in [[Quine-on-the-defects-of-logical-empiricism]], Quine introduces the idea of **naturalized epistemology** as a way to understand the [[epistemological-gap-between-experience-and-theory]]. 
 
 > “The stimulation of his sensory receptors is all the evidence anybody has had to go on, ultimately, in arriving at his picture of the world. Why not see how this construction actually proceeds? Why not settle for psychology?”

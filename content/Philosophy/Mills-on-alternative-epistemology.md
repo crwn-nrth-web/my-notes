@@ -6,6 +6,8 @@ tags:
 aliases:
   - alternative-epistemology
 ---
+> [!source] Mills, C.W. (1988). *"Alternative Epistemologies"*. Social Theory and Practice, 14(3), 237-263.
+
 Mills is arguing for the validity of *alternative epistemologies* that are associated with socially subordinated groups that historically have been the subjects of oppression from some kind of dominant group. 
 
 E.g. =
@@ -14,7 +16,6 @@ E.g. =
 
 Mill's notion of *social subordination* is strongly tied to the idea of epistemic advantage, i.e. they have ways of knowing that aren't used by the dominant groups.
 #### Bases for Epistemic advantages
-
 ##### Biology
 Mills mentions the idea that there are biological bases for the advantage of subordinated groups. The biological differentiation between members of subordinated vs dominant groups include various differences in cognitive ability. 
 
@@ -25,7 +26,6 @@ E.g. =
 Mills believes that biology as a basis is controversial at best for alternative epistemology.
 - the science may be inconclusive or problematic
 - making a convincing case that there's a biological basis specific to the socially subordinated group means appealing to standard scientific norms or standard scientific kinds of argument, which can be somewhat paradoxical
-
 ##### social causation
 Mills' view is that the social positioning of socially subordinated groups produces the epistemic advantage.
 

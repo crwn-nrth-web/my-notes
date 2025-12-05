@@ -7,6 +7,7 @@ aliases:
   - Kim-on-traditional-analysis-of-knowledge
   - traditional-analysis-of-knowledge
 ---
+> [!source] Kim, J. (1988). *"What is ‘Naturalized Epistemology’?"* In Philosophical Perspectives, Vol. 2, Epistemology, 381-391
 ### Kim on traditional epistemology 
 According to Kim, traditional epistemology involves attempts to provide answers to two interrelated questions:
 - "what conditions must a belief meet if we are justified in accepting it as true?"

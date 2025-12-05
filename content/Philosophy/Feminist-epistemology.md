@@ -6,6 +6,7 @@ tags:
 aliases:
   - Longino-on-feminist-epistemology
 ---
+> [!source] Longino, H.E. (1994). *"In Search of Feminist Epistemology"*. Monist 1994; 77 (4): 472-485.
 #### Political motivations of feminist epistemology
 Longino points out that women have been marginalized in traditional knowledge practices, and specifically in natural sciences, there has been a long history where women have been excluded from the practice. For Longino, this is one of the reasons for pursuing a feminist epistemology. 
 

@@ -7,7 +7,7 @@ aliases:
   - Bonjour-on-coherence-theory-of-empirical-justification
   - coherentism
 ---
-> [!source] Bonjour, L. (2002). *"The Structure of Empirical Knowledge"* In M. Huemer (Ed.), Epistemology: Contemporary Readings, pp. 387-394. New York: Routledge. (Original work published in 1983).
+ > [!source] Bonjour, L. (2002). *"The Structure of Empirical Knowledge"* In M. Huemer (Ed.), Epistemology: Contemporary Readings, pp. 387-394. New York: Routledge. (Original work published in 1983).
 
 Bonjour argues that [[structure-of-knowledge|foundationalism]] is indefensible as an account of the justification of empirical knowledge, and argues against the foundationalist structure of knowledge. Instead, he defends a view commonly referred to as a coherence theory of empirical justification = **coherentism**
 
