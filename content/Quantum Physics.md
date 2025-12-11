@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: PHYS 234- Quantum Physics 1
 tags:
   - physics
@@ -14,12 +14,11 @@ Formally, probability of detecting a particle within volume $dr = dx dy dz$  cen
 [[solutions-to-schrodinger-equation-part-1]] = particle in a box, harmonic oscillator, free particle, and delta function potential
 
 *quantum physics 2 topics*
-hydrogen atom
-spin
-time-independent perturbation theory
-fine structure of hydrogen
-Zeeman effect
-identical particles
-variational principle
+[[hydrogen-atom]]
+[[spin]]
+[[time-independent-perturbation-theory]]
+[[Zeeman-effect]]
+[[identical-particles]]
+[[variational-principle]]
 
 
