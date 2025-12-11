@@ -1,16 +1,16 @@
 ---
-draft: true
+draft: false
 title: Formalism-of-quantum-mechanics
 tags:
-  -
+  - physics
 ---
  
 **Dirac notation** or *bra-ket notation* is a way of writing quantum
-in position-space =
+in [[#Position representation]] =
 $$
 \braket {\psi_1 | \psi_2} = \int \ dr \ \psi^* _1 (x) \ \psi_2 (x)
 $$
-in momentum space =
+in [[#momentum representation]] =
 $$
 \braket {\psi_1 | \psi_2} = \int \ dp \ \  \bar{\psi^* _1 (p)} \ \ \bar{\psi_2 (p)}
 $$
@@ -118,5 +118,24 @@ $$
 \braket {p | \psi} = \frac{1}{(2\pi \hbar)^{3/2}} \int \ dr \ e^{\frac{i}{\hbar} \ p \cdot r} \ \psi(r) = \bar{\psi}(p)
 $$
 inner product in momentum representation = 
+$$
+\braket{\psi_{1}|\psi_{2}} = \int \ dp \ \bar{\psi}_{1}^* (p) \ \bar{\psi_{2}} (p)
+$$
 
+**momentum operator** $\hat{P}$
+- in the momentum representation = 
+$$
+\braket{p|\hat{P}|\psi} = \mathbf{p} \braket{p|\psi}
+$$
+- in position representation = 
+$$
+\braket{r|\hat{P}|\psi} = \frac{\bar{h}}{i} \nabla \ \psi(r) = \frac{\bar{h}}{i} \frac{ \partial \psi(r) }{ \partial x } 
+$$
+*expectation value* 
+$$
+<P_{x}> \ = \int dr \ \psi (r) \ \frac{\bar{h}}{i} \frac{ \partial \psi(r) }{ \partial x } 
+$$
+$$
+<P> \ = \ m \frac{ \partial <x> }{ \partial t }  
+$$
 
