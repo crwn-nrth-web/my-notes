@@ -34,7 +34,6 @@ This idea is derived from **Marxism** and is a core idea of Marxist philosophy t
 In the case of negative epistemic effects, the capitalist class suffer from illusions about the world, seeing their entitlement and authority in the system as natural and deserved. This illusion is caused by their class location, which shields them from the injustice their power depends on. There are also positive effects, such as the working class is in a position to see through and unmask the illusion of the ruling class, as a result of their distinctive experience of oppression under capitalism. In this sense, the working class, on a Marxist view, has  an epistemic advantage over the dominant capitalist class. Similarly, women have the capacity to see through the illusions perpetuated by patriarchy as they suffer under it, and racial minorities and colonized people can see through the illusions perpetuated by white colonizers. 
 
 > “This, then, is the central idea that has to be defended if the project of alternative epistemologies is to get off the ground: the social causation can be epistemologically beneficial. The next step is to clarify precisely what social characteristic is supposed to produce this superior insight.”
-
 #### Why does social positioning lead to epistemic advantage?
 Mills highlights three possibilities to account for the epistemic advantage in terms of social positioning
 
