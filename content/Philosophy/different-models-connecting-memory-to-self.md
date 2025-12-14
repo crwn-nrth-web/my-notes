@@ -5,9 +5,7 @@ tags:
 draft: false
 title: different-models-connecting-memory-to-self
 ---
- 
-
-[[Locke-1698-Identity-and-diversity|Locke-memory-criterion]] suggests personal identity $=$ memory i.e. you're the same person *if and only if* you remember being that past self. Professor compares this to a flashlight: memory only illuminates certain moments of the past, leaving much of it in the darkness. 
+ [[Locke-1698-Identity-and-diversity|Locke-memory-criterion]] suggests personal identity $=$ memory i.e. you're the same person *if and only if* you remember being that past self. Professor compares this to a flashlight: memory only illuminates certain moments of the past, leaving much of it in the darkness. 
 
 This raises the problem that there is plenty from our past we can't recall but still consider a part of who we are. This is shown in [[Reid-on-personal-identity]] and his objection based on the transitivity of identity. 
 

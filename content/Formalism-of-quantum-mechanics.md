@@ -4,8 +4,36 @@ title: Formalism-of-quantum-mechanics
 tags:
   - physics
 ---
- 
-**Dirac notation** or *bra-ket notation* is a way of writing quantum
+ **Dirac notation** or *bra-ket notation* is a way of writing quantum
+- *bra* $\bra{\psi}$ = linear function of a vector
+- *ket* $\ket{\psi}$ = vector
+
+$\psi_1$ and $\psi_2$ are **orthogonal** $\braket {\psi_1 | \psi_2} = 0$
+$\psi_1$ and $\psi_2$ are **normalized** $\braket {\psi| \psi} = 1$
+$\psi_1$ and $\psi_2$ are **orthonormal** (both orthogonal and normalized)  
+$$
+\int \ dr \ \psi^* _1 (x) \ \psi_2 (x) = 0
+$$
+**Kronecker delta** shows *orthonormality* 
+$$\int \ dr \ \psi^* _1 (x) \ \psi_2 (x) = \delta_{nm} = \braket{n|m}$$where
+- when n $=$ m , $\delta = 1$
+- when n $\neq$ m, $\delta = 0$
+
+**Projection** = the coefficient $c_n$ is the projection of $\psi$ onto the vector $\ket{n}$ 
+$$
+\psi (r) = \sum_{n} \ c_n \ \psi_{n} (r) \ \ \textrm{ or } \ \ \ket{\psi} = c_n \ket{n}
+$$
+**Dirac delta function** =  $\delta (r - r')$ or $\sum_n \ket{n} \bra{n} = \delta (r - r')$ 
+
+*closure relation* An orthonormal basis set $\{ \ \ket{n} \ \}$ is a basis set if for every function $\psi(r)$, the function can be expressed in 
+$$
+\sum_{n} \psi_{n}^* (r') \ \psi_n(r) = \delta (r - r')
+$$
+*sifting property of the Dirac delta function*
+$$
+\int \ d\beta \ c(\beta) \ \delta(\alpha - \beta) = c(\alpha) 
+$$
+**Inner product**
 in [[#Position representation]] =
 $$
 \braket {\psi_1 | \psi_2} = \int \ dr \ \psi^* _1 (x) \ \psi_2 (x)
@@ -14,21 +42,8 @@ in [[#momentum representation]] =
 $$
 \braket {\psi_1 | \psi_2} = \int \ dp \ \  \bar{\psi^* _1 (p)} \ \ \bar{\psi_2 (p)}
 $$
-- *bra* $\bra{\psi}$ = linear function of a vector
-- *ket* $\ket{\psi}$ = vector
-
-*Properties* = associative, distributive and commutative
-- if a system is associative and distributive, then the system is linear
-
-$\psi_1$ and $\psi_2$ are **orthogonal** $\braket {\psi_1 | \psi_2} = 0$
-$\psi_1$ and $\psi_2$ are **normalized** $\braket {\psi| \psi} = 1$
-$\psi_1$ and $\psi_2$ are **orthonormal** (both orthogonal and normalized)  
-$$
-\int \ dr \ \psi^* _1 (x) \ \psi_2 (x) = 0
-$$
-
-
-**Hilbert space** Hilbert space is similar to a vector space 
+#### Hilbert space
+**Hilbert space** is similar to a vector space 
 - Hilbert space is linear
 - inner product exists 
 $$
@@ -36,29 +51,26 @@ $$
 $$
 - length of vector = $\braket {\psi| \psi}$
 
-**Kronecker delta** shows *orthonormality* 
-$$
-\int \ dr \ \psi^* _1 (x) \ \psi_2 (x) = \delta_{nm} = \braket{n|m}
-$$
-where
-- when n $=$ m , $\delta = 1$
-- when n $\neq$ m, $\delta = 0$
+The state of a quantum system is characterized by its state vector $\ket{\alpha}$ which is an element of the **Hilbert space**. All physical information about the given system is in its state vector
 
-**Projection**
-the coefficient $c_n$ is the projection of $\psi$ onto the vector $\ket{n}$ 
-$$
-\psi (r) = \sum_{n} \ c_n \ \psi_{n} (r) \ \ \textrm{ or } \ \ \ket{\psi} = c_n \ket{n}
-$$
-**Dirac delta function** $\delta (r - r')$ or $\sum_n \ket{n} \bra{n} = \delta (r - r')$ 
+To say that a quantum system characterized by an *n-dimensional Hilbert state* means that each possible state of the system can be represented by a state vector $\ket{\alpha}$ with n complex components, and can be written as
 
-*closure relation* An orthonormal basis set $\{ \ \ket{n} \ \}$ is a basis set if for every function $\psi(r)$, the function can be expressed in 
 $$
-\sum_{n} \psi_{n}^* (r') \ \psi_n(r) = \delta (r - r')
+\ket{\alpha} = \begin{bmatrix}
+a_{1} \\ a_{2} \\ . \\ . \\ a_{n}
+\end{bmatrix} 
 $$
-*sifting property of the dirac delta function*
+The n-dimensional Hilbert space will have n **basis**, so that the state vector can be represented as:
+
 $$
-\int \ d\beta \ c(\beta) \ \delta(\alpha - \beta) = c(\alpha) 
+\braket{\alpha} = a_1 \ket{\alpha_1} + a_2 \ket{\alpha_2} + . . . + a_n \ket{\alpha_n}
 $$
+
+While the state vector itself is basis-independent, the values of its components $\{a_i \}$ will depend on the choice of basis.
+
+>**example** An electron spin (up and down) system is a two-dimensional Hilbert space with the two basis being “up” and “down”, so that a general element in the Hilbert space can be represented as $\ket{\alpha} = c_+ \ket{+} + c_- \ket{-}$ 
+
+##### basis sets
 
 **Discrete orthonormal basis set**
 orthogonal = 
@@ -90,8 +102,46 @@ $$
 \ket{\psi} = \int \ d\alpha \ c(\alpha) \ \ket{\omega}
 $$
 where $c(\alpha) = \braket{\alpha | \omega}$
+#### Operators
+state vectors are modified by linear operators that act upon them and that determine their physical properties
 
-##### Position representation
+**observables =** a mathematical transformation between two elements of a given Hilbert space and are represented by operators
+
+The *expectation value* associated to a measurement of the physical observable given a quantum state is: 
+$$
+\braket{O}   = \braket{\psi | \hat{O} \psi}
+$$
+Given that the outcome of any measurement is a real quantity, the expectation value is real for any operator in any given quantum state. In other words, operators representing physical observables must satisfy 
+$$
+\braket{O} = <O>^*
+$$
+$$
+\braket{\psi | \hat{O} \psi} = \braket{\hat{O} \psi | \psi}
+$$
+these operators are called **Hermitian operators** which are by definition equal to their conjugate
+
+- Hermitian operators have associated real eigenvalues
+- The eigenvectors $\ket{\psi_1}$ and $\ket{\psi_2}$ associated to different eigenvalues ($\lambda_1 \neq \lambda_2$) are orthogonal
+- The eigenvectors of a Hermitian operator span the complete Hilbert space and so represent a complete basis in the Hilbert space
+
+The Heisenberg uncertainty principle is the consequence of the axiom that all physical observables in quantum physics are represented by Hermitian operators
+
+#### Eigenvalue equations
+**Eigenvalue equations =**  $A\vec{v} = \lambda \vec{v}$ where
+- $A$ represents a square matrix of dimensions $n \times n$
+- $\vec{v}$ is a column bector with dimensions n
+- $\lambda$ is the **eigenvalue** of the equation and $\vec{v}$ is the **eigenvector**
+
+To find the eigenvalues =
+1. Find the _characteristic equation of the matrix A_
+$$
+Det (A - \lambda \cdot I ) = 0
+$$
+Where $I$ is the identity matrix and _det_ is the determinant. This gives the eigenvalues $\lambda$
+2. Find the eigenvectors by solving $Av_i = \lambda v_i$
+
+![[Pasted image 20251213175104.png]]
+#### Position representation
 $$
 \Omega_{r'} (r') = \delta (r - r') = \ket{r'}
 $$
@@ -109,7 +159,7 @@ The position operator $X$ has the position $x$ of a quantum mechanical particles
 $$
 \braket{\psi | X | \psi} = \braket{X} = \int \ dr \ \psi^* (r) \ x \ \psi (r) = \int \ dr \ x \ |\psi (r)|^2 
 $$
-##### momentum representation
+#### momentum representation
 $$
 \mu_{p'} (r) = (2\pi \hbar) ^{-3/2} e^{\frac{i}{\hbar} \ p' \cdot r} = \ket{p'}
 $$
