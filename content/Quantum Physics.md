@@ -14,6 +14,7 @@ $$
 Formally, probability of detecting a particle within volume $dr = dx dy dz$  centered at $r = (x, y , z)$ at t = $P(r,t) dr = |\psi (r,t)|^2$   
 
 - [[Formalism-of-quantum-mechanics]]
+- [[postulates-of-quantum-mechanics]]
 - [[solutions-to-schrodinger-equation-part-1]] = particle in a box, harmonic oscillator, free particle, and delta function potential
 
 *quantum physics 2 topics*
