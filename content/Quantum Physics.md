@@ -15,7 +15,7 @@ Formally, probability of detecting a particle within volume $dr = dx dy dz$  cen
 
 - [[Formalism-of-quantum-mechanics]]
 - [[postulates-of-quantum-mechanics]]
-- [[solutions-to-schrodinger-equation-part-1]] = particle in a box, harmonic oscillator, free particle, and delta function potential
+- [[schrodinger-equation-solutions]] = particle in a box, harmonic oscillator, free particle, and delta function potential
 
 *quantum physics 2 topics*
 - [[hydrogen-atom]]

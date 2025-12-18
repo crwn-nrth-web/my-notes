@@ -1,8 +1,8 @@
 ---
-title: solutions-to-schrodinger-equation-part-1
+title: schrodinger-equation-solutions
 draft: false
 tags:
-  -
+  - physics
 ---
 #### CASE 1: Infinite square well (Particle in a box)
 Choosing a 1D "box" as the potential where
@@ -70,7 +70,7 @@ Time independent Schrodinger equation for harmonic oscillator =
 $$
 -\frac{\hbar^2}{2m} \frac{\partial^2 \psi(x)}{\partial x^2}  + \frac{1}{2} m \omega^2 X^2 \psi(x)  = E \psi(x)
 $$
-This can be solved using the same method as for [[#CASE 1 Infinite square well (Particle in a box)]] but can be solved quicker using [[harmonic-oscillator-ladder-operators|ladder-operators]]
+This can be solved using the same method as for [[#CASE 1 Infinite square well (Particle in a box)]] but can be solved quicker using [[[[[[[[[[[[[[harmonic-oscillator-ladder-operators]]]]]]]]]]]]]]
 
 ##### Solutions to the harmonic oscillator
 The equation has an infinite number of discrete solutions
