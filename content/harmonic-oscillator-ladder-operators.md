@@ -6,7 +6,7 @@ tags:
 aliases:
   - ladder-operators
 ---
-**Ladder operators**  are operators that raise or lower the eigenvalues of an observable. They are used to transform the Harmonic oscillator state wave function into a lower or higher energy state
+**Ladder operators**  are operators that raise or lower the eigenvalues of an observable. They are used to transform the [[schrodinger-equation-solutions#CASE 2 Harmonic oscillator|Harmonic oscillator]] state wave function into a lower or higher energy state
 - $a_+$ = *raising operator*
 - $a_-$ = *lowering operator*
 

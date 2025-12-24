@@ -31,15 +31,19 @@ $$
 $$
 **Stationary states** =
 The solutions to the time independent Schrodinger equation can be used to write the *time dependent stationary wave function* =
+
 $$
 \psi(x,t) = \sum_{n=1}^\infty c_{n} \sqrt{ \frac{2}{a} } \sin\left( \frac{n\pi}{a} x \right) e^{-i (n^2 \pi^2 \hbar^2 / 2ma^2) t}
 $$
+
 where 
 $$
 c_{n} = \sqrt{ \frac{2}{a} } \int_{0}^a \sin\left( \frac{n\pi}{a} x \right) \psi(x,0) \ \ dx
 $$
+
 **method of solving** =
 Differential equation
+
 $$
 \frac{\partial^{2} \psi}{\partial x^2} = -k^2 \psi 
 $$
@@ -50,9 +54,11 @@ $$
 \phi (x) = A \sin\left( \frac{n\pi}{a}x \right)
 $$
 *stationary states* =
+
 $$
-\psi(x,t) \sum_{n=1}^\infty c_{m} \phi_{m} (x) e^{-i Et/\hbar}
-$$where 
+\psi(x,t) =\sum_{n=1}^\infty c_{m} \phi_{m} (x) e^{-i Et/\hbar}
+$$
+where 
 $$
 c_{m} = \sum_{n} c_{n} \braket{ m | n } = \braket{ m |\psi(0) }  
 $$
