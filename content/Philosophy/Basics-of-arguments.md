@@ -12,6 +12,7 @@ tags:
 - since
 - given that
 - for
+
 **conclusion-indicators** are words that come right before the conclusion of the argument. Example:
 - thus
 - therefore
