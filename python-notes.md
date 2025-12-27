@@ -9,6 +9,11 @@ tags:
 *floor division* = ` // ` returns the largest integer less than or equal to the quotient i.e. discards the fractional part and returns a whole number
 *rounding down to the nearest integer* = `math.floor()`
 
+**splitting integer into a list of the digits**
+```python
+digits_list = [int(digit) for digit in str(number)]
+```
+
 **to join a list into a string**
 - using a separator between list items = 
 ```python
