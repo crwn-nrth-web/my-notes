@@ -14,6 +14,21 @@ tags:
 digits_list = [int(digit) for digit in str(number)]
 ```
 
+**separating integer into units, tens, hundreds**
+```python
+units = number % 10  ## output: 5
+tens = ((number//10) % 10)*10 ## output: 50
+hundreds = (number//100) * 100 ## output: 500
+```
+
+**seeing if a variable is a whole number**
+```python
+if k % 1 == 0 and k >= 0:
+	return f"{k} is a whole number."
+else:
+	return f"{k} is not a whole number."
+```
+
 **to join a list into a string**
 - using a separator between list items = 
 ```python
