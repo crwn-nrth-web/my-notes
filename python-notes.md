@@ -9,6 +9,22 @@ tags:
 *floor division* = ` // ` returns the largest integer less than or equal to the quotient i.e. discards the fractional part and returns a whole number
 *rounding down to the nearest integer* = `math.floor()`
 
+**to join a list into a string**
+- using a separator between list items = 
+```python
+mylist = [a, b, c]
+separator = ", "
+mystring = separator.join(mylist)
+
+## output: a, b, c
+```
+- for no separator =
+```python
+no_space_string = "".join(mylist)
+
+## output: abc
+```
+
 **slicing strings/list**
 general syntax `list[start:stop:step]` or  `string[start:stop:step]`
 - start = the starting index of the slice (inclusive)
