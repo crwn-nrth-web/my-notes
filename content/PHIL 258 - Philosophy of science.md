@@ -8,7 +8,7 @@ tags:
 **distinguishing pseudo-science from science** (astrology vs. astronomy) = 
 - not quantifiable = pseudo sciences give vague predictions / not exact
 - lack of predictive power
-- evidence is correlational (vs. causal explanation)
+- evidence is correlational  (vs. causal explanation)
 - interactional effect = pseudo-sciences like astrology are not observer independent because humans are conscious of where their direction is directed
 	- in "true" science, international effect can be accounted for
 - any evidence is confirmation, and is not falsifiable
