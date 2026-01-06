@@ -49,4 +49,16 @@ A **normative theory** makes value judgements in its description (what should go
 - [[scientific-realism]]
 - [[Bayesianism]]
 
+### excerpt from Galileo, notes
+- *Dialogue concerning the chief world views* is written in a Socratic dialogue form between three people: 
+	- Salivati representing Galileo's Heliocentric model
+	- Simplicio representing the dominating geo-centric model
+	- Sagrado representing the non-expert who is willing to learn from the other two speakers
+
+In the excerpt, SALV. is demonstrating proof that the moon has a rough surface by example of light reflecting from the wall and from a mirror. SAGR. summarizes that the moon is always seen from any place as equally bright which corresponds precisely to that of the reflection of wall, since the mirror looks luminous from one position and dark from all others.
+
+In the excerpt, SAGR. seems to side more with SALV. than SIMP. when it comes to whether the moon has a rough surface.
+
+SAGR. goes on to demonstrate that if the moon were like a spherical mirror, it would be invisible.
+
 [^1]: Theory and reality, Godfrey-Smith, p. 4
