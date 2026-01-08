@@ -40,4 +40,8 @@ Naturalized epistemology, according to Quine, gives up on the problematic task o
 
 [[Kim-on-justification-in-epistemology#Kim's critique of naturalized epistemology|Kim's critique of naturalized epistemology]] is that it fails to reflect the normative dimension of epistemology and is purely descriptive. There is no good or bad reasoning in Quine's view. 
 
-
+| Advantages of traditional epistemology                                                      | Advantages of naturalized epistemology                                                                                                                                           |
+| ------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| normative nature of traditional epistemology allows for normative distinction among beliefs | abandons the task of showing how sensory evidence justifies theory and so is not undermined by skeptical arguments                                                               |
+| the normative nature allows us to study the evaluative standards we apply to beliefs        | it's free to work from within our existing theories of the world, and allows us to appeal to external objects without having to first establish how these theories are justified |
+|                                                                                             | it's free to appeal to empirical science itself in exploring the relationship between evidence and scientific theory                                                             |
