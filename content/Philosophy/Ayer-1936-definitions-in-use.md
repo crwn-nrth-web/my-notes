@@ -8,7 +8,7 @@ aliases:
 ---
 > [!source] Ayer, A.J (1971) "The Nature of Philosophical Analysis" Ch. 3. , pp. 59-68, of _Language, Truth and Logic_. London: Penguin. (Original work published in 1936)
  
-For Ayer, logical empiricism (reducing object-talk to experience-talk) involves a form of philosophical analysis that uses a technique called definitions in use
+For Ayer, [[logical-empiricism]] (reducing object-talk to experience-talk) involves a form of philosophical analysis that uses a technique called definitions in use
 
 **Explicit definitions** = ordinary dictionary definitions that define a term in terms of others.
 

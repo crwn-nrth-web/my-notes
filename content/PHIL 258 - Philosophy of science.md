@@ -48,5 +48,5 @@ Roughly, the idea of a **scientific theory** is a set of interrelated sentences 
 - [[Bayesianism]]
 
 
-[^1]: Theory and reality, Godfrey-Smith, p. 4
-[^2]: Theory and Reality, Godfrey-Smith, p.6
+[^1]: Theory and reality, Godfrey-Smith, ed. 2 p. 4
+[^2]: Theory and Reality, Godfrey-Smith, ed.2 , p.6
