@@ -10,6 +10,7 @@ title: Inductive-inferences
 ---
  
 > [!source] Hume, D. (2006). _An Inquiry Concerning Human Understanding_, Section IV, Part II. Urbana, Illinois: Project Gutenberg. (Original work published in 1748)
+> 
 
 A standard philosophical view is that knowledge beyond sense perception can be acquired by way of inference. 
 
