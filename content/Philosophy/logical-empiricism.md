@@ -21,6 +21,8 @@ One main problem within the *verifiability principle* is that in order to test o
 Logical empiricism is an attempt to provide epistemological foundations for the formal sciences (mathematical sciences) and the empirical sciences (the natural sciences). 
 - *Reduction in formal sciences* = Logical empiricists try to give a general account of a priori knowledge and believe that mathematics reduces to formal (pure) logic. By formulating appropriate definitions of numerical terms, it can be shown that mathematical truths can be reduced to logical truths.
 - *Reduction in empirical sciences* = logical empiricists attempt to reduce theoretical claims in empirical science to claims about direct experiences, by the method of [[Ayer-1936-definitions-in-use]] or as Quine calls it *contextual definition*.
+
+[[Carnap-logical-analysis-eliminates-metaphysics]]
 #### Central ideas
 
 Logical empiricists make the distinction between =

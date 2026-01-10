@@ -5,7 +5,10 @@ draft: false
 tags:
   - class
   - philosophy
-  -
+  - 
+aliases:
+  - metaphysics
+  - epistemology
 ---
   
 > Author:  Dr. Gerry Callaghan, University of Waterloo Lecturer - Fall 2025 UW
