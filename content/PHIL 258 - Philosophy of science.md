@@ -34,6 +34,11 @@ Roughly, the idea of a **scientific theory** is a set of interrelated sentences 
 3. *social structure and science* = what makes science different from other investigations and successful is its unique social structure
 	- this is strongly critical to empiricism as it identifies that each individual cannot test everything themselves, both in everyday thinking and especially in science, and must rely on testimony of others at some point
 
+**questions to be answered by philosophical accounts of science** =
+1. how does science produce knowledge?
+2. how should scientific inquiry by structured to achieve the goal of producing knowledge of the highest possible quality?
+3. what is the knowledge which science produces knowledge of?
+
 ### Topics
 
 - [[logical-empiricism]]

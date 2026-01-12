@@ -8,8 +8,14 @@ aliases:
 ---
 According to Carnap, the introduction of logical analysis (in the form of [[logical-empiricism]]) to clarify the meaning of terms in a sentence ultimately leads to a radical elimination of metaphysics as the statements of [[PHIL 251 - Metaphysics and Epistemelogy|metaphysics]] become "meaningless".
 
-Carnap defines "meaningless" here in the strict sense of the word = 
+Carnap defines "*meaningless*" here in the strict sense of the word = 
 > ". . .  a sequence of words is *meaningless* if it does not, within a specified language, constitute a statement. It may happen that such a sequence of words looks like a statement at first glance; in that case we call it a *pseudo-statement*" p. 61
+
+
+Carnap on *analytical sentences* =
+> "there are statements which are true solely by virtue of their form (“analytic judgments”). They say nothing about reality. The formulae of logic and mathematics are of this kind. They are not themselves factual statements, but serve for the transformation of such statements."
+
+^a0cec5
 
 Two kinds of **pseudo-statements** =
 1. they contain a word which is wrongly believed to have meaning
@@ -42,8 +48,6 @@ For Carnap, meaningful metaphysical statements cannot exist because of the aim o
 3. statements that are true or false based on the protocol sentences = *empirical statements*
 
 Since, the meaning of a sentence lies in the method of verification, that is only possible for an empirical proposition, anything beyond experience cannot have any meaning. 
-
-
 
 
 [^1]: p. 68
