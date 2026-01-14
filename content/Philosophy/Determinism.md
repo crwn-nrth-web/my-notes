@@ -9,6 +9,7 @@ title: Determinism
 > [!Source] Taylor, R. (1974). "[Freedom and Determinism](https://learn.uwaterloo.ca/content/enforced/1162856-PHIL251_081_cel_1259/media/documents/week03/taylor-freedom-and-determination.pdf?ou=1162856)". In _Metaphysics_, second edition. Englewood Cliffs, N.J.: Prentice-Hall.
 
 **Determinism** = metaphysical view concerning [[Causality]] that everything that occurs in the world is a result of prior causal conditions
+
 ### Main points from the reading
 
 Taylor begins by claiming that the world at any given moment is *determinate* in every detail, and that any indeterminateness resides solely in conceptions and ideas of humans. 
@@ -26,6 +27,7 @@ Note: there is a notion of causal necessity built into Taylor's definition of **
 Whether we think of such metaphysical principles or not, or are even capable of thinking of them, we believe that all things have causes, without exception.
 - e.g. when you hear a noise, you look up to see where it came from. you never suppose that a noise came from nowhere and had no cause
 Determinism is presupposed in much our common-sense thinking to the point that some philosophers consider it an a priori principle or at least a part of the common sense of mankind
+
 #### Determinism and Human behavior
 If the principle of determinism applies to the physical world, then it also applies to our thoughts, ideas, and behavior. As Taylor puts it:
 
