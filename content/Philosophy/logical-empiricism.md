@@ -38,12 +38,23 @@ One main problem within the *verifiability principle* is that in order to test o
 #### Aim of science according to logical empiricism
 Logical positivism was based largely on the theory of language, and claim the aim of science to be able to "track and anticipate patterns in science."[^2] 
 
-For logical positivists, the unobservable structures in scientific theories is understood as abstracts ways of explaining and predicting observable experience. Logical positivists see scientific theoretical language as a tool and that scientific language is meaningful only if it connects to predictions and captures the "flow of experience" rather than making metaphysical claims about what reality is like in itself.
+For logical positivists, the unobservable structures (e.g. DNA, electrons) in scientific theories are understood as abstracts ways of explaining and predicting observable experience. Logical positivists see scientific theoretical language as a tool and that scientific language is meaningful only if it connects to predictions and captures the "flow of experience" rather than making metaphysical claims about what reality is like in itself.
 #### Logic
 - **deductive logic** = patterns of arguments that transmit truth with certainty
 - **inductive logic** = arguments provide support for their conclusion but do not give the kind of guarantee found in deductive logic
 
 According to logical empiricists, there is hardly any reasoning about the world in everyday life and science that carries the kinds of guarantee found in deductive logic; in fact, logical empiricists did not think science ever reaches absolute uncertainty.
+## Evaluating Logical empiricism
+
+Weakness =
+- it requires theoretical-observation term distinction that ends up driving a line that is not truly defined, and can be changed. 
+- theoretical statements must be tied to observational statements
+- can we actually reconstruct science in terms of observation statements
+- holism about testing problem
+- logical focus too limited = neglects history of science, values of science
+
+[[Quine-on-the-defects-of-logical-empiricism]]
+
 
 [^1]: Theory and Reality, Godfrey-Smith, ed.2, p. 36
 [^2]: Theory and Reality, Godfrey-Smith, ed. 2, p.39

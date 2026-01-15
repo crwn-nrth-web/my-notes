@@ -37,20 +37,22 @@ Carnap gives four possible ways of determining if a word *a* is meaningful =
 #### defining meaningful sentences
 
 According to Carnap, there are three types of meaningful sentences =
-1. analytical statements / *tautologies*
+1. *analytical statements / tautologies*
 	 these statements say nothing of reality, e.g. logic and mathematics
-2. negations of statements = *contradictions*
+2. *negations of statements = contradictions*
 	 they are self-contradictory by virtue of their form
 3. statements that are true or false based on the protocol sentences = *empirical statements*
 
 Since, the meaning of a sentence lies in the method of verification, that is only possible for an empirical proposition, anything beyond experience cannot have any meaning. 
+
+Carnap on [[logical-empiricism#Analytical/Synthetic statements distinction|analytical statements]] = 
+> "there are statements which are true solely by virtue of their form (... “analytic judgments”). They say nothing about reality. The formulae of logic and mathematics are of this kind. They are not themselves factual statements, but serve for the transformation of such statements.”
 #### Role of metaphysics
 Carnap argues that metaphysical statements are pseudo-statements because they do not describe the state of affairs or make actual claims about the world. They lack empirical criteria, truth conditions, and methods of verification, and so cannot be true or false. 
 
 Meaningful metaphysical claims also cannot exist because of the very aim of metaphysics = to discover and formulate a kind of knowledge which is not accessible to empirical science
 
 For Carnap is not dismissing metaphysics as useless, but instead sees metaphysical claims express a way of seeing the world and to communicate a person's general attitude or worldview towards life, rather than to convey knowledge.[^2]
-
 #### Role of philosophy
 
 > “But what then is leftover for philosophy, if all statements whatever that assert something are of an empirical nature and belong to factual science? What remains is not statements, nor a theory, nor a system, but only a method: the method of logical analysis. ... It is the indicated task of logical analysis, inquiry into logical foundations, that is meant by ‘scientific philosophy’ in contrast to metaphysics.”   p.77
@@ -58,8 +60,16 @@ For Carnap is not dismissing metaphysics as useless, but instead sees metaphysic
 Carnap believes that all factual knowledge belongs to empirical sciences, and that philosophy cannot compete with science by making factual claims about reality. Since it cannot be a theory, or system of truths about reality as these roles belong to empirical science or collapse into metaphysics (pseudo-statements), philosophy becomes a *method of logical analysis*. 
 
 The task of philosophy (i.e. philosophy of science in particular) is to clarify concepts, analyze the logical structure of scientific language and investigate its logical foundations.
+#### Carnap on "scientific philosophy"
+
+For Carnap, Scientific philosophy is devoted to the analysis of the **logic of science** as opposed to the history of science (Kuhn), psychology of science (the cognitive aspect of science = personal thoughts, bias, etc.), etc.
+
+Carnap's view of scientific philosophy is focused on the context of justification and is a descriptive account of science (but may end up being normative).[^3]
+
+Carnap's [[logical-empiricism#Aim of science according to logical empiricism|Aim of science according to logical empiricism]] supports an anti-realist account of science that the goal of science is to articulate patterns in observations, and simply uses theoretical terms as tools. This is based by Carnap's view that metaphysics (determining what is real) is meaningless and so that cannot be science's goal. Carnap's view of science is prioritizing observations and predictions.
 
 
 
 [^1]: p. 68
 [^2]: p. 78
+[^3]: see [[PHIL 258 - Philosophy of science#Terms on defining accounts of scientific philosophy|Terms on defining accounts of scientific philosophy]]

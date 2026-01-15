@@ -38,6 +38,18 @@ Roughly, the idea of a **scientific theory** is a set of interrelated sentences 
 1. how does science produce knowledge?
 2. how should scientific inquiry by structured to achieve the goal of producing knowledge of the highest possible quality?
 3. what is the knowledge which science produces knowledge of?
+### Terms on defining accounts of scientific philosophy
+
+**context of discovery** = covers how new ideas, hypotheses, or theories are generated through inspiration, intuition, or trial-and-error
+
+**context of justification** = involves the logical, empirical testing and validation of those ideas (the "why it's true") through evidence and reasoned arguments, focusing on making knowledge reliable and objective
+
+**Normative accounts of science** = 
+
+**Descriptive accounts of science** =
+
+**realism** = goal of science to approximately describe the world
+**anti-realism** = goal of science is to be able to articulate patterns in observation
 
 ### Topics
 
