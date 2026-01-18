@@ -54,7 +54,7 @@ Roughly, the idea of a **scientific theory** is a set of interrelated sentences 
 ### Topics
 
 - [[logical-empiricism]]
-- [[induction-and-confirmation]]
+- [[confirmation]]
 - [[Karl-popper-on-scientific-discovery]]
 - [[Khun-on-normal-science]]
 - [[Khun-on-scientific-revolutions]]
