@@ -4,7 +4,7 @@ draft: false
 tags:
   - philosophy
 ---
-This focuses on the [[logical-empiricism]] work of analyzing the [[confirmation]] of generalizations by observations of their instances. The problem = how is it that repeated observations of black ravens can confirm the generalizations that all ravens are black?
+This focuses on the [[logical-empiricism]] work of analyzing the [[confirmation-and-logic]] of generalizations by observations of their instances. The problem = how is it that repeated observations of black ravens can confirm the generalizations that all ravens are black?
 
 Hempel suggested that, as a matter of logic, all observations of black ravens confirm the generalization that all ravens are black. More generally,
 1. any observation of an F that is also G supports the generalization "All Fs are Gs"
