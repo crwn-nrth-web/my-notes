@@ -10,7 +10,6 @@ Key problems associated with confirmation =
 1. [[Inductive-inferences|problem-of-induction]] = David Hume noted that there is no logical justification for assuming that future events will resemble past experience 
 2. [[the-Raven's-problem]]
 3. [[Goodman-new-riddle-of-induction]]
-
 #### Deductive vs. Inductive logic
 
 Two kinds of inference:
@@ -23,7 +22,7 @@ Two kinds of inference:
 
 Deductive inferences repurposes the information already contained in the premises, so that it doesn't say anything over and above the information that was already there. Deductive inferences, hence, are not typically used to draw conclusions about unobserved cases on the basis of observed cases. 
 
-Inductive arguments are supposed to provide their conclusions with some measure of probability. 
+Inductive arguments are supposed to provide their conclusions with some measure of probability.
 
 | Induction                                                                                                                                                          | Deduction                                                                           |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------- |
@@ -34,7 +33,7 @@ According to logical empiricists, inferences from observational statements that 
 
 For most logical empiricists, induction was seen as fundamental or at the very least, a model for all other kinds of non-deductive logic. 
 #### Hypothetico-Deductivisim
-It is a model of scientific reasoning where theories are tested by deducing observable predictions from them; if the predictions are true in experiement, the theory is supported. This is an alternative to pure induction focusing on hypothesis testing rather than gaining facts.
+It is a model of scientific reasoning where theories are tested by deducing observable predictions from them; if the predictions are true in experiment, the theory is supported. This is an alternative to pure induction focusing on hypothesis testing rather than gaining facts.
 
 ```mermaid
 graph TD;
