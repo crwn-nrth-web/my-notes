@@ -49,7 +49,7 @@ $\rightarrow$ falsification
 For Popper, an ad hoc hypothesis for this falsification = e.g.. = Blue litmus paper turns red in clear liquids not water
 
 
-aboulian@uwaterloo.ca
+
 
 
 [^1]: Theory and Reality, Godfrey-Smith, ed. 2, p. 79
