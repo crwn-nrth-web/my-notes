@@ -3,6 +3,8 @@ title: confirmation-and-logic
 draft: false
 tags:
   - philosophy
+aliases:
+  - theory-of-confirmation
 ---
 The aim of [[logical-empiricism]] was to develop a logical theory of evidence in science. **Confirmation** of theories is understood to be the logical support evidence provides to hypotheses.
 
