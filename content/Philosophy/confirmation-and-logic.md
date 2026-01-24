@@ -18,7 +18,7 @@ Two kinds of inference:
 2. **Inductive inference** = inference in which the truth of the premises do not guarantee the truth of the conclusion
 	- **induction** = inferences that go from particular observations to generalizations
 	- **projection** = inferring a prediction about the next case from a number of observed cases
-	- **explanatory induction** = inferring a hypothesis about a structure or event that would explain the observations
+	- **explanatory induction** (also known as [[Foster-proposed-solution-to-the-problem-of-induction|inference-to-the-best-explanation]]) = inferring a hypothesis about a structure or event that would explain the observations
 
 Deductive inferences repurposes the information already contained in the premises, so that it doesn't say anything over and above the information that was already there. Deductive inferences, hence, are not typically used to draw conclusions about unobserved cases on the basis of observed cases. 
 

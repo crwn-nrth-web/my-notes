@@ -9,9 +9,11 @@ title: Foster-proposed-solution-to-the-problem-of-induction
 ---
  Hume introduces his skeptical approach to [[Inductive-inferences]] and that they could rationally justified if we had good reasons for expecting that future cases will resemble past cases of causal regularity. For Hume, there seems to be no grounds for supposing *the principle of the uniformity of nature* that the future will resemble the past. 
 
-Foster allows that that if our reasoning about future cases (prediction) or generalizations is based on inductive inference, then its problematic. For Foster, induction is not fundamental. There's a more basic kind of inference that underlies our reasoning about future cases.
+Foster allows that that if our reasoning about future cases (prediction) or generalizations is based on inductive inference, then its problematic. For Foster, induction is not fundamental. There's a more basic kind of inference that underlies our reasoning about future cases. Foster's solution is inference to the best explanation.
 
 **inference to the best explanation** =  inferences are made from the available evidence to the hypothesis that would, if correct, best explain that evidence
+
+> Also known as abductive arguments, explanatory inferences . . .
 
 This method can be used to justify the expectation that past regularities will persist in the future. This is because
 1. the best explanations of observed regularities typically take the form of explanatory laws / laws of nature
@@ -37,7 +39,7 @@ Foster argues that *inference to the best explanation* is used to determine that
 
 Foster believes in the second explanation that observed regularity gives us a rational ground for inferring that the law of gravity is operative. Once we've accepted the law of gravity and accepted it as a form of underlying natural necessity, we have a natural basis for inferring that bodies will behave gravitationally in the future as well. If it is necessary that bodies behave gravitationally, we can infer they will continue to do so in the future.
 
-#### Nomological-Explanatory Solution (NES)
+#### Nomological-Explanatory Solution (NES) = Inference to the best explanation
 
 Features of the nomological-explanatory solution to the [[Inductive-inferences|problem-of-induction]]:
 
