@@ -10,10 +10,6 @@ tags:
 1. *broad sense of science* = developing an understanding of how humans gain knowledge of the world around them
 2. *narrow sense of science* = developing an understanding of what makes the work descended from the Scientific Revolution different (if it is different) from other kinds of investigation of the world
 
-Roughly, the idea of a **scientific theory** is a set of interrelated sentences that make claims about some part of world (or our experiences)
-- A **descriptive theory** is an attempt to describe what actually goes on in some area without making value judgements.
-- A **normative theory** makes value judgements in its description (what should go on / what might be good or bad)
-
 **distinguishing pseudo-science from science** (astrology vs. astronomy) = 
 - not quantifiable = pseudo sciences give vague predictions / not exact
 - lack of predictive power
@@ -25,7 +21,7 @@ Roughly, the idea of a **scientific theory** is a set of interrelated sentences 
 
 **Three initial answers to how science works** (philosophical account) =
 1. *[[logical-empiricism|empiricism]] and science* = the only source of genuine knowledge about the world is through experience
-	- for the empiricist tradition, the difference between science and everyday thinking is of detail, with science being especially successful because it s organized, systematic, and responsive to experience
+	- both scientific thinking and investigation have the same pattern as everyday thinking and investigation, where the only source of real knowledge is through experience. Science is especially successful because it is organized, systematic, and responsive to experience
 2. *mathematics and science* = what makes science different from other investigations, and successful, is its attempt to understand the world using mathematical tools and concepts
 	- this could be seen as an argument against empiricism, as it shows that there must be another route to knowledge beside experience
 	- however, it can also be argued that mathematics can be used as a tool along with empiricism to identify what makes science special
@@ -48,9 +44,9 @@ Roughly, the idea of a **scientific theory** is a set of interrelated sentences 
 
 **context of justification** = involves the logical, empirical testing and validation of those ideas (the "why it's true") through evidence and reasoned arguments, focusing on making knowledge reliable and objective
 
-**Normative accounts of science** = 
+**Descriptive accounts of science** = an attempt to describe what actually goes on in some area without making value judgements.
 
-**Descriptive accounts of science** =
+**Normative accounts of science** = makes use of value judgements (what should go on / what might be good or bad)
 
 **realism** = goal of science to approximately describe the world
 **anti-realism** = goal of science is to be able to articulate patterns in observation
