@@ -34,13 +34,29 @@ Note in Argument 2, any object observed before 2050 that is green will be grue.
 
 Also both arguments 1 and 2 follow the same pattern as the inductive form given above, even though argument 2 appears to be a bad argument while argument 1 appears to be a good argument. Goodman's point is that two arguments could have the same form, but one can be better than the other. Hence, it is not the form that makes an inductive argument good or bad, and consequently, there can be no purely formal theory of induction and confirmation. 
 
+Note that grue works perfectly well in deductive arguments but fails in induction. Hence, it is easy to propose that there is something wrong with "grue" and that a good theory of induction should propose a restriction on the terms that occur in inductive arguments.
+
+S*keptical conclusion of this argument* = inductive arguments are not good arguments
 #### Proposed solutions to the problem
+##### Grue references time
+One possible problem with *grue* is that it's definition includes a reference to time.
+- Goodman's response = whether or not a term is defined in this way depends on which language we take as our starting point.
 
-A proposed solution to this problem is that there is something wrong with "grue", and that a good theory of induction should propose a restriction on the terms that occur in inductive arguments.
+E.g. consider a new term ***bleen*** = an object is *bleen* if and only it was first observed before the year 2050 and is blue, or if it was first observed before 2050 and is green.
 
-One problem with *grue* is that it's definition includes a reference to time.
-- Goodman's response = whether or not a term is defined in this way depends on 
+English words "green" and "blue" are used to describe "grue" and "bleen" but must use a reference of time in their definitions. If we consider grue and bleen as the the familiar words, and green and blue as the new terms, green and blue would also have to have a reference of time in their definition.
+- e.g. green = an object is green if and only if was first observed before the year 2050 and is grue, or if it was not first observed before 2050 and is bleen
 
+This shows that whether or not a term contains a reference to time is a language-dependent matter, as a term that looks OK in one language will seem odd in another.
+
+Goodman's solution to this problem is that we must use terms that have a history of normal use in our community. But [[logical-empiricism]] has a problem with this solution as the value of inductive arguments depends on irrelevant fats about which language we happen to use.
+
+##### properties of the world
+Another problem with grue is to do with the properties that the word picks out, or the classes / kinds of objects that are grouped with this word. Green-ness is a natural and objective feature of the world, while grue-ness is not. 
+
+In other words, Green objects make up a "natural kind", unified by real similarity, while grue objects are an artificial or arbitrary collection. The solution to the problem, thus, becomes that good induction has to use terms that we have reason to believe pick out natural kinds. This however leads to other problems such as = what are properties? what are natural kinds? (what are [[Universals]]?)
+
+This problem of natural kinds also relates to problems within science = deciding the right categories for predictions and extrapolation. E.g. are mental disorders categorized in the psychiatric reference books like DSM5 really natural kinds, or have we applied labels like "schizophrenia" to a group of cases that have no real underlying similarity? 
 
 The problem with this argument =
 - intuitively = the inductive argument is giving us conflicting predictions after the year 2050 for emeralds first observed after this date
@@ -48,4 +64,3 @@ The problem with this argument =
 - Natural kinds = grue is a problem because it does not define a REAL property (colors, masses, shapes, molecular structure, etc. are real properties)
 	- how do we know what the natural kinds are? if we can't identify natural kinds, we cannot distinguish good inductive arguments from bad ones
 
-Skeptical conclusion of this argument = inductive arguments are not good arguments
