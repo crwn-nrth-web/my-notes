@@ -19,9 +19,32 @@ According to EPR, quantum entanglement is incompatible with local realism, since
 
 [explain hidden variables proposed by Einstein]
 
-John S. Bell proposed a new experiment that could test whether the behavior of quantum entangled particles was consistent with local realism. Consider two detectors that can perform measurements whose outcomes could only ever take one of two values; detector A has two outputs $a$ and $a'$, detector B has two outputs $b$ and $b'$. 
+John S. Bell proposed a new thought experiment that could test whether the behavior of quantum entangled particles was consistent with local realism. Consider two detectors that can perform measurements whose outcomes could only ever take one of two values; the measurement outcomes can be represented as $A = \pm 1$ and $B= \pm 1$. Also, detector A can choose to take measurements with input settings $a$ and $a'$; likewise detector B can choose to take measurements with input settings $b$ and $b'$. 
 
+Locality is imposed by assuming that the output from the two detectors depends only on the input setting (a, b) and other properties prepared at the source that could affect the measurement (these properties are called "hidden variable", proposed by Einstein, represented by $\lambda$). Realism is imposed by assuming the inputs (a , a' , b , b') result in a predetermined output ($\pm 1$).
 
+The expectation value $E(a,b)$ for a given experimental run: 
+$$E(a,b) = \int \partial{\lambda} \  A(a, \lambda) B(b, \lambda)$$
+The value $\lambda$ is considered to vary for each experimental run and follows a probability distribution $\int \partial \lambda f(\lambda)$, where both particles A and B would share the same value of $\lambda$ on any given run. This is demonstrated by table below. 
+
+| $\lambda$     | a     | a'    | b     | b'    |
+| ------------- | ----- | ----- | ----- | ----- |
+| $\lambda_{1}$ | 1     | -1    | 1     | 1     |
+| $\lambda_2$   | 1     | 1     | -1    | -1    |
+| . . .         | . . . | . . . | . . . | . . . |
+
+The combination of expectation values, resulting from the different detector input settings, gives the parameter $S$ known as the Clauser-Horne-Shimony-Holt (CHSH) parameter.
+
+$$ S = E(a,b) + E(a' , b) - E(a, b') - E(a' , b')$$
+As can be seen from table 1, for any particular $\lambda_i$, there are two possibilities:
+- Either $B(b , \lambda) + B(b', \lambda) = 0$ and $B(b, \lambda) - B(b' , \lambda) = \pm 2$
+- or $B(b , \lambda) + B(b', \lambda) = \pm 2$ and $B(b, \lambda) - B(b' , \lambda) = 0$
+
+This leads to: 
+$$A(a, \lambda) [B(b , \lambda) + B(b', \lambda)] + A(a' , \lambda)[B(b , \lambda) - B(b', \lambda)] = \pm 2$$
+$$ \int \partial \lambda f(\lambda) \ A(a, \lambda) [B(b , \lambda) + B(b', \lambda)] + A(a' , \lambda)[B(b , \lambda) - B(b', \lambda)] \leq 2$$
+And so the CSHS inequality becomes
+$$|S| = |E(a,b) + E(a' , b) - E(a, b') - E(a' , b')| \leq 2$$
 
 
 
