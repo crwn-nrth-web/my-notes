@@ -4,7 +4,12 @@ title: Formalism-of-quantum-mechanics
 tags:
   - physics
 ---
- **Dirac notation** or *bra-ket notation* is a way of writing quantum
+Quantum theory is based on two constructs:
+1. the state of a system is represented by its wave function
+2. observables are represented by operators
+Mathematically, wave functions satisfy the conditions for abstract vectors and operators act on them as linear transformations.
+### Dirac notation
+**Dirac notation** or *bra-ket notation* is a way of writing quantum
 - *bra* $\bra{\psi}$ = linear function of a vector
 - *ket* $\ket{\psi}$ = vector
 
@@ -43,7 +48,7 @@ $$
 \braket {\psi_1 | \psi_2} = \int \ dp \ \  \bar{\psi^* _1 (p)} \ \ \bar{\psi_2 (p)}
 $$
 #### Hilbert space
-**Hilbert space** is similar to a vector space 
+**Hilbert space** is similar to a vector space but for wave functions.
 - Hilbert space is linear
 - inner product exists 
 $$
@@ -71,6 +76,7 @@ While the state vector itself is basis-independent, the values of its components
 >**example** An electron spin (up and down) system is a two-dimensional Hilbert space with the two basis being “up” and “down”, so that a general element in the Hilbert space can be represented as $\ket{\alpha} = c_+ \ket{+} + c_- \ket{-}$ 
 
 ##### basis sets
+A **basis** provides a way to write down quantum states in a defined matter. For e.g. a quantum coin has two outcomes (heads and tails) so the state of the quantum coin can be represented in the basis $\{\ket{H} , \ket{T} \}$, where the state is represented as the linear combination of the basis $\psi = a \ket{H} + b \ket{T}$. ^563fc4
 
 **Discrete orthonormal basis set**
 orthogonal = 
