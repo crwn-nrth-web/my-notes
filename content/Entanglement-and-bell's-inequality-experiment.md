@@ -47,11 +47,6 @@ And so the CSHS inequality becomes
 $$|S| = |E(a,b) + E(a' , b) - E(a, b') - E(a' , b')| \leq 2$$
 
 
-
-
-
-
-
 **spontaneous parametric downconversion (SPDC)** = a non-linear optical process where a photon spontaneously splits into two other photons of lower energies[^2]
 
 **Bell's inequality** = Bell assumed that Einstein's hidden variable hypothesis was true and then showed that it leads to a contradiction, hence proving the hidden variable theory as false.  

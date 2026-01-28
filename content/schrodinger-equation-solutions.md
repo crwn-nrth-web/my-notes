@@ -4,7 +4,8 @@ draft: false
 tags:
   - physics
 ---
-#### CASE 1: Infinite square well (Particle in a box)
+Time-independent Schrodinger equation in 1D = $$-\frac{\hbar^2}{2m} \frac{\partial^2 \psi(x)}{\partial x^2} + V(x) \psi(x)= E \psi (x)$$
+# CASE 1: Infinite square well (Particle in a box)
 Choosing a 1D "box" as the potential where
 $$
 V(r) = \begin{cases}
@@ -63,7 +64,7 @@ $$
 c_{m} = \sum_{n} c_{n} \braket{ m | n } = \braket{ m |\psi(0) }  
 $$
 
-#### CASE 2: Harmonic oscillator
+# CASE 2: Harmonic oscillator
 The harmonic oscillator is represented by the force equation $F = -kx$ which gives the potential energy $V(x) = -kx^2 / 2$ 
 
 Many potentials reduce to this form for small values of x, so many phenomena can be understood using the harmonic potential
@@ -77,7 +78,6 @@ $$
 -\frac{\hbar^2}{2m} \frac{\partial^2 \psi(x)}{\partial x^2}  + \frac{1}{2} m \omega^2 X^2 \psi(x)  = E \psi(x)
 $$
 This can be solved using the same method as for [[#CASE 1 Infinite square well (Particle in a box)]] but can be solved quicker using [[harmonic-oscillator-ladder-operators]]
-
 ##### Solutions to the harmonic oscillator
 The equation has an infinite number of discrete solutions
 
@@ -98,3 +98,5 @@ where $A_n$ is the normalization constant
 $$
 E_{n} = \left( n+ \frac{1}{2} \right) \hbar \omega
 $$
+## 2D - harmonic oscillator
+https://www.quantum-abc.de/2-D-harm_osc.pdf
