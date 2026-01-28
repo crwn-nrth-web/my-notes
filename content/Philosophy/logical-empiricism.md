@@ -37,7 +37,7 @@ Logical empiricists insists that pure mathematics is analytical, and divided geo
 - geometry that describes possible geometrical systems is purely mathematical = analytical
 - how geometrical systems apply to our world = synthetic 
 ### Verification theory of meaning
-**Verification theory of meaning** = a statement is meaningful (i.e. has factual meaning) only if it is possible (in principle) to empirically verifiable the claim through observations or is a tautology. 
+**Verification theory of meaning** = a statement is meaningful (i.e. has factual meaning) only if it is possible (in principle) to empirically verifiable the claim through observations.
 
 Note that this does not require that the sentence itself directly describe observations and it does not not require the observations to provide proof that it is *certain* that the sentence is true or false.
 ##### holistic empiricist theory of meaning

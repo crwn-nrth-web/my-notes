@@ -17,6 +17,7 @@ Two kinds of **pseudo-statements** =
 	- E.g. *"Cesar is a prime number"*. According to Carnap, the sentence follows the the rules of syntax (the third position is occupied by a predicate i.e. a noun/adjective), but it is meaningless because "prime number" is a predicate of numbers, and cannot be affirmed or denied by a person. Since the sentence looks like a sentence but does not express neither a true nor a false proposition, it is a pseudo-statement[^1]
 
 **pseudo-concept** = a word that seems to have meaning but doesn't
+
 According to Carnap, all words in a traditional language originally have a meaning, but with time, the word may lose its old meaning without acquiring a new one, forming a pseudo-concept.
 
 **syntax** = the mode of its occurrence in the simplest sentence form in which it is capable of occurring (this sentence form is the word's **elementary sentence**)
