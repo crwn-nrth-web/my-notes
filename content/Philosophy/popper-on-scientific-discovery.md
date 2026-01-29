@@ -4,6 +4,7 @@ draft: false
 tags:
   - philosophy
 ---
+### Main motivations
  Karl Popper believed that scientific theories can only be **falsified** (proven to be false) and that scientific theories do not get inductively confirmed. This in contrast to [[logical-empiricism]] that focuses on [[confirmation-and-logic]].
 
 **Falsificationism** = a hypothesis is scientific if and only if it has the potential to be refuted by some possible observation[^1]
@@ -48,6 +49,20 @@ $\rightarrow$ falsification
 
 For Popper, an ad hoc hypothesis for this falsification = e.g.. = Blue litmus paper turns red in clear liquids not water
 
+## 1. Problem of induction
+
+Reichenbach defines the *principle of induction*  as 
+> "the principle of induction as the means whereby science decides upon truth. To be more exact, we should say that it serves to decide upon probability. For it is not given to science to reach either truth or falsity . . . but scientific statements can only attain continuous degrees of probability whose unattainable upper and lower limits are truth and falsity" p. 29
+
+Popper brings Hume's [[Inductive-inferences|problem-of-induction]] that the principle of induction that applies a degree of probability needs to be justified itself, and nothing is gained by claiming that the principle of induction is taken as "probable" as it leads to an infinite regress.
+
+Popper insists a strong distinction between **psychology of knowledge** and **logic of knowledge** =
+- **psychology of knowledge** = empirical questions about human behavior and knowledge
+	- "the sun will rise tomorrow because it always has before"
+- **logic of knowledge** = concerned with logical relations and whether certain inferences are valid and whether claims are rationally justified by evidence
+	- "what justifies the generalization that the sun will rise each day?"
+
+Popper notes that philosophers mistakenly blur this distinction, especially when defending inductive inferences. Popper stresses that psychological tendencies does not amount to logical justification for inferences (like Hume believes our confidence in induction is a product of habit).
 
 
 
