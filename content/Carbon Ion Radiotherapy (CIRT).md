@@ -1,8 +1,9 @@
 ---
 title: Carbon Ion Radiotherapy (CIRT)
-draft: true
+draft: false
 tags:
-  -
+  - biology
+  - physics
 ---
 **Particle beam therapy** or **particle radiotherapy** is a type of cancer treatment that utilizes protons or heavy atoms (such as carbon) to precisely target tumors with high energy.[^1]
 
@@ -27,13 +28,6 @@ CIRT is an **external beam radiation therapy**, sending high-energy carbon ions 
 *Carbon ion source* = carbon ions are obtained from carbon dioxide (CO2) gas. First, subjected to impacts of highly accelerated electron beam, molecules dissociate and C+4 ions are extracted with applied electric field–Beam of C+4ions is accelerated to 10% of c (c = speed of light) via linear accelerator; the synchrotron further accelerates ions to 70% of c. The remaining two electrons are removed after beam passes through a sheet of carbon.
 
 *why do carbon ions experience Bragg peak* = Carbon ions interact predominantly with electrons in matter through Coulomb forces, and their range is determined by the initial particle energy and the stopping power of the medium. As the particles slow down, the stopping power increases, resulting in maximal energy deposition near the end of the particle range and producing a narrow and sharp peak in the depth–dose distribution (Bragg peak). Although energy spread and range straggling contribute to some broadening of the peak, these effects decrease with increasing particle mass. [^5]
-
----
-Carbon ion radiotherapy is an external beam radiotherapy that delivers high energy ions to damage tumor DNA and inhibit cancer cell proliferation. The schematic of the CIRT therapy facility in Gunma Japan outlines the process of the production of carbon ions from methane gas that are accelerated by a linear accelerator and synchrotron. Once inside the body, the heavy charged particles lose energy primarily through Coulomb interactions with electrons. Because the stopping power and energy deposition of the ions increase as the ions slow down, most of the dose is deposited at the end of their range forming the Bragg peak as seen before.​
-
-Because carbon ions are charged, they can be precisely steered using magnetic fields. By combining beams of different energies and lateral positions, clinicians can adjust the Bragg peak position to match tumor depth and form a spread-out Bragg peak that uniformly covers the tumor. 
-
-Additionally, the small-angle deflections due to the Coulomb interactions cause the beams to spread laterally in a penumbra. However, carbon ions have less lateral spreading and hence sharper penumbra compared to photons or protons because they are heavier with high momentum and so scatter less. 
 
 ### ADVANTAGES / DISADVANTAGES
 
