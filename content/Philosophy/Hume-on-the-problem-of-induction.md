@@ -3,7 +3,6 @@ tags:
   - philosophy
   - 
 aliases:
-  - induction
   - problem-of-induction
 draft: false
 title: Inductive-inferences
@@ -11,13 +10,16 @@ title: Inductive-inferences
  > [!source] Hume, D. (2006). _An Inquiry Concerning Human Understanding_, Section IV, Part II. Urbana, Illinois: Project Gutenberg. (Original work published in 1748)
 > 
 
-A standard philosophical view is that knowledge beyond sense perception can be acquired by way of inference. 
+A standard philosophical view is that knowledge beyond sense perception can be acquired by way of inference. Inferences from observed to unobserved cases, or general laws, are known as [[confirmation-and-logic|inductive-inferences]].
 
 This discussion on knowledge beyond perception depends on assuming that at least some of our beliefs about external objects are based on our perceptual experience.
 
-> “None but a fool or a mad man will ever pretend to dispute the authority of experience, or to reject that great guide to human life.”
+> “None but a fool or a mad man will ever pretend to dispute the authority of experience, or to reject that great guide to human life.” - *Hume, an inquiry concerning human understanding*
 
-Hume is not denying the importance of inductive inferences on the basis of past experiences, but there is a problem of the philosophical [[justification]] of induction.
+Hume is not denying the importance of inductive inferences on the basis of past experiences, but there is a problem of the philosophical [[justification]] of [[confirmation-and-logic|induction]].
+
+Popper on the problem of induction =
+![[popper-on-scientific-discovery#^55bd95]]
 
 **the problem of induction** = what rational basis do we have for believing that the causal relations we've experienced in the past will persist into the future? we cannot justify it deductively and we cannot justify it inductively.
 
@@ -29,7 +31,10 @@ In contrast, for Hume, observed regularities brings us to expect that future cas
 1. *Predictive beliefs* = it cannot be justified on perceptual experience along as it is a belief about events that haven't occurred yet
 2. *generalizations* = these claims have implications regarding not only observed cases but also cases that have not been observed
 
-Both predictive beliefs and generalizations tend to be made on the basis of extrapolation from observed cases.
+Both predictive beliefs and generalizations tend to be made on the basis of extrapolation from observed cases. 
+
+[[popper-on-scientific-discovery]] =
+![[popper-on-scientific-discovery#^9cc609]]
 #### Induction as causal reasoning
 Hume argues that our inductive reasoning is grounded in our idea of [[Causality]]. When we see one event regularly followed by another, we form the belief that the first caused the second and we can then make predictions. 
 

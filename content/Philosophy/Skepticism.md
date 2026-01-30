@@ -79,7 +79,7 @@ Hume points out that people naturally believe in sense perceptions (colors, soun
 
 He also notes that common sense (the "vulgar: view) and philosophy lead to opposite conclusions. 
 
-> See [[Inductive-inferences]] for Hume's view on how our knowledge beyond perception can be justified
+> See [[Hume-on-the-problem-of-induction]] for Hume's view on how our knowledge beyond perception can be justified
 
 
 [^1]: this is my own words of representationalism and how it supports the distinct existence of objects

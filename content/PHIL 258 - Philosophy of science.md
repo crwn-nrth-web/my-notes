@@ -18,4 +18,6 @@ tags:
 - [[scientific-realism]]
 - [[Bayesianism]]
 
+#### other mentions
+[[Foster-proposed-solution-to-the-problem-of-induction#The scope of scientific laws]]
 

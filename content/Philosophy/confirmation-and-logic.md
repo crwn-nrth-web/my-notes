@@ -5,11 +5,13 @@ tags:
   - philosophy
 aliases:
   - theory-of-confirmation
+  - induction
+  - inductive-inferences
 ---
 The aim of [[logical-empiricism]] was to develop a logical theory of evidence in science. **Confirmation** of theories is understood to be the logical support evidence provides to hypotheses.
 
 Key problems associated with confirmation =
-1. [[Inductive-inferences|problem-of-induction]] = David Hume noted that there is no logical justification for assuming that future events will resemble past experience 
+1. [[Hume-on-the-problem-of-induction|problem-of-induction]] = David Hume noted that there is no logical justification for assuming that future events will resemble past experience 
 2. [[the-Raven's-problem]]
 3. [[Goodman-new-riddle-of-induction]]
 #### Deductive vs. Inductive logic

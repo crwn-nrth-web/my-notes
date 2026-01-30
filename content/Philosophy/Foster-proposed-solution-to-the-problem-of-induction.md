@@ -7,9 +7,9 @@ aliases:
 draft: false
 title: Foster-proposed-solution-to-the-problem-of-induction
 ---
- Hume introduces his skeptical approach to [[Inductive-inferences]] and that they could rationally justified if we had good reasons for expecting that future cases will resemble past cases of causal regularity. For Hume, there seems to be no grounds for supposing *the principle of the uniformity of nature* that the future will resemble the past. 
+[[Hume-on-the-problem-of-induction]] has a skeptical approach that [[confirmation-and-logic|inductive-inferences]] could be rationally justified if we had good reasons for expecting that future cases will resemble past cases of causal regularity. For Hume, there seems to be no grounds for supposing *the principle of the uniformity of nature* that the future will resemble the past. 
 
-Foster allows that that if our reasoning about future cases (prediction) or generalizations is based on inductive inference, then its problematic. For Foster, induction is not fundamental. There's a more basic kind of inference that underlies our reasoning about future cases. Foster's solution is inference to the best explanation.
+Foster allows that that if our reasoning about future cases (prediction) or generalizations is based on inductive inference, then its problematic. For Foster, [[confirmation-and-logic|induction]] is not fundamental. There's a more basic kind of inference that underlies our reasoning about future cases. Foster's solution is inference to the best explanation.
 
 **inference to the best explanation** =  inferences are made from the available evidence to the hypothesis that would, if correct, best explain that evidence
 
@@ -27,7 +27,7 @@ Foster's view supports how the history of science has actually progressed toward
 
 **Water is H2O** 
 
-Foster notes that Humean [[Inductive-inferences|induction]] would give the following account: "scientists observed certain samples of water had this composition, and extrapolated to the generalization that all water is H2O by an inductive inference. i.e. reasoning from what they saw in the observed samples to a general conclusion about all water."
+Foster notes that Humean [[Hume-on-the-problem-of-induction|induction]] would give the following account: "scientists observed certain samples of water had this composition, and extrapolated to the generalization that all water is H2O by an inductive inference. i.e. reasoning from what they saw in the observed samples to a general conclusion about all water."
 
 Foster notes that the Humean answer is probably incorrect since the starting point isn't to observe the composition; instead, the starting part is to take the samples and subject them to certain testing procedures and see how the sample responded to these tests. 
 
@@ -41,17 +41,17 @@ Foster believes in the second explanation that observed regularity gives us a ra
 
 #### Nomological-Explanatory Solution (NES) = Inference to the best explanation
 
-Features of the nomological-explanatory solution to the [[Inductive-inferences|problem-of-induction]]:
+Features of the nomological-explanatory solution to the [[Hume-on-the-problem-of-induction|problem-of-induction]]:
 
 > “The only primitive rational form of empirical inference is inference to the best explanation.”
 
-For Foster, [[Inductive-inferences|induction]] reasoning is made up of two deeper, more basic kind of reasonings:
+For Foster, [[confirmation-and-logic|induction]] reasoning is made up of two deeper, more basic kind of reasonings:
 1. **inference to the best explanation** = from an observed regularity, we can drive an inference to the best explanation of this regularity
 2. **deduction from that law** = once we've inferred that a law of nature explains the observed pattern, we can deductively conclude that the same regularity will hold in unobserved cases, because laws of nature are, by definition, universal and time-invariant. This is a deductive inference
 
-Foster's account suggests that we should replace [[Inductive-inferences|induction]] with inference to the best explanation because the laws of nature used are expressions of natural necessity and therefore gives us grounds for explaining regularities that will persist in time. 
+Foster's account suggests that we should replace [[confirmation-and-logic|induction]] with inference to the best explanation because the laws of nature used are expressions of natural necessity and therefore gives us grounds for explaining regularities that will persist in time. 
 
-NES is a reductive account of [[Inductive-inferences]], since induction is reduced to two more fundamental forms of inference.
+NES is a reductive account of [[confirmation-and-logic|induction]], since induction is reduced to two more fundamental forms of inference.
 
 #### Natural necessity
 

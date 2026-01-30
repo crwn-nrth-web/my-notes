@@ -4,7 +4,7 @@ draft: false
 tags:
   - philosophy
 ---
-Goodman's (1995) goal is to show that there cannot be a purely formal [[confirmation-and-logic|theory-of-confirmation]]. He thinks that confirmation and induction works differently than what [[logical-empiricism]] has thought.
+Goodman's (1995) goal is to show that there cannot be a purely formal [[confirmation-and-logic|theory-of-confirmation]]. He thinks that confirmation and [[confirmation-and-logic|induction]] works differently than what [[logical-empiricism]] has thought.
 
 Any argument with the following form is deductively valid, and as long as the terms we substitute pick out definite properties / classes of object, and retain the same meaning throughout the argument, the argument will be valid.
 > - All F's are G's

@@ -30,7 +30,7 @@ aliases:
 - how can our beliefs be justified?
 
 1. [[Skepticism]]
-2. [[Inductive-inferences]]
+2. [[Hume-on-the-problem-of-induction]]
 3. [[epistemological-gap-between-experience-and-theory]]
 4. [[logical-empiricism]]
 5. [[Kim-on-justification-in-epistemology|traditional-analysis-of-knowledge]]
