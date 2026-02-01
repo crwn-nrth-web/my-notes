@@ -49,28 +49,7 @@ $$|S| = |E(a,b) + E(a' , b) - E(a, b') - E(a' , b')| \leq 2$$
 
 **spontaneous parametric downconversion (SPDC)** = a non-linear optical process where a photon spontaneously splits into two other photons of lower energies[^2]
 
-**Bell's inequality** = Bell assumed that Einstein's hidden variable hypothesis was true and then showed that it leads to a contradiction, hence proving the hidden variable theory as false.  
 
-> If B is a subset of A, it must be that $N(A) \geq N(B)$
-
-Bell's thought experiment involved sending photons through polarized filters. If a photon passes through a filter, it is referred to as ‘passed’. If it’s blocked, it’s referred to as ‘failed’. The probability that a photon will pass or fail depends entirely on the angle between its polarization state and the filter’s.
-
-So, 
-$$\begin{align} A= \text{pass }, \bar{A} = \text{fail } . . . \\
-A \bar{B} = \text{pass A, fail B . . .} \\
-\text{Then Bell's inequality: } N(A \bar{B} + B \bar{C}) \geq N(A \bar{C}) \\
-\text{because } A \bar{C} \text{ is a subset of } A \bar{B} + B \bar{C}  
-
-\end{align}$$
-
-Three lens were used:
-- *Lens A* = vertically polarized lens ($\theta = 0$)
-- *Lens B* = lens polarized at angle $\theta$
-- *Lens C* = lens polarized at angle $2 \theta$
-
-These were run in 3 combinations, using vertically polarized quantum entangled photons and with $\theta = 22.5 \degree$ 
-
-The assumption was that the states of the quantum entangled photons only depends on their original hidden variables and cannot change just because a measurement was taken on the other particle. This assumption is proven false; therefore, there are no hidden variables as Einstein proposed.
 
 
 **Clauser-Horne-Shimony-Holt bell inequality** = used to experimentally prove bell's inequality
