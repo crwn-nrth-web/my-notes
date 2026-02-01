@@ -122,6 +122,7 @@ Defining the idea of an empirical science should satisfy three requirements =
 3. must be distinguishable from other such systems as the one which represents our world of experience
 
 
+
 [^1]: Theory and Reality, Godfrey-Smith, ed. 2, p. 79
 
 [^2]: from https://plato.stanford.edu/entries/induction-problem/

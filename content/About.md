@@ -5,7 +5,6 @@ draft: false
 tags:
   -
 ---
- 
 Welcome!! My name is Sibaal and I am an a third-year undergraduate studying Physics & Astronomy with a minor in Philosophy at the University of Waterloo. 
 
 This digital archive is a space where I organize and share my evolving understanding of the ideas that shape my studies — from the equations that describe our universe to the philosophical questions that ask what it means to know, perceive, or exist within it.
@@ -32,3 +31,6 @@ This is where I'll share notes, reflections, and half-formed ideas I’ve collec
 
 #### Disclaimer 
 This is very much a work in progress; in fact, no matter how much I add to this digital archive, it will never be complete. Most of these notes are collections of thoughts from what I've read, heard, and learnt throughout my undergrad. I am no way close to being an expert on anything I'm writing about it. I am simply a fledging academic that hopes to find a community. Thus, if you see any mistakes here, don't hesitate to point them out. Though, in all honesty, you will see typos and grammatical errors, and all I can say about that is: whoops. 
+
+## Files database
+![[Files.base]]
