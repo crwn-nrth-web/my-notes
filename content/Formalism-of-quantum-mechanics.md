@@ -133,6 +133,11 @@ these operators are called **Hermitian operators** which are by definition equal
 The Heisenberg uncertainty principle is the consequence of the axiom that all physical observables in quantum physics are represented by Hermitian operators
 
 #### Eigenvalue equations
+The collection of eigenvalues for a matrix is called its **spectrum**
+
+If two or more linearly independent eigenvectors share the same eigenvalue, then the spectrum is said to be **degenerate**
+
+##### Finding eigenvalues and eigenstates
 **Eigenvalue equations =**  $A\vec{v} = \lambda \vec{v}$ where
 - $A$ represents a square matrix of dimensions $n \times n$
 - $\vec{v}$ is a column bector with dimensions n
