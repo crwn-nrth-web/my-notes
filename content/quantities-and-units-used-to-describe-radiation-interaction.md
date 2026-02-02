@@ -21,8 +21,12 @@ tags:
 | energy absorption coefficient      | fraction of photon energy transferred into KE per unit thickness of absorber *excluding* energy loss to bremsstrahlung | $\mu_{ab}$              |                       |
 | mass energy transfer coefficient   |                                                                                                                        | $\frac{\mu_{ab}}{\rho}$ |                       |
 
-**Kerma** (Kinetic energy released per unit mass) = defined as the sum of initial kinetic energy of all the charged ionizing particles liberated by uncharged particle in a material of mass
+### Kerma and absorbed dose
+**Kerma** (Kinetic energy released per unit mass) = defined as the sum of initial kinetic energy of all the charged ionizing particles liberated by uncharged particle ($\partial E_{tr}$) in a material of mass
 - applicable to *indirectly ionizing radiation*
+
+$$K = \frac{\partial \bar{E_{tr}}}{dm}$$
+- SI unit: Gray (Gy) = J/kg
 
 Energy is transferred to electrons by photons in two ways:
 1. through collisions (low z materials) = **collision kerma**
@@ -31,4 +35,34 @@ Energy is transferred to electrons by photons in two ways:
 **radiation fraction** (g) = average fraction of the energy which is transferred to electrons and  
 then lost through radiative processes is represented by a factor g
 
+**exposure** = ionization equivalent of the collision kerma in air, i.e. the number of coulombs of charge created per joule of energy deposited is the charge created per unit mass of air (or exposure)
+
+$$X = (K_{\text{coll}})_{\text{air}} \frac{e}{W_{\text{air}}}$$
+
 **Absorbed dose** = energy absorbed in medium per unit mass
+$$D = \frac{\partial E_{ab}}{dm}$$ ^ba7822
+- SI unit: Gray (Gy) = J/kg
+
+Absorbed dose in the medium is related to the **electron fluence** in the medium
+$$D_{med} = \Phi \left( \frac{S_{\text{coll}}}{\rho} \right)_{med}$$
+where $\frac{S_{\text{coll}}}{\rho}$ is the unrestricted mass collision stopping power of the medium at the energy of the electron ^60e2f7
+
+This relation is valid under the condition =
+- photons escape the volume of interest
+- secondary electrons are absorbed on the spot
+- or there is charged particle equilibrium (CPE) of secondary electrons
+#### Relationship between collision kerma and absorbed dose
+
+*Difference between kerma and absorbed dose* = Kerma measures the amount of energy that is transferred from photons to electrons per unit mass at a certain position, while absorbed dose measures the energy deposited in a unit mass at a certain position
+
+At radiological energies, kerma and absorbed does are virtually equal. At higher energies, a photon may interact with tissue in one position and create an electron that posses enough energy to deposit energy at a location away from the interaction point.
+
+When a broad beam of photons enters a medium, 
+- kerma is a maximum at the surface and decreases with depth
+- absorbed dose builds up to a maximum and then decreases at the same rate as kerma
+- before the two curves meet (**build-up region**), the electron build up is less than complete $\beta < 1$ 
+- if photon attenuation is negilible through the region of interest, **electronic equilibrium** exists $\beta = 1$
+- At depths greater than the maximum range of electrons, attenuation of the primary occurs = **transient electronic equilibrium** $\beta > 1$ 
+
+![[Pasted image 20260202115114.png]]
+

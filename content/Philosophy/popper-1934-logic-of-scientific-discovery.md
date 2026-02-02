@@ -1,10 +1,10 @@
 ---
-title: popper-on-scientific-discovery
+title: popper-1934-logic-of-scientific-discovery
 draft: false
 tags:
   - philosophy
 ---
-> Popper, K. R., & Popper, K. R. (2008). _The Logic of scientific discovery_ (Repr. 2008 (twice)). Routledge.
+> Popper, K. R., & Popper, K. R. (1934). _The Logic of scientific discovery_ . Routledge.
 ### Main motivations
 Karl Popper begins by agreeing with [[Hume-on-the-problem-of-induction]] that no amount of observed instances can logically justify a universal law, but he denies that this poses a threat to science, like [[logical-empiricism]] leads us to believe. According to Popper, the problem of induction only arises because it is mistakenly assumed that science proceeds by induction from observation to universal laws. 
 

@@ -19,7 +19,7 @@ This discussion on knowledge beyond perception depends on assuming that at least
 Hume is not denying the importance of inductive inferences on the basis of past experiences, but there is a problem of the philosophical [[justification]] of [[confirmation-and-logic|induction]].
 
 Popper on the problem of induction =
-![[popper-on-scientific-discovery#^55bd95]]
+![[popper-1934-logic-of-scientific-discovery#^55bd95]]
 
 **the problem of induction** = what rational basis do we have for believing that the causal relations we've experienced in the past will persist into the future? we cannot justify it deductively and we cannot justify it inductively.
 
@@ -33,8 +33,8 @@ In contrast, for Hume, observed regularities brings us to expect that future cas
 
 Both predictive beliefs and generalizations tend to be made on the basis of extrapolation from observed cases. 
 
-[[popper-on-scientific-discovery]] =
-![[popper-on-scientific-discovery#^9cc609]]
+[[popper-1934-logic-of-scientific-discovery]] =
+![[popper-1934-logic-of-scientific-discovery#^9cc609]]
 #### Induction as causal reasoning
 Hume argues that our inductive reasoning is grounded in our idea of [[Causality]]. When we see one event regularly followed by another, we form the belief that the first caused the second and we can then make predictions. 
 

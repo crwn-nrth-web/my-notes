@@ -7,6 +7,7 @@ tags:
 ---
 [[exposure-attenuation]]
 [[quantities-and-units-used-to-describe-radiation-interaction]]
+[[cavity-theory]]
 ## Atomic and nuclear structure - background 
 **Plum-pudding model of the atom** (Thomson model) (1904) = positive and negative charges uniformly distributed uniformly over the atomic volume
 

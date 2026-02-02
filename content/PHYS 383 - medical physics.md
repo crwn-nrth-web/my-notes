@@ -1,5 +1,5 @@
 ---
-title: medical-physics
+title: PHYS 383 - Medical physics
 draft: false
 tags:
   - class
