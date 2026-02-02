@@ -10,8 +10,7 @@ Karl Popper begins by agreeing with [[Hume-on-the-problem-of-induction]] that no
 
 Popper posits that scientific theories are conjectures proposed independently of experience and are tested deductively through their observable consequences. Inductive justification is not required because no amount of positive evidence can verify a theory, it advances through falsification instead.
 
-
- Karl Popper believed that scientific theories can only be **falsified** (proven to be false) and that scientific theories do not get inductively confirmed. This in contrast to [[logical-empiricism]] that focuses on [[confirmation-and-logic]].
+Karl Popper believed that scientific theories can only be **falsified** (proven to be false) and that scientific theories do not get inductively confirmed. This in contrast to [[logical-empiricism]] that focuses on [[confirmation-and-logic]].
 
 **Falsificationism** = a hypothesis is scientific if and only if it has the potential to be refuted by some possible observation[^1]
 
@@ -55,7 +54,7 @@ $\rightarrow$ falsification
 
 For Popper, an ad hoc hypothesis for this falsification = e.g.. = Blue litmus paper turns red in clear liquids not water
 
-## Section 1: Problem of induction
+### Section 1: Problem of induction
 
 Whether inductive inferences can be justified is called the [[Hume-on-the-problem-of-induction|problem-of-induction]], but can also be described as "the question of the truth of universal statements which are based on experience", such as hypotheses and theoretical claims in science. ^55bd95
 
@@ -81,11 +80,11 @@ Popper insists a strong distinction between psychology of knowledge and logic of
 
 Popper notes that philosophers mistakenly blur this distinction, especially when defending inductive inferences. Popper stresses that psychological tendencies does not amount to logical justification for inferences (like Hume believes our confidence in induction is a product of habit, but that does not justify induction).
 
-## Section 2: Elimination of Psychologism
+### Section 2: Elimination of Psychologism
 
 For Popper, the question of how a person gets a new idea is an interest to empirical psychology and is irrelevant to the logical analysis of scientific knowledge. Logical analysis of scientific knowledge is concerned with matters of justification or validity. His view is that there is no logical method of having new ideas, and that there is a distinct difference between the process of conceiving an idea, and the methods and results of logically examining it.
 
-## Section 3: deductive testing of theories
+### Section 3: deductive testing of theories
 
 Popper outlines the *method of critically testing theories* as followed =
 1. set forth a hypothesis (not yet justified in any way)
@@ -106,7 +105,7 @@ Popper thus defines theories by **corroboration** = the measure of how well a sc
 
 A corroborated theory are not proven true, or mor likely to be true, but instead represent the best-tested option.
 
-## Section 4: The problem of Demarcation
+### Section 4: The problem of Demarcation
 Removing the method of induction could be said to remove empirical science of its most important characteristic and the distinction that separates science from metaphysical speculation. 
 
 **Problem of Demarcation** = the problem of finding a criterion which would enable us to distinguish between empirical sciences on one hand, and mathematics + logic + other "metaphysical" systems on the other = finding the criterion of distinguishing *science* from *pseudo-science*
@@ -114,12 +113,14 @@ Removing the method of induction could be said to remove empirical science of it
 For Kant, the problem of demarcation was the central problem of the theory of knowledge, and in fact the most fundamental issue to the philosophy of science. 
 
 For [[logical-empiricism]], the implied criterion of demarcation is the view that meaning of a claim is in its method of verification (i.e. [[logical-empiricism#Verification theory of meaning|verification theory of meaning]]). Popper notes that [[logical-empiricism]] believes that they need to *discover* a difference, in the nature of things, between empirical science and metaphysics, and that metaphysics is by nature nonsense[^3].
-## Section 5: Experience as a method
+### Section 5: Experience as a method
 
 Defining the idea of an empirical science should satisfy three requirements =
 1. it must by synthetic, so it represents a non-contradictory, possible world
 2. satisfy the criterion of demarcation i.e. must not be metaphysical
 3. must be distinguishable from other such systems as the one which represents our world of experience
+
+# Problems with Popper
 
 
 
