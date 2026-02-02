@@ -66,7 +66,7 @@ Conclusion: Therefore, past regularities will persist into the future
 
 However, by arguing from past experiences, it forms an inductive argument to defend the principle of the uniformity of nature.
 
-**Problem of circularity** = in order to justify inductive arguments, the principle of the uniformity of nature is required to bridge the gap between the premises about that we have observed to the conclusion about cases that we haven't observed. However, in order to justify the principle itself and inductive argument is needed. This makes the whole approach viciously circular / it seems to "beg the question"
+**Problem of circularity** = in order to justify inductive arguments, the principle of the uniformity of nature is required to bridge the gap between the premises about that we have observed to the conclusion about cases that we haven't observed. However, in order to justify the principle itself,  inductive argument is needed. This makes the whole approach viciously circular / it seems to "beg the question"
 
 i.e. that the attempt to justify inductive inference already relies on inductive inference
 #### causal powers as evidence
