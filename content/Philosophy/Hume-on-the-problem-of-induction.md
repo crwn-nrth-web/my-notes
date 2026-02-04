@@ -5,7 +5,7 @@ tags:
 aliases:
   - problem-of-induction
 draft: false
-title: Inductive-inferences
+title: Hume-on-the-problem-of-induction
 ---
  > [!source] Hume, D. (2006). _An Inquiry Concerning Human Understanding_, Section IV, Part II. Urbana, Illinois: Project Gutenberg. (Original work published in 1748)
 > 
