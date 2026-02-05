@@ -54,7 +54,7 @@ For the R/L basis measurement,
 ### Quantum entanglement and Bell states
 **Quantum entanglement** is the idea that particles (in this case, photons) can be correlated in a quantum mechanical sense, so that changing the state of one particle changes the state of the other when they "reconnect" with one another.
 
-ell states are maximally entangled quantum states. There are four possible Bell states for polarization-entangled photons:
+Bell states are maximally entangled quantum states. There are four possible Bell states for polarization-entangled photons:
 $$
 \begin{align}
 \ket{\phi^+} = \frac{\ket{HH} + \ket{VV}}{\sqrt{2}},\\
