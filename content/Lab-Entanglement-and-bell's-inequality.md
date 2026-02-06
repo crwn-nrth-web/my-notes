@@ -96,24 +96,6 @@ $$|S| = |E(a,b) + E(a' , b) - E(a, b') - E(a' , b')| \leq 2$$
 **spontaneous parametric downconversion (SPDC)** = a non-linear optical process where a photon spontaneously splits into two other photons of lower energies[^2]
 
 
-
-
-**Clauser-Horne-Shimony-Holt bell inequality** = used to experimentally prove bell's inequality
-
-> ***See also:***
-> [Superposition and entanglement notes](https://howfarawayisit.com/wp-content/uploads/2025/11/Quantum-Entangelment-2025.pdf)
-> [[quantum-superposition]]
-> 
-
-## Experimental set-up
-![[Pasted image 20260122110255.png]]
-The figure above shows a polarization-entangled photon pair source. Polarization entangled photon pairs from the source are collected in optical fibers and directed to polarization analyzers for correlation measurements.
-
-### Experiment 1: Bell state preparation demo
-
-
-
-
 [^1]: Fine, Arthur, (2020) "The Einstein-Podolsky-Rosen Argument in Quantum Theory", _The Stanford Encyclopedia of Philosophy_, Edward N. Zalta (Summer 2020 ed.), https://plato.stanford.edu/entries/qt-epr/
 
 [^2]: Couteau, C. (2018). Spontaneous parametric down-conversion. _Contemporary Physics_, _59_(3), 291–304. https://doi.org/10.1080/00107514.2018.1488463
