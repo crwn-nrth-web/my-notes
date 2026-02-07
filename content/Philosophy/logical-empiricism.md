@@ -54,8 +54,12 @@ For logical positivists, the unobservable structures (e.g. DNA, electrons) in sc
 	- the problem is defining the verifiability principle of meaning in a way that that excludes metaphysics while including theoretical principles used in science.
 2. logical focus too limited = neglects history of science, values of science
 3. [[Quine-on-the-defects-of-logical-empiricism]] in *Two Dogmas of Empiricism* (1953) argued for a **holistic theory of testing**
-	- holism property about theory testing = it is not possible to test a single statement in isolation; a theory is tested as a whole
+	- holism property about theory testing = it is not possible to test a single statement in isolation; a theory is tested as a whole 
 	- One main problem with the [[#Verification theory of meaning]] is that in order to test one claim, you need to test a long complicated conjunction of statements that give you the whole prediction. If a test has an unexpected result, then something in the conjunction is false, but the test itself does not tell where the error is. 
+
+![[popper-1934-logic-of-scientific-discovery#^d87386]]
+
+
 4. there is no such analytic-synthetic distinction
 	- Quine's argument against logical empiricism = [[Quine-on-the-defects-of-logical-empiricism]]
 

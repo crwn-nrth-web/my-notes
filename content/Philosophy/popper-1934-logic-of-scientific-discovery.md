@@ -82,13 +82,34 @@ Defining the idea of an empirical science should satisfy three requirements =
 
 Experience hence acts as a method to distinguish our would from other theoretical systems, and so the theory of knowledge ("whose task is the analysis of the method particular to empirical science") can be described as the theory of the empirical method, i.e. experience.
 
+### Section 7: Problems of empirical basis
+Popper holds onto the idea that science is an empirical enterprise and so the question of how experience can test theories remain a serious one.
 
+Popper defines **empirical basis** as "problems concerning the empirical character of singular statements and how they are tested" (p. 21)
 
 
 # Problems with Popper
+1. This does not solve the problem of holism about testing (that [[logical-empiricism]] also struggled with)
+	- whenever we try to test a theory by comparing it with observations, we must make a large number of additional assumptions in order to bring the theory and observations into "contact" with each other, If an unexpected result occurs it is always possible to blame the assumption rather than the theory itself. ^d87386
+	- Popper's answer to the holist objection is that while logically, it is always possible to blame other assumptions involved in the test, a good scientist would not try to do this. 
+	- This, however, moves away from describing a characteristic of scientific theories to describing a characteristic of scientific behavior
+2. we cannot be completely certain about the observation reports that we use to falsify the theory
+	- we assume that the observation report is certain and true, but that is not always the case.
+	- Popper insists that while we make conventional decisions to accept certain observation report, this is fundamentally different from making arbitrary decisions about which theories to accept or reject
+	- But it could be argued by critics that this "fundamental difference" is not defined 
+	- *Example:* Copernicus' heliocentric astronomical theory predicted that during the course of the year, the apparent size of both Venus and Mars should change significantly but with the naked eye, no such change of Venus's size were observed. In this case, Copernicus' theory should not be falsified because the observation was to blame
 
+These points show that any system of hypotheses can be held onto despite falsification depending on the decisions made. Note that this does not necessarily cause problems for Popper's differentiation between science and pseudo-science, as Popper claims that while scientific claims can be falsifiable by observation reports, a pseudo-science does not clash with any possible observation. 
 
+###### the problem with corroboration - the bridge building challenge
 
+> "Suppose we are trying to build a bridge, and we need to use physical theories to tell us which designs are stable and will support the weight that the bridge must carry. . . How does Popper’s philosophy treat the bridge-building situation? . . . suppose we have to choose between (1) a theory that has been tested many times and has passed every test, and (2) a brand new theory that has just been conjectured and has never been tested. Neither theory has been falsified. We would ordinarily think that the rational thing to do is to choose the theory that has survived testing. But what can Popper say about this choice? Why exactly would it be irrational, for Popper, to build the bridge using a brand new theory that has never been tested?"
+> 
+> Theory and Reality, Godfrey-Smith, p. 67
+
+Popper refuses to say that when a theory passes a test, we have more reason to believe that the theory is true. Instead, he uses the notion of **corroboration** to explain why it is more rational to choose the bridge that has survived more tests at falsifying it.
+
+The problem with corroboration is that it can be questioned that corroboration is simply just a new name Popper gave to confirmation. If so, Popper has given up one of his main difference from logical empiricists. If not, there seems to be no particular why we should choose a corroborated theory over a non-corroborated theory when we build a bridge; because corroboration is simply a "record" of past tests and gives no prediction for future tests. So, claiming that corroboration gives a rational reason to prefer one theory over another seems to smuggle the notion of induction in (that Popper was against)
 
 [^2]: from https://plato.stanford.edu/entries/induction-problem/
 
