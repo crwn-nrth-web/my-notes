@@ -15,11 +15,11 @@ Whats going on nowadays, when we give up the "old paradigm" we sometimes still u
 3. STAGE 3 = Crisis 
 4. STAGE 4 = Revolution
 5. STAGE 5 = Normal Science (scientific activity governed by a different paradigm than stage 2)
-6. STAGE 6 = Crisi
+6. STAGE 6 = Crisis
 . . . 
 
 #### Paradigm
-
+As define by Theory and reality (Godfrey-Smith) p. 77:
 - **broad sense:** package of ideas and methods, which, when combined, make up both a view of the world and a way of doing science
 - **narrow sense:** one key part of a paradigm in the broad sense is a specific achievement, or an exemplar (something that inspires other to shift their thinking towards a different way of investigating the world, leading to the paradigm)
 
