@@ -18,6 +18,10 @@ Thanks for visiting. If you’d like to connect, collaborate, or just talk about
 
 This is where I'll share notes, reflections, and half-formed ideas I’ve collected for the past three years. Nothing here is set in stone; these are working notes, always open to revision and expansion.
 ## Navigation
+**Check out:**
+ #essay are collections of ideas in a rough semblance of an essay
+ 
+![[Essays.base]]
 
 **Current Collections:**
 - #class = Most of my archive exists because of courses I’ve taken during my undergrad. indexes for Courses will have this tag, and this is a good place to start if you want to trace my studies.

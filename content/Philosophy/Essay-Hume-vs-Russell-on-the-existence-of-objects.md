@@ -2,12 +2,13 @@
 title: Essay-Hume-vs-Russell-on-the-existence-of-objects
 draft: false
 tags:
-  -
+  - philosophy
+  - essay
 ---
  
 > **_Prompt:_ Despite agreeing on certain points regarding the nature of sensory experience, Hume and Russell disagree on whether such experience affords a solid rational foundation for believing in the existence of external objects--with Hume adopting a skeptical position, and Russell arguing against such skepticism. Compare and contrast Hume and Russell on this issue, paying particular attention to the reasoning that leads them to their respective conclusions. Finally, critically evaluate the debate. Whose view, Hume’s or Russell’s, do you find more credible, and why? Argue for your position.**
 
-> [!sources]
+> ***Sources:***
 > [[Skepticism|Humean-skepticism-about-the-external-world]]
 > [[Russell-on-existence-of-external-objects]]
 

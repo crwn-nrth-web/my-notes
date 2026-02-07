@@ -10,7 +10,7 @@ tags:
 - [[logical-empiricism]]
 - [[confirmation-and-logic]]
 - [[popper-1934-logic-of-scientific-discovery]]
-- [[Khun-1962-structure-of-scientific-revolutions]]
+- [[Kuhn-1962-structure-of-scientific-revolutions]]
 - [[Lakatos-and-Feyerabend]]
 - [[values-in-science]]
 - [[feminist-philosophy-of-science]]
