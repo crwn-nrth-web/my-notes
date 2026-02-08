@@ -52,14 +52,21 @@ CIRT is an **external beam radiation therapy**, sending high-energy carbon ions 
 | The cost of developing and maintaining a heavy-ion center has been a challenge for its adoption in the US, with Pompos et el. (as cited by [^1]) estimates cost to be roughly twice as expensive as a proton center                                                      | Due to the high construction and operation costs of the accelerator system, there is still controversy on whether carbon ion RT is too expensive for the potential outcome improvements claimed. [^4]                                                                                                                                                                                                                                            |
 
 ### Clinical use and evidence
-- The primary approach to managing glioblastoma (most prevelant and severe primary brain tumor in adults) is radiation therapy. However, a challenging aspect of delivering doses to the tumors is the prevention of radiation exposure to critical organs and tissues surrounding the tumor, which can lead to adverse effects to patient’s quality of life. In order to prevent this, CIRT has been proposed as a viable technique due to its high RBE, high LET, enhanced dose conformity and decreased total dose to normal tissues. Findings indicate that overal survial, progression free-survival and tumor local control improved, comparing carbon ion radiotherapy to alternative treamtment, such as proton therapy. [^8]
+- The primary approach to managing glioblastoma (most prevalent and severe primary brain tumor in adults) is radiation therapy. However, a challenging aspect of delivering doses to the tumors is the prevention of radiation exposure to critical organs and tissues surrounding the tumor, which can lead to adverse effects to patient’s quality of life. In order to prevent this, CIRT has been proposed as a viable technique due to its high RBE, high LET, enhanced dose conformity and decreased total dose to normal tissues. Findings indicate that overall survival, progression free-survival and tumor local control improved, comparing carbon ion radiotherapy to alternative treatment, such as proton therapy. [^8]
+
 - By December 2020, approximately 37,500 patients had been treated at 12 CIRT centers across Asia and Europe[^10]
-- As of 2024, around 13 active CIRT center operate world-wide, mainly in Japan, Germany, China, Italy and Austria[^10]
-- contrast with the 80 operational proton therapy centers worldwide, with over 100 under developement[^10]
-- 
+- As of 2025, around 13 active CIRT center operate world-wide, mainly in Japan, Germany, China, Italy and Austria, contrast with the 80 operational proton therapy centers worldwide, with over 100 under development[^10]
 
 
-#### essay
+
+##### phases of a clinical trial
+
+Common phases for clinical trials for cancer are[^11]
+1. **Phase 1** = used to see how safe a treatment is and what the best dose is. 15 - 30 people in the trial
+2. **Phase 2** = used to show how well a treatment works for a certain type of cancer, seeing how safe a treatment is, and possible side-effects. fewer than 100 people in the trial
+3. **Phase 3** = compares the promising new treatment to the standard treatment. several hundred to several thousand people
+4. **Phase 4** = gather more information of possible effect after the treatment has been approved for use. several hundred to several thousand people
+### essay
 
 **_Thesis:_** Carbon ion radiotherapy represents an advanced treatment modality that combines superior physical dose localization with enhanced biological effectiveness, making it particularly for radio-resistant and deep-seated tumors.
 
@@ -83,3 +90,5 @@ CIRT is an **external beam radiation therapy**, sending high-energy carbon ions 
 [^9]: Lazar, A. A., Schulte, R., Faddegon, B., Blakely, E. A., & Roach III, M. (2018). Clinical trials involving carbon-ion radiation therapy and the path forward. _Cancer_, _124_(23), 4467–4476. [https://doi.org/10.1002/cncr.31662](https://doi.org/10.1002/cncr.31662)
 
 [^10]: Sumaida, A. B., Shanbhag, N. M., AlKaabi, K., Balaraj, K., Sumaida, A. B., Shanbhag, N. M., AlKaabi, K., & Balaraj, K. (2025). Cost-Effectiveness of Carbon Ion Radiotherapy in Oncology: A Systematic Review. _Cureus_, _17_(5). [https://doi.org/10.7759/cureus.84008](https://doi.org/10.7759/cureus.84008)
+
+[^11]: cancer, C. C. S. / S. canadienne du. (n.d.). _Types and phases of clinical trials_. Canadian Cancer Society. Retrieved February 8, 2026, from [https://cancer.ca/en/treatments/clinical-trials/types-and-phases-of-clinical-trials](https://cancer.ca/en/treatments/clinical-trials/types-and-phases-of-clinical-trials)
