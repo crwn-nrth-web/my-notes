@@ -5,7 +5,9 @@ tags:
   - philosophy
 ---
 Kuhn emphasizes the arbitrary, personal nature of factors often influencing scientific decisions, the rigidity of scientific indoctrination of students, the "conceptual boxes" that nature gets forced into by scientists. He suggests that these features are actually the key to science's success. 
-## Kuhn's account of science
+
+[[Kuhn-on-scientific-revolutions]]
+# Kuhn's account of science
 
 1. STAGE 1 = Pre-paradigm
 2. STAGE 2 = Normal Science (scientific activity governed by a particular paradigm)
@@ -22,8 +24,13 @@ Kuhn emphasizes the arbitrary, personal nature of factors often influencing scie
 
 The transformation from one paradigm to the other are **scientific revolutions**, and the successive transition from one paradigm to the other via revolution is the usual development pattern of mature science.
 
-The period before Newton do not have this characteristic pattern, since there were not a single generally accepted view about light. While the various schools before Newton may have been doing science, the net result was something less than science since there was no standard set of method or phenomena. Hence, the early stages of the development of any science involves different people describing and interpreting the same range of phenomena in different ways. The end of the early stages is the triumph of one pre-paradigm schools as the first paradigm.
-#### Paradigm
+### pre-science
+Pre-science is the period of activity that precedes the first period of normal science in a particular field of study, e.g. the period before Newton's *Opticks*
+- there is no general agreement about what problems or evidence is important, or what methods of investigation are legitimate
+- there would be many schools of thought "doing science", but according to Kuhn, the net result is something less than science
+- the early stages of the development of any science involves different people describing and interpreting the same range of phenomena in different ways. 
+- The end of the early stages is the triumph of one pre-paradigm schools as the first paradigm.
+### Paradigm
 As define by Theory and reality (Godfrey-Smith) p. 77:
 - **broad sense:** package of ideas and methods, which, when combined, make up both a view of the world and a way of doing science
 - **narrow sense:** one key part of a paradigm in the broad sense is a specific achievement, or an exemplar (something that inspires other to shift their thinking towards a different way of investigating the world, leading to the paradigm)
@@ -40,6 +47,7 @@ As define by Theory and reality (Godfrey-Smith) p. 77:
 - consensus = using shared paradigms means to be committed to the same rules and standards for scientific practice. That commitment and the consensus on what the world is like are prerequisites for normal science. 
 - A paradigm's role is to organize scientific work as it coordinates the work of individuals into an efficient collective enterprise.[^1]
 
+In chapter 3 *Nature to normal Science*, Kuhn emphasizes that paradigms are often limited in both scope and precision at the time of its first appearance and that
 > "Paradigms gain their status because they are more successful than their competitors in solving a few problems that the group of practitioners has come to recognize as acute." (p. 23) 
 
 **emergence of a paradigm affects the structure of the group** (p.18 - 19) =
@@ -49,38 +57,69 @@ As define by Theory and reality (Godfrey-Smith) p. 77:
 - once the paradigm is accepted, the first principles and concepts do not need to be mentioned in every major work and is left to be mentioned in textbooks. This means that research articles end up being addressed to professional who have the knowledge of the shared paradigm (the works are no longer accessible to the general public)
 
 Kuhn believes that we need to give up the old paradigm completely when we gain a new paradigm as they cannot translate together.
+- What's going on nowadays between classical mechanics and quantum physics is that even though we have acknowledge the short-comings of the "old paradigm" (Newtonian) we sometimes still use the old paradigm in limited applications.
 
-What's going on nowadays between classical mechanics and quantum physics is that even though we have acknowledge the short-comings of the "old paradigm" (Newtonian) we sometimes still use the old paradigm in limited applications.
-#### Normal science
+### Normal science
 
 Kuhn defines *normal science* as =
 > "‘normal science’ means research firmly based upon one or more past scientific achievements, achievements that some particular scientific community acknowledges for a time as supplying the foundation for its further practice." (p. 10)
 
-In other words, for Kuhn, a scientific field is defined as an area of scientific investigation unified by a single paradigm. A key feature that distinguishes normal science from other kinds of science is the absence of debate about fundamentals, from the consensus-forging role of paradigms[^1]. This is an important contrast with [[popper-1934-logic-of-scientific-discovery]]; Popper's view holds that a good scientist is permanently open-minded with respect to all issues in the field, while Kuhn "closes off" debates about the fundamentals. 
+In other words, for Kuhn, a scientific field is defined as an area of scientific investigation unified by a single paradigm. 
+- Most of the success of the enterprise derives from the community's willingness to defend that paradigm.
 
-Most of the success of the enterprise derives from the community's willingness to defend that assumption.
+A key feature that distinguishes normal science from other kinds of science is the absence of debate about fundamentals, from the consensus-forging role of paradigms[^1]. 
+- an important contrast with [[popper-1934-logic-of-scientific-discovery]]; Popper's view holds that a good scientist is permanently open-minded with respect to all issues in the field, while Kuhn "closes off" debates about the fundamentals. 
 
-Kuhn describes much of the work done in normal science as "puzzle-solving", using the tools and concepts provided by the paradigm to describe, model, or create new phenomena. "Puzzle" is a specific word choice, demonstrating that while it has not yet be solved, it does think to be solvable, and that a normal scientist does spend a lot of time on topics that look insignificant from the outside.
+> "[Normal science] seems an attempt to force nature into the preformed and relatively inflexible box that the paradigm supplies." (p. 24)
 
-> "[Normal science] seems an attempt to force nature into the preformed and relatively inflexible box that the paradigm supplies."
+**There are three main kinds of knowledge that a paradigm allows its practitioners to focus on** (p. 25-27 ) =
+1. a class of facts that "the paradigm has shown to be particularly revealing of the nature of things" 
+	- e.g. star positions in astronomy, or wavelength in physics
+	- will create new tools and apparatus to increase the accuracy and scope of these facts
+2. facts that can be compared directly with the predictions from the paradigm theory
+3. empirical work undertaken to articulate the paradigm theory
+	- determination of physical constants (e.g. Avogadro's constant)
+	- determination of quantitative laws (e.g. Boyle's law)
+	- resolutions of ambiguities in applying the theory to new phenomena
 
-Normal science has drastically restricted vision, born from confidence of the paradigm. 
+**Types of theoretical problems normal science works on** (p. 30-34) =
+1. using existing theory to predict factual information of interest 
+	- e.g. cataloguing calculated positions, velocities, and trajectories of celestial bodies using Newtonian mechanics
+2. manipulations of theory undertaken to compare the paradigm's predictions against facts
+	- Newton's *Principia* was optimized for celestial bodies so the theory needed to be adapted for terrestrial bodies
+3. clarification of the paradigm through reformulation
 
-#### Crisis science
+#### normal science as puzzle solving (Chapter 4)
+Kuhn describes much of the work done in normal science as **"puzzle-solving"**, using the tools and concepts provided by the paradigm to describe, model, or create new phenomena. 
 
-According to Kuhn, the rejection of a paradigm happens only when 
-1. a critical mass of anomalies has arisen
+"Puzzle" is a specific word choice, demonstrating that 
+- the problems chosen by the paradigm can be assumed to have a solution
+- it may seem insignificant work from the outside. To scientists though, the results gained are significant because they add to the scope and precision to the paradigm
+- there must be rules that limit the nature of acceptable solutions and the steps by which they are obtained (p. 38)
+
+Kuhn emphasizes that normal science actually discourages novelty and original thinking and instead follows a restricted vision given by the paradigm. 
+
+**The main categories of rules that restrict acceptable solutions to the research problems of normal science** (p. ) =
+1. theoretical = explicit statements about scientific laws, concepts, theories
+2. instrumental = commitments to preferred instrumentation and its legitimate use
+3. methodological = quasi-metaphysical and methodological commitments to fundamental sorts of entities and acceptable forms of explanations
+4. conceptual = commitments to "understand the world and to extend the precision and scope with which it has been ordered"
+
+> The ways in which paradigms guide normal science research cannot always be reduced to rules. (p. 42)
+
+[[Essay-Kuhn-on-what-keeps-scientists-engaged]]
+### Crisis science
+
+According to Kuhn, the rejection of a paradigm happens only when = 
+1. a critical mass of anomalies (puzzles that have resisted solution) has arisen
 	- e.g. "equipment designed and constructed for the purpose of normal science fails to perform in the anticipated manner, revealing an anomaly that cannot, despite repeated efforts, be aligned with the professional expectations" p. 6
 2. a rival paradigm has appeared
 
 At some point, scientists start to lose faith in their paradigm, resulting in a **crisis**. **Crisis science** is a special transition period when an existing paradigm has lost the ability to inspire and guide scientists, but when no new paradigm has emerged to get the field on track. 
 
-Kuhn sees the breakdown of a paradigm as part of the "proper functioning" of science. Normal science is structured in a way that makes its own destruction inevitable, but only in response to the "right stimuli" i.e. appearance of problems that are deep rather than superficial. For Popper or [[logical-empiricism]], anomalies count as refutations of a theory, but for Kuhn if scientists drop their paradigms every time a problem arose, they would not get anything done.
-#### Scientific revolution
+Kuhn sees the breakdown of a paradigm as part of the "proper functioning" of science. Normal science is structured in a way that makes its own destruction inevitable, but only in response to the "right stimuli" i.e. appearance of problems that are deep rather than superficial. 
 
-at some point following a crisis, an alternative paradigm is proposed and  scientists decide to replace the old paradigm with this new paradigm = paradigm shift via a**scientific revolution**. 
-
-When Kuhn talks about scientific revolutions, he does not just mean the big revolutionary ones (Copernicus, Newton, Einstein, etc.), he is also referring to the other episodes that were not so obvious, like Maxwell's equations. The main feature of a scientific revolution for Kuhn is that the assimilation requires "re-construction of prior theories and re-evaluation of prior facts" (p. 7). Along with this, scientific revolutions also apply to new discoveries (e.g. discovering oxygen, or x-rays) because normal science specify not just what the universe contains, but also what does not exist. 
+For Popper or [[logical-empiricism]], anomalies count as refutations of a theory, but for Kuhn if scientists drop their paradigms every time a problem arose, they would not get anything done.
 
 ## Section 1: Introduction - role of history
 Kuhn begins his account with the aim that studying the history of science presents a different concept of science than what traditional science is thought to be.
