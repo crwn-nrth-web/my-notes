@@ -5,5 +5,5 @@ tags:
   - class
 ---
  [[Radiological-physics]]
- [[Radio-biology]]
- [[Imaging]]
+ [[Radiobiology]]
+ [[Medical-Imaging]]
