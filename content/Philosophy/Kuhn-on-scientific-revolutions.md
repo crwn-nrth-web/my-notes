@@ -1,6 +1,6 @@
 ---
 title: Kuhn-on-scientific-revolutions
-draft: false
+draft: true
 tags:
   - philosophy
 ---
@@ -12,3 +12,80 @@ When [[Kuhn-1962-structure-of-scientific-revolutions]] talks about scientific re
 
 The main feature of a scientific revolution for Kuhn is that the assimilation requires "re-construction of prior theories and re-evaluation of prior facts" (p. 7). Along with this, scientific revolutions also apply to new discoveries (e.g. discovering oxygen, or x-rays) because normal science specify not just what the universe contains, but also what does not exist.  
 
+**Theory-ladenness of observation**
+
+> But is sensory experience fixed and neutral? Are  
+theories simply man-made interpretations of given  
+data? The epistemological viewpoint that has  
+most often guided Western philosophy for three  
+centuries dictates an immediate and unequivocal  
+Yes! In the absence of a developed alternative, I  
+find it impossible to relinquish entirely that  
+viewpoint. Yet it no longer functions effectively,  
+and the attempts to make it do so through the  
+introduction of a neutral language of observations  
+now seem to me hopeless. – SSR, p. 125
+
+- he is criticizing Popper and logical empiricists
+
+**revolutions as change of world view** = [[Kuhn-1962-structure-of-scientific-revolutions#Example paradigm shift from the phlogiston to oxygen]] is an example of the discontinue-ness between the old paradigm and new paradigm
+
+> Examining the record of past research from the  
+vantage of contemporary historiography, the  
+historian of science may be tempted to exclaim that  
+when paradigms change, the world itself changes  
+with them. Led by a new paradigm, scientists adopt  
+new instruments and look in new places. Even  
+more important, during revolutions scientists see  
+new and different things when looking with familiar  
+instruments in places they have looked before. It is  
+rather as if the professional community had  
+been suddenly transported to another planet  
+where familiar objects are seen in a different  
+light and are joined by unfamiliar ones as well. p. 110
+
+astronomical examples (p. 114-115) 
+- Herschel identifies Uranus as comet, and then Lexell identifies it as a planet after at least 17 different occasions on which a “star” had been observed in same location as Uranus
+	- Kuhn calls this a *minor paradigm shift* which allows 20 new minor planets (asteroids) identified
+- Western astronomers first observe change in heavens (e.g., sunspots, comets, new stars) in 50 years after Copernicus (after the paradigm that the stars were not perfect)
+
+**Gestalt switch** =
+
+>The subject of a gestalt demonstration knows that  
+his perception has shifted because he can make it  
+shift back and forth repeatedly while he holds the  
+same book or piece of paper in his hands. Aware  
+that nothing in his environment has changed, he  
+directs his attention increasingly not to the figure  
+(duck or rabbit) but to the lines on the paper he is  
+looking at. ... Unless there were an external  
+standard with respect to which a switch of vision  
+could be demonstrated (e.g., lines on paper), no  
+conclusion about alternate perceptual possibilities  
+could be drawn. ... ... With scientific observation, however, the situation  
+is exactly reversed. The scientist can have no  
+recourse above or beyond what he sees with his  
+eyes and instruments. If there were some higher  
+authority by recourse to which his vision might be  
+shown to have shifted, then that authority would  
+itself become the source of the data, and the  
+behaviour of his vision become a source of  
+problems... The same sorts of problems would  
+arise if the scientist could switch back and forth like  
+the subject of the gestalt experiments.  
+- SSR, p. 113
+
+**PARADIGM SHIFTS ARE LIKE GESALT SWITCHES**
+
+**How do revolutions end** =
+> As in political revolutions, so in paradigm  
+choice—there is no standard higher than  
+the assent of the relevant community. To  
+discover how scientific revolutions are  
+effected, we shall therefore have to  
+examine not only the impact of nature  
+and of logic, but also the techniques of  
+persuasive argumentation effective  
+within the quite special groups that  
+constitute the community of scientists. -  
+SSR, p. 93

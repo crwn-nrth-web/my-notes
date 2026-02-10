@@ -7,6 +7,8 @@ tags:
 Kuhn emphasizes the arbitrary, personal nature of factors often influencing scientific decisions, the rigidity of scientific indoctrination of students, the "conceptual boxes" that nature gets forced into by scientists. He suggests that these features are actually the key to science's success. 
 
 [[Kuhn-on-scientific-revolutions]]
+
+> question: what would Kuhn account for the disciplinary specializations that are common nowadays? A a paradigm splitting into different sub-paradigms?
 # Kuhn's account of science
 
 1. STAGE 1 = Pre-paradigm
@@ -24,13 +26,13 @@ Kuhn emphasizes the arbitrary, personal nature of factors often influencing scie
 
 The transformation from one paradigm to the other are **scientific revolutions**, and the successive transition from one paradigm to the other via revolution is the usual development pattern of mature science.
 
-### pre-science
+## pre-science
 Pre-science is the period of activity that precedes the first period of normal science in a particular field of study, e.g. the period before Newton's *Opticks*
 - there is no general agreement about what problems or evidence is important, or what methods of investigation are legitimate
 - there would be many schools of thought "doing science", but according to Kuhn, the net result is something less than science
 - the early stages of the development of any science involves different people describing and interpreting the same range of phenomena in different ways. 
 - The end of the early stages is the triumph of one pre-paradigm schools as the first paradigm.
-### Paradigm
+## Paradigm
 As define by Theory and reality (Godfrey-Smith) p. 77:
 - **broad sense:** package of ideas and methods, which, when combined, make up both a view of the world and a way of doing science
 - **narrow sense:** one key part of a paradigm in the broad sense is a specific achievement, or an exemplar (something that inspires other to shift their thinking towards a different way of investigating the world, leading to the paradigm)
@@ -50,16 +52,31 @@ As define by Theory and reality (Godfrey-Smith) p. 77:
 In chapter 3 *Nature to normal Science*, Kuhn emphasizes that paradigms are often limited in both scope and precision at the time of its first appearance and that
 > "Paradigms gain their status because they are more successful than their competitors in solving a few problems that the group of practitioners has come to recognize as acute." (p. 23) 
 
-**emergence of a paradigm affects the structure of the group** (p.18 - 19) =
+**emergence of a paradigm affects the structure of the group** (p. 18 - 19) =
 - when an individual or group first produces a synthesis that attracts most of the next generation's practitioners, the older schools gradually disappear because their members convert to the new paradigm
 - the new paradigm implies a new and more rigid definition of the field
-- those unwilling or unable to accommodate their work to the new paradigm proceed in isolation or attach themselves to some other group
+- those unwilling or unable to accommodate their work to the new paradigm proceed in isolation or attach themselves to some other group ==*"Some people just got to die!" - Dr. Fraiser*==
 - once the paradigm is accepted, the first principles and concepts do not need to be mentioned in every major work and is left to be mentioned in textbooks. This means that research articles end up being addressed to professional who have the knowledge of the shared paradigm (the works are no longer accessible to the general public)
 
 Kuhn believes that we need to give up the old paradigm completely when we gain a new paradigm as they cannot translate together.
 - What's going on nowadays between classical mechanics and quantum physics is that even though we have acknowledge the short-comings of the "old paradigm" (Newtonian) we sometimes still use the old paradigm in limited applications.
 
-### Normal science
+##### Example: paradigm shift from the phlogiston to oxygen
+
+In retrospect, several candidates P and L contributed to what we now know to be at least some form of oxygen. P experiments gave L hints for his later theory but did not see it as "oxygen"; in 1775 he saw the gas as dephlogisticated air, which is still not oxygen. L recognizes the gas as "air itself" and was closer to our concept of oxygen but could still not be said to be oxygen
+
+> " 'Oxygen was discovered,' misleads by suggesting that discovering something is a single simple act assimilable to our usual (and also questionable) concept of seeing. That is why we so readily assume that discovering, like seeing or touching, should be unequivocally attributable to an individual and to a moment in time."
+
+- it is too simple a question
+- if requires complete grasp of oxygen paradigm, nobody would have discovered oxygen until the 1860s when oxygen was already being using as a standard chemical
+- There seems to be a lingering commitment to the phlogiston paradigm = resistant to change
+	- scientists committed to paradigm unwilling to change a new paradigm without a really good reason
+- anomalies = for the phlogiston theory,
+	- experimental evidence that seems to undermine phlogiston theory (weight gain when phlogiston was being lost seemed inconsistent)
+	- one response is to revise the theory to keep the paradigm intact e.g. phlogiston has negative weight
+- many different versions of phlogiston theory or when different theories are needed for different applications are indictive of breakdown of consensus around a single paradigm
+
+## Normal science
 
 Kuhn defines *normal science* as =
 > "‘normal science’ means research firmly based upon one or more past scientific achievements, achievements that some particular scientific community acknowledges for a time as supplying the foundation for its further practice." (p. 10)
@@ -89,7 +106,7 @@ A key feature that distinguishes normal science from other kinds of science is t
 	- Newton's *Principia* was optimized for celestial bodies so the theory needed to be adapted for terrestrial bodies
 3. clarification of the paradigm through reformulation
 
-#### normal science as puzzle solving (Chapter 4)
+### normal science as puzzle solving (Chapter 4)
 Kuhn describes much of the work done in normal science as **"puzzle-solving"**, using the tools and concepts provided by the paradigm to describe, model, or create new phenomena. 
 
 "Puzzle" is a specific word choice, demonstrating that 
@@ -108,7 +125,7 @@ Kuhn emphasizes that normal science actually discourages novelty and original th
 > The ways in which paradigms guide normal science research cannot always be reduced to rules. (p. 42)
 
 [[Essay-Kuhn-on-what-keeps-scientists-engaged]]
-### Crisis science
+## Crisis science
 
 According to Kuhn, the rejection of a paradigm happens only when = 
 1. a critical mass of anomalies (puzzles that have resisted solution) has arisen
@@ -136,8 +153,16 @@ Looking at out-of-date beliefs, such as Aristotelian dynamics, gives two picture
 2. these out-of-date beliefs are science. This means that science has included bodies of belief incompatible with the ones we hold today
 Accepting view (2) holds problems for the traditional "development-by-accumulation" view of science, as it implies a non-linear view of scientific progress.
 
-# Problem with Kuhn
-1. Kuhn insists that a scientific field has one paradigm per field at one time. In general, a single paradigm will dominate its field, and two or three separate and competing paradigms could not normally coexist
-2. Kuhn describes the attitude of normal scientists in very strong terms, that science education is a kind of "indoctrination" which results in scientists having a deep "faith" in their paradigm
+# Evaluation of Kuhn
+
+| Strength                                                                                                                                                                                                                                                                                        | Weakness                                                                                                                                                                                                                                                                                                                                                                                   |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| scientists are people not just processors of observers                                                                                                                                                                                                                                          | Kuhn describes the attitude of normal scientists in very strong terms, that science education is a kind of "indoctrination" which results in scientists having a deep "faith" in their paradigm                                                                                                                                                                                            |
+| scientific community plays an important role (e.g. consensus)                                                                                                                                                                                                                                   | it could be seen that Kuhn is limited to social factors solely within the scientific community                                                                                                                                                                                                                                                                                             |
+| discoveries are not a linear procerss and there is a two-stage historical evolution (periods of stability punctuated by radical change) = seems to be a better description of actual discoveries                                                                                                | Kuhn insists that a scientific field has one paradigm per field at one time. In general, a single paradigm will dominate its field, and two or three separate and competing paradigms could not normally coexist                                                                                                                                                                           |
+| Normal science allows for stability which Kuhn thinks is necessary for progress, but can still make radical changes when necessary (revolution)                                                                                                                                                 | Kuhn's idea of incommensurability prevent us from recognizing progress that is made across paradigm shifts. Incommensurability of meaning has been challenged by both philosophers and historians (Later, Kuhn writes that there are theoretical commitments and standard that are constitutive of science and transcend individual paradigms, such as observational evidence, simplicity) |
+| *does Kuhn solve the holism about testing refutation that Popper and Empiricism faced?* Kuhn agrees that we need to accept holism but it has more radical consequences in Kuhn's theory= holism about meaning in Kuhn's reason for thinking incommensurability of meaning holds across paradigm | there are historical examples of important changes that do not fit idea of a paradigm shift (e.g. computers, AI = technologies change how science is done without introducing new content) / interaction between fields not taken into account (sub-fields and inter-disciplinary)                                                                                                         |
+
+
 
 [^1]: Theory and Reality, Godfrey-Smith, p. 80
