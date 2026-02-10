@@ -18,7 +18,6 @@ Kuhn explains [[normal-science-as-puzzle-solving]]: the problems chosen by the [
 
 > "[Normal science] seems an attempt to force nature into the preformed and relatively inflexible box that the paradigm supplies." (Kuhn, p. 24)
 
-
 ##### Three kinds of knowledge normal science focuses on 
  (p. 25-27 ) 
  

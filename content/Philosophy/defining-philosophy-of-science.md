@@ -2,7 +2,7 @@
 title: defining-philosophy-of-science
 draft: false
 tags:
-  -
+  - philosophy
 ---
 *"science"* from the term *Scientia* roughly translates to knowledge but referred particularly to the results of logical demonstrations that reveal general and necessary truths[^1]
 

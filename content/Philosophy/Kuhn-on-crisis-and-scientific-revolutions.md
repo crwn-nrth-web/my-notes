@@ -1,17 +1,30 @@
 ---
-title: Kuhn-on-scientific-revolutions
+title: Kuhn-on-crisis-and-scientific-revolutions
 draft: true
 tags:
   - philosophy
+aliases:
+  - scientific-revolution
 ---
-At some point following a crisis, an alternative paradigm is proposed and scientists decide to replace the old [[Kuhn-on-paradigms|paradigm]] with this new paradigm = paradigm shift via a**scientific revolution**. 
+[[Kuhn-1962-structure-of-scientific-revolutions]] defines the **crisis period** in scientific development as the special period where scientists begin to lose faith in their [[Kuhn-on-paradigms|paradigm]]. The existing paradigm has lost the ability to inspire and guide scientists, but when no new paradigm has emerged to get the field on track. 
 
-Kuhn argues that this period of scientific change involve a fundamentally different kind of process from what we find in [[Kuhn-1962-structure-of-scientific-revolutions#Normal science|Normal science]].  
+The **science revolution** is the transition phase after the crisis period where a [[Kuhn-on-paradigms|paradigm]] shift occurs, replacing the older paradigm in favor of the new one.
+
+According to Kuhn, the rejection of a [[Kuhn-on-paradigms|paradigm]] happens only when =
+1. a critical mass of **anomalies** (puzzles that have resisted solution) has accumulated
+	- e.g. "equipment designed and constructed for the purpose of normal science fails to perform in the anticipated manner, revealing an anomaly that cannot, despite repeated efforts, be aligned with the professional expectations" p. 6
+2. a rival paradigm has appeared
+
+Kuhn sees the breakdown of a [[Kuhn-on-paradigms|paradigm]] as part of the "proper functioning" of science. [[Kuhn-on-normal-science|normal-science]] is structured in a way that makes its own destruction inevitable, but only in response to the "right stimuli" i.e. appearance of problems that are deep rather than superficial. 
+
+For Popper or [[logical-empiricism]], anomalies count as refutations of a theory, but for Kuhn if scientists drop their paradigms every time a problem arose, they would not get anything done.
 
 When [[Kuhn-1962-structure-of-scientific-revolutions]] talks about scientific revolutions, he does not just mean the big revolutionary ones (Copernicus, Newton, Einstein, etc.), he is also referring to the other episodes that were not so obvious, like Maxwell's equations. 
 
 The main feature of a scientific revolution for Kuhn is that the assimilation requires "re-construction of prior theories and re-evaluation of prior facts" (p. 7). Along with this, scientific revolutions also apply to new discoveries (e.g. discovering oxygen, or x-rays) because normal science specify not just what the universe contains, but also what does not exist.  
 
+The [[scientific-discovery-are-not-discrete-events|paradigm-shift-from-phlogiston-to-oxygen]] shows that the perception of an anomaly played an essential role in preparing the way for the perception of discovery, and that *discovery commences from anomaly* and then continues with exploration of the area of anomaly.
+# rough notes
 **Theory-ladenness of observation**
 
 > But is sensory experience fixed and neutral? Are  

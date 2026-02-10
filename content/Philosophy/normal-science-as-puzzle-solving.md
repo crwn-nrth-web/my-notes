@@ -4,6 +4,8 @@ draft: false
 tags:
   - philosophy
 ---
+> ***Chapter IV of Kuhn, Structure of scientific revolutions***
+
 [[Kuhn-1962-structure-of-scientific-revolutions]] describes much of the work done in [[Kuhn-on-normal-science|normal-science]] as **"puzzle-solving"**, using the tools and concepts provided by the [[Kuhn-on-paradigms|paradigm]] to describe, model, or create new phenomena. 
 
 "Puzzle" is a specific word choice, demonstrating that 
