@@ -4,9 +4,9 @@ draft: true
 tags:
   - philosophy
 ---
-At some point following a crisis, an alternative paradigm is proposed and scientists decide to replace the old paradigm with this new paradigm = paradigm shift via a**scientific revolution**. 
+At some point following a crisis, an alternative paradigm is proposed and scientists decide to replace the old [[Kuhn-on-paradigms|paradigm]] with this new paradigm = paradigm shift via a**scientific revolution**. 
 
-Kuhn argues that some periods of scientific change involve a fundamentally different kind of process from what we find in [[Kuhn-1962-structure-of-scientific-revolutions#Normal science|Normal science]].  
+Kuhn argues that this period of scientific change involve a fundamentally different kind of process from what we find in [[Kuhn-1962-structure-of-scientific-revolutions#Normal science|Normal science]].  
 
 When [[Kuhn-1962-structure-of-scientific-revolutions]] talks about scientific revolutions, he does not just mean the big revolutionary ones (Copernicus, Newton, Einstein, etc.), he is also referring to the other episodes that were not so obvious, like Maxwell's equations. 
 

@@ -4,6 +4,8 @@ draft: false
 tags:
   - philosophy
   - essay
+aliases:
+  - what-keeps-scientists-engaged-in-normal-science
 ---
 > ***Sources:***
 > [[Kuhn-1962-structure-of-scientific-revolutions]]
