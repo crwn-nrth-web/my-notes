@@ -20,7 +20,6 @@ Popper rejected the verifiability criterion for several reasons:
 3. The verification criterion is itself meaningless since it cannot be verified
 
 Importantly, Popper believed that we can never be fully certain about factual issues (known as **fallibilism**). Most philosophers of science accept fallibilism and [[logical-empiricism]] believes that it is reasonable in increasing our confidence in the truth of a theory when it passes observational evidence, Popper disagrees. The [[popper-1934-logic-of-scientific-discovery#principle of induction|Principle of induction]] offered by Reichenbach incorporates fallibilism but still fails for Popper due to problem of induction.
-
 #### methodological vs metaphysical distinction
 important insight: [[logical-empiricism]] believed they needed to _discover_ a difference in the nature of things between science and metaphysics - that metaphysics is inherently nonsense.
 

@@ -24,7 +24,7 @@ This is also due to the **non cumulative** nature of paradigm shifts.
 
 If successive paradigms were compatible, we could simply add new knowledge to old, which is the traditional view of scientific progress. Instead, progress is shown to be a non-cumulative view by Kuhn ([[Role-of-history-in-Kuhn-account-of-science]]).
 
-Since paradigms are a source of methods, problem-field, and standards of solution accepted by the scientific community at any given time, the reception of a new paradigm often necessitates a redefinition of the corresponding science (p. 103). **This makes paradigms not just incompatible but also creates [[incommensurability]]**.
+Since paradigms are a source of methods, problem-field, and standards of solution accepted by the scientific community at any given time, the reception of a new paradigm often necessitates a redefinition of the corresponding science (p. 103). **This makes paradigms not just incompatible but also leads to [[incommensurability]]**
 #### Paradigm choice cannot be purely logic
 When two paradigms are incompatible, the natural assumption is to use logic and evidence to prove which one is correct, but Kuhn argues that this is impossible because of a circularity problem.
 

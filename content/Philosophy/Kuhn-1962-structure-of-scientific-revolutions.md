@@ -18,6 +18,8 @@ tags:
 	2. [[incompatibility-of-successive-paradigms]]
 	3. [[scientific-revolutions-as-changes-of-world-view]]
 	4. [[incommensurability|Kuhn-on-incommensurability]]
+	5. [[theory-ladenness-of-observation]]
+
 
 > question: what would Kuhn account for the disciplinary specializations that are common nowadays? A a paradigm splitting into different sub-paradigms?
 # Kuhn's account of science

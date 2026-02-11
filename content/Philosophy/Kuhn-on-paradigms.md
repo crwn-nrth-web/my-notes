@@ -23,6 +23,8 @@ As define by Theory and reality (Godfrey-Smith) p. 77:
 - consensus = using a shared paradigm means to be committed  o the same rules and standards for scientific practice = it is the pre-requisite of normal science
 - paradigms are often limited in both scope and precision at the time of its first appearance 
 
+> "paradigms provide scientists not only with a map but also with some of the directions essential for map-making. In learning a paradigm the scientist acquires theory, methods, and standards together, usually in an inextricable mixture." (Kuhn, p. 109)
+
 The information found in science textbooks, as well as in classical books of science (Aristotle's *Physica*, Ptolemy's *Almagest*, Newton's *Principia*, etc.) are paradigms to "prepare the student for membership in the particular scientific community" (Kuhn, p. 11)
 
 A paradigm's role is to organize scientific work as it coordinates the work of individuals into an efficient collective enterprise.[^1]
