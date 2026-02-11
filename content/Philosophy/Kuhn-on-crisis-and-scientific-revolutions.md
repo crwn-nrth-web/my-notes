@@ -5,17 +5,20 @@ tags:
   - philosophy
 aliases:
   - scientific-revolution
+  - crisis-and-scientific-revolution
 ---
 [[Kuhn-1962-structure-of-scientific-revolutions]] defines the **crisis period** in scientific development as the special period where scientists begin to lose faith in their [[Kuhn-on-paradigms|paradigm]]. The existing paradigm has lost the ability to inspire and guide scientists, but when no new paradigm has emerged to get the field on track. 
 
-The **science revolution** is the transition phase after the crisis period where a [[Kuhn-on-paradigms|paradigm]] shift occurs, replacing the older paradigm in favor of the new one.
+The **science revolution** is the non-cumulative development episodes (or transition phase) after the crisis period where a [[Kuhn-on-paradigms|paradigm]] shift occurs, replacing the older paradigm in whole or in part by an incompatible favor new one (p. 92).
+
+Kuhn's picture gives us two scientific pictures, so that the science occurring in a scientific revolution is fundamentally different than the science occurring in a period of [[Kuhn-on-normal-science|normal-science]]. 
 
 According to Kuhn, the rejection of a [[Kuhn-on-paradigms|paradigm]] happens only when =
-1. a critical mass of **anomalies** (puzzles that have resisted solution) has accumulated
+1. a critical mass of **anomalies** ([[normal-science-as-puzzle-solving]] that have resisted solution) has accumulated
 	- e.g. "equipment designed and constructed for the purpose of normal science fails to perform in the anticipated manner, revealing an anomaly that cannot, despite repeated efforts, be aligned with the professional expectations" p. 6
 2. a rival paradigm has appeared
 
-Kuhn sees the breakdown of a [[Kuhn-on-paradigms|paradigm]] as part of the "proper functioning" of science. [[Kuhn-on-normal-science|normal-science]] is structured in a way that makes its own destruction inevitable, but only in response to the "right stimuli" i.e. appearance of problems that are deep rather than superficial. 
+Kuhn sees the breakdown of a [[Kuhn-on-paradigms|paradigm]] as part of the "proper functioning" of science. [[Kuhn-on-normal-science|normal-science]] is structured in a way that makes its own destruction inevitable, but only in response to the "right stimuli" i.e. appearance of problems that are deep rather than superficial. And the sense of malfunction that can lead to crisis is a pre-requisite to revolution.
 
 For Popper or [[logical-empiricism]], anomalies count as refutations of a theory, but for Kuhn if scientists drop their paradigms every time a problem arose, they would not get anything done.
 
@@ -24,6 +27,10 @@ When [[Kuhn-1962-structure-of-scientific-revolutions]] talks about scientific re
 The main feature of a scientific revolution for Kuhn is that the assimilation requires "re-construction of prior theories and re-evaluation of prior facts" (p. 7). Along with this, scientific revolutions also apply to new discoveries (e.g. discovering oxygen, or x-rays) because normal science specify not just what the universe contains, but also what does not exist.  
 
 The [[scientific-discovery-are-not-discrete-events|paradigm-shift-from-phlogiston-to-oxygen]] shows that the perception of an anomaly played an essential role in preparing the way for the perception of discovery, and that *discovery commences from anomaly* and then continues with exploration of the area of anomaly.
+
+Kuhn also observed that many revolutionary solutions had been proposed earlier during a period when there was no crisis, but were ignored because the existing scientific framework was still functioning well. So, crisis does not magically create new ideas, but instead crisis changes which ideas are taken seriously (p. 87).
+
+Kuhn argues that scientific revolutions have a non-cumulative nature due to the [[incompatibility-of-successive-paradigms]]. This leads to the idea of [[incommensurability]] for different paradigms in a field. 
 # rough notes
 **Theory-ladenness of observation**
 
