@@ -20,6 +20,7 @@ tags:
 	4. [[incommensurability|Kuhn-on-incommensurability]]
 	5. [[theory-ladenness-of-observation]]
 
+[[Essay-social-dimension-of-kuhn-account]]
 
 > question: what would Kuhn account for the disciplinary specializations that are common nowadays? A a paradigm splitting into different sub-paradigms?
 # Kuhn's account of science
@@ -69,5 +70,10 @@ Pre-science is the period of activity that precedes the first period of normal s
 | discoveries are not a linear procerss and there is a two-stage historical evolution (periods of stability punctuated by radical change) = seems to be a better description of actual discoveries                                                                                                | Kuhn insists that a scientific field has one paradigm per field at one time. In general, a single paradigm will dominate its field, and two or three separate and competing paradigms could not normally coexist                                                                                                                                                                           |
 | Normal science allows for stability which Kuhn thinks is necessary for progress, but can still make radical changes when necessary (revolution)                                                                                                                                                 | Kuhn's idea of incommensurability prevent us from recognizing progress that is made across paradigm shifts. Incommensurability of meaning has been challenged by both philosophers and historians (Later, Kuhn writes that there are theoretical commitments and standard that are constitutive of science and transcend individual paradigms, such as observational evidence, simplicity) |
 | *does Kuhn solve the holism about testing refutation that Popper and Empiricism faced?* Kuhn agrees that we need to accept holism but it has more radical consequences in Kuhn's theory= holism about meaning in Kuhn's reason for thinking incommensurability of meaning holds across paradigm | there are historical examples of important changes that do not fit idea of a paradigm shift (e.g. computers, AI = technologies change how science is done without introducing new content) / interaction between fields not taken into account (sub-fields and inter-disciplinary)                                                                                                         |
+
+
+
+
+
 
 [^1]: Theory and Reality, Godfrey-Smith, p. 90

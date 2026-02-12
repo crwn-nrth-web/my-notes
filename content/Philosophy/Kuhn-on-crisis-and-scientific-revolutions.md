@@ -13,6 +13,7 @@ In [[Kuhn-1962-structure-of-scientific-revolutions]], Kuhn distinguishes between
 
 **Scientific revolutions** are non-cumulative development episodes (or transition phase) after the crisis period where a [[Kuhn-on-paradigms|paradigm]] shift occurs, replacing the older paradigm in whole or in part by an incompatible favor new one (p. 92).
 ### Crisis
+
 A **crisis** occurs when scientists begin to lose faith in the existing [[Kuhn-on-paradigms|paradigm]]. This happens when =
 - The paradigm no longer effectively guides research.
 - It fails to resolve persistent and significant problems.
@@ -39,35 +40,7 @@ Kuhn observed that many revolutionary solutions had been proposed earlier during
 4. [[scientific-discovery-are-not-discrete-events]]
 5. [[scientific-revolutions-as-changes-of-world-view]]
 6. they are non-cumulative because of [[incompatibility-of-successive-paradigms]] and [[incommensurability]]
-7. 
 
-
-
-
-
-
-
-
-
-
-
-
-
-# rough notes
-
-
-
-**PARADIGM SHIFTS ARE LIKE GESALT SWITCHES**
 
 **How do revolutions end** =
-> As in political revolutions, so in paradigm  
-choice—there is no standard higher than  
-the assent of the relevant community. To  
-discover how scientific revolutions are  
-effected, we shall therefore have to  
-examine not only the impact of nature  
-and of logic, but also the techniques of  
-persuasive argumentation effective  
-within the quite special groups that  
-constitute the community of scientists. -  
-SSR, p. 93
+> As in political revolutions, so in paradigm choice—there is no standard higher than  the assent of the relevant community. To discover how scientific revolutions are effected, we shall therefore have to  examine not only the impact of nature and of logic, but also the techniques of persuasive argumentation effective within the quite special groups that constitute the community of scientists. (Kuhn, p. 93)
