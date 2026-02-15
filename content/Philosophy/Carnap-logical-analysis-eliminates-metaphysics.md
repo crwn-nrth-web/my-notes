@@ -6,6 +6,9 @@ tags:
 aliases:
   - logical-analysis-eliminates-metaphysics
 ---
+> Carnap, Rudolf (1959). The Elimination of Metaphysics Through Logical Analysis of Language. In Alfred Jules Ayer, Logical positivism. Glencoe, IL: The Free Press. pp. 60-81.
+
+
 According to Carnap, the introduction of logical analysis (in the form of [[logical-empiricism]]) to clarify the meaning of terms in a sentence ultimately leads to a radical elimination of metaphysics as the statements of [[PHIL 251 - Metaphysics and Epistemelogy|metaphysics]] become "meaningless".
 
 Carnap defines "*meaningless*" here in the strict sense of the word = 

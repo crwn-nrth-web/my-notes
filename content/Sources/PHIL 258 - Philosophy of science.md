@@ -5,7 +5,7 @@ tags:
   - class
   - philosophy
 ---
-### Topics
+e### Topics
 - [[defining-philosophy-of-science]]
 - [[logical-empiricism]]
 - [[confirmation-and-logic]]
