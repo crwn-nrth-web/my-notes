@@ -7,6 +7,29 @@ tags:
 ---
 https://www-pub.iaea.org/MTCD/Publications/PDF/TCS-42_web.pdf
 
+[[Dual-action-radiation-theory]]
+
+### Biological effects of radiation
+Biological effects of radiation result from high-energy particles breaking DNA double-stands and chromosome damage resulting in
+- acute (early) and/or chronic
+- mild (skin irritation) or severe
+
+Effects depend on type of radiation, total dose, dose rate, cell type and cell environment
+
+**Stochastic effects of radiation** = low dose of radiation can lead to permanent modifications in functioning of some cells with long delayed effects of radiation such as genetic changes or the induction of cancer
+
+**Deterministic effects of radiation** = high dose of radiation can lead to microscopically observable damage with death of individual cells and radiation sickness which can lead to death
+### Radiation damage
+Ionizing radiation produces sublethal lesions, which may combine to form lethal lesions. Most DNA breaks are repaired, while some are not or are mis repaired. Breaks can lead to chromosome aberrations which interfere with cell proliferation and cell normal functions
+
+**DNA damage types** = 
+1. **Single-strand Breaks (SSBs)** = only one of the two DNA strands is broken 
+	- not lethal by themselves
+2. **Double-strand Breaks (DSBs)** = both DNA strands are broken 
+	- most lethal and biologically important lesions
+	- hard to repair, especially if the breaks are complex (clustered damage)
+	- more likely to lead to cell death, chromosome aberration, mutation and cancer
+
 ### Boron Neutron Capture Therapy (BNCT)
 A targeted, binary radiotherapy that kills cancer cells by inducing a localized nuclear reaction, sparing healthy tissue.
 - compounds enriched with boron-10 are administrated prior to irradiation
@@ -28,6 +51,7 @@ So the ultimate result is the formation of an ion pair ($H^+ , OH^{-}$) and free
 **Free radicals** have an unpaired electron in their outer shell, a state which confers to a high degree of activity. Free radicals initiate chemical reactions that lead to the production of damage via indirect action in the cell.
 
 So summary of interaction of radiation with water =
+
 $$\text{x-ray photon} \to \text{fast electron} \to \text{ ion radical} \to \text{free radical} \to \text{chemical changes} \to \text{biological effect}$$
 
 ### Direct and indirect action of ionizing radiation
@@ -37,5 +61,21 @@ $$\text{x-ray photon} \to \text{fast electron} \to \text{ ion radical} \to \text
 
 **Direct action =** when ionization and excitations are produce directly in critical biological macromolecules (e.g. DNA)
 - charged particle $\to$ deposited dose
+
+### Dose response relationship
+- At low radiation dose, both DNA breaks that lead to a lethal chromosome aberration are often produced by a single charged particle track (one radiation interaction). So, the probability of forming a lethal aberration increases linearly with dose
+- At higher dose, the two DNA breaks that combine to form an exchange aberration can arise from two independent radiation tracks. So, the the probability of an interaction is then proportional to the square of the dose
+
+### Cell cycle
+The cell cycle can be divided into two periods:
+- Interphase = cells are growing, replicating, performing function
+- M-phase = mitosis where cells are actively dividing
+
+cells are most radiosensitive in M and G2 phase, and the most radioresistant in late S phase.
+
+### Dual action radiation theory
+Proposed by Keller and Rossi to explain how ionizing radiation causes biological damage and why different radiation have different biological effectiveness
+
+
 
 
