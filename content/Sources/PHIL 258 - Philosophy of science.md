@@ -11,12 +11,13 @@ e### Topics
 - [[confirmation-and-logic]]
 - [[popper-1934-logic-of-scientific-discovery]]
 - [[Kuhn-1962-structure-of-scientific-revolutions]]
-- [[Lakatos-and-Feyerabend]]
+- [[Lakatos-account-of-science]]
 - [[values-in-science]]
 - [[feminist-philosophy-of-science]]
 - [[scientific-realism]]
 - [[Bayesianism]]
 
 #### other mentions
-[[Foster-proposed-solution-to-the-problem-of-induction#The scope of scientific laws]]
+[[Foster-proposed-solution-to-the-problem-of-induction#The scope of scientific laws|Foster-on-the-scope-of-scientific-laws]]
+
 

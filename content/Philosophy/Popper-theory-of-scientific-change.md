@@ -14,7 +14,6 @@ Popper uses the idea of [[problem-of-demarcation|falsification]] to propose a th
 - if a hypothesis is refuted, it is back to stage 1
 
 A theoretical idea can be refined and modified via many rounds of conjecture and refutation. However, it is important to avoid *ad hoc hypotheses*. See [[problem-of-demarcation#The ad hoc objection|the ad hoc objection]].
-
 ##### Example of Popper's scientific method
 **Hypothesis** = Blue litmus paper turns red in clear liquids
 **Auxiliary hypothesis** = Water is a clear liquid

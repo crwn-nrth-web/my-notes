@@ -7,13 +7,31 @@ tags:
 > Popper, K. R., & Popper, K. R. (1934). _The Logic of scientific discovery_ . Routledge.
 
 [[problem-of-demarcation]]
-[[Popper-theory-of-scientific-change]]
 
 Karl Popper begins by agreeing with [[Hume-on-the-problem-of-induction]] that no amount of observed instances can logically justify a universal law, but he denies that this poses a threat to science, like [[logical-empiricism]] leads us to believe. According to Popper, the problem of induction only arises because it is mistakenly assumed that science proceeds by induction from observation to universal laws. 
 
 Popper posits that scientific theories are conjectures proposed independently of experience and are tested deductively through their observable consequences. Inductive justification is not required because no amount of positive evidence can verify a theory, it advances through falsification instead.
 
 Karl Popper believed that scientific theories can only be **falsified** (proven to be false) and that scientific theories do not get inductively confirmed. This in contrast to [[logical-empiricism]] that focuses on [[confirmation-and-logic]].
+
+For Popper, science changes via a two-step cycle that repeats endlessly. 
+
+**Stage 1: conjecture**
+- offer a hypothesis that might describe or explain some part of the world
+- a good conjecture is *bold* that takes risks by making novel predictions
+**Stage 2: attempted refutation**
+- hypothesis is subjected to critical testing in an attempt to show that it is false
+- if a hypothesis is refuted, it is back to stage 1
+
+A theoretical idea can be refined and modified via many rounds of conjecture and refutation. However, it is important to avoid *ad hoc hypotheses*
+
+**example:**
+**Hypothesis** = Blue litmus paper turns red in clear liquids
+**Auxiliary hypothesis** = Water is a clear liquid
+**Prediction** = Blue litmus paper turns red in water
+**Observation** = Blue litmus paper does not turn red in water $\rightarrow$ falsification
+
+For Popper, an ad hoc hypothesis for this falsification = e.g.. = Blue litmus paper turns red in clear liquids not water
 
 ### Section 1: Problem of induction
 
