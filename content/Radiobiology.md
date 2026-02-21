@@ -42,7 +42,6 @@ So the ultimate result is the formation of an ion pair ($H^+ , OH^{-}$) and free
 So summary of interaction of radiation with water =
 
 $$\text{x-ray photon} \to \text{fast electron} \to \text{ ion radical} \to \text{free radical} \to \text{chemical changes} \to \text{biological effect}$$
-
 ### Direct and indirect action of ionizing radiation
 
 **Indirect action** = when ionizing radiation interacts with water molecules creating highly reactive free radicals which then cause biological effects

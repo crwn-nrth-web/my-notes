@@ -29,8 +29,10 @@ where
 #### Linear quadratic model
 $$S(D) = e^{-\alpha D - \beta D^2}$$
 where 
-- $\alpha$ = initial slope at low dose
-- $\beta$ = add curvature to the final slope (due to larger dose)
-- $\frac{\alpha}{\beta}$ = dose at which the two cell-killing effects are equal
+- $\alpha$ = initial slope at low dose = linear slope
+- $\beta$ = add curvature to the final slope (due to larger dose) = quadratic curve
+- $\frac{\alpha}{\beta}$ = dose at which the two cell-killing effects are equal 
+
+
 
 
