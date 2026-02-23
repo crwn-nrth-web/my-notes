@@ -7,7 +7,7 @@ tags:
 ---
 https://www-pub.iaea.org/MTCD/Publications/PDF/TCS-42_web.pdf
 
-[[Dual-action-radiation-theory]]
+[[theory-of-radiation-to-cell-death]]
 [[cell-survival-curves]]
 ### Biological effects of radiation
 Biological effects of radiation result from high-energy particles breaking DNA double-stands and chromosome damage resulting in
