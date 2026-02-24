@@ -12,6 +12,7 @@ e### Topics
 - [[popper-1934-logic-of-scientific-discovery]]
 - [[Kuhn-1962-structure-of-scientific-revolutions]]
 - [[Lakatos-account-of-science]]
+- [[Feyerabend-anarchist-account-of-science]]
 - [[values-in-science]]
 - [[feminist-philosophy-of-science]]
 - [[scientific-realism]]
