@@ -13,7 +13,7 @@ e### Topics
 - [[Kuhn-1962-structure-of-scientific-revolutions]]
 - [[Lakatos-account-of-science]]
 - [[Feyerabend-anarchist-account-of-science]]
-- [[values-in-science]]
+- [[Douglas-2007-rejecting-value-free-science]]
 - [[feminist-philosophy-of-science]]
 - [[scientific-realism]]
 - [[Bayesianism]]
