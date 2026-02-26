@@ -11,7 +11,6 @@ When a [[Kuhn-on-crisis-and-scientific-revolutions|scientific-revolution]] occur
 > "when a paradigm changes, the world itself changes with them."
 
 World-change follows from [[theory-ladenness-of-observation]] that what we observe depends and changes based on our paradigms, and explains [[incommensurability]] of paradigms; if scientists inhabit different worlds and cannot appeal to shared observations, then different paradigms become incomparable. Scientists are literally talking about different worlds.
-
 ### Examples
 
 1. **Discovery of Uranus**

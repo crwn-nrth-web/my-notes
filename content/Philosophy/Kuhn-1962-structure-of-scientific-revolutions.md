@@ -16,9 +16,10 @@ tags:
 4. [[Kuhn-on-crisis-and-scientific-revolutions]]
 	1. [[scientific-discovery-are-not-discrete-events]]
 	2. [[incompatibility-of-successive-paradigms]]
-	3. [[scientific-revolutions-as-changes-of-world-view]]
-	4. [[incommensurability|Kuhn-on-incommensurability]]
-	5. [[theory-ladenness-of-observation]]
+	3. [[paradigms-and-revolutions-are-local-to-scientific-fields]]
+	4. [[scientific-revolutions-as-changes-of-world-view]]
+	5. [[incommensurability|Kuhn-on-incommensurability]]
+	6. [[theory-ladenness-of-observation]]
 
 [[Essay-social-dimension-of-kuhn-account]]
 

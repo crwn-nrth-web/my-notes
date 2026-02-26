@@ -41,6 +41,5 @@ Kuhn observed that many revolutionary solutions had been proposed earlier during
 5. [[scientific-revolutions-as-changes-of-world-view]]
 6. they are non-cumulative because of [[incompatibility-of-successive-paradigms]] and [[incommensurability]]
 
-
 **How do revolutions end** =
 > As in political revolutions, so in paradigm choice—there is no standard higher than  the assent of the relevant community. To discover how scientific revolutions are effected, we shall therefore have to  examine not only the impact of nature and of logic, but also the techniques of persuasive argumentation effective within the quite special groups that constitute the community of scientists. (Kuhn, p. 93)
