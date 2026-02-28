@@ -5,7 +5,7 @@ tags:
   - philosophy
   - source
 ---
-> Kuhn, T. S. (1994). _The structure of scientific revolutions_ (2. ed., enlarged, 21. print). Univ. of Chicago Press.
+ > Kuhn, T. S. (1994). _The structure of scientific revolutions_ (2. ed., enlarged, 21. print). Univ. of Chicago Press.
 
 1. [[Role-of-history-in-Kuhn-account-of-science]]
 2. [[Kuhn-on-paradigms]]
