@@ -14,7 +14,7 @@ e### Topics
 - [[Lakatos-account-of-science]]
 - [[Feyerabend-anarchist-account-of-science]]
 - [[Douglas-2007-rejecting-value-free-science]]
-- [[feminist-philosophy-of-science]]
+- [[role-of-gender-in-science]]
 - [[scientific-realism]]
 - [[Bayesianism]]
 
