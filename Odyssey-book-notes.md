@@ -25,4 +25,11 @@ Calypso, on the other hand, offers immortality and a paradise away from trouble.
 
 This is resolved once he sees for himself what it means to be dead on his trip to the underworld, and he becomes determined once again to make it home alive. 
 
+
+
+$$\Delta C = \sqrt{ \left( \frac{\partial C}{\partial a} \Delta a \right)^2 +\left( \frac{\partial C}{\partial b} \Delta b \right)^2 + \left( \frac{\Delta \epsilon_{r}}{\epsilon} \right)^2} 
+= C \sqrt{  \left( \frac{\Delta a}{a \ln\left( \frac{b}{a} \right)} \right)^2 +\left( \frac{\Delta b}{b \ln\left( \frac{b}{a} \right)} \right)^2 + \left( \frac{\Delta \epsilon_{r}}{\epsilon} \right)^2} $$
+
 [^1]: Nagel, 2013
+
+
