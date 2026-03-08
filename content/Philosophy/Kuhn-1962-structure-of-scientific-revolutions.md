@@ -28,11 +28,12 @@ tags:
 
 Kuhn is predominantly a historian of science and his view emphasizes the arbitrary, personal nature of factors often influencing scientific decisions, the rigidity of scientific indoctrination of students, the "conceptual boxes" that nature gets forced into by scientists. He suggests that these features are actually the key to science's success.
 
-His account of science challenges the traditional view of linear scientific progress of steadily accumulating knowledge over time. Instead, he argues that science does not progress in this smooth, linear fashion, but instead undergoes radical overhauls known as a **[[Kuhn-on-paradigms|paradigm]]**, which are theoretical frameworks that scientists use to understand and investigate the world. 
+His account of science challenges the traditional view of linear scientific progress of steadily accumulating knowledge over time. Instead, he argues that science does not progress in this smooth, linear fashion, but instead has a cyclic nature, where long periods of stability are interrupted by revolutionary science, in which the dominant **[[Kuhn-on-paradigms|paradigm]]**
+is replaced partially or completely.
 
 Science, as we know it, is most often operating within a paradigm. During these periods of **"[[Kuhn-on-normal-science|normal-science]]"**, scientists are not questioning the paradigm itself, instead they are solving smaller problems ("puzzle-solving") and refining the details of the theory.
 
-Overtime, scientists start encountering anomalies that don't fit the paradigm's predictions. Once these anomalies can no longer be ignored, it leads to a **crisis**. When a scientific field is in crisis, a radical paradigm shift occurs where a new paradigm that can explain the anomalies better replace the old one. Kuhn calls this a **scientific revolution**.
+Overtime, scientists start encountering anomalies that don't fit the paradigm's predictions. Once these anomalies can no longer be ignored, it leads to a **crisis**. When a scientific field is in crisis, a radical paradigm shift occurs where a new paradigm that can explain the anomalies better replace the old one. Kuhn calls this a **[[Kuhn-on-crisis-and-scientific-revolutions|scientific-revolution]]**.
 
 An central idea to Kuhn's overall picture is that science is a social mechanism that combines two capacities. One is capacity for sustained, cooperative work. The other is science's capacity to break down and reconstitute itself from time to time [^1]
 
