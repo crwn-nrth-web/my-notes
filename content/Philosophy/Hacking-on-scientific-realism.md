@@ -4,16 +4,21 @@ draft: false
 tags:
   - philosophy
 ---
->Scientific realism says that the entities, states and processes described by theories really do exist. Protons, photons, fields of force, and black holes are as real as toe-nails, turbines, eddies in a  stream, and volcanoes. The weak interactions of  small particle physics are as real as falling in  love. Theories about the structure of molecules that carry genetic codes are either true or false, and a genuinely correct theory would be a true one.  - Representing and Intervening, p. 21
+#### Hacking's definition of [[scientific-realism]] and anti-realism
+
+>"**Scientific realism** says that the entities, states and processes described by theories really do exist. Protons, photons, fields of force, and black holes are as real as toe-nails, turbines, eddies in a  stream, and volcanoes. The weak interactions of small particle physics are as real as falling in love. Theories about the structure of molecules that carry genetic codes are either true or false, and a genuinely correct theory would be a true one."  - p. 21
+
+> "**Anti-realism** says the opposite: there are no such things as electrons. Certainly there are phenomena of electricity and of inheritance but we construct theories about tiny states, processes and entities only in order to predict and produce events that interest us. The electrons are fictions. Theories about them are tools for thinking. Theories are adequate or useful or warranted or applicable, but no matter how much we admire the speculative and  technological triumphs of natural science, we should not regard even its most telling theories as true." p. 21
 
 Hacking is an **entity realist** = that a good many theoretical entities really do exist.
+>"Anti-realism of entities denies that . . . less dogmatically, it may say that we have not and cannot have any reason to suppose they are not fictions. They may exist, but we need not assume that in order to understand the world" p. 27
 
-Contrast that with **realism about theories** =  says that scientific theories are either true or false independent of what we know: science at least aims at the truth, and the truth is how the world is
+Contrast that with **realism about theories** =  says that scientific theories are either true or false independent of what we know: science at least aims at the truth, and the truth is how the world is.
+
+#### "if you can spray them, then they are real"
 
 > “What convinced me of realism ... was the fact that by now there are standard emitters with which we can spray positrons and electrons— and that is precisely what we do with them. We understand the effects, we understand the causes, and we use these to find out something else.” (Representing and Intervening, p. 24)
 
-
-  
 > "Most of today’s debate about scientific realism is couched in terms of theory, representation, and truth. The discussions are illuminating but not decisive. This is partly because they are so infected with intractable metaphysics. I suspect there can be no final argument for or against realism at the level of representation. When we turn from representation to intervention, to spraying niobium balls with positrons, anti-realism has less of a grip. In what follows I start with a somewhat old-fashioned concern with realism about entities. ... The final arbiter in philosophy is not how we think but what we do.” (p. 31)
 
 Hacking's conclusion = experiment with spraying electrons gives us good reason to believe that electrons exist (i.e. are out there in the world) and have elementary charge
