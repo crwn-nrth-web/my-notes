@@ -22,8 +22,7 @@ This method can be used to justify the expectation that past regularities will p
 **natural necessity** = the necessity dictated by the laws of nature
 
 Foster's view supports how the history of science has actually progressed towards more general and fundamental laws.
-
-###### Examples given by Foster
+#### Examples given by Foster
 
 **Water is H2O** 
 

@@ -1,9 +1,16 @@
 ---
-title: scientific-realism
+title: scientific-realism-vs-anti-realism
 draft: false
 tags:
   - philosophy
+aliases:
+  - scientific-realism
+  - scientific-anti-realism
 ---
+ [[Hacking-on-scientific-realism]]
+ [[no-miracles-argument]] VS [[pessimistic-meta-induction]]
+
+ 
  There are two main arguments when it comes to what science is trying to describe:
  1. the world is one thing, and the our ideas about it are another
 	- While the world is made up of electrons, our conception of electrons did not exist in 1000 AD, so we must regard the existence of electrons as dependent on our conceptualization of the world
@@ -31,8 +38,6 @@ Anti-realist would be committed with the observable phenomenon like tables, chai
 One approach is to claim that scientific realism asserts that the world really is the way it is described by our best-established theories. The problem  with this position is that scientific realism depends on the accuracy of our current scientific theories. If our current theories turn out to be false, scientific realism will be false too. Philosophers like Michael Devitt (1997) defends this position that so long as we do not commit to realism about speculative scientific ideas, there is no worry. 
 
 However, there is always the genuine possibility that even our well-established parts of science might be wrong. So, Godfrey-Smith (*Theory and Reality*) suggests to consider a scientific realist position that does not depend on the reliability of our current theories.
-
-[[Hacking-on-scientific-realism]]
 ###### Godfrey-Smith's on Scientific Realism
 
 *should scientific realism also assume common-sense realism?* in other words, should we allow the possibility that science could conflict with common sense realism?
@@ -63,4 +68,4 @@ Godfrey-Smith believes that his statement of scientific realism intends to captu
 
 [[Kuhn-1962-structure-of-scientific-revolutions]] at times seems like a pessimistic scientific realist as he seems to think that the world is just so complicated that our theories will always run into trouble, and hence why scientific progress is a vicious cycle and that [[Kuhn-on-paradigms|paradigm]]s are doomed to fail as we try to force nature into boxes.
 
-**pessimistic meta-induction** = since fundamental ideas have changed so often within science (especially science), we should always expect our current views to turn out to be wrong
+**[[pessimistic-meta-induction]]** = since fundamental ideas have changed so often within science (especially science), we should always expect our current views to turn out to be wrong

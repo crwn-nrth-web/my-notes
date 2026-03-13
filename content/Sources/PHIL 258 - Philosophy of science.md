@@ -15,7 +15,7 @@ e### Topics
 - [[Feyerabend-anarchist-account-of-science]]
 - [[Douglas-2007-rejecting-value-free-science]]
 - [[role-of-gender-in-science]]
-- [[scientific-realism]]
+- [[scientific-realism-vs-anti-realism]]
 - [[Bayesianism]]
 
 #### other mentions
