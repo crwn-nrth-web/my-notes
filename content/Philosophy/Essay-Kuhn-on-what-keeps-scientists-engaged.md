@@ -7,9 +7,7 @@ tags:
 aliases:
   - what-keeps-scientists-engaged-in-normal-science
 ---
-> ***Sources:***
-> [[Kuhn-1962-structure-of-scientific-revolutions]]
-> [[normal-science-as-puzzle-solving]]
+> ***Sources:***  [[Kuhn-1962-structure-of-scientific-revolutions]], [[normal-science-as-puzzle-solving]]
  
  Kuhn gives an interesting take for why scientists are willing to devote decades of their careers to work that can appear narrow or incremental from the outside. While many people may initially be drawn to science by ideals such as usefulness, discovery, or the excitement of exploring the unknow, Kuhn argues that these motivations are not what sustains engagement in *normal science* -- the routine day-to-day research conducted once a shared theoretical framework, or *paradigm*, is in place. Under a paradigm, scientists no longer approach their work with open-ended curiosity about fundamentals, but instead focus on well-defined puzzles whose solutions are assumed to exist. 
  

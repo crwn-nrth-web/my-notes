@@ -5,11 +5,7 @@ tags:
   - philosophy
   - essay
 ---
- > ***Sources:***
- > [[Kuhn-1962-structure-of-scientific-revolutions]]
- > [[Kuhn-on-paradigms]]
- > [[Kuhn-on-normal-science]]
- > [[Kuhn-on-crisis-and-scientific-revolutions]]
+ > ***Sources:***  [[Kuhn-1962-structure-of-scientific-revolutions]], [[Kuhn-on-paradigms]], [[Kuhn-on-normal-science]], [[Kuhn-on-crisis-and-scientific-revolutions]]
  
  Kuhn's account provides compelling explanation for two central features of scientific development that other philosophers struggle to reconcile: the periods of stability during normal science and the occurrence of revolutionary science. Popper's emphasis on constant falsification cannot explain why scientists productively work within established frameworks without constantly questioning fundamentals. Conversely, logical empiricism's cumulative model cannot adequately explain discontinuous revolutions where fundamental commitments are overthrown and replaced either in part or as a whole. 
 
