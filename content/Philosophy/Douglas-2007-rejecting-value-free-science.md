@@ -46,5 +46,8 @@ Douglas argues that the value-free ideal is *unattainable* because scientists mu
 3. [[Douglas-on-scientist-responsibility]] = scientists should be held to the same standards as everyone else and cannot be effectively shielded from making value judgements
 4. science can remain objective even if we reject the value-free ideal
 
+#### Feminist criticism of the value-free ideal
+![[role-of-gender-in-science#^ba6065]]
+
 
 [^1]: Douglas, p.5
