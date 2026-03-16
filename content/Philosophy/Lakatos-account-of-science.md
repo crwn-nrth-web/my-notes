@@ -17,7 +17,7 @@ Lakatos also had some interesting views on the [[Role-of-history-in-Kuhn-account
 - There are good and bad ways to do this  
 - Programs that always do it badly are eventually abandoned
 
-Lakatos's idea of "**research program**" is analogous [[Kuhn-on-paradigms]] with the key difference being that we expect to find more than one research program in a scientific field at any given time, so that the large-scale processes of scientific change should be understood as *competition between research programs*.
+Lakatos's idea of "**research program**" is analogous to [[Kuhn-on-paradigms]] with the key difference being that we expect to find more than one research program in a scientific field at any given time, so that the large-scale processes of scientific change should be understood as *competition between research programs*.
 
 For Lakatos, falsification is still the primary basis like [[popper-1934-logic-of-scientific-discovery]] but the focus is falsifying other research programs in order to support your research program. Workers within a research program typically have some commitment to their program; they try to modify their theories to deal with the problem but research programs can still be abandoned like Kuhn.
 ##### Features of a research program

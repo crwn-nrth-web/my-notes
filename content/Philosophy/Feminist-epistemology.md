@@ -26,6 +26,8 @@ Longino describes the notion of a standpoint as =
 
 Longino cites *Dorothy Smith's* application of standpoint theory to sociology, where the standard (dominant) sociological practice is derived from the bureaucratic male-dominated elite and is projected onto the populations being studied. This results in the sociologist's own standpoint becoming embedded in his analysis, while the power relations that shape his perspectives remains invisible to him. Smith claims that by contrast, a woman's sociological standpoint allows access to social aspects missed by the standard sociological practice as she acts as both an active subject and as an object shaped by the institutional characteristics.
 
+For a summary of the standpoint theses = [[Rolin-2021-Analytic-Feminist-Approaches#Feminist Standpoint empiricism|Feminist standpoint empiricism]]
+
 For Longino, **the problem with standpoint theory** (as well as claiming feminine epistemology as a way to describe uniquely feminine experiences or modes of learning) is that it claims that there is some single, shared "female perspective" grounded in biology or universal experience. Longino insists that women's experiences are diverse, shaped by race, class, sexuality and other factors, and thus cannot be grounded into a single epistemic standpoint.
 #### Feminist approach to science
 Longino's suggestion for feminist epistemology is to participate in traditional knowledge-seeking practice as a feminist; consider how one might approach certain open questions that naturally arise in epistemology (or science) from a feminist perspective.

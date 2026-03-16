@@ -61,6 +61,6 @@ Fundamentally, Feyerabend is challenging the social position of science:
 
 
 
-[^1]: Oberheim, Eric and John Preston, "Paul Feyerabend", _The Stanford Encyclopedia of Philosophy_ (Spring 2025 Edition), Edward N. Zalta & Uri Nodelman (eds.),  <https://plato.stanford.edu/archives/spr2025/entries/feyerabend/>.
+[^1]: Oberheim, Eric and John Preston, "Paul Feyerabend", _The Stanford Encyclopedia of Philosophy_ (Spring 2025 Edition), Edward N. Zalta & Uri Nodelman (eds.),  <https://plato.stanford.edu/archives/spr2025/entries/feyerabend/>
 
 [^2]: Theory and Reality, Godfrey-Smith, p. 112

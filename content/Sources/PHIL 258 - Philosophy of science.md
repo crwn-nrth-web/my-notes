@@ -5,7 +5,7 @@ tags:
   - class
   - philosophy
 ---
-e### Topics
+## Topics
 - [[defining-philosophy-of-science]]
 - [[logical-empiricism]]
 - [[confirmation-and-logic]]
@@ -15,7 +15,10 @@ e### Topics
 - [[Feyerabend-anarchist-account-of-science]]
 - [[Douglas-2007-rejecting-value-free-science]]
 - [[role-of-gender-in-science]]
+	- [[Richardson-2008-role-of-gender-criticism-in-the-case-of-sex-determination]]
+	- [[Rolin-2021-Analytic-Feminist-Approaches]]
 - [[scientific-realism-vs-anti-realism]]
+	- [[Hacking-on-scientific-realism]]
 - [[Bayesianism]]
 
 #### other mentions

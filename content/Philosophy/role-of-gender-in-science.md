@@ -24,6 +24,8 @@ tags:
 	- gender assumptions also played a role in resistance to contradictory evidence
 
 [[Richardson-2008-role-of-gender-criticism-in-the-case-of-sex-determination|Richardson-2008-case-study]] provides strong support for [[Douglas-2007-rejecting-value-free-science]] as it illustrates that pretending science is value-free doesn't eliminate values, it merely hides them. It also reveals a crucial aspect not fully discussed by Douglas: hidden, unreflective values (gender stereotypes) can produce epistemic damage, while explicit critically examined values (feminist analysis) can produce epistemic improvement. 
+
+See Also [[Feminist-epistemology]]
 # Feminist philosophy of science
 
 **what does it mean to do philosophy of science as a feminist**[^1] =
@@ -35,7 +37,7 @@ For Feminist philosophy in the analytic tradition, doing philosophy as a feminis
 - *critical mission* = understand when gender bias is epistemically harmful and what antidotes are needed to counter the harms
 - *constructive mission* = understand how objectivity is to be conceptualized, when feminist values can improve scientific research, how epistemic communities should function
 
-[[Analytic-Feminist-Approaches]]
+[[Rolin-2021-Analytic-Feminist-Approaches]]
 
 ### Feminist criticism of the Value-free Ideal[^1]
 
