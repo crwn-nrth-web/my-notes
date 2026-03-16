@@ -1,14 +1,14 @@
 ---
-title: scientific-realism-vs-anti-realism
+title: scientific-realism
 draft: false
 tags:
   - philosophy
 aliases:
   - scientific-realism
-  - scientific-anti-realism
 ---
- [[Hacking-on-scientific-realism]]
- [[no-miracles-argument]] VS [[pessimistic-meta-induction]]
+[[Hacking-on-scientific-realism]]
+[[no-miracles-argument]] VS [[pessimistic-meta-induction]]
+[[scientific-anti-realism]]
 
  
  There are two main arguments when it comes to what science is trying to describe:
@@ -19,19 +19,10 @@ aliases:
 A *scientific realist* thinks it does make sense to say that science aims at describing the real structure of the world we live in. 
 
 > **Common-sense realism** = We all inhabit a common reality, which has a structure that exists independently of what people think and say about it, except insofar as reality is comprised of, or is causally affected by, thoughts, theories, and other symbols - Theory and Reality, p. 174
+^0b2935
+In a minimal way, being a common-sense realist means that before us, there was a world and there will be a world after us. 
 
-**anti-realism** = it is *not* reasonable to believe that the world is approx. the way in which our best scientific theories describe it as being
-
-Anti-realist would be committed with the observable phenomenon like tables, chairs, etc. but would believe that is not reasonable to believe that electrons, fundamental particles, genes, etc. in our scientific theories is not actually present in the world. 
-
-**examples of realism and ant-realism views in the accounts of science** =
-- [[Carnap-logical-analysis-eliminates-metaphysics]] would believe that the whole debate of realism/anti-realism is a meaningless question
-- [[popper-1934-logic-of-scientific-discovery]] would be anti-realist because Popper does not believe in positive confirmation, even though Popper claims to be a realist
-- [[Kuhn-1962-structure-of-scientific-revolutions]] would be an anti-realist because of his ideas of [[Kuhn-on-crisis-and-scientific-revolutions|scientific-revolution]] and [[incommensurability]] that paradigms are bound to fail and be replaced
-- [[Lakatos-account-of-science]] would be a realist because he does not want relativity or incommensurability 
-- [[Feyerabend-anarchist-account-of-science]] could be considered realist as his method is "anything goes" to get to scientific truth
-
-> my intuition is to align with realism because I would like to think that I'm doing science because we are trying to come up with accurate representation of the world. Also, another motivation to being a realist is that it is advantageous in everyday life to believe in the current scientific theories and to be a realist. 
+> *my thoughts* = my intuition is to align with realism because I would like to think that I'm doing science because we are trying to come up with accurate representation of the world. Also, another motivation to being a realist is that it is advantageous in everyday life to believe in the current scientific theories and to be a realist. 
 > Being a scientist with either a realist disposition or anti-realist disposition could actually affect the way you do science. Dr. Frasier leans towards pragmatic anti-realist because having wrong theories (highly idealized models, etc.) could actually help towards scientific progress
 #### how to define scientific realism?
 

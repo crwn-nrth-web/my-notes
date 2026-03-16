@@ -4,7 +4,7 @@ draft: false
 tags:
   - essay
 ---
-> source: [[scientific-realism-vs-anti-realism]]
+> source: [[Scientific-realism]]
  
 Scientific practice is often accompanied by the assumption that its aim is to describe reality as it actually is. This intuition corresponds to the philosophical position known as **scientific realism**. Scientific realists maintain that the aim of science is to produce approximately true descriptions of the world, including aspects of reality that are not directly observable. On this view, when well-supported scientific theories posit entities such as electrons, dark matter, or spacetime curvature, these entities are taken to correspond—at least approximately—to features of an objective external reality.
 

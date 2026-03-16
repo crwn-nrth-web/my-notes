@@ -4,7 +4,7 @@ draft: false
 tags:
   - philosophy
 ---
-#### Hacking's definition of [[scientific-realism-vs-anti-realism]] and anti-realism
+#### Hacking's definition of [[Scientific-realism]] and anti-realism
 
 >"**Scientific realism** says that the entities, states and processes described by theories really do exist. Protons, photons, fields of force, and black holes are as real as toe-nails, turbines, eddies in a  stream, and volcanoes. The weak interactions of small particle physics are as real as falling in love. Theories about the structure of molecules that carry genetic codes are either true or false, and a genuinely correct theory would be a true one."  - p. 21
 
