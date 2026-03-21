@@ -1,0 +1,5 @@
+
+- there is a real motivation to be a scientific realist = most people go into science in order to understand 
+- the anti-realist argument has too high a standard of what counts as good evidence
+- pessimistic meta-induction = there is a continuity from the failed theories to the present theories. The fact that our "best" explanations can be replaced does not mean that we should support anti-realism. Could we say that we are getting closer and closer to the truth? This gives us reason to be a structural realist
+- a reason to be an anti-realist = take the stance similar to hume on the problem of induction. We need to believe that the sun is going to rise tomorrow and in a similar way, scientists need to believe that their theories are attempting to describe the world. But philosophically, scientific realism is a problem.

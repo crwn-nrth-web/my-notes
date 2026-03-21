@@ -9,6 +9,8 @@ tags:
 **anti-realism** = it is *not* reasonable to believe that the world is approx. the way in which our best scientific theories describe it as being
 
 Anti-realist would be committed with the observable phenomenon like tables, chairs, etc. but would believe that is not reasonable to believe that electrons, fundamental particles, genes, etc. in our scientific theories is not actually present in the world. 
+
+[[Van-Fraassen-constructive-empiricism]]
 ### Metaphysical Constructivism
 
 One way to be a scientific anti-realist is to reject the common-sense realism. 
