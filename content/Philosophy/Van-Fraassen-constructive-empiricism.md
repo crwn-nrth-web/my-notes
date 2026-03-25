@@ -3,8 +3,39 @@ title: Van-Fraassen-constructive-empiricism
 draft: false
 tags:
   - philosophy
+aliases:
+  - Van-Fraassen-criticism-of-scientific-realism
 ---
  A lot of problems with logical empiricism is that it sets up a lot about the language.
+
+### Van Fraassen on the division between scientific realism and anti-realism
+
+Van Fraasen begins by giving different philosophers take on [[Scientific-realism]] and then gives his own formulation:
+> "Science aims to give us, in its theories, a literally true story of what the world is like; and acceptance of a scientifjc theory involves the belief that it is true. This is the correct statement of scientific realism" 
+
+Fraassen defends this formulation by arguing:
+- the aim determines what counts as success in the enterprise and such that the aim of science is to tell a true story
+- Fraassen's aim does not deny that there may be other subsidiary aims
+- it equates acceptance of a theory with belief in its truth
+	- tentative acceptence involves the tentative adoption of the belief that it is true
+
+Following this, he gives a statement for [[scientific-anti-realism]] =
+> ". Accordingly, anti-realism is a position according to which the aim of science can well be served without giving such a literally true story, and acceptance of a theory may properly involve something less (or other) than belief that it is true."
+
+To demonstrate this distinction between [[Scientific-realism]] and [[scientific-anti-realism]], he points out the difference in purposing a theory. A realist purposes a theory because he is asserting it to be true. But an anti-realist does not assert that it is true but claim other virtues for it like empirical adequacy, comprehensiveness, etc.
+
+Van Fraassen claims an important aspect of a **literally true account** is that language is to be *literally constructed*
+- statements of science are statements capable of being true or false
+- a literal construal can elaborate but no change logical relationships
+- two theories which contradict each other but say the same thing are not literally constructed
+
+This divides anti-realist into two types:
+1. science aims to be true, properly (but not literally) constructed
+2. language of science should be literally constructed but its theories need not to be true or good
+
+The second type is what Van Fraassen's **constructive empiricism** ist. Insisting on a literal construal of the language of science is to rule out the 
+
+## Constructive Empiricism
 
 #### Observable-Unobservable distinction
 
