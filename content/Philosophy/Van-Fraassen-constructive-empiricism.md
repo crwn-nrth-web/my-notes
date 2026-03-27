@@ -6,7 +6,7 @@ tags:
 aliases:
   - Van-Fraassen-criticism-of-scientific-realism
 ---
- A lot of problems with logical empiricism is that it sets up a lot about the language.
+[[being-a-scientific-realist|realist-objection-to-van-fraassen]]
 
 ### Van Fraassen on the division between scientific realism and anti-realism
 
@@ -24,6 +24,8 @@ Following this, he gives a statement for [[scientific-anti-realism]] =
 
 To demonstrate this distinction between [[Scientific-realism]] and [[scientific-anti-realism]], he points out the difference in purposing a theory. A realist purposes a theory because he is asserting it to be true. But an anti-realist does not assert that it is true but claim other virtues for it like empirical adequacy, comprehensiveness, etc.
 
+### literally constructed language
+
 Van Fraassen claims an important aspect of a **literally true account** is that language is to be *literally constructed*
 - statements of science are statements capable of being true or false
 - a literal construal can elaborate but no change logical relationships
@@ -33,11 +35,45 @@ This divides anti-realist into two types:
 1. science aims to be true, properly (but not literally) constructed
 2. language of science should be literally constructed but its theories need not to be true or good
 
-The second type is what Van Fraassen's **constructive empiricism** ist. Insisting on a literal construal of the language of science is to rule out the 
+The second type is what Van Fraassen's **constructive empiricism** ist. Insisting on a literal construal of the language of science is to rule out the construal of a theory as a metaphor or simile. But every scientific account which insists on a literal construal of the language of science is not a realist position.
 
 ## Constructive Empiricism
 
-#### Observable-Unobservable distinction
+Van Fraassen describes **constructive empiricism** as the [[scientific-anti-realism]] position that
+
+> "Science aims to give us theories which are *empirically adequate*; and acceptance of a theory *involves as belief onlv that it is empirically adequate*"
+
+This stands in contrast to [[Scientific-realism]] that Van Fraassen describes previously. 
+
+The constructive empiricist holds that science aims at truth about the observable aspects of the world but not aim at truth about unobservable aspects. 
+
+### Empirical Adequacy
+By empirically adequate, Van Fraassen means that 
+> "a theory is empirically adequate exactly if what it says about the observable things and events in this world, is true -- exactly if it 'saves the phenomena'. A little more precisely: such a theory has at least one model that all the actual phenomena fit inside."
+
+By taking a theory to be empirically adequate, the constructive empiricist is simply saying that the phenomena we observe (and believe to exist) can exist within the structure the theory describes, without additionally being committed to saying that the unobservable parts of that structure are parts of the actual reality of the world.
+
+In other words, accepting a theory implies believing that it is true with respect to *observable phenomena*, and not with unobservables. Science gives us epistemic access to the observable world but it does not give us a window into the unobservable. The leap between "electron theory works" and "electrons are real" is something that Van Fraassen believes we should not make.
+
+### Acceptance of a theory
+According to Van Fraassen, the scientific realism/anti-realism debate is not about whether to accept theories but it is about much belief acceptance requires. 
+
+Siding with the anti-realist account, Van Fraassen claims that:
+> "Acceptance of theories (whether full, tentative, to a degree, etc.) is a phenomenon of scientific activity which clearly involves more than belief . . . acceptance involves not only belief but a certain commitment" (p. 12)
+
+For Van Fraassen, believing in a theory means thinkin git is literally true -- that unobservables really exist and behave as the theory describes. On the other hand, acceptance of a theory has two components:
+- belief = in empirical adequacy
+- commitment = a practical, looking forward dedication to working within the theory's framework
+
+Since we can never have a fully completed theory, acceptance of a theory means that there is more than just belief, there is commitment to develop the theory forward. 
+
+Van Fraassen also mentions the **underdetermination argument** that while two theories can be observationally identical, accepting one vs the other can lead scientists down completely different research paths and so this shows that there is something more than just belief as acceptance requires a practical and methodological choice as well.
+
+Also, the acceptance of a theory means adopting the theory's conceptual framework and vocabulary and explanatory tools, as well as taking on a social and explanatory role. This means that when something happens in the world, an accepting scientist would explain that using the theory's framework, speaking with authority on the behalf of the theoy and defending it in public. 
+
+Van Fraassen insists that all these commitments beyond simply believing that the theory is true are practical and methodological that can be made while remaining agnostic about whether the theory's unobservable
+
+### Observable-Unobservable distinction
 
 >   "X is observable to us if there are circumstances which are such that if X is present to us under those circumstances, then we observe it [with our unadided senses]” (p. 16)
 
