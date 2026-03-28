@@ -43,7 +43,7 @@ Van Fraassen describes **constructive empiricism** as the [[scientific-anti-real
 
 > "Science aims to give us theories which are *empirically adequate*; and acceptance of a theory *involves as belief onlv that it is empirically adequate*"
 
-This stands in contrast to [[Scientific-realism]] that Van Fraassen describes previously. 
+This stands in contrast to [[Scientific-realism]] that Van Fraassen describes previously. The main point Van Fraassen is arguing is on the acceptance of a theory.
 
 The constructive empiricist holds that science aims at truth about the observable aspects of the world but not aim at truth about unobservable aspects. 
 
