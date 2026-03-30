@@ -17,8 +17,9 @@ tags:
 - [[role-of-gender-in-science]]
 	- [[Richardson-2008-role-of-gender-criticism-in-the-case-of-sex-determination]]
 	- [[Rolin-2021-Analytic-Feminist-Approaches]]
-- [[Scientific-realism]]
+- [[Scientific-realism]] & [[scientific-anti-realism]]
 	- [[Hacking-on-scientific-realism]]
+	- [[Van-Fraassen-constructive-empiricism]]
 - [[Bayesianism]]
 
 #### other mentions
