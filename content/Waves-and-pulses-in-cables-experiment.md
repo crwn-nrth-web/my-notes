@@ -78,29 +78,8 @@ For the matched load resistance, both the voltage and current were seen to be in
 
 When finding an analogous comparison to these phase relationships, it was seen that a series LCR circuit is analogous for the phase trends of impedance minimum as at resonance it reaches a minimum. And a parallel LCR circuit is analogus with impedance maximum as at resonance it reaches a maximum.
 
-Predicted resonant frequencies were calculated from input impedance equations by setting input impedance to infinity for Z_max and to 0 for Z_min These were compared against our measured values for both open and short terminations. For both terminations, errors were consistently in the 2-5% range with the largest discrepancy at n=1 and improving at higher frequencies. The measured frequencies were systematically lower than predicted throughout, which could be due to a lower speed of propagation or a longer cable length. 
+Predicted resonant frequencies were calculated from input impedance equations by setting input impedance to infinity for Z_max and to 0 for Z_min These were compared against our measured values for both open and short terminations. For both terminations, errors were consistently in the 2-5% range with the largest discrepancy at n=1 and improving at higher frequencies. The measured frequencies were systematically lower than predicted throughout, which could be due to a lower speed of propagation or a longer cable length. A notable result is that the Z_min frequencies of the open circuit correspond exactly to the Z_max frequencies of the short circuit, and vice versa. This is a direct consequence of their opposite boundary conditions, where the the short termination enforces a voltage node while the open termination enforces a voltage antinode.
 
-
-Using the resonant frequency formula for impedance maximum and minimum by setting the input impedance to infinity and 0 respectively, we can find the predicted resonant frequencies and compare the results to our measured values.
-
-For open termination: 
-The errors are consistently 2 − 5%, with the largest discrepancy at n = 1 for both Zmin and
-Zmax and the error generally decreases at higher n. This is expected experimentally because at lower
-frequencies the non-idealities (small stray capacitance/inductance) represents a larger function of the
-wavelength and so shift the resonance more significantly. This systematic pattern of the measured resonant frequencies being slightly lower than the pre-
-dicted could be because the speed of propagation v is lower than calculated or the length of the
-cable l is longer than 60 m.
-
-For short termination:
-The errors are consistently 1 − 5% with the largest discrepancy at n = 1 for Zmin. Notably, the
-Zmax errors are smaller overall than those of Zmin. As with the open circuit case, the measured
-frequencies are consistently lower than predicted.
-As can be seen, the resonant frequency equation at Zmin for short circuit termination corresponds
-to the resonant frequency equation at Zmax for open circuit termination and vice versa. In other
-words, every frequency that produces Zmin for the open circuit produces a Zmax for the short circuit.
-This can be explained because open circuit and short circuit have opposite boundary conditions
-(as explained in Section 3.3) with the short termination enforcing a voltage node and the open
-termination enforcing a voltage antinode.
 
 
 
