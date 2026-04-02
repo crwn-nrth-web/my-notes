@@ -25,6 +25,7 @@ tags:
 
 > question: what would Kuhn account for the disciplinary specializations that are common nowadays? A a paradigm splitting into different sub-paradigms?
 # Kuhn's account of science
+Kuhn's philosophy of science is based on detailed historical study. If we want to understand how to do good science, we should start by closely examining clear cases of good science.
 
 Kuhn is predominantly a historian of science and his view emphasizes the arbitrary, personal nature of factors often influencing scientific decisions, the rigidity of scientific indoctrination of students, the "conceptual boxes" that nature gets forced into by scientists. He suggests that these features are actually the key to science's success.
 
