@@ -4,6 +4,7 @@ draft: false
 tags:
   - biology
   - physics
+  - outline
 ---
 **Particle beam therapy** or **particle radiotherapy** is a type of cancer treatment that utilizes protons or heavy atoms (such as carbon) to precisely target tumors with high energy.[^1]
 
