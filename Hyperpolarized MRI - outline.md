@@ -18,6 +18,8 @@ Hyperpolarized MRI is an emerging method “with the ability to transiently enha
 	- In clinical practice, “HP 13C pyruvate MRI is applied directly to patients to diagnose disease, guide treatment decisions, monitor therapeutic response, and evaluate disease progression.” (Hsieh et al., 2025, p. 2)
 	- offers the advantage of detecting metabolic changes much earlier than changes in tumor size in a quick real-time non-invasive tracking of disease progression [^1][^3]
 
+“Hyperpolarized (HP) 13C MRI has emerged as a powerful molecular imaging strategy that allows safe, nonradioactive, real-time, and pathway-specific investigation of dynamic metabolic and physiologic processes that were previously inaccessible to imaging.”  [^2](p. 273)
+
 HP MRI has an overwhelming promise to revolutionize medical diagnostic imaging. Efforts are ongoing to improve the technique, investigate new applications and evaluate the clinical value with more than 20 ongoing clinical trials focusing on HP 13C pyruvate, in order to allow more widespread and reliable use of the imaging modality [^3]
 
 "a feasibility study of treatment response in breast cancer showed that hyperpolarized 13C pyruvate MRSI was able to identify metabolic changes after only one cycle of neoadjuvant chemotherapy” and so this treatment could be used in detecting early treatment response and allow early adaption of therapy in non-responders [^4]
@@ -29,8 +31,6 @@ HP MRI has an overwhelming promise to revolutionize medical diagnostic imaging. 
 “Combined with the already widely established and available MRI infrastructure, hyperpolarized MRI has the potential to scale up quickly to more widespread usage.” (Chaumeil et al., 2024, p. 228)
 
 ### Physics behind HP MRI
-
-“Hyperpolarized (HP) 13C MRI has emerged as a powerful molecular imaging strategy that allows safe, nonradioactive, real-time, and pathway-specific investigation of dynamic metabolic and physiologic processes that were previously inaccessible to imaging.”  [^2](p. 273)
 
 - At the body temp and field strengths used in clinical MRI, the MRI signal of 13C nuclei is very low because of of its natural low abundance (1.1% of carbon is 13C [^4]) and its low spin polarization (the spins are not aligned to the external magnetic field [^2] 
 	- “At body temperature the polarization level of 13C is 0.0005 %, producing a very low MR signal.” [^4]
