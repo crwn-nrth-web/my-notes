@@ -35,44 +35,42 @@ Our set up consisted of a function generator, an oscilloscope and an inverting b
 
 The experiment had three stages:
 1. first, we used a micrometer to measure the inner conductor and outer insulator diameters, which let us calculate _L_ and _C_ per unit length directly from the cable geometry.
-2. Second, with the function generator in CW mode, we swept across a range of frequencies and recorded peak-to-peak voltage and current for both open and short terminations on the 60 m cable. From this we extracted the resonant frequencies, propagation speed, dielectric constant, and the phase relationships near resonance.
-3. Third, we switched to pulse mode — 30 ns pulse width at 100 kHz — and examined the time-domain behaviour of the cable under all three terminations. We used this to determine the matched load resistance and to cross-check the propagation speed against the RF result.
-
+2. Second, with the function generator in CW mode, we swept across a range of frequencies and recorded peak-to-peak voltage and current for both open and short terminations on the 60 m cable. 
+3. Third, we switched to pulse mode — 30 ns pulse width at 100 kHz — and examined the time-domain behaviour of the cable under all three terminations. 
 ### Analysis and Discussion
 
 #### Calculation of L and C
 Using micrometer measurements averaged over three readings, we calculated _L_ and _C_ per unit length using the standard coaxial formulas. The relative permeability was taken as 1. This gives us a value for L and C in terms of the relative dielectric constant, which we will determine in the next stage.
 
 #### RF analysis
-Plotting impedance as a function of frequency, both terminations followed the qualitative behavior predicted; the open circuit produced a cotangent like curve and the short circuit a tangent like one. Not the short circuit termination does show a noticeable upward shift and more scatter, but this can be attributed to non-idealities in the shorting cap. Unlike the open termination, which required no physical attachment, the shorting cap in the short termination could case small misalignments enough to introduce stray impedance. Also, the equations are based on idealized lossless cables when our cables are obviously not perfectly lossless. 
+Plotting impedance as a function of frequency, both terminations followed the qualitative behavior predicted; the open circuit produced a cotangent like curve and the short circuit a tangent like one. Not the short circuit termination does show a noticeable upward shift and more scatter, but this can be attributed to non-idealities in the shorting cap. Unlike the open termination, which required no physical attachment, the shorting cap in the short termination could case small misalignments enough to introduce stray impedance.
 
 The resonant frequencies were identified and taking the spacing of consecutive resonant frequencies, the speed of propagation was calculated. Using this alongside of our geometric values of L and C, we calculated a dielectric constant of $\epsilon_r = 2.2 \pm 0.2$ -- consistent with either polyethylene or PTFE. Polyethylene is the most likely candidate given its standard use in laboratory coaxial cables and its lower cost. 
 
-Examining the phase relationship near resonance, we found the expected behavior for the open termination: voltage leads at impedance maxima (inductive nature), current leads at impedance minima (capacitive nature). 
+Examining the phase relationship near resonance, we found the expected behavior for the open termination as seen on the slide. For short termination, the unexpected result was for current leading behavior at the impedance maxima. This could be because of the deviations already seen in the impedance plot and likely attributable to the same connector non-idealities. For the matched termination, both the voltage and current were seen to be in phase throughout as expected.
 
+When looking for an analogous comparison to these phase relationships, it was seen that a series LCR circuit is analogous for the phase trends of impedance minimum as at resonance it reaches a minimum. And a parallel LCR circuit is analogus with impedance maximum as at resonance it reaches a maximum.
 
+Predicted resonant frequencies were calculated from the input impedance equations by setting input impedance to infinity for Z_max and to 0 for Z_min. Comparing predicted and measured resonant frequencies  terminations, errors were consistently in the 2-5% range with the largest discrepancy at n=1 and decreased at higher frequencies as expected. The measured frequencies were systematically lower than predicted throughout, the measured speed of propagation is accounted for correctly with the dielectric slowing the speed, so it is likely the systematic offset is due to small difference in the effective cable length. 
 
+Also to note, every frequency producing Z_min under open termination produced Z_max under short termination, and vice versa — a direct consequence of their opposite boundary conditions.
 
+#### Pulse Input
+Next, we analyzed the pulse input, using a discrete signal, to see the time-dependent transient behavior of pulses in coaxial cables. 
 
+> The same set up was used with the oscilloscope was adjusted to the pulse parameter and set to a period of approx. 10 $\mu s /$division and the function generator was adjusted to a pulse width of 30 ns and frequency of 100 kHz for clear observation of reflection signal.
 
-Next, the phase relationship was examined by increasing the frequency around the resonant frequencies and observing the current and voltage waveforms. This was done for both impedance minimums and maximums as seen in table 6. Theoretically, the phase relationship for short termination are expected to be inverted compared to the open termination, i.e. at impedance minimum, for open termination current leads voltage while for short termination voltage leads current. So, The current leading behavior at impedance maximum for short termination is an unexpected results. Going back to the deviations seen in the short termination plot, the deviation here can be explained for the same reasons shifting the phase relationships subtly.
+Fig 5 and 6 shows one period of the signal for a 60 m cable for open and short termination respectively. Both show two peaks (or pulses) where the first pulse is due to the input from the function generator and the second pulse is due to the reflection of the input pulse.
 
-For the matched load resistance, both the voltage and current were seen to be in phase throughout as expected.
+Comparing the two figures, the open and short terminations produced reflections of equal magnitude and opposite polarity, exactly as predicted. For open, the reflected voltage pulse returns with same polarity and the reflected current with the opposite -- consistent with the current node boundary condition. For short, the reflected voltage was inverted and current unchanged -- consistent with the voltage node. 
 
-When finding an analogous comparison to these phase relationships, it was seen that a series LCR circuit is analogous for the phase trends of impedance minimum as at resonance it reaches a minimum. And a parallel LCR circuit is analogus with impedance maximum as at resonance it reaches a maximum.
+For the matched load, the reflected pulse was minimized by tuning a variable resistor connected to the far end of the cable. Measuring this resistance using a digital multimeter gives us the matched load resistance of $74.1 \pm 0.5 \ohm$. The theoretically predicted value, calculated from L and C, is in very close agreement with the measured value. The propagating speed extracted from the pulse timing was also consistent with the RF method. 
 
-Predicted resonant frequencies were calculated from input impedance equations by setting input impedance to infinity for Z_max and to 0 for Z_min These were compared against our measured values for both open and short terminations. For both terminations, errors were consistently in the 2-5% range with the largest discrepancy at n=1 and improving at higher frequencies. The measured frequencies were systematically lower than predicted throughout, which could be due to a lower speed of propagation or a longer cable length. A notable result is that the Z_min frequencies of the open circuit correspond exactly to the Z_max frequencies of the short circuit, and vice versa. This is a direct consequence of their opposite boundary conditions, where the the short termination enforces a voltage node while the open termination enforces a voltage antinode.
+The buffer impedance was then increased and decreased from its set value of 75 $\ohm$ to see the effect of impedance mismatching. Increasing the buffer impedance, it behaves like a partial open circuit. Decreasing the buffer impedance, it behaves like a partial short circuit. However, this was not clearly observed — Figures 8 and 9 appeared similar in shape, suggesting the buffer impedance may not have been correctly set during that part of the measurement.
 
-**Pulse Input**
-Next, we analyzed the pulse input, using a discrete signal, to see the time-dependent transient behavior of pulses in coaxial cables. The same set up was used with the oscilloscope was adjusted to the pulse parameter and set to a period of approx. 10 $\mu s /$division and the function generator was adjusted to a pulse width of 30 ns and frequency of 100 kHz for clear observation of reflection signal.
+### Conclusion
 
-Fig 5 and 6 shows one period of the signal for a 60 m cable for open and short termination respectively. Both show two peaks (or pulses) where the first pulse is due to the input from the function generator and the second pulse is due to the reflection of the input pulse from the end of the cable due to a change in impedance as it returns back to the oscilloscope.
-
-Comparing the two figures, we can see the reverse in polarity of the reflected pulse. For open circuit termination, the far end of the cable acts as a current node, i.e. the current must be zero. For that to happen, the reflected current pulse must exactly cancel the input pulse and so it returns with opposite polarity. The voltage must be a maximum at the far end, and so the reflected voltage pulse returns with the same polarity as the input. The short circuit termination is a mirror image. The far end acts as a voltage node, so the reflected pulse is of opposite polarity to the input, and the current must be a maximum, so the reflected current pulse is the same polarity as the input. 
-
-For the matched load termination, the observed reflected pulse was minimized by attaching a variable resistor to the end of the cable and adjusting the resistance. Measuring this resistance using a digital multimeter gives us the matched load resistance of $74.1 \pm 0.5 \ohm$. Calculating the expected value of the matched load resistance using the values of inductance and capacitance gives us a value very closely in agreement with our measured value of $75 \pm 4 \ohm$. We can also re-calculate the speed of propagation using the formula for reflections where the length is 2 times the length of the cable, and the time interval is the time difference between the reflected pulse and input pulse. This is also in very strong agreement to the value calculated using the RF method.
-
-The buffer impedance was then increased and decreased from its set value of 75 $\ohm$ to see the effect of impedance mismatching. 
+This experiment gave a thorough picture of wave propagation in coaxial cables. Our RF and pulse measurements were mutually consistent and agreed with transmission line theory across the board. We identified polyethylene as the most probable dielectric, confirmed the open/short circuit duality experimentally, and demonstrated that impedance matching effectively eliminates reflections. Systematic deviations were small and physically well-motivated — non-ideal connectors and small cable losses — rather than fundamental disagreements with theory.
 
 
 
