@@ -4,12 +4,12 @@ draft: false
 tags:
   - physics
 ---
-#### Introduction and theory
+### Introduction and theory
 Transmission cables are everywhere carrying electrical power or radio-frequency signals over long distances in the form of propagating electromagnetic waves. At low frequencies, simple wire connections work fine but for high frequencies, they become impractical due to radiation loss, and so coaxial cables are used instead.
 
 In this experiment, we investigated how electromagnetic waves propagate through these cables, and what happens when those waves encounter a boundary. Specifically, we explored three termination conditions — open circuit, short circuit, and matched load — using both continuous RF signals and discrete pulses, and compared our results against transmission line theory.
 
-A coaxial cable consists of an inner conductor and a grounded outer conductor separated by a dielectric. The wave behavior inside the cable is governed by the cable's distributed inductance (L) and capacitance(C) per unit length. This gives rise to the cable's characteristic impedance, which governs how energy is carried along the line.
+A coaxial cable consists of an inner conductor and a grounded outer conductor separated by a dielectric. The wave behavior inside the cable is governed by the cable's distributed inductance (L) and capacitance (C) per unit length. This gives rise to the cable's characteristic impedance, which governs how energy is carried along the line.
 
 **Key Transmission equations**
 The key quantity we are working with is impedance, which is the AC analogue of resistance, representing the total opposition to alternating current flow. 
@@ -51,7 +51,7 @@ Examining the phase relationship near resonance, we found the expected behavior 
 
 When looking for an analogous comparison to these phase relationships, it was seen that a series LCR circuit is analogous for the phase trends of impedance minimum as at resonance it reaches a minimum. And a parallel LCR circuit is analogus with impedance maximum as at resonance it reaches a maximum.
 
-Predicted resonant frequencies were calculated from the input impedance equations by setting input impedance to infinity for Z_max and to 0 for Z_min. Comparing predicted and measured resonant frequencies  terminations, errors were consistently in the 2-5% range with the largest discrepancy at n=1 and decreased at higher frequencies as expected. The measured frequencies were systematically lower than predicted throughout, the measured speed of propagation is accounted for correctly with the dielectric slowing the speed, so it is likely the systematic offset is due to small difference in the effective cable length. 
+Predicted resonant frequencies were calculated from the input impedance equations by setting input impedance to infinity for Z_max and to 0 for Z_min. Comparing predicted and measured resonant frequencies  terminations, errors were consistently in the 2-5%. The measured frequencies were systematically lower than predicted throughout, the measured speed of propagation is accounted for correctly with the dielectric slowing the speed, so it is likely the systematic offset is due to small difference in the effective cable length. 
 
 Also to note, every frequency producing Z_min under open termination produced Z_max under short termination, and vice versa — a direct consequence of their opposite boundary conditions.
 
@@ -72,14 +72,3 @@ The buffer impedance was then increased and decreased from its set value of 75 $
 
 This experiment gave a thorough picture of wave propagation in coaxial cables. Our RF and pulse measurements were mutually consistent and agreed with transmission line theory across the board. We identified polyethylene as the most probable dielectric, confirmed the open/short circuit duality experimentally, and demonstrated that impedance matching effectively eliminates reflections. Systematic deviations were small and physically well-motivated — non-ideal connectors and small cable losses — rather than fundamental disagreements with theory.
 
-
-
-
-
-
-
-
-
-
-[^1]: Feynman, 1964; Department of Physics and Astronomy, 2026
-[^2]:  Crone, 2026a
