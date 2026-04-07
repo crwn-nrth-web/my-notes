@@ -11,18 +11,26 @@ aliases:
 ### Van Fraassen on the division between scientific realism and anti-realism
 
 Van Fraasen begins by giving different philosophers take on [[Scientific-realism]] and then gives his own formulation:
-> "Science aims to give us, in its theories, a literally true story of what the world is like; and acceptance of a scientifjc theory involves the belief that it is true. This is the correct statement of scientific realism" 
+> "Science aims to give us, in its theories, a literally true story of what the world is like; and acceptance of a scientific theory involves the belief that it is true. This is the correct statement of scientific realism" 
 
-Fraassen defends this formulation by arguing:
-- the aim determines what counts as success in the enterprise and such that the aim of science is to tell a true story
-- Fraassen's aim does not deny that there may be other subsidiary aims
-- it equates acceptance of a theory with belief in its truth
-	- tentative acceptence involves the tentative adoption of the belief that it is true
+^90cf55
+
+In the **first part of the definition**, scientific realism claims that it is the aim of science to give us an accurate description of reality. Van Fraasen further clarifies (p. 8):
+- the aim of science is not the be confused with the individual scientists' motive 
+- the aim determines what counts as success in the enterprise; the aim may be pursued for any number of reasons
+- there may be other aims of science
+
+The second part of the definition touches on epistemology.
+- tentative acceptance involves the tentative adoption of the belief that it is true.
 
 Following this, he gives a statement for [[scientific-anti-realism]] =
-> ". Accordingly, anti-realism is a position according to which the aim of science can well be served without giving such a literally true story, and acceptance of a theory may properly involve something less (or other) than belief that it is true."
+> "Accordingly, anti-realism is a position according to which the aim of science can well be served without giving such a literally true story, and acceptance of a theory may properly involve something less (or other) than belief that it is true." (p. 9)
 
-To demonstrate this distinction between [[Scientific-realism]] and [[scientific-anti-realism]], he points out the difference in purposing a theory. A realist purposes a theory because he is asserting it to be true. But an anti-realist does not assert that it is true but claim other virtues for it like empirical adequacy, comprehensiveness, etc.
+To demonstrate the distinction between [[Scientific-realism]] and [[scientific-anti-realism]], he points out the difference in purposing a theory. 
+
+> What does a scientist do then, according to these different positions? According to the realist, when someone proposes a theory. he is asserting it to be true. But according to the anti-realist, the proposer does not assert the theory to be true; he displays it, and claims certain virtues for it. (p. 10)
+
+He asserts that the distinction he draws between realism and anti-realism "in  so far as it pertains to acceptance, concerns only how much belief is  involved therein." (p. 12) The main point Van Fraassen is arguing is on the acceptance of a theory.
 
 ### literally constructed language
 
@@ -35,15 +43,15 @@ This divides anti-realist into two types:
 1. science aims to be true, properly (but not literally) constructed
 2. language of science should be literally constructed but its theories need not to be true or good
 
-The second type is what Van Fraassen's **constructive empiricism** ist. Insisting on a literal construal of the language of science is to rule out the construal of a theory as a metaphor or simile. But every scientific account which insists on a literal construal of the language of science is not a realist position.
+The second type is what Van Fraassen's **constructive empiricism** is. Insisting on a literal construal of the language of science is to rule out the construal of a theory as a metaphor or simile. But every scientific account which insists on a literal construal of the language of science is not a realist position.
 
 ## Constructive Empiricism
 
-Van Fraassen describes **constructive empiricism** as the [[scientific-anti-realism]] position that
+Van Fraassen describes **constructive empiricism** as:
 
-> "Science aims to give us theories which are *empirically adequate*; and acceptance of a theory *involves as belief onlv that it is empirically adequate*"
+> "Science aims to give us theories which are *empirically adequate*; and acceptance of a theory *involves as belief onlv that it is empirically adequate*" (p. 12)
 
-This stands in contrast to [[Scientific-realism]] that Van Fraassen describes previously. The main point Van Fraassen is arguing is on the acceptance of a theory.
+This stands in contrast to [[Scientific-realism]] that Van Fraassen describes previously. 
 
 The constructive empiricist holds that science aims at truth about the observable aspects of the world but not aim at truth about unobservable aspects. 
 
@@ -56,22 +64,20 @@ By taking a theory to be empirically adequate, the constructive empiricist is si
 In other words, accepting a theory implies believing that it is true with respect to *observable phenomena*, and not with unobservables. Science gives us epistemic access to the observable world but it does not give us a window into the unobservable. The leap between "electron theory works" and "electrons are real" is something that Van Fraassen believes we should not make.
 
 ### Acceptance of a theory
-According to Van Fraassen, the scientific realism/anti-realism debate is not about whether to accept theories but it is about much belief acceptance requires. 
+Van Fraasen adds another component to acceptance than just belief in empirical adequacy. He is saying that acceptance in a theory is also a broader practical epistemic commitment that shapes how you engage with the world going forward.
 
-Siding with the anti-realist account, Van Fraassen claims that:
 > "Acceptance of theories (whether full, tentative, to a degree, etc.) is a phenomenon of scientific activity which clearly involves more than belief . . . acceptance involves not only belief but a certain commitment" (p. 12)
 
-For Van Fraassen, believing in a theory means thinkin git is literally true -- that unobservables really exist and behave as the theory describes. On the other hand, acceptance of a theory has two components:
+
+Acceptance of a theory involves:
 - belief = in empirical adequacy
 - commitment = a practical, looking forward dedication to working within the theory's framework
 
-Since we can never have a fully completed theory, acceptance of a theory means that there is more than just belief, there is commitment to develop the theory forward. 
-
-Van Fraassen also mentions the **underdetermination argument** that while two theories can be observationally identical, accepting one vs the other can lead scientists down completely different research paths and so this shows that there is something more than just belief as acceptance requires a practical and methodological choice as well.
-
-Also, the acceptance of a theory means adopting the theory's conceptual framework and vocabulary and explanatory tools, as well as taking on a social and explanatory role. This means that when something happens in the world, an accepting scientist would explain that using the theory's framework, speaking with authority on the behalf of the theoy and defending it in public. 
+Since we can never have a fully completed theory, acceptance of a theory means that there is more than just belief, there is commitment to develop the theory forward. Van Fraasen says that by accepting a theory, a scientist commits himself to a certain research programme, and that that commitment means adopting that framework's language and tools, explaining phenomena through that lens, etc. = ideas that come straight from [[Kuhn-on-paradigms]].
 
 Van Fraassen insists that all these commitments beyond simply believing that the theory is true are practical and methodological that can be made while remaining agnostic about whether the theory's unobservable
+
+> if Van Fraasen holds 
 
 ### Observable-Unobservable distinction
 

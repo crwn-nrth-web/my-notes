@@ -6,7 +6,7 @@ tags:
 aliases:
   - realist-objection-to-van-fraassen
 ---
-
+-----
 - there is a real motivation to be a scientific realist = most people go into science in order to understand 
 - the anti-realist argument has too high a standard of what counts as good evidence
 - pessimistic meta-induction = there is a continuity from the failed theories to the present theories. The fact that our "best" explanations can be replaced does not mean that we should support anti-realism. Could we say that we are getting closer and closer to the truth? This gives us reason to be a structural realist
@@ -18,3 +18,6 @@ Van Fraassen admits acceptance has this commitment component that involves adopt
 If you placed a scientist who genuinely believes a theory and a scientist who merely accepts it in van Fraassen's sense side by side, an outside observer would see absolutely no difference in how they talk, work, reason, or explain. They would make the same claims, pursue the same questions, defend the same positions, and structure their research in the same way. If two attitudes are behaviourally and functionally identical in every observable respect, what philosophical work is the distinction between them actually doing? The only difference could be said to be internal and epistemic; but that makes it philosophically idle; it is a distinction that makes no changes. Van Fraassen seems to have described belief and simply renamed it "acceptance". 
 
 Another point would be why would scientists dedicate careers, funding, and years of work to a research programme if they didn;t believe the theory was pointing at something real? Van Fraasen's acceptance cannot explain the **motivational structure** of science; it is the belief in the theory that gives research programmes their commitment.
+
+> *my thoughts* = my intuition is to align with realism because I would like to think that I'm doing science because we are trying to come up with accurate representation of the world. Also, another motivation to being a realist is that it is advantageous in everyday life to believe in the current scientific theories and to be a realist. 
+> Being a scientist with either a realist disposition or anti-realist disposition could actually affect the way you do science. Dr. Frasier leans towards pragmatic anti-realist because having wrong theories (highly idealized models, etc.) could actually help towards scientific progress
