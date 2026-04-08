@@ -5,6 +5,7 @@ tags:
   - philosophy
 aliases:
   - Van-Fraassen-criticism-of-scientific-realism
+  - constructive-empiricism
 ---
 [[being-a-scientific-realist|realist-objection-to-van-fraassen]]
 
