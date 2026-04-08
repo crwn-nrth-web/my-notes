@@ -77,29 +77,34 @@ Since we can never have a fully completed theory, acceptance of a theory means t
 
 Van Fraassen insists that all these commitments beyond simply believing that the theory is true are practical and methodological that can be made while remaining agnostic about whether the theory's unobservable
 
-> if Van Fraasen holds 
-
 ### Observable-Unobservable distinction
 
 >   "X is observable to us if there are circumstances which are such that if X is present to us under those circumstances, then we observe it [with our unadided senses]” (p. 16)
 
+He also makes the following clarifications (p. 15):
+- the term "observable" classifies *putative* entities (entities that may or may not exist) 
+	- e.g. a flying horse is observable, and the number seventeen is not
+- there is supposed to be a correlate classification of human acts: an unaided act of perception is and observation
+	- e.g. calculating of mass from the deflection of its trajectory in a known force field is not an observation of mass
+- there is a difference between *observing* (an entity) and *observing that* (something is the case)
+
+There is a problem about where to draw the line between what is observable and what is unobservable.
+
+Van Fraasen makes the case that moons of Jupiter seen from a telescope are observables while electrons seen in a cloud chamber are unobservables. This is from the fact that the moons of Jupiter can be seen by the unaided eye if astronauts got close to them, the same case is not possible for electrons. He gives the example that seeing vapor trails of a jet and the vapor trails of electrons in a cloud chamber:
+
+> "The theory says  that if a charged particle traverses a chamber filled with saturated vapor, some atoms in the neighborhood of its path are ionized. If this vapor is decompressed, and hence becomes super-saturated, it condenses in droplets on the ions, thus marking the path of the particle. The resulting gray line is similar (physically as well as in appearance) to the vapor trail left in the sky when a jet passes. For a jet trail, if you would look ahead of the trail, you will see the jet causing the trail. However, in the case of the cloud chamber this response is not possible. So while the particle is detected by means of the cloud chamber, and the detection is based on observation, it is clearly not a case of the particle’s being observed.” (p.17)
+
 Van-Fraassen defends epistemology based on the *observable-unobservable distinction*. 
 - Evidence obtained from our unaided senses is superior to evidence from aids to our sense (e.g. microscope)
-
-- applies to objects, not to terms in the scientific language
 - he admits that the distinction is vague 
 	- you will have to draw the line at some point and there are a lot of defensible cases of where to draw the line
 - relative to the an epistemic community (human beings)
 
 What this distinction is getting at is that using aid to our senses means that we need to make inferences and assumptions based on the instrument. There is calibration and comparison needed to use these instruments and so the evidence obtained from those instruments would be more suspect than something we see without aid.
 
-Example: The standard model of particle physics
-> "The theory says  that if a charged particle traverses a chamber filled with saturated vapor, some atoms in the neighborhood of its path are ionized. If this vapor is decompressed, and hence becomes super-saturated, it condenses in droplets on the ions, thus marking the path of the particle. The resulting gray line is similar (physically as well as in appearance) to the vapor trail left in the sky when a jet passes. For a jet trail, if you would look ahead of the trail, you will see the jet causing the trail. However, in the case of the cloud chamber this response is not possible. So while the particle is detected by means of the cloud chamber, and the detection is based on observation, it is clearly not a case of the particle’s being observed.” (p.17)
-
 He agrees that we can manipulate the ions and we should use our theories and instruments to do so. We should trust our data but we shouldn't infer that means that they are actually there. 
 
 Van-Fraassen want there to be strongest evidence.
-
 
 If there's all these ways to interact with these "unobservable", why should we not infer that they are actually there? I see [[Hacking-on-scientific-realism]] "if we can spray them then they are real" as stronger argument than Van-Fraassen. Why should our direct access with our senses be a stronger case than interaction through our instruments. 
 

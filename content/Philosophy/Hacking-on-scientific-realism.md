@@ -15,7 +15,7 @@ Hacking is an **entity realist** = that a good many theoretical entities really 
 
 Contrast that with **realism about theories** =  says that scientific theories are either true or false independent of what we know: science at least aims at the truth, and the truth is how the world is.
 
-#### "if you can spray them, then they are real"
+### "if you can spray them, then they are real"
 
 > “What convinced me of realism ... was the fact that by now there are standard emitters with which we can spray positrons and electrons— and that is precisely what we do with them. We understand the effects, we understand the causes, and we use these to find out something else.” (Representing and Intervening, p. 24)
 
