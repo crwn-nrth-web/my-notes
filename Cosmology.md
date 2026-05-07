@@ -4,6 +4,11 @@ draft: false
 tags:
   - physics
 ---
+[[Olber's-paradox]]
+
+parsec = 3.26156 ly
+- this is the hypothetical distance at which a star would show parallax of exactly one second
+
 **Assumptions in cosmology**:
 1. when averaged over sufficiently large scales, the observable properties of the universe are *isotropic* (independent of direction)
 	- nearby galaxies are anisotropically distributed, distant galaxies approach isotropy, the cosmic microwave background is almost perfectly isotropic
