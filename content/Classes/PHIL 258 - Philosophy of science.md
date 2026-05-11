@@ -5,6 +5,7 @@ tags:
   - class
   - philosophy
 ---
+> Dr. Fraiser, UW Winter 2026
 ## Topics
 - [[defining-philosophy-of-science]]
 - [[logical-empiricism]]
