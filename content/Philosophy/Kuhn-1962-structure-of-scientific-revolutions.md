@@ -64,6 +64,8 @@ Pre-science is the period of activity that precedes the first period of normal s
 - The end of the early stages is the triumph of one pre-paradigm schools as the first paradigm.
 
 
+
+
 # Evaluation of Kuhn
 
 | Strength                                                                                                                                                                                                                                                                                        | Weakness                                                                                                                                                                                                                                                                                                                                                                                   |
