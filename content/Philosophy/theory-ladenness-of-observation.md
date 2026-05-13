@@ -4,9 +4,9 @@ draft: false
 tags:
   - philosophy
 ---
-[[Kuhn-1962-structure-of-scientific-revolutions]] rejects the idea that we observe the world then create theories to explain what we observed; the view held by both [[popper-1934-logic-of-scientific-discovery]] and [[logical-empiricism]].
+[[popper-1934-logic-of-scientific-discovery]] argued that observations are dependent and influenced by theories we develop and subscribe to.  
 
-Instead, what we observe and how we describe it is shaped by our theoretical frameworks ([[Kuhn-on-paradigms|paradigm]]). Because paradigms determine what counts as a fact, a problem, or an anomaly, scientists working in different paradigms may have different observations to the "same" thing. 
+[[Kuhn-1962-structure-of-scientific-revolutions]] agrees with popper that what we observe and how we describe it is shaped by our theoretical frameworks ([[Kuhn-on-paradigms|paradigm]]). Because paradigms determine what counts as a fact, a problem, or an anomaly, scientists working in different paradigms may have different observations to the "same" thing. 
 
 If observations were neutral, then contradictory evidence would instantly refute a theory. Instead, in practice, anomalies are often reinterpreted or may not even be seen as anomalies at first, because scientists interpret data through the existing framework. The theory-ladenness of observation also supports [[incommensurability]] as different paradigms may disagree about what is being observed in the first place.
 

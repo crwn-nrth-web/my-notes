@@ -7,50 +7,52 @@ tags:
 ---
  > Kuhn, T. S. (1994). _The structure of scientific revolutions_ (2. ed., enlarged, 21. print). Univ. of Chicago Press.
 
-1. [[Role-of-history-in-Kuhn-account-of-science]]
+1. Chapter 1: [[Role-of-history-in-Kuhn-account-of-science]]
 2. [[Kuhn-on-paradigms]]
-	1. [[social-consequence-of-paradigms]]
+	- [[social-consequence-of-paradigms]]
 3. [[Kuhn-on-normal-science]]
-	1. [[normal-science-as-puzzle-solving]]
-	2. [[Essay-Kuhn-on-what-keeps-scientists-engaged]]
+	- [[normal-science-as-puzzle-solving]]
+	- [[Essay-Kuhn-on-what-keeps-scientists-engaged]]
 4. [[Kuhn-on-crisis-and-scientific-revolutions]]
-	1. [[scientific-discovery-are-not-discrete-events]]
-	2. [[incompatibility-of-successive-paradigms]]
-	3. [[paradigms-and-revolutions-are-local-to-scientific-fields]]
-	4. [[scientific-revolutions-as-changes-of-world-view]]
-	5. [[incommensurability|Kuhn-on-incommensurability]]
-	6. [[theory-ladenness-of-observation]]
+	- [[scientific-discovery-are-not-discrete-events]]
+	- [[incompatibility-of-successive-paradigms]]
+	- [[paradigms-and-revolutions-are-local-to-scientific-fields]]
+5. consequences of Kuhn's theory
+	- [[scientific-revolutions-as-changes-of-world-view]]
+	- [[incommensurability|Kuhn-on-incommensurability]]
+	- [[theory-ladenness-of-observation]]
 
 [[Essay-social-dimension-of-kuhn-account]]
 
-> question: what would Kuhn account for the disciplinary specializations that are common nowadays? A a paradigm splitting into different sub-paradigms?
+
+
 # Kuhn's account of science
-Kuhn's philosophy of science is based on detailed historical study. If we want to understand how to do good science, we should start by closely examining clear cases of good science.
+Thomas Kuhn was a physicist with a PhD in quantum mechanics. He went on to specialize in history of science (which was not a field fully developed at that time). Kuhn's philosophy of science was based on detailed historical study, seeing how science worked and progressed in the past. 
 
-Kuhn is predominantly a historian of science and his view emphasizes the arbitrary, personal nature of factors often influencing scientific decisions, the rigidity of scientific indoctrination of students, the "conceptual boxes" that nature gets forced into by scientists. He suggests that these features are actually the key to science's success.
+His view emphasizes the arbitrary, personal nature of factors that often influence scientific decisions, the rigidity of scientific indoctrination of students, and the "conceptual boxes" nature gets forced into by scientists. 
 
-His account of science challenges the traditional view of linear scientific progress of steadily accumulating knowledge over time. Instead, he argues that science does not progress in this smooth, linear fashion, but instead has a cyclic nature, where long periods of stability are interrupted by revolutionary science, in which the dominant **[[Kuhn-on-paradigms|paradigm]]**
-is replaced partially or completely.
-
-Science, as we know it, is most often operating within a paradigm. During these periods of **"[[Kuhn-on-normal-science|normal-science]]"**, scientists are not questioning the paradigm itself, instead they are solving smaller problems ("puzzle-solving") and refining the details of the theory.
-
-Overtime, scientists start encountering anomalies that don't fit the paradigm's predictions. Once these anomalies can no longer be ignored, it leads to a **crisis**. When a scientific field is in crisis, a radical paradigm shift occurs where a new paradigm that can explain the anomalies better replace the old one. Kuhn calls this a **[[Kuhn-on-crisis-and-scientific-revolutions|scientific-revolution]]**.
+His account of science challenges the traditional view of linear scientific progress of steadily accumulating knowledge over time (popularized by [[popper-1934-logic-of-scientific-discovery]]). Kuhn argues that science does not progress in this smooth, linear fashion, but instead has a cyclic nature: long periods of stability are interrupted by periods of "revolutionary science", in which the dominant [[Kuhn-on-paradigms|paradigm]] is replaced partially or completely.
 
 An central idea to Kuhn's overall picture is that science is a social mechanism that combines two capacities. One is capacity for sustained, cooperative work. The other is science's capacity to break down and reconstitute itself from time to time [^1]
 
-An overview of Kuhn's account of scientific progress =
-1. STAGE 1 = Pre-paradigm
-2. STAGE 2 = Normal Science (scientific activity governed by a particular paradigm)
-3. STAGE 3 = Crisis 
-4. STAGE 4 = Revolution
-5. STAGE 5 = Normal Science (scientific activity governed by a different paradigm than stage 2)
-6. STAGE 6 = Crisis
-. . .  etc.
+**Overview of Kuhn's account of scientific progress** =
+1. **Pre-paradigm**
+2. **[[Kuhn-on-normal-science|normal-science]]**
+	- scientists are not questioning the paradigm itself, instead they are focused on "problem-solving" and refining the details of the theory
+3. **Crisis**
+	- scientists starts encountering anomalies don't fit paradigm's prediction 
+	- once these anomalies can no longer be ignored, it leads to a crisis
+4. **Revolution**
+	- When a scientific field is in crisis, a radical paradigm shift occurs where a new paradigm that can explain the anomalies better replace the old one. Kuhn calls this a **[[Kuhn-on-crisis-and-scientific-revolutions|scientific-revolution]]**.
+5. **Normal Science (under a different paradigm)**
+6. Crisis
+. . . etc.
 
 **Example: Light (Kuhn, p. 12)** =
 1. in the 18th century, the paradigm was provided by Newton's *Opticks* which taught that light was material corpuscles
 2. That paradigm was replaced with a new paradigm that light was transverse wave motion
 3. It was then replaced with the paradigm that light is photons (quantum-mechanical entities that have wave-particle duality) developed by Planck, Einstein and others
+
 ## Rough Notes
 ### Chapter 1
 > "If *science* is the constellation of facts, theories, and methods collected in current texts, then *scientists* are the men who, successfully or not, have striven to contribute one or another element to that particular constellation. *Scientific development* becomes the piecemeal process by which these items have been added, singly and in combination, to the ever growing stockpile that constitutes scientific technique and knowledge. And *history of science* becomes the discipline that chronicles both these successive increments and the obstacles that have inhibited their accumulation."

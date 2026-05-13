@@ -12,6 +12,8 @@ aliases:
 
 Normal science is characterized by consensus and acceptance of the [[Kuhn-on-paradigms|paradigm]] where fundamental questions about the concepts, methods, and standards are largely settled, allowing researchers to focus on the extending and refining the paradigm rather than question it. Kuhn provides an interesting take on [[Essay-Kuhn-on-what-keeps-scientists-engaged|what-keeps-scientists-engaged-in-normal-science]].
 
+Using paradigm in this broad sense can also be called **disciplinary matrix** = referring to the entire shared framework (generalizations, beliefs, values, and methods) that a scientific community uses to conduct research, solve puzzles, and define legitimate science.
+
 This feature contrasts sharply with [[popper-1934-logic-of-scientific-discovery]], according to which scientists should remain permanently open to the falsification of any theory. For Kuhn, normal science depends on "closing off" debate about fundamentals, as he believes that constantly questioning the fundamentals will lead to no true scientific progress. 
 
 Kuhn explains [[normal-science-as-puzzle-solving]]: the problems chosen by the [[Kuhn-on-paradigms|paradigm]] are assumed to have solutions, and success depends on technical skill rather than conceptual innovation. By this way, normal science actually discourages novelty and original thinking and instead follows a restricted vision given by the paradigm. 

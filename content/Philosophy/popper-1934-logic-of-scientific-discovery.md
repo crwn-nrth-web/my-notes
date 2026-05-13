@@ -7,12 +7,13 @@ tags:
 > Popper, K. R., & Popper, K. R. (1934). _The Logic of scientific discovery_ . Routledge.
 
 [[problem-of-demarcation]]
+[[theory-ladenness-of-observation]]
 
-Karl Popper begins by agreeing with [[Hume-on-the-problem-of-induction]] that no amount of observed instances can logically justify a universal law, but he denies that this poses a threat to science, like [[logical-empiricism]] leads us to believe. According to Popper, the problem of induction only arises because it is mistakenly assumed that science proceeds by induction from observation to universal laws. 
+Popper argues that scientific theories are conjectures proposed independently of experience and are tested deductively through their observable consequences. 
 
-Popper posits that scientific theories are conjectures proposed independently of experience and are tested deductively through their observable consequences. Inductive justification is not required because no amount of positive evidence can verify a theory, it advances through falsification instead.
+Karl Popper believed that scientific theories can only be **falsified** (proven to be false) and that scientific theories do not get inductively confirmed. 
 
-Karl Popper believed that scientific theories can only be **falsified** (proven to be false) and that scientific theories do not get inductively confirmed. This in contrast to [[logical-empiricism]] that focuses on [[confirmation-and-logic]].
+This in contrast to [[logical-empiricism]] that focuses on [[confirmation-and-logic]].
 
 For Popper, science changes via a two-step cycle that repeats endlessly. 
 
@@ -25,19 +26,23 @@ For Popper, science changes via a two-step cycle that repeats endlessly.
 
 A theoretical idea can be refined and modified via many rounds of conjecture and refutation. However, it is important to avoid *ad hoc hypotheses*
 
-**example:**
-**Hypothesis** = Blue litmus paper turns red in clear liquids
-**Auxiliary hypothesis** = Water is a clear liquid
-**Prediction** = Blue litmus paper turns red in water
-**Observation** = Blue litmus paper does not turn red in water $\rightarrow$ falsification
+**Example**
+- **Hypothesis** = Blue litmus paper turns red in clear liquids
+- **Auxiliary hypothesis** = Water is a clear liquid
+- **Prediction** = Blue litmus paper turns red in water
+- **Observation** = Blue litmus paper does not turn red in water $\rightarrow$ falsification
 
 For Popper, an ad hoc hypothesis for this falsification = e.g.. = Blue litmus paper turns red in clear liquids not water
 
-### Section 1: Problem of induction
+### Popper on the problem of induction
 
 Whether inductive inferences can be justified is called the [[Hume-on-the-problem-of-induction|problem-of-induction]], but can also be described as "the question of the truth of universal statements which are based on experience", such as hypotheses and theoretical claims in science. ^55bd95
 
 The problem with being "known by experience" is that it is clear that this can only be applied to singular statements and not universal statements. The truth of inductive inferences making generalizations means to reduce generalizations to singular statements that are then known by experience, which leads to the question of [[justification]]. ^9cc609
+
+Karl Popper begins by agreeing with [[Hume-on-the-problem-of-induction]] that no amount of observed instances can logically justify a universal law, but he denies that this poses a threat to science, like [[logical-empiricism]] leads us to believe. According to Popper, the problem of induction only arises because it is mistakenly assumed that science proceeds by induction from observation to universal laws. 
+
+For Popper, Inductive justification is not required because no amount of positive evidence can verify a theory, it advances through falsification instead.
 
 ##### principle of induction
 

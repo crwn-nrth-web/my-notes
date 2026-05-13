@@ -8,13 +8,10 @@ aliases:
 ---
 A paradigm, as defined in [[Kuhn-1962-structure-of-scientific-revolutions]], is a shared framework that defines how a scientific community understands and investigates the world.
 
-[[paradigms-and-revolutions-are-local-to-scientific-fields]]
-[[social-consequence-of-paradigms]]
-[[scientific-discovery-are-not-discrete-events]]
-
 As define by Theory and reality (Godfrey-Smith) p. 77:
 - **broad sense:** package of ideas and methods, which, when combined, make up both a view of the world and a way of doing science
-- **narrow sense:** one key part of a paradigm in the broad sense is a specific achievement, or an exemplar (something that inspires other to shift their thinking towards a different way of investigating the world, leading to the paradigm)
+- **narrow sense:** one key part of a paradigm in the broad sense is a specific achievement, or an *exemplar* (something that inspires other to shift their thinking towards a different way of investigating the world, leading to the paradigm)
+	- by *exemplar* means a specific instances that is used by others. Newton is an exemplar by which physics was later done
 ### what a paradigm includes
 - fundamental laws and theoretical assumptions
 - key formulas, constants, and methods

@@ -9,9 +9,14 @@ aliases:
 ---
 **incommensurability** = not comparable by use of a common standard or measure
 
-[[Kuhn-1962-structure-of-scientific-revolutions]] used the term *incommensurability* to characterize the holistic nature of change that takes place in a [[Kuhn-on-crisis-and-scientific-revolutions|scientific-revolution]]. The [[Kuhn-on-normal-science|normal-science]] that emerges from a [[Kuhn-on-crisis-and-scientific-revolutions|scientific-revolution]] is not only [[incompatibility-of-successive-paradigms]] but often incommensurable.
+[[Kuhn-1962-structure-of-scientific-revolutions]] used the term *incommensurability* to characterize the holistic nature of change that takes place in a [[Kuhn-on-crisis-and-scientific-revolutions|scientific-revolution]]. For normal science that emerges from a scientific revolution, there is not only [[incompatibility-of-successive-paradigms]] but also incommensurability of paradigms.
 
-Two rival paradigms can be compared well enough for it to be clear that they are incompatible. However, it is important to note that from within a paradigm, it is easy for scientists to claim why their paradigm is superior to others but from a neutral perspective, two people who work within different paradigms who are arguing about which is better will often appear to be talking past each other.
+Example:
+- In Newtonian physics, mass is defined as $F=ma$ while for Einstein, $E=mc^2$. In this sense, mass cannot be compared between Newton and Einstein
+
+From within a paradigm, it is easy for scientists to claim why their paradigm is superior to others but from a neutral perspective, two people who work within different paradigms who are arguing about which is better will often appear to be talking past each other. It becomes impossible to compare two paradigms when they are incommensurable and so how can we say that we are progressing towards the truth.
+
+> "Kuhn coined his aphorism that revolutions progress away from previous conceptions of the world that have run into cataclysmic difficulties. " (Introductory Essay, Ian Hacking)
 
 **Two aspects of the problem of incommensurability**
 1. people in different paradigms will not be able to fully communicate with each other, they will use key terms in different ways and in a sense be talking in slightly different languages

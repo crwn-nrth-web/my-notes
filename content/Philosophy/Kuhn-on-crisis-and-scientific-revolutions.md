@@ -14,9 +14,11 @@ In [[Kuhn-1962-structure-of-scientific-revolutions]], Kuhn distinguishes between
 **Scientific revolutions** are non-cumulative development episodes (or transition phase) after the crisis period where a [[Kuhn-on-paradigms|paradigm]] shift occurs, replacing the older paradigm in whole or in part by an incompatible favor new one (p. 92).
 ### Crisis
 
+> "A crisis involves a period of extraordinary, rather than normal, research . . . A crisis involves a period of extraordinary, rather than normal, research" (Introductory essay by Ian Hacking, )
+
 A **crisis** occurs when scientists begin to lose faith in the existing [[Kuhn-on-paradigms|paradigm]]. This happens when =
 - The paradigm no longer effectively guides research.
-- It fails to resolve persistent and significant problems.
+- It fails to resolve persistent and significant problems (analomy)
 - No clear alternative has yet stabilized the field.
 
 It is the transitional period between the weakening of the old paradigm before the emergence of a new one.
@@ -24,7 +26,7 @@ It is the transitional period between the weakening of the old paradigm before t
 Kuhn emphasizes that crisis is not accidental, but is the "proper functioning" of science. [[Kuhn-on-normal-science|normal-science]] is structured in a way that makes its own destruction inevitable, but only in response to the "right stimuli" i.e. appearance of problems that are deep rather than superficial. 
 
 According to Kuhn, the rejection of a [[Kuhn-on-paradigms|paradigm]] happens only when =
-1. a critical mass of **anomalies** ([[normal-science-as-puzzle-solving]] that have resisted solution) has accumulated
+1. a critical mass of **anomalies** (puzzles that have resisted solution) has accumulated
 	- e.g. "equipment designed and constructed for the purpose of normal science fails to perform in the anticipated manner, revealing an anomaly that cannot, despite repeated efforts, be aligned with the professional expectations" p. 6
 2. a rival paradigm has appeared
 
