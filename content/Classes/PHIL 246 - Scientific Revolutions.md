@@ -14,8 +14,11 @@ tags:
 - *Emile Du Chatelet* was the first to coin the term "scientific revolution" in the book *The foundations of physics* (1740). This book was written at a time when Cartesian philosophy was still popular, with a move towards Newtonian ways
 > "I will not write the history of the *revolutions* experienced by the physics here. A thick book would be needed to report them all"
 
+Science is influenced by previous / traditional accounts and has a critical nature to respond to and critique past theories. This critical nature goes back to Antiquity (6th century BCE)
+
+
 **Historical studies of scientific revolutions from Antiquity to the 19th century:**
-- Copernican Revolution
+- [[Copernican-Revolution]]
 - Emergence of Chemistry 
 - Emergence of  Evolutionary Biology
 
