@@ -6,13 +6,6 @@ tags:
 ---
 ### Standards before the Copernican Revolution (Background)
 
-**Important figures in Antiquity:**
-- Pythagoreans (6th to 5th century BCE)
-- Plato (429 - 347 BCE)
-- Aristotle (384 - 322 BCE)
-- Eudoxus and Calippus (4th century BCE)
-- Ptolemy (c. 100 - 170 CE)
-
 Background = [[Ancient-astronomy]]
 
 The Pythagoreans were the first theorist to have attempted to deliberately give the knowledge of nature a quantitative, mathematical foundation
