@@ -4,18 +4,17 @@ draft: false
 tags:
   - history/classics
 ---
-On a read-through of the odyssey, a prevalent theme that can be noticed is the idea that "to know is to love". Of course, *theme* is a strong word in this case. The style of the odyssey appears to me, especially in the first half, as more of a collection of tales stringed together by their loose tether to Odysseus. A closer look at Odysseus' person journey, however, makes this theme more apparent.
-
-Odysseus' cannot stop his lying nature even when he is finally on familiar land. He continues playing mind games with Penelope and Laertes. It is like he doesn't know who he is without his lies. This "not knowing who he is" compounds the "to love is to know" theme. It is the little things, the scare recognized by his old maid, the wedding bed carved into the olive tree where they first met that only his wife knows about, that cement finally cements Odysseus' identity back in Ithaca where it belongs.  
+The style of the odyssey appears to me, especially in the first half, as more of a collection of tales stringed together by their loose tether to Odysseus. A closer look at Odysseus' personal journey, however, makes this theme more apparent.
 
 ---
-Odysseus seems to constantly have an identity crisis going on throughout the epic. It seems to tie into his lying nature; Odysseus, more often than not, tends to lead with a well-thought and elaborate persona than anything resembling the truth of his identity, even in situations where it is not entirely necessary (more on that later).
+Odysseus seems to constantly have an identity crisis going on throughout the epic. It seems to tie into his lying nature; Odysseus, more often than not, tends to lead with a well-thought and elaborate persona than anything resembling the truth of his identity, even in situations where it is not entirely necessary
+
+Odysseus' cannot stop his lying nature even when he is finally on familiar land. He continues playing mind games with Penelope and Laertes. It is like he doesn't know who he is without his lies. His identity is brought back through the small recognitions: the scare recognized by his old maid, the wedding bed carved into the olive tree that only his wife knows about. These are what finally cements Odysseus' identity back in Ithaca where it belongs.  
 
 ---
-In the cyclop's cave, Odysseus adopts the persona of *Nobody* (*Outis*) -- no one special. In doing so, he erases his titles, his *kleos*, his very being. This erasure is signified by the epithet *Outidanos* *good-for-nothing*, a derivate of Outis, that is applied in the Iliad to erase a hero's epic identity[^1]. 
+In the cyclops' cave, Odysseus adopts the persona of *Nobody* (*Outis*) -- no one special. In doing so, he erases his titles, his *kleos*, his very being. This erasure is signified by the epithet *Outidanos* *good-for-nothing*, a derivate of Outis, that is applied in the Iliad to erase a hero's epic identity[^1]. 
 
----
-Taking up the *Outis* epithet goes against Odysseus' heroic nature. He can't even make himself hold onto that epithet for too long; his ego ends up getting the better of him. When he reveals his identity to King Alcinous, "he speaks his name in an utterly objective manner" (Notes by Bernard Knox). The epic Greek hero Odysseus, cunning trickster and favorite of Athena is not just his identity; it goes beyond him.
+Taking up the *Outis* epithet goes against Odysseus' heroic nature. He can't even make himself hold onto that epithet for too long; his ego ends up getting the better of him. When he reveals his identity to King Alcinous, "he speaks his name in an utterly objective manner"[^2]. The epic Greek hero Odysseus, cunning trickster and favorite of Athena is not just his identity; it goes beyond him.
 
 This reputation of his gets tiring as his journey and identity of a hero slowly crushes him. One of the first temptations to give up everything is after his crew opens the wind bag and he thinks "Should I leap over the side and drown at once?" (10.34). This temptation for death follows him, either by suicide or by recklessness and relaxing the need for constant vigilance that had saved him more than once.
 
@@ -25,11 +24,12 @@ Calypso, on the other hand, offers immortality and a paradise away from trouble.
 
 This is resolved once he sees for himself what it means to be dead on his trip to the underworld, and he becomes determined once again to make it home alive. 
 
+---
+The power of femineity plays a central role in the epic, with Odysseys being surrounded by female forces that either stop him form returning or play a key part of his faith, acting as main elements inside his story. In first few stanzas, Kalypso is introduced who holds him back from going home. Then there is Naucissa (in book 6) who is the primary tool responsible for Odysseus' salvation, used by Athena. In order to gain passage on a ship to Ithaca, he needs to ask the favor of Arete, once again dependent on female power.
 
 
-$$\Delta C = \sqrt{ \left( \frac{\partial C}{\partial a} \Delta a \right)^2 +\left( \frac{\partial C}{\partial b} \Delta b \right)^2 + \left( \frac{\Delta \epsilon_{r}}{\epsilon} \right)^2} 
-= C \sqrt{  \left( \frac{\Delta a}{a \ln\left( \frac{b}{a} \right)} \right)^2 +\left( \frac{\Delta b}{b \ln\left( \frac{b}{a} \right)} \right)^2 + \left( \frac{\Delta \epsilon_{r}}{\epsilon} \right)^2} $$
+
+
 
 [^1]: Nagel, 2013
-
-
+[^2]: Notes by Bernard Knox, Robert Fagles translation
