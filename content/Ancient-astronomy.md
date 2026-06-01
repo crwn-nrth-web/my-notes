@@ -13,6 +13,8 @@ In Antiquity, to do science was to do philosophy
 - Eudoxus and Calippus (4th century BCE)
 - Ptolemy (c. 100 - 170 CE)
 
+## Antiquity
+
 **Hesiod** = epic Greek poet (alongside Homer)
 - Works = *Works and Days* (agriculture and calendar) and *Theogony* (account of the origins of the gods)
 - The Greek alphabet was adapted around 800 BCE adapted from Phoenician and around 750 - 650 BCE, the epic poems were written down
@@ -48,8 +50,8 @@ According to Hesiod's Theology:
 - Another theory by Philolaus (late 5th century Pythagorean) = 
 	- Hestia (central fire) is a separate body (invisible because we never face it), circling around Hestia is the counter-earth (invisible body that could account for eclipses maybe), then the earth, then the moon, sun, and the five visible planets with the naked eye, all circling Hestia
 	- this gives 10 circular bodies
-### Saving the phenomena
-**Saving the phenomena** was an ancient philosophical and scientific goal to develop theories that could give an account of the apparent appearences of the sun, moon, planets and stars by means of uniform circular motions
+## Fourth century Astronomy
+**Saving the phenomena** was an ancient philosophical and scientific goal to develop theories that could give an account of the apparent appearances of the heavens (sun, moon, planets and stars) by means of uniform circular motions
 
 - the background of fixed stars appear to move east to west, and the stars, moon, and the 5 visible move west to east
 - retrograde motion of planets = appear to move backwards (east to west) for a moment before continuing their original path
@@ -76,19 +78,23 @@ Plato did not put emphasis on studying astronomy but he did see the heavens as t
 	7. sun = brightest
 	8. innermost whorl = moon = reflects the light of the sun
 
+#### Geometric models
+
 **Eudoxus**
 - wrote a text: *On speeds*
 - made the first geometrical model of the heavens = poles of spheres attached to one another to give the apparent motion of the cosmic bodies
 
 > "Eudoxus supposed that the motion of the sun or of the moon involves, in either case, three spheres, of which the first is the sphere of the fixed stars, and the second moves in the circle which runs along the middle of the zodiac, and the third in the circle which is inclined across the breadth of the zodiac; but the circle in which the moon moves is inclined at a greater angle than that in which the sun moves. And the motion of the planets involves, in each case, four spheres, and of these also the first and second are the same as the first two mentioned above (for the sphere of the fixed stars is that which moves all the other spheres, and that which is placed beneath this and has its movement in the circle which bisects the zodiac is common to all), but the poles of the third sphere of each planet are in the circle which bisects the zodiac, and the motion of the fourth sphere is in the circle which is inclined at an angle to the equator of the third sphere; and the poles of the third spheres are different for the other planets, but those of Venus and Mercury are the same." (Aristotle, Metaphysics $\lambda$)
 
-1. outmost sphere = daily rotation (east to west, 23 hrs. 50 mins)
-2. sphere for motion along the ecliptic (west to east)
+1. *outmost sphere = daily rotation* (east to west, 23 hrs. 56 mins)
+	- the daily rotation is less than four minutes because the sun travels four minutes along the ecliptic in one day
+2. *sphere for motion along the ecliptic* (west to east)
 	- Eudoxus doesn't equate the sun to the ecliptic, but believes that sun moves above and below the ecliptic like the other planets
+		- sidereal periods: sun = 1 year, moon = 27 days, Jupiter = 12 years, Saturn = 7 1/2 years
 	- pole of the second is perpendicular to the pole of the third sphere
-3. sphere for motion in latitude, north and south of the ecliptic
+3. *sphere for motion in latitude, north and south of the ecliptic*
 	- the first three spheres are need for the sun and moon
-4. innermost sphere combined with the motion of the third brings about retrograde motion
+4. *innermost sphere combined with the motion of the third brings about retrograde motion*
 	- this gives the planet's motion in a hippopede shape ($\infty$)
 
 **Calippus** 
@@ -102,7 +108,8 @@ Plato did not put emphasis on studying astronomy but he did see the heavens as t
 
 **Aristotle**
 - believed that there would be friction between the spheres and the motion of the spheres would affect one another
-- e.g. for Saturn's four spheres, there needs to be three additional counter-acting spheres to reset the motion for Jupiter. You would not need to counter act the daily rotation sphere
+- e.g. for Saturn's four spheres, there needs to be three additional counter-acting spheres to reset the motion for Jupiter. 
+- You would not need to counter act the daily rotation sphere (outermost sphere)
 
 > "But it is necessary, if all the spheres combined are to explain the phenomena that for each of the planets there should be other spheres (one fewer than those hitherto assigned) which counteract those already mentioned and bring back to the same position the first sphere of the star which in each case is situated below the star in question; for only thus can all the forces at work produce the motion of the planets . . . and of these only those by which the lowest-situated planet is moved need not be counteracted . . . if one were not to add to the moon and to the sun the movements we mentioned, all the spheres will be forty-nine in number."
 
@@ -122,14 +129,45 @@ Plato did not put emphasis on studying astronomy but he did see the heavens as t
 **Epicycle model**
 - accounts for apparent change of brightness and change in retrograde shape
 
+#### Problems with the ancient geometric model of the cosmos
+- doesn't account for apparent brightness and size as the planets stay in the same position
+- the retrograde motion all have the same shape, when in reality this is not the case
+- doesn't account for the varying speeds
+
+## Hellenistic period
+This period begins with the death of Alexander the Great (323 BCE) and ended in the 1st century BCE when Greece was annexed to Rome
+
+**Heraclitus of Pontus** (387 - 312 BCE)
+- first to propose that the earth rotates west to east
+
+**Aristarchus of Samos** (c. 310 - c. 230 BCE)
+- first to propose that the earth revolves around the sun
+- this hypothesis did not catch on because he did not propose a complete system and because observations go against this hypothesis
+	- cannot feel the rotation of the earth
+	- there was no concept of inertia
+	- there is a lack of *stellar parallax* = stars should appear to move closer or farther away from each other if the earth is rotating
+	- it did not solve the prevailing problems of the season, etc.
+
+**Hipparchus**  (190 - 120 BCE)
+- made observations of the night sky
+- created the first star map
+	- evidence of this was seen on a palamset 
+
+**Apollonius of Perga** (c. 240 - 190 BCE)
+- first proposed the epicyclic and eccentric model that Ptolemy later adapted
+- the epicyclic and eccentric models are kinematically equivalent
+
+- these models could account for the apparent changes in size and brightness. Combining the two models could account for the changes in retrograde shape
+- the inequalities of the seasons can be explained by the eccentric hypothesis
+- it can also account for the fact that the sun and moon do not have retrograde motion, while the planets do
+	- for the sun and moon, the epicycle rotates in the opposite direction to the deferent, while the planets' epicycle rotates in the same direction to the deferent
 
 
+![[Pasted image 20260601134020.png]]
 
+![[Pasted image 20260601134346.png]]
 
-
-
-
-
+![[Pasted image 20260601134424.png]]
 
 
 [^1]: Lloyd, Early Greeks in science. p.26
