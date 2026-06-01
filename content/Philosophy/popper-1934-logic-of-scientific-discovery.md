@@ -4,7 +4,7 @@ draft: false
 tags:
   - philosophy
 ---
-> Popper, K. R., & Popper, K. R. (1934). _The Logic of scientific discovery_ . Routledge.
+> Popper, K. R.(1934). _The Logic of scientific discovery_ . Routledge.
 
 [[problem-of-demarcation]]
 [[theory-ladenness-of-observation]]
