@@ -17,7 +17,6 @@ title: Hume-on-the-problem-of-induction
 > “As to past Experience, it can be allowed to give direct and certain information of those precise objects only, and that precise period of time, which fell under its cognizance: but why this experience should be extended to future times, and to other objects, which for aught we know, may be only in appearance similar; this is the main question on which I would insist.”
 
 This cannot be justified deductively (it isn't a logical truth), and as Hume shows, it cannot be justified inductively either.
-
 ## Induction is grounded in causal reasoning
 Hume argues that our inductive reasoning is grounded in our idea of [[Causality]]. When we see one event regularly followed by another, we form the belief that the first caused the second and use that to made predictions. The basis for all cauasal inferences and predictions about the world, for Hume, is past experience.
 
