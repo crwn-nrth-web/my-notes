@@ -4,28 +4,24 @@ draft: false
 tags:
   -
 ---
-### Standards before the Copernican Revolution (Background)
 
-Background = [[Ancient-astronomy]]
+The Copernican Revolution refers to the shift from a geocentric to a heliocentric model of the cosmos, spanning roughly from Ptolemy (2nd century BCE) to Newton. The transition required dismantling Aristotelian physics and rethinking the relationship between mathematics, observation and physical truth.
+### Ptolemy (100 - 170 CE)
 
-The Pythagoreans were the first theorist to have attempted to deliberately give the knowledge of nature a quantitative, mathematical foundation
+Ptolemy's geocentric model, published in the *Almagest* (Mathematical Sytaxis), was the authorative account of planetary motion for over 1300 years. 
 
-### Ptolemy
-- Ptolemy lived 100 - 170 CE in Alexandria
-- his model was the authoritative model until the 17th century
-- published in the Almagest (or Mathematical Sytaxis)
+In it, he places mathematics as the most important in theoretical philosophy (consisting of philosophy, theology, mathematics), on the grounds that it alone produces certain knowledge: 
 
-In his Almagest, Ptolemy argued that mathematics was the most important in theoretical philosophy (philosophy, theology, mathematics). He argues that this does not mean we should not study the other two at all, in fact mathematics can contribute to physics
+> From all this we concluded: that the first two divisions of theoretical philosophy should rather be called guesswork than knowledge, theology because of its completely invisible and ungraspable nature, physics because of the unstable and unclear nature of matter; hence there is no hope that philosophers will ever be agreed about them; and that only mathematics can provide sure and unshakeable knowledge to its devotees, provided one approaches it rigorously. (Almagest 1.1, p. 36)
 
-> From all this we concluded: that the first two divisions of theoretical philosophy should rather be called guesswork than knowledge, theology because of its completely invisible and ungraspable nature, physics because of the unstable and unclear nature of matter; hence there is no hope that philosophers will ever be agreed about them; and that only mathematics can provide sure and unshakeable knowledge to its devotees, provided one approaches it rigorously. (Almagest, Section 1.1, p. 36)
+Following Aristotle, Ptolemy argues that there are five elements (resting on top of one another) each with a natural motion: earth and water move downward, air and fire upward, and ether moves in perfect circles.
 
-
-Ptolemy following Aristotle holds that there are five elements (resting on top of one another): earth, water, air, fire, ether
-- earth and water have a natural motion downwards; air and fire have a natural motion upwards; ether have a natural circular motion
+#### Ptolemy's argument against a moving earth
+Ptolemy explicitly argued against the hypothesis of Heraclitus and Aristarchus (see [[Ancient-astronomy#Hellenistic period|Hellenistic astronomy]]). He conceded that a rotating earth would produce the same apparent celestial motions as his model, but argued that it would make terrestrial phenomena impossible to explain:
 
 >  [let us concede that] the densest and heaviest object have a proper motion of the quick and uniform kind which they suppose (although, again, as all agree, earth objects are sometimes not readily move even by an external force). 
 
-Ptolemy argues against the hypothesis proposed by Heraclitus and Aristarchus ([[Ancient-astronomy#Hellenistic period|Hellenistic astronomy]]).
+[[Ancient-astronomy#Hellenistic period|Hellenistic astronomy]]).
 
 > But certain people . . . supposed the heavens to remain motionless, and the earth to revolve from west to east about the same axis [as the heavens], making approximately one revolution each day; or if they made both heaven and earth move by any amount whatever, provided, as we said, it is about the same axis, and in such a way to preserve the overtaking of one by the other. (Section 1.7, p. 44)
 
@@ -36,20 +32,17 @@ He says that it is true that what happens in the heavens would look the same if 
 
 > Nevertheless, they would have to admit that the revolving motion of the earth must be the most violent of all motions associate with it, seeing that it takes one revolution in such a short time; the result would be that all objects not actually standing on the earth would appear to have the same motion, opposite to that of the earth; neither clouds nor other flying or thrown objects would ever be seen moving towards the cast, since the earth's motion towards the east would always outrun and overtake them, so that all other objects would seem to move in the direction of the west and the rear. But if they said that the air is carried around in the same direction and with the same speed as the earth, the compounded objects in the air would none the less always seem to be left behind by the motion of both [earth and air]; or if those objects appear to have any motion either in advance or rearwards: they would always appear still, neither wandering about nor changing position, whether they were flying or thrown objects. Yet we quite plainly see that they do undergo all these kinds of motion, in such a way that they are not even slowed down or speeded up at all by any motion of the earth. (Section 1.7, p. 45)
 
-The Ptolemaic model combined the eccentric model and the epicyclic model. 
+#### Ptolemaic model 
+The model combined two devices to account for observed planetary motion:
+- **eccentric model** = the earth is offset from the center of a planet's circular orbit
+- **epicyclic model** = planet moves on small circles (epicycle) whose centers travel along a larger circle (deferent)
 
-He also introduced the Equant 
-- It was a core belief of the time that planetary orbits had to be perfectly circular and moving at a constant speed. However, observations showed that planets appeared to speed up and slow down depending on where they were in the sky
-- Ptolemy offset the Earth from the exact center of a planet's circular path. The equant was placed directly across from the Earth. From the equant's perspective, the planet moved at a constant angular speed, even though it traveled at varying physical speeds along its actual path.
+He also introduced the **equant** = a point placed opposite the earth relative to the orbit's center. From the equant's perspective, the planet moved at a constant angular speed, even though it travels at varying physical speeds along its actual path. 
+### Copernicus (1473 - 1543)
+Copernicus worked in direct conversation with Ptolemy (1300 years later) and was also influenced by Islamic scholars. He began _On the Revolutions of the Heavenly Bodies_ in 1514; it was published in 1543, the year of his death, overseen by the Lutheran clergyman Osiander. Copernicus had suffered a stroke in 1542 and did not live to see its reception
 
-### Copernicus
-
-Copernicus' (1473 - 1543) work was in direct conversation with the ancient Greek science, specifically with Ptolemy (1300 years later) and his work was also inspired by Islamic scholars. Copernicus was raised within the church of England, with his uncle becoming the bishop of Ermlad in 1489. 
-
-He established a thorough mathematical heliocentric model of the cosmos. He started working on *On the Revolutions of the Heavenly bodies* in 1514, being overseen by Osiander (Lutheran Clergyman) and it was published in 1543. Copernicus did not see the aftermath of his work being ill after a stroke in 1542. 
-- "The book that was never read" - on the reception of Copernicus' work
-
-Copernicus in his letter to the pope talks about how other ancient philosophers have proposed the idea that the earth moves, to justify his model and give credibility to his idea, that it is not absurd to put out this heliocentric model.
+#### Motivation
+In his letter to the pope, Copernicus justified the heliocentric proposal by appealing to ancient precedent and placing himself within the esteemed tradition of offering a model of the cosmos, in order to give more credibility to his idea and to not seem as absurd.
 
 > And first I found in Cicero that Nicetus [Pythagorean philosopher] had supposed that the Earth moved. After that I dis-covered in Plutarch [Platonic philosopher] also that certain others held the same opinion, and I have decided to quote his words here, so that they are generally accessible: 
 > 
