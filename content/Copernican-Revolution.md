@@ -81,6 +81,8 @@ Another problem with Ptolemy for Copernicus is that Ptolemy' model for each plan
 
 Copernicus' model still has epicycles and eccentrics, but he eliminates equants. It also solves the problem of figuring out whether mercury and venus is below or above the sun, as the sun is now at the center.
 
+The lack of star parallax is an argument against the heliocentric model
+
 
 ### Reception of the Copernican Model
 
@@ -89,7 +91,27 @@ According to Osiander:
 
 Osiander's view is based on *instrumentalism* that astronomy does not need to be true, it just needs to give correct calculations and predictions. The reasoning for the preface is to lighten the blow to the reader that Copernicus model should not be take as true, and should just be seen along with the Ptolemaic model. This is not the view of Copernicus; he was trying to construct a true and accurate model of the cosmos.
 
-**Galileo** (1564 - 1642) appropriated the modern telescope and used it to provide direct observation for the heliocentric model. 
+**Tycho Brahe** (1546 - 1601) 
+- observed the 1572 supernova and 1577 comet, neither should parallax which means that they were located beyond the moon
+	- showed that the heavens are mutable (they can change)
+- created a cosmology that was a sort of compromise between the prevailing geocentric and heliocentric model proposed by Copernicus
+	- the earth remains at the center of the cosmos
+	- the moon, sun and the fixed stars revolve around the earth
+	- the five planets revolve around the sun
 
+**Johannes Kepler**, an assistant to Tycho Brahe, inherited Tycho's vast collection of observations
+- in 1609, he published his *Astronomia Nova*, first mentioning the planets' elliptical orbits, where the sun lies at one focus of the ellipse
+- This was not influential until Newton appropriated it for his own laws of gravitation
+
+**Galileo Galilei** (1564 - 1642) appropriated the modern telescope and used it to provide direct observation for the heliocentric model. 
+- in 1609, Galileo learns about a new optical device in Holland called a spyglass, which was a tube connecting a convex lens with a concave lens magnifying 4 to 4 times
+- Galileo improves the spyglass into the telescope that could magnify up to 100 times
+- Published the Siderius Nuncius in 1610 (*Starry Messenger* or *Message of the Stars*)
+
+**The Galileo Affair**
+- The Church rivals against the Copernican model using Joshua 10:12-14 as their main evidence that referred to the sun moving 
+- in 1616, the Roman Catholic Church placed Copernicus' On the Revolutions of the Heavenly Spheres on the index of Prohibited books
+- Galileo was advised neither to teach nor defend the Copernican hypothesis
+- in 162
 
 
