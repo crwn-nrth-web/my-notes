@@ -16,7 +16,6 @@ tags:
 
 Science is influenced by previous / traditional accounts and has a critical nature to respond to and critique past theories. This critical nature goes back to Antiquity (6th century BCE)
 
-
 **Historical studies of scientific revolutions from Antiquity to the 19th century:**
 - [[Copernican-Revolution]]
 - Emergence of Chemistry 

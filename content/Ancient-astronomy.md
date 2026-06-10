@@ -51,16 +51,21 @@ According to Hesiod's Theology:
 	- Hestia (central fire) is a separate body (invisible because we never face it), circling around Hestia is the counter-earth (invisible body that could account for eclipses maybe), then the earth, then the moon, sun, and the five visible planets with the naked eye, all circling Hestia
 	- this gives 10 circular bodies
 ## Fourth century Astronomy
-**Saving the phenomena** was an ancient philosophical and scientific goal to develop theories that could give an account of the apparent appearances of the heavens (sun, moon, planets and stars) by means of uniform circular motions
+**Saving the phenomena** was an ancient philosophical and scientific goal to develop theories that could give an account of the apparent appearances of the heavens (sun, moon, planets and stars) by means of uniform circular motion
 
-- the background of fixed stars appear to move east to west, and the stars, moon, and the 5 visible move west to east
-- retrograde motion of planets = appear to move backwards (east to west) for a moment before continuing their original path
+Main phenomena:
+- all heavenly bodies circle the earth from *east to west* in about 24 hours (due to the earth's daily rotation)
+- different constellations are seen from a given point during different seasons of the year
+- all heavenly bodies moves *west to east* through the band of the zodiac (due to the earth circling the sun)
+	- the planets and moon do not deviate by more than 8 degrees from the ecliptic 
+	- the planets have their own time period to complete a single revolution through the zodiac
+- *retrograde motion of planets* = appear to move backwards (east to west) for a moment before continuing their original path
 - changing speed of the planets, sun, moon
-- ecliptic = path of the sun against the background of fixed stars
 
 Plato did not put emphasis on studying astronomy but he did see the heavens as the best part of the universe. 
 
 **Plato** gives his account of the heavens in the Myth of Er. 
+- see pg. 82 of Lloyd
 
 > "the whole heaven and earth, a *straight beam of light, like a column*, very closely resembling a rainbow, but brighter and more pure. They reached the beam after traveling another day's journey. And there, in the middle of the light, they saw stretching from the heavens the ends of its bonds-for this light is what binds the heavens, like the cables underneath a trireme, thus holding the entire revolving thing together. From those ends hangs the *spindle of Necessity*, by means of which all the revolving things are turned." (Plato, Republic)
 
@@ -81,6 +86,7 @@ Plato did not put emphasis on studying astronomy but he did see the heavens as t
 #### Geometric models
 
 **Eudoxus**
+- younger peer to Plato
 - wrote a text: *On speeds*
 - made the first geometrical model of the heavens = poles of spheres attached to one another to give the apparent motion of the cosmic bodies
 
@@ -96,6 +102,11 @@ Plato did not put emphasis on studying astronomy but he did see the heavens as t
 	- the first three spheres are need for the sun and moon
 4. *innermost sphere combined with the motion of the third brings about retrograde motion*
 	- this gives the planet's motion in a hippopede shape ($\infty$)
+
+**Problems with Euodoxus' model**
+- each hippopede always produced the same curve and so did could not accurately account mercury and venus' retrograde motion
+- failed to account for the inequality of the seasons
+- failed to account for the change in apparent brightness and size
 
 **Calippus** 
 - measured the length of the seasons
@@ -128,11 +139,6 @@ Plato did not put emphasis on studying astronomy but he did see the heavens as t
 
 **Epicycle model**
 - accounts for apparent change of brightness and change in retrograde shape
-
-#### Problems with the ancient geometric model of the cosmos
-- doesn't account for apparent brightness and size as the planets stay in the same position
-- the retrograde motion all have the same shape, when in reality this is not the case
-- doesn't account for the varying speeds
 
 ## Hellenistic period
 This period begins with the death of Alexander the Great (323 BCE) and ended in the 1st century BCE when Greece was annexed to Rome
