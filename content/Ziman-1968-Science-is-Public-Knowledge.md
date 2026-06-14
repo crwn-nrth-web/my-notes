@@ -2,11 +2,13 @@
 title: Ziman-1968-Science-is-Public-Knowledge
 draft: false
 tags:
-  - philosophy
   - source
+  - philosophy
 ---
  
 > J.M Ziman (1968). *Science is Public Knowledge: An Essay concerning the social dimension of science*. Cambridge
+
+[[defining-science-is-harder-than-you-would-think]]
 
 In this book, Ziman gives his view on how the logico-inductive metaphysics of science is inadequate when we look at the way science actually behaves. You don't need the definition of science or the philosophy of science to practically do it. 
 

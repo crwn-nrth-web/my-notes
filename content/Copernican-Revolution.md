@@ -5,6 +5,8 @@ tags:
   - history
 ---
 The Copernican Revolution refers to the shift from a geocentric to a heliocentric model of the cosmos, spanning roughly from Ptolemy (2nd century BCE) to Newton. The transition required dismantling Aristotelian physics and rethinking the relationship between mathematics, observation and physical truth.
+
+[[why-heliocentrism-lacked-proof-until-Newton]]
 #### Objections to a heliocentric model
 - ancient Greeks believed that earth is noble to occupy the center of the heavens
 - Aristotelian argument from natural movements = heavy objects naturally travel towards the center of the earth and so the center of the earth may be presumed to coincide with the center of the universe 
@@ -147,6 +149,3 @@ Galileo observed four moons orbiting Jupiter (now called the Galilean moons). He
 - in 162
 - Galileo publishes the *Dialogue concerning the two chief world systems* which was an attempt to discuss both models in equal matter but clearly supports the heliocentric model
 
-# Synthesis
-
-When considering whether or not the 
