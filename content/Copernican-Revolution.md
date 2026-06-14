@@ -16,7 +16,6 @@ The Copernican Revolution refers to the shift from a geocentric to a heliocentri
 # Ptolemy (100 - 170 CE)
 
 Ptolemy's geocentric model, published in the *Almagest* (Mathematical Sytaxis), was the authoritative account of planetary motion for over 1300 years. 
-
 ### Ptolemy's philosophy of knowledge
 He placed mathematics at the top of theoretical philosophy (consisting of philosophy, theology, mathematics), arguing it alone produces certain knowledge: 
 
