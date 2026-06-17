@@ -13,6 +13,9 @@ In Antiquity, to do science was to do philosophy
 - Eudoxus and Calippus (4th century BCE)
 - Ptolemy (c. 100 - 170 CE)
 
+**cosmos** = world order
+**The All** = universe
+
 ## Antiquity
 
 **Hesiod** = epic Greek poet (alongside Homer)
