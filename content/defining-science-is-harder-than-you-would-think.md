@@ -10,7 +10,7 @@ tags:
 Common attempts to define science each capture something real, but each excludes things we'd intuitively count as science, or sets a standard actual science doesn't meet.
 
 1. **Science as a mastery of the environment**
-*The Baconian view (Francis-Bacon, 17th century):* the point of natural philosophy is practical dominion over nature. Knowledge is valuable only insofar as it gives power to control and manipulate the environment — science should be operative and beneficial, not merely contemplative.
+*The Baconian view ([[Francis-Bacon]], 17th century):* the point of natural philosophy is practical dominion over nature. Knowledge is valuable only insofar as it gives power to control and manipulate the environment — science should be operative and beneficial, not merely contemplative.
 
 *Failure*: defines science by its products, collapsing science into technology. As Ziman puts it, this "confuses the ideas with things" — penicillin is not science, any more than a meal is a recipe. It credits the application while discarding the questions, methods, and theories that constitute the actual intellectual practice.
 
