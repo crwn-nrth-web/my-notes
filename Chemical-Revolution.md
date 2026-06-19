@@ -26,7 +26,6 @@ It was also thought for the universe to be infinitely divisible. This is based o
 	- arrangement
 - According to Atomist, change is simply atoms in motion
 - this view did not catch on until the 17th century when scientist were looking for an alternative to Aristotle 
-
 ### Epicurus
 - 341 - 270 BCE (in the Hellenistic period) in Athens
 
