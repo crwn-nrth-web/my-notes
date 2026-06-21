@@ -3,11 +3,15 @@ views:
     name: Table
     filters:
       and:
-        - file.tags.contains("philosophy")
+        - file.inFolder("content")
+        - '!file.inFolder("content/images")'
     order:
       - file.name
       - file.tags
       - aliases
+    sort:
+      - property: file.tags
+        direction: ASC
   - type: table
     name: philosophy
     filters:

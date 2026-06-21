@@ -2,6 +2,7 @@
 title: Classical-mechanics
 draft: false
 tags:
+  - class
   - physics
 ---
 ##### Textbooks
