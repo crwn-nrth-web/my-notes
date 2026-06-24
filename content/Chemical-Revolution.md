@@ -119,3 +119,12 @@ This is taken matter as inert or passive.
 > For the solidity, taste, etc., of salt may be fairly accounted for by the stiffness, sharpness, and other mechanical properties of the minute particles whereof salt consists
 
 Boyle created the first air pump and vacuum, seen in *New experiments Physico-Mechanical, Touching the Spring of Air*, and proved that sound cannot travel in a vacuum  that air is required for animal respiration, that fire needs air, etc.
+
+# Phlogiston
+
+[[phlogiston vs. oxygen]]
+
+There wasn't a combination of atomic theory and chemical theory until John Dalton (1766 - 1844), where he hypothesizes that each element has its own atom associated to it. He works with this assumption to figure out the weight of the atom, which leads to the combination of atomic and chemical theory. 
+
+
+

@@ -24,13 +24,13 @@ If we require complete grasp of the oxygen paradigm to characterize the "discove
 
 When we look back at past scientific revolutions from our current paradigm to define discoveries, we inevitable distort what actually happened. This is a consequence of **incommensurability** = the old and new paradigms are conceptually discontinuous, making it impossible to cleanly map concepts across the revolutionary divide. 
 
-**Using the example of phlogiston vs. oxygen** = when modern historians ask "who discovered oxygen?", we are projecting our concept of oxygen backwards onto historical events. Because paradigms are discontinuous, discovery cannot be a single moment where someone "sees" oxygen for the first time. Instead, it is a collective effort, and only in retrospect do we identify a substance being discovered.
-##### commitment to phlogiston paradigm
+**Using the example of [[phlogiston vs. oxygen]]** = when modern historians ask "who discovered oxygen?", we are projecting our concept of oxygen backwards onto historical events. Because paradigms are discontinuous, discovery cannot be a single moment where someone "sees" oxygen for the first time. Instead, it is a collective effort, and only in retrospect do we identify a substance being discovered.
+##### commitment to Phlogiston paradigm
 Scientists working with the phlogiston framework were unwilling to abandon it without compelling reason. 
 
 An anomaly within the phlogiston paradigm was that experimental evidence seemed to undermine phlogiston theory (weight gain when phlogiston was being lost seemed inconsistent). Rather than abandoning phlogiston, theorists at the time proposed that phlogiston has negative weight, an ad-hoc modification in an attempt to preserve the paradigm.
 
-The phlogiston case exhibits typical symptoms of [[Kuhn-on-crisis-and-scientific-revolutions]] =
+The phlogiston case exhibits typical symptoms of [[Kuhn-on-crisis-and-scientific-revolutions]]=
 1. multiple different versions of phlogiston theories emerged
 2. different phlogiston theories needed for different applications
 3. loss of consensus
