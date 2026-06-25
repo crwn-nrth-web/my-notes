@@ -4,6 +4,6 @@ draft: false
 tags:
   - philosophy
 ---
-Bacon supported the experimental method that was a new view of science at the time. 
+One of the foremost philosophical advocates of empirical knowledge and the experimental method was the English lawyer **Francis Bacon**. 
 
-For Bacon, the experimental method was seen to be taking nature into constraints and out of its natural view. 
+Drawing on his legal experiences, he insisted that experience had to be organized in order to be useful. For Bacon, the experimental method was seen to be taking nature into constraints and out of its natural view. 

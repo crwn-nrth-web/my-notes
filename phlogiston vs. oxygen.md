@@ -2,49 +2,53 @@
 title: phlogiston vs. oxygen
 draft: false
 tags:
-  -
+  - 
+aliases:
+  - phlogiston-to-oxygen
 ---
+**Georg Ernst Stahl** (1660-1734) 
+- Prussian physician and chemist
+- thought chemists should be analyzing chemical compounds
+
 **Phlogiston** = the principle of combustibility/inflammability
-- two types of combustion: fast combustion (burning of wood) and corrosion (rusting)
-- in combustion: phlogiston is released into the air
+- combustion was seen as the loss of phlogiston
+- Phlogiston was seen to accurately describe the phenomena of combustion.
+- two types of combustion: fast combustion (burning of wood) and slow combustion i.e. corrosion (rusting)
 
-Phlogiston was seen to accurately describe the phenomena of combustion.
+*Phlogistic* Some kind of Earth(y) element
 
-At this time, air was not seen to be a part of chemical reactions, it is just the environment in which the reaction occurs. 
+*Stahl's theory of phlogiston* explained different chemical properties of different substances according to the quantities of phlogiston they contained. 
+#### The weight problem
+The restoration of phlogiston = Transformation of ores (low in phlogiston) into metals (high in phlogiston
 
-Priestly performs an experiment on air, discovering a new "type of air" that he calls **dephlogisticated air**. 
-- was seen to be a part of the air
-- mice was seen to live longer in this air
-- he called it "vital air"
-- it was a hospitable place for both life and combustion
+**Example:**
+Charcoal (high in phlogiston) + ore/calx (low in phlogiston) → metal (high in phlogiston)                                                                                                 + slag (low in phlogiston) 
 
-Charcoal (high in phlogiston) + ore / calx (low in phlogiston) = metal (high in phlogiston) and slag (low in phlogiston)
-- the metal was considered as the mixture, but it was founded that the metal weighed less than the ore, even though it was a mixture and had more phlogiston
 
-An ad hoc attempt to save the phlogiston theory was developed by *Louis-Bernard Guytan de Morveu* (1737 - 1816), in which he suggested that phlogiston has negative weight. This would allow for the metal to have less weight than ore. 
+The metal (high in phlogiston) was seen as a mixture. It was found that the metal weighed less than the ore, even though it had more phlogiston.
 
-Joseph Black: **fixed air** (Carbon dioxide)
-- because it is fixed in place within a solid
+An ad hoc attempt to save the phlogiston theory was developed by *Louis-Bernard Guytan de Morveau* (1737 - 1816), in which he suggested that phlogiston has negative weight. This would allow for the metal to have less weight than ore. 
+
+Few took De Morveau's suggestion seriously. Most argued that phlogiston was an immaterial principle and as such made no contribution to the weight of the substance.
 
 ## Antoine-Laurent Lavoisier (1743 - 1794) 
 
 He argues that instead of just being an environment, chemical reactions involve the "fixation of air" (to fix into place)
 
-His solution to the metal/ore weight problem is that air has weight.
+Phlogiston theorists argued that metals were a combination of a calx and phlogiston. Lavoisier argued that the basic process taking place during combustion was the combination of the burning substance (metal) with *aerial matter* and that this accounted for the fact that substances increased in weight on combustion.
+
+oxygen gas (compound of oxygen + heat/caloric) + metal $\rightarrow$  oxide (metal + oxygen) +                                                                                                      heat/caloric
+
 
 Lavoisier renames *dephlogisticated air* to **oxygen** (which literally translates to acid former/generator). 
 - he figures out that when dephlogisticated air is fixed to a solid, it forms an acid, hence calling it oxygen
 
 > The bounds of analysis have been greatly enlarged by modern discoveries; the acids are shown to be com-posed of oxygen, as an acidifying principle common to all, united in each to a particular base. (p. 174)
 
-Lavoisier repeats Priestley's experiment in his laboratory, where
-
-oxygen gas (compound of oxygen + heat/caloric) + metal = oxide (metal + oxygen) + heat/caloric
-
-He develops a whole new nomenclature for chemistry. He renames for example:
-- inflammable air = hydrogen (water former)
+In introducing oxygen, Lavoisier developed a new nomenclature for chemistry. He renames for example:
+- *inflammable air* = hydrogen (water former)
 	- Cavendish figures out that water is a compound of dephlogisticated air and inflammable air
-- calxes = oxides
+- *calxes* = oxides
 
 ![[Pasted image 20260624140205.png]]
 
@@ -52,9 +56,11 @@ He develops a whole new nomenclature for chemistry. He renames for example:
 
 # Who discovered oxygen?
 
-1. **Carl Scheele** (1742 - 1786) = Sweedish chemist performing experiments in 1770 - 1771 discovering *fire air* but doesn't publish his findings until 1777
+1. **Carl Scheele** (1742 - 1786) = Sweedish chemist performing experiments in 1770 - 1771 discovering *fire air* but doesn't publish his findings until 1777 ^d70dde
 2. **Priestely** = he isolated *dephlogisticated air* in 1774
-3. **Lavoisier** = renames it to *oxygen* in 1776
+3. **Lavoisier** = repeated Priestley's experiments and renames dephlogisticated air to *oxygen* in 1776
 
 This is a complicated case, as it depends on what we define as "discovering" something? Is it on who isolated it, who figured out its properties. etc.?
+
+![[scientific-discovery-are-not-discrete-events]]
 

@@ -8,12 +8,12 @@ aliases:
 ---
 > ***Chapter VI of Kuhn, Structure of scientific revolutions*** (p. 53 - 56)
 
-[[Kuhn-1962-structure-of-scientific-revolutions]] uses the **paradigm shift from phlogiston to oxygen** to illustrate why [[Kuhn-on-crisis-and-scientific-revolutions|scientific-revolution]] cannot be understood as simple discrete events. Multiple scientists (Priestley and Lavoisier among others) contributed to "discovering oxygen," but none can be said to have discovered it at a single moment. For Kuhn, discovery involves an extended process of conceptual assimilation.
+[[Kuhn-1962-structure-of-scientific-revolutions]] uses the **paradigm shift from [[phlogiston vs. oxygen|phlogiston-to-oxygen]]** to illustrate why [[Kuhn-on-crisis-and-scientific-revolutions|scientific-revolution]] cannot be understood as simple discrete events. Multiple scientists (Priestley and Lavoisier among others) contributed to "discovering oxygen," but none can be said to have discovered it at a single moment. For Kuhn, discovery involves an extended process of conceptual assimilation.
 
 This case also exemplifies the discontinuous (non-cumulative) nature of [[Kuhn-on-crisis-and-scientific-revolutions|scientific-revolution]]. because there is an ontological, methodological, conceptual, and explanatory (what questions matter) discontinuity between the two paradigms. The two theories cannot be compared ([[incommensurability]]) and shows [[scientific-revolutions-as-changes-of-world-view]]. 
 
 **Timeline of discovery of oxygen** =
-1. Priestley pre-1775 = collected a gas released by heated red oxide of mercury (that we now know as oxygen) and defined it as nitrous oxide / "common air with less of its usual quantity of phlogiston"
+1. Priestley pre-1775 = discovered dephlogisticated air / "common air with less of its usual quantity of phlogiston"
 2. Lavoisier using Priestley's experiments to build his idea called the gas as "air itself entire" = closer to modern oxygen but still incomplete concept
 
 The problem that occurs is who first discovered oxygen, and when? 
