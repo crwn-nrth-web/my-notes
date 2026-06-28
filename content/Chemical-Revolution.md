@@ -14,7 +14,7 @@ It was also thought for the universe to be infinitely divisible. This is based o
 
 **Atomism** emerged within against this background
 - *Atomic* = indivisible
-- this was first invented in the 5th century BCE by Leucippus and Democritus
+- this was first invented in the 5th century BCE by Leucippus and Democritus and furthered developed in [[Epicureanism]]
 - believed that all material things are made of atoms, that atoms are the smallest thing (and indivisible), and that atoms exist in the *void* 
 - *void* = that which atoms are in and move through
 - this opposed the traditional view in antiquity (established by Aristotle) in two main ways 
@@ -26,8 +26,6 @@ It was also thought for the universe to be infinitely divisible. This is based o
 	- arrangement
 - According to Atomist, change is simply atoms in motion
 - this view did not catch on until the 17th century when scientist were looking for an alternative to Aristotle 
-
-[[Epicureanism]]
 
 ## Views on the natural world
 
