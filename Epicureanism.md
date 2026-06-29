@@ -47,6 +47,8 @@ The number of atoms is infinite, but the number of shapes that atoms can have is
 - also Epicurus is supposing that if you divide something infinitely then you are also making it infinite in extent. 
 - so it makes sense to have a smallest thing that could make up bodies 
 
+> "Consequently, not only must one eliminate unlimited division into smaller pieces (to avoid making everything weak and being forced in our comprehensive grasps of compound things to exhaust the things which exist by reducing them to non-existence) . . ." (pg. 11)
+
 **cosmoi** = multiple of cosmos
 - kind of similar idea that there would be multiple "solar systems" i.e. there would could be infinite number of (earth + sun + planets) systems
 

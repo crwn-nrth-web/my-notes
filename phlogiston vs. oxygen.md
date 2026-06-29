@@ -6,13 +6,9 @@ tags:
 aliases:
   - phlogiston-to-oxygen
 ---
-**Georg Ernst Stahl** (1660-1734) 
-- Prussian physician and chemist
-- thought chemists should be analyzing chemical compounds
-
 **Phlogiston** = the principle of combustibility/inflammability
 - combustion was seen as the loss of phlogiston
-- Phlogiston was seen to accurately describe the phenomena of combustion.
+- Phlogiston was' seen to accurately describe the phenomena of combustion.
 - two types of combustion: fast combustion (burning of wood) and slow combustion i.e. corrosion (rusting)
 
 *Phlogistic* Some kind of Earth(y) element
@@ -62,5 +58,5 @@ In introducing oxygen, Lavoisier developed a new nomenclature for chemistry. He 
 
 This is a complicated case, as it depends on what we define as "discovering" something? Is it on who isolated it, who figured out its properties. etc.?
 
-![[scientific-discovery-are-not-discrete-events]]
+[[scientific-discovery-are-not-discrete-events]]
 

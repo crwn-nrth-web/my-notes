@@ -61,14 +61,17 @@ This is taken matter as inert or passive.
 > For the solidity, taste, etc., of salt may be fairly accounted for by the stiffness, sharpness, and other mechanical properties of the minute particles whereof salt consists
 
 During the late 1650s and early 1660s, Boyle created out a number of experiments using the first air pump and vacuum. His findings were published in *New experiments Physico-Mechanical, Touching the Spring of Air* regarding the properties of air, proving that sound cannot travel in a vacuum, that air is required for animal respiration, that fire needs air, etc.
-
 # 18th century Pneumatic Chemistry
 
 **Pneumatic chemistry** = chemistry of gases
 
 Before the 18th century, air was seen as a single substance, one of the four Aristotelian elements. Investigating the chemical properties of air was an 18th century innovation, as in the 17th century chemists usually assumed that air was chemically inert and played no role in chemical reactions.
 
-[[phlogiston vs. oxygen]]
+[[phlogiston vs. oxygen]]]
+
+**Georg Ernst Stahl** (1660-1734) 
+- Prussian physician and chemist
+- thought chemists should be analyzing chemical compounds
 
 **Stephen Hales** (1677-1761) 
 - Reverend, botanist + chemist
