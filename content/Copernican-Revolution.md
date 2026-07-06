@@ -6,6 +6,7 @@ tags:
 ---
 The Copernican Revolution refers to the shift from a geocentric to a heliocentric model of the cosmos, spanning roughly from Ptolemy (2nd century BCE) to Newton. The transition required dismantling Aristotelian physics and rethinking the relationship between mathematics, observation and physical truth.
 
+[[Ancient-astronomy]]
 [[why-heliocentrism-lacked-proof-until-Newton]]
 #### Objections to a heliocentric model
 - ancient Greeks believed that earth is noble to occupy the center of the heavens
