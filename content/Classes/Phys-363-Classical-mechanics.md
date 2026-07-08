@@ -13,5 +13,5 @@ tags:
 [[Equations-of-motions]]
 [[calculus-of-variations]]
 [[Lagrangian-mechanics]]
-
+[[oscillations]]
  
