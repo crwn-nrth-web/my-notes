@@ -2,7 +2,7 @@
 title: Emergence-of-Evolutionary-Biology
 draft: false
 tags:
-  -
+  - history
 ---
 # Before the Darwinian Revolutions
 **Standard view in Antiquity** = species are *natural kinds*, which means that they are fixed groups (do not turn into another group / do not transform / transmute / evolve)

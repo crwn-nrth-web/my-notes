@@ -3,6 +3,8 @@ title: PHIL 246 - Studies of scientific Revolutions
 draft: false
 tags:
   - class
+  - philosophy
+  - history
 ---
 > Dr. Jacqueline Feke, UW Spring 2026
 > See also: [[PHIL 258 - Philosophy of science]]
