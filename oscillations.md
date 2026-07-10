@@ -2,7 +2,7 @@
 title: oscillations
 draft: false
 tags:
-  -
+  - physics
 ---
 **resonance** = timing such that the energy you put in a system adds to the total energy
 
@@ -12,7 +12,13 @@ tags:
 ### Kapitsa's Pendulum
 vertical oscillations of the pivot of a pendulum can lead to **parametric resonance** (by effectively modulating "g")
 
-Resonance occurs when the modulation frequency is twice the natural frequency of the pendulum
+![[Pasted image 20260710092137.png|286]]
+
+position of the mass:
+- $X = l\sin \theta$
+- $Y = -l\cos \theta + d\sin wt$
+
+Resonance occurs when the modulation frequency is twice the natural frequency of the pendulum.
 
 ### Spring pendulum
 Consider a pendulum where the string is replaced by an ideal spring with equilibrium length l and spring constant k. A mass is attached to the end of the spring.
