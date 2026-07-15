@@ -33,7 +33,7 @@ It was also thought for the universe to be infinitely divisible. This is based o
 In Antiquity, it was believed that for science, we should be observing the world in its natural state. By Galileo's time, scientists began to adopt a more experimental attitude towards science, in which they interfered and changed parameters in their experiment. This is characterized by [[Francis-bacon]] philosophy. 
 
 **mechanical philosophy** 
-For the ancient Greeks, there was a dichotomy between nature vs art/technology/craft. But this broke down around the medieval time, and it was seen that in order to understand technology, you need to understand nature. The metaphor that was used at the time was *"nature is like machine"* such as the clock, The key component in these clocks was the escape wheel, which allowed the clock to run continuously and felt like this was a way towards matching nature with machinery. This view was later adopted by Descartes.
+For the ancient Greeks, there was a dichotomy between nature vs art/technology/craft. But this broke down around the medieval time, and it was seen that in order to understand technology, you need to understand nature. The metaphor that was used at the time was *"nature is like machine"* such as the clock, The key component in these clocks was the escape wheel, which allowed the clock to run continuously and felt like this was a way towards matching nature with machinery. This view was later adopted by Descartes. ^5e7931
 
 # Robert Boyle (1627 - 1691)
 

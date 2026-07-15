@@ -14,7 +14,7 @@ Nowadays, in evolutionary biology, it is controversial to say that they are natu
 
 Aristotle argued against evolution (instead they are fixed natural kinds) and against extinction.
 Lucretius argued for extinction but not evolution.
-## Empedocles (5th century)
+### Empedocles (5th century)
 
 **Empedocles element theory** =
 - claimed there were 4 roots (earth, air, water, fire) and 2 forces / motive principles (Love, Strife)
@@ -32,7 +32,7 @@ For Empedocles, animals could have characteristics because of accidents. For Emp
 > *Aristotle’s Parts of Animals 640a on Empedocles:* 
 >  “...animals have many characteristics that are the result of incidental occurrences in their  formation—for instance the backbone is as it is [divided into vertebrae] because the fetus becomes contorted and so the backbone is broken.”  
 
-## Aristotelian Biology
+### Aristotelian Biology
 
 A key figure that Aristotle was responding to was Empedocles, arguing instead that everything in nature has purpose, and that the cosmos is fixed.
 
@@ -68,7 +68,7 @@ In antiquity, there was a common view of **spontaneous generation** = things for
 > *Aristotle’s Generation of Animals 715b:*
 >   “Nature always seeks an end.”  
 
-## Lucretius (90 - c. 50 BCE)
+### Lucretius (90 - c. 50 BCE)
 
 Lucretius was a Roman philosopher who followed [[Epicureanism]].
 
@@ -116,11 +116,12 @@ Lucretius holds that the cosmos is formed accidently, but still hold order and r
 Species that do not have usefulness to human beings, or lack craftiness, or courage, then they can go to extinct.
 ## Binomial system of classification
 
+**Carl von Linne**, otherwise known by his Latin name, **Linnaeus** founded the system for naming species that is still used today in the eighteenth century (1749)
+
 **Binomial system of classification** = 
 - every species is known by two names, the genesis and the species
 - *homo* = genesis, *sapiens* = species
 - The binomial system was formed to make the naming more concise and more applicable
-- created by Swedish scientist Carl von Linnea (Carlous Linnaeus) in the 18th century (1749)
 
 Before the Binomial system, it was a polynomial system. It consisted one word for the genesis, and then a description for the *differentia* (what makes it different from another species). 
 
@@ -130,9 +131,39 @@ Before the Binomial system, it was a polynomial system. It consisted one word fo
 Linnaeus system is based on **Aristotelian biology**
 - Like Aristotle, Linnaeus grouped species based on their structure 
 
-## Leckrc and Lemark
+## Creation - divine design or materialistic?
 
-George Louis Leckrc conte de Buffon (1707-88) - Published Natural History (1749), defines species differently, one species differs from another by ancestral lineage, mainly materially, the constant succession and the renewal is what marks out what a species is, must be able to provide offspring and that offspring must be able to produce fertile offspring for it count as a species, if not then they aren’t the same species 
+Science was turning towards a [[Chemical-Revolution#^5e7931|mechanical philosophy]], where there was more emphasis on the mechanical nature of the world.
+
+Those who critiqued materialism argued that even if the whole world were to be treated as a giant machine, the only way to preserve a role for the Creator was to insist that the machine needed a wise and intelligent Designer.
+
+There was a appeal in the seventh century to a *natural theology* that the study of living things would reveal God's handiwork.
+
+**chain of being** = Before Linnaeus binomial nomenclature that represented groups nesting within larger group, the chain of being was the older vision of natural order of a linear hierarchy where species were the links, stretching down from humans to the lowest forms of life
+- built on the idea that some animals are superior or more advanced to others
+- Infusoria (fresh water microorganisms) - Most simple forms of life
+- Humans - The most complex forms of life
+
+In the eighteenth century, there was a growing movement to reject the whole idea of design by an intelligent Designer and to look for more materialistic explanations of how things came to be in their present state.
+
+is there evolution?
+is there extinction?
+--> **how should we account for the distinction in morphology between past and present things?**
+
+### Leclerc (1707 - 1788)
+
+**George Louis Leclerc, comte de Buffon** 
+- published *Natural History* (1749)
+- provided an overview of all known animal species and speculation about their origin
+- proposed a theory that the earth was not just very old, but also hotter and more energetic in the past
+
+Leclerc believed that species making up a modern genus have all descended from a single ancestor, and the ancestral form was originally produced by spontaneous generation
+
+He suggested that there were two periods of spontaneous generation:
+- one to produce creatures adapted to the early, very hot conditions 
+- second time to produce the ancestors of modern forms
+
+the constant succession and the renewal is what marks out what a species is, must be able to provide offspring and that offspring must be able to produce fertile offspring for it count as a species, if not then they aren’t the same species 
 
 
 So either lots of ancestors with little changes or few ancestors with lots of changes over long periods of time
@@ -153,35 +184,42 @@ Does the environment change? If it does, does it affect the transmutation of spe
 
 Leckrc - Yes, but no transmutation to another species, can cause the different varieties
 
-  
+### Lamarck
 
-Museum of Natural History - Appointed 12 chairs (one for mammals, reptiles, human anatomy, worms (invertebrates/no backbone group, microscopic animals), etc.)
+The **Museum of Natural History** in Paris appointed 12 chairs for mammals, reptiles, human anatomy, worms (invertebrate), microscopic animals, etc.
 
-Lamarck- Chair of worms, species do evolve, thought this at the age of 50-ish, fossils are the remains of (extinct/dead) animals, leads to evolution, observed the fossil of shellfish to understand, simple forms of life must go extinct often, then renewed through spontaneous generation, idea back then that electricity can be a cause to spontaneous generation, species slowly become more complex to avoid extinction
+French Naturalist J.B Lamarck was the chair of worms and studied invertebrate animals at the Museum of Natural History in Paris.
 
-Animal and plants are in 2 different chains of being, every generation is slightly more complex than the previous one, linear progression, no distinction between species
+He accepted the idea of spontaneous generation, appealing that electricity as a force could vivify non-living manner, but assumed that this was only possible to produce the simplest forms of life.
 
-Infusoria (fresh water microorganisms) - Most simple forms of life
+He argued that higher animals evolved by a progressive trend that made each generation slightly more complex than the previous. This would lead to a linear scale of animal organization, with humans being the last and highest products. 
+- there were many parallel lines ascending the scale starting from different acts of spontaneous generation, but there is no branching
 
-Humans - The most complex forms of life
+Lamarck denied the possibility of extinction. 
+- He thought that the "ladder of evolution" was continuous, with no gaps marking off distinct species.
+- the reason why species disappeared was because they evolved into different species
+- For Lamarck, the gaps we see from one species to another is due to a lack of information. 
 
-  
-
-Lamarckism - Leads to discontinuities/irregularities in the chain of being
+**Lamarckism** = He also argued that there was a secondary process of evolution at work, to explain the distortion in the chain. He argued that species adapted to changes in their surroundings by a process called **inheritance of acquired characteristics** or **use inheritance**. 
+- an *acquired character* is one developed by the organism after birth as a result of exercising its body in an unusual way
+- for Lamarck, an acquired character was inheritable
+- e.g. a giraffe's neck is long as a consequence of generations of its ancestor reaching up to feed off the leaves of trees
 
 Change in environment → Change in needs → Change in activities → Development of new habits → Use or disuse of animal parts → Enhancement/emergence of a new parts and/or diminution/disappearance of animal parts
 
-Lemark studied invertebate
-did not think there were extinction, but species evolved into other species
-## Cuvier (1769 - 1832)
-- Chair of Comparative anatomy at the museum of natural history, Paris
-
-- Focused on geology and stratification
-- *Principle of superposition* in stratification: positioning of layers on top of one another 
+### Cuvier (1769 - 1832)
+- Chair of Comparative anatomy at the Museum of Natural History, Paris
+- colleague of Lamarck
+- drew different conclusions from the same evidence that Lamarck looked at
+- Focused on geology and stratigraphy
+-
+**Stratigraphy** = study of rock layers (strata) 
+- based on the *principle of superposition*: the assumption that newer rocks were always laid down on top of existing rocks
+- identification of a rock's position in the sequence of deposits could imply the identifying the period in the earth's history when it was laid down 
 
 Early geologist theory = **Neptunist Theory**
-- invented by german geologist Abraham Gottlob Werner (1749 - 1817)
-- deposition of rocks / marine fossils as an ancient sea receded and dried up
+- invented by German geologist Abraham Gottlob Werner (1749 - 1817)
+- as the great ancient sea dried up, rocks/marine fossils were deposited in a particular sequence 
 - based on sedimentation, so there is only horizontal layers built on top of one another
 
 *Cuvier on the Neptunist Theory* =
@@ -203,16 +241,11 @@ Opposing theory to the Neptunist theory = **Vulcanism**
 - an adaption of vulcanism: he holds onto the idea that the sea is depositing rock layers but there were also catastrophes to explain rock layers raising and shifting from their original position
 
 Cuvier studied fossils of vertebrates
-- believed that there were extinction, appealing to how mammoths and masadons previously existed
+- attributed sudden extinction of species (like mammoths) to catastrophic earth movements and tidal waves
 
 > These repeated eruptions and retreats of the sea have neither been slow nor gradual; most of the catastrophes which have occasioned them have been sudden; and this is easily proved, especially with regard to the last of them, the traces of which are most conspicuous. In the northern regions it has left the carcasses of some large quadrupeds which the ice had arrested, and which are preserved even to the present day with their skin, their hair, and their flesh. 
 
-
-is there evolution?
-is there extinction?
---> **how should we account for the distinction in morphology between past and present things?**
-
-Cuvier points out that there is no evidence for intermediate species, so there is no proof of continuous evolution. Lemark takes this and declares this as simply a lack of evidence and not a refutation of his theory of continuous evolution
+Cuvier points out that there is no evidence for intermediate species, so there is no proof of continuous evolution. [[#Lamarck]] takes this and declares this as simply a lack of evidence and not a refutation of his theory of continuous evolution
 
 Arguments against evolution according to Cuvier:
 - mummified cats from ancient Egypt being exactly like modern cats
@@ -220,7 +253,7 @@ Arguments against evolution according to Cuvier:
 
 Cuvier did not agree that organisms did not come from spontaneous generation, species were created by god and were fixed.
 
-law of conservation of parts
+law of conservation of parts 
 
 >Yet, in all these varieties, the relations of the bones with each other remain essentially the same, and the form of the teeth never changes in any perceptible degree, except that in some individuals one additional false grinder occasionally appears, sometimes on the one side, and sometimes on the other. It follows from these observations, that animals have certain fixed and natural char-acters, which resist the effects of every kind of influence, whether proceeding from natural causes or human interference; and we have not the smallest reason to suspect that time has any more effect upon them than climate...
 
