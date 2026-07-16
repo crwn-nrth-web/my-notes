@@ -21,7 +21,7 @@ Science is influenced by previous / traditional accounts and has a critical natu
 **Historical studies of scientific revolutions from Antiquity to the 19th century:**
 - [[Copernican-Revolution]]
 - [[Chemical-Revolution]]
-- [[Emergence-of-Evolutionary-Biology]]
+- [[Emergence-of-Evolutionary-Biology-before-Darwin]]
 
 
 
