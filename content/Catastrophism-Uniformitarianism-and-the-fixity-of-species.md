@@ -87,3 +87,20 @@ law of conservation of parts
 - Cuvier = want it to be simplified explanation, do not want to support conjectures upon conjectures
 
 ### Lyell (1797 - 1875)
+
+**Charles Lyle** developed a theory in opposition to [[#Catastrophism]]. 
+
+He supposed the [[#Catastrophism]] along with [[#Neptunist theory]] were implausible theories based on a straw-man case that these theories were motivated by unscientific considerations. He thought that people were supporting catastrophism and Neptunist theories for religious reasons, such as Noah's flood, to explain the horizontal laying down of rocks. However, this was not the case.
+
+**Uniformitarianism** = he argues that only currently observable causes (earthquakes, volcanic action, gradual uplift, etc.) should be invoked to explain the past and that they have been the same kind and intensity throughout history. 
+
+In other words, Lyell is rejecting the idea of catastrophism that there has been catastrophes of larger intensity in the past.
+
+He accounts for the abrupt transitions in rock layers by pointing to gaps in the geological record. [[#Cuvier (1769 - 1832)]] says the sudden shifts in the rock layers is because something violent or sudden occurred that abruptly ended one era. Lyell instead argues that these aren't real jumps. There are just layers that are simply unrepresented in the surviving strata.
+
+This brings into question the **simplicity / economy argument** =
+- uniformitarianism looks simpler than catastrophism because it only appeals to causes we can currently observe rather than invoking unprecedented catastrophic events
+
+**implication of uniformitarianism** = the earth is much older than what was originally thought
+- agents of change now require more time to erode away rock layers if they are occurring at the same intensity as present day
+- this is similar to what occurred in the [[Copernican-Revolution]]. When Copernicus
