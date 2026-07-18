@@ -103,4 +103,10 @@ This brings into question the **simplicity / economy argument** =
 
 **implication of uniformitarianism** = the earth is much older than what was originally thought
 - agents of change now require more time to erode away rock layers if they are occurring at the same intensity as present day
-- this is similar to what occurred in the [[Copernican-Revolution]]. When Copernicus
+- this is similar to what occurred in the [[Copernican-Revolution]]. When Copernicus placed the sun at the center, critics asked if the earth is moving, why don't we observe stellar parallax. The Copernican answer was that the star were much farther than previously thought. The same move was made with Lyell
+- Before Lyell, the dominant view of the age of the Earth was based on biblical timing. Archbishop James Usher of Trinity college Dublin calculated the Earth creation to be 6pm on October 22, 4004 BCE (6000 years old)
+
+Modern geology does not fully embrace either pure catastrophism or pure uniformitarianism. It is a blend: normal, gradual processes happen at an observable scales most of the time, but real catastrophic events occurred in the past.
+
+
+

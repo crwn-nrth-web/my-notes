@@ -12,9 +12,14 @@ is there extinction?
 [[Catastrophism-Uniformitarianism-and-the-fixity-of-species]]
 
 
+# Darwin's Evolution
 **Charles Darwin** 1809 - 1882 
 - Grandson of Eramus Darwin
 
+Darwin looked at the structure of finches and tortoise shells in the Galapagos Islands and observed that they were different from island to island. Two possible explanations:
+- God had created a different and distinct species of Finch and and tortoise for each island
+- or, the finches evolved from a common ancestor across the different islands, leading to different variations
+The question is more economical to say that God made different species for each island, or that they evolved from a common ancestor?
 
 *The origin of species, by means of natural selection, or the preservation of favoured races in the struggle of life*
 
@@ -33,6 +38,8 @@ Both Lamarck and Darwin are based on adapting to the environment. Darwin however
 Darwin applies Malthus theory to all species of the idea of the struggle for life.
 
 > In the next chapter the Struggle for Existence amongst all organic beings throughout the world, which inevitably follows from their high geometrical powers of increase, will be treated of. This is the doctrine of Malthus, applied to the whole animal and vegetable kingdoms. 
+
+[[Catastrophism-Uniformitarianism-and-the-fixity-of-species|Uniformitarianism]] influenced Darwin's evolution. Darwin took Lyell's way of explaining things: the ordinary causes we can observe today acting slowly and incrementally over time, and applied it to species. i.e. instead of using sudden, large-scale transformations to explain how one species can become another, small variations accumulate incrementally through natural selection.
 
 #### origin of life according to Darwin
 Darwin is vague on this. 
