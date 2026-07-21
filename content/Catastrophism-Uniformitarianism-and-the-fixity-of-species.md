@@ -12,7 +12,7 @@ Three positions regarding the same evidence (fossil/rock record) split across tw
 
 The **Museum of Natural History** in Paris appointed 12 chairs for mammals, reptiles, human anatomy, worms (invertebrate), microscopic animals, etc.
 
-Lamarck and Cuvier both worked at the Museum of Natural History i(Lamarck: Chair of worms/invertebrates; Cuvier: chair of comparative anatomy). However, they drew opposite conclusions from overlapping evidence
+Lamarck and Cuvier both worked at the Museum of Natural History in Paris (Lamarck: Chair of worms/invertebrates; Cuvier: chair of comparative anatomy). However, they drew opposite conclusions from overlapping evidence
 ### Lamarck (1744 - 1829)
 
 French Naturalist J.B Lamarck was the chair of worms and studied invertebrate animals at the Museum of Natural History in Paris.
