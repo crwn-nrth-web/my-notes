@@ -18,7 +18,7 @@ tags:
 - this coincides with the structure and organization of the natural world
 - this was not just the view in biology, but also in other sciences
 
-Nowadays, in evolutionary biology, it is controversial to say that they are natural kinds and species boundaries are fuzzy and blend over time
+Nowadays, in evolutionary biology ([[Darwinian-Revolution]]), it is controversial to say that they are natural kinds and species boundaries are fuzzy and blend over time
 
 In antiquity, there was a common view of **spontaneous generation** = things forming out of nowhere in the right conditions. E.g. the correct conditions and the correct materials could create a mollusks 
 ### Empedocles (5th century)
@@ -145,7 +145,9 @@ Linnaeus nested groups replaced the linear structure, though both still assumed 
 
 ### Natural theology / the design argument
 
-As science moved towards [[Chemical-Revolution#^5e7931|mechanical philosophy]] (treating nature as a machine), critics of pure materialism argued that even if the whole world were to be treated as a giant machine, the machine still needed a wise and intelligent Designer.
+As science moved towards [[Chemical-Revolution#^5e7931|mechanical philosophy]] (treating nature as a machine), critics of pure materialism argued that even if the whole world were to be treated as a giant machine, the machine still needed a wise and intelligent Designer. 
+
+> See [[Darwinian-Revolution#Darwinism on Theology|Darwin on Theology]]
 
 William Paley (1802) watchmaker analogy = a watch's functional complexity implies a watchmaker, similarly, the complexity of organisms implies a Designer. 
 

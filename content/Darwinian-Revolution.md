@@ -10,8 +10,6 @@ is there extinction?
 
 [[Emergence-of-Evolutionary-Biology-before-Darwin]]
 [[Catastrophism-Uniformitarianism-and-the-fixity-of-species]]
-
-
 # Darwin's Evolution
 **Charles Darwin** 1809 - 1882 
 - Grandson of Eramus Darwin
@@ -21,7 +19,7 @@ Darwin looked at the structure of finches and tortoise shells in the Galapagos I
 - or, the finches evolved from a common ancestor across the different islands, leading to different variations
 The question is more economical to say that God made different species for each island, or that they evolved from a common ancestor?
 
-*The origin of species, by means of natural selection, or the preservation of favoured races in the struggle of life*
+Published *The origin of species, by means of natural selection, or the preservation of favoured races in the struggle of life* in 1859
 
 **natural selection** = he is drawing an analogy from the domestication of plants and animals
 - Lamarck appealed to domestication as plants and animals as evidence for evolution, while Cuvier saw it as evidence against
@@ -73,3 +71,115 @@ Secondary mechanism for evolution =
 > what I call Sexual Selection. This depends, not on a struggle for existence, but on a struggle between the males for possession of the females; the result is not death to the unsuccessful competitor, but few or no offspring. Sexual selection is, therefore, less rigorous than natural selection. 
 
 Male species having characteristics that would attract females or characteristics that would help them fight off other males. This is not characteristics necessary for survival, instead it is necessary for reproduction.
+### Letters of Darwin
+
+To Asa Grey (Professor of Biology at Harvard)
+
+In a letter before the publication of Darwin's book:
+
+> I had not thought of your objection of my using the term “natural Selection” as an agent; I use it much as a geologist does the word Denudation, for an agent, expressing the result of several combined actions. I will take care to explain, not merely by inference, what I mean by the term; for I must use it, otherwise I should incessantly have to expand it into some such (here miserably expressed) formula as the  following, “the tendency to the preservation (owing to the severe struggle for life to which all organic beings at some time or generation are exposed) of any the slightest variation in any part, which is of the slightest use or favorable to the life of the individual which has thus varied; together with the tendency to its inheritance”
+
+So he defines natural selection as "the preservation of traits that would be favorable for the survival of the species in regards to the environment"
+
+Asa Grey is objected that the idea of natural selection implies a selector that Darwin rejects
+
+# Reception to Darwin's evolution
+
+Darwin's theory of evolution is also known as **Darwinism**, or **ape theory** (as his theory implies that humans evolved from apes)
+
+In 1871, Darwin publishes text *The descent of man and selection in relation to sex* in which he talks about the evolution of humans. In this text, he focuses on the second principle: sexual selection
+
+Before the publication of *origin of species*, there were few biologists that subscribed to the idea of evolution, even though it was a theory that was talked about. Arguably by 1862, most of the scientific community shifted to believing in evolution. 
+
+Lyell (whose geological theory [[Catastrophism-Uniformitarianism-and-the-fixity-of-species]] influenced Darwinism) did not believe in evolution initially. He converted to evolution because of Darwin later in life in 1860s, and agreed that Darwin's mechanisms of evolution was correct.
+
+Between 1859 - 1872, Darwin published 6 editions of *on the origins* in an attempt to reply to criticisms. By the end, the last edition was a hodge-podge of ideas and lacked the elegancy of the first edition
+
+## Criticism
+#### Darwin on Theology
+
+> With respect to the theological view of the question; this is always painful to me.— I am bewildered.— I had no intention to write atheistically. But I own that I cannot see, as plainly as others do, & as I should wish to do, evidence of design & beneficence on all sides of us. There seems to me too much misery in the world. I cannot persuade myself that a beneficent & omnipotent God would have designedly created the Ichneumonidæ [species of parasites] with the express intention of their feeding within the living bodies of caterpillars, or that a cat should play with mice. Not believing this, I see no necessity in the belief that the eye was expressly designed. On the other hand I cannot anyhow be contented to view this wonderful universe & especially the nature of man, & to conclude that everything is the result of brute force. I am inclined to look at everything as resulting from designed  laws, with the details, whether good or bad, left to the working out of what we may call chance. Not that this notion at all satisfies me. I feel most deeply that the whole subject is too profound for the human intellect. A dog might as well speculate on the mind of Newton.— Let each man hope & believe what he can
+
+Here Darwinism is rejecting the [[Emergence-of-Evolutionary-Biology-before-Darwin#Natural theology / the design argument|The Design argument]] but also rejecting the idea that the world is the result of brute force. Instead, he lands on the idea of chance but is also unsatisfied with this idea as well. 
+
+This problem with theology goes back to Lucretius, who also holds that the cosmos is created by chance. Lucretius does not believe that God creates anything, but Darwin holds that the God created the laws of nature. 
+
+#### Darwin's use of analogy from artificial selection
+
+Do we take artificial selection as evidence for evolution?
+
+
+**Fleming Jenkins**
+By analyzing the limits of **artificial selection** (selective breeding), Jenkin argued that nature lacks the infinite capacity to change species that Darwin proposed
+
+Jenkin pointed out that while breeders could dramatically alter animals or plants (such as pigeons, horses, or roses), this variability always hit a strict physical limit.
+
+#### Appeal to the fossil records
+By Darwin's time, the fossil records were well studied and they were still no records for intermediate forms of species. This is evidence against Lamarck, and in favor of Cuvier that there is no such intermediate species. 
+
+1861 discovery of first specimen of *Archeopteryx* (ancient bird with reptilian features) and discovery of *Compsegnatlus* (dinosaur with bird-like features) provided evidence of intermediate species. This is evidence for evolution but not for natural selection. 
+
+Darwin did not refute Lamarck's theory of evolution, he just posited another theory of evolution =
+
+> Judging from letters (& I have just seen one from Thwaites to Hooker) & from remarks, the most serious omission in my book was not explaining how it is, as I believe, that all forms do not necessarily  advance—how there can now be simple organisms still existing
+
+#### problem of heredity
+How are variations passed on to descendants and successive generations? Why do these variations not eventually fade out when they are passed on?
+
+DNA wasn't discovered until Gregor Mendel and wasn't popularized until the 1900s.
+
+Darwin's theory of Heredity = blending 
+- characteristics of parents are blended in the offspring
+
+problem of swamping out = rare, beneficial traits would be quickly diluted and lost in a large population before natural selection could establish them
+
+if a rare, advantageous mutation (e.g., a "sport" or beneficial trait) appeared in a single individual, that individual would have to mate with an unmutated member of the general population. The offspring would possess a diluted, half-strength version of the trait, and subsequent generations would blend it down further until the trait completely disappeared or was "swamped out"
+
+Darwin really struggled with this objection. It is why Darwinism wasn't taken up until a theory of genes was established
+
+#### age of the earth
+Darwinism implied that the age of the earth had to be much older than it was assumed to be. 
+
+The whole edification of physics supposed the earth to be much younger than it needed to be for Darwinism.
+
+**Lord Kelvin, William Thompson**
+- supposed that the earth was much hotter in its early
+- calculated how old the earth had to be in order for the earth to have cooled from its intial hot temperature to the present day temperature
+- Kelvin hypothesized the earth to be 20 - 400 million years old, likely 98 million years old
+	- the inaccurate age of the earth is because radioactivity hadn't been discovered
+- Kelvin himself argued that the earth is too young for evolution to occur via natural selection
+
+#### Problem of descent of Man
+Are human beings different in kind from animals? Are human beings different in kind in any essential way from animals / great apes?
+
+> The main conclusion arrived at in this work, and now held by many naturalists who are well competent to form a sound judgment, is that man is descended from some less highly organised form.
+
+> We thus learn that man is descended from a hairy quadruped, fur-nished with a tail and pointed ears, probably arboreal in its habits, and an inhabitant of the Old World. This creature, if its whole structure had been examined by a naturalist, would have been classed amongst the Quadrumana, as surely as would the common and still more ancient progenitor of the Old and New World monkeys. The Quadrumana and all the higher mammals are probably derived from an ancient marsupial animal, and this through a long line of diversified forms, either from some reptile-like or some amphibian-like creature, and this again from some fish-like animal. In the dim obscurity of the past we can see that the early progenitor of all the Vertebrata must have been an aquatic animal . . .
+
+This led to a very polarizing debate between Darwin's friends and their opponents. A famous argument is between **Thomas Henry Huxley** vs. **Bishop Wilberforce** (and biologist **Richard Owen**) in 1860 in Oxford. 
+
+It seemed very irreligious to suppose that man derived from apes, instead of being created by God in His image. 
+
+**Another question: Is human intellect and morality different in kind to animal behavior?** 
+
+Darwin argues that our intellect and morality is only different to animals in degree, not in kind.
+
+>The greatest difficulty which presents itself, when we are driven to the above conclusion on the origin of man, is the high standard of intellectual power and of moral disposition which he has attained. But every one who admits the general principle of evolution, must see that the mental powers of the higher animals, which are the same in kind with those of mankind, though so different in degree, are capable of advancement. Thus the interval between the mental powers of one of the higher apes and of a fish, or between those of an ant and scale-insect, is immense. . . . No one doubts that these faculties are of the utmost importance to animals in a state of nature. Therefore the conditions are favorable for their development through natural selection. The same conclusion may be extended to man; the intellect must have been all-important to him, even at a very remote period, enabling him to use language, to invent and make weapons, tools, traps, etc.; by which means, in combination with his social habits, he long ago became the most dominant of all living creatures.
+
+> The development of the moral qualities is a more interesting and difficult problem. Their foundation lies in the social instincts, including in this term the family ties. These instincts are of a highly complex nature, and in the case of the lower animals give special tendencies towards certain definite actions; but the more important elements for us are love, and the distinct emotion of sympathy. Animals endowed with the social instincts take pleasure in each other's company, warn each other of danger, defend and aid each other in many ways. These instincts are not extended to all the individuals of the species, but only to those of the same community. As they are highly beneficial to the species, they have in all probability been acquired through natural selection.
+
+> The moral nature of man has reached the highest standard as yet attained, partly through the advancement of the reasoning powers and consequently of a just public opinion, but especially through the sympathies being rendered more tender and widely diffused through the effects of habit, example, instruction, and reflection. It is not improbable that virtuous tendencies may through long practice be inherited. With the more civilized races, the conviction of the existence of an all-seeing Deity has had a potent influence on the advancement of morality. Ultimately man no longer accepts the praise or blame of his fellows as his chief guide, though few escape this influence, but his habitual convictions controlled by reason afford him the safest rule. His conscience then becomes his supreme judge and monitor. Nevertheless the first foundation or origin of the moral sense lies in the social instincts, including sympathy; and these instincts no doubt were primarily gained, as in the case of the lower animals, through natural selection.
+
+> Man may be excused for feeling some pride at having risen, though not through his own exertions, to the very summit of the organic scale; and the fact of his having thus risen, instead of having been aboriginally placed there, may give him hopes for a still higher destiny in the distant future. But we are not here
+
+
+
+
+
+
+
+
+
+
+
+
