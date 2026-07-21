@@ -20,7 +20,7 @@ tags:
 
 Nowadays, in evolutionary biology ([[Darwinian-Revolution]]), it is controversial to say that they are natural kinds and species boundaries are fuzzy and blend over time
 
-In antiquity, there was a common view of **spontaneous generation** = things forming out of nowhere in the right conditions. E.g. the correct conditions and the correct materials could create a mollusks 
+In antiquity, there was a common view of **spontaneous generation** = things forming out of nowhere in the right conditions. E.g. the correct conditions and the correct materials could create a mollusks  ^c9ca42
 ### Empedocles (5th century)
 
 **Empedocles element theory** =
