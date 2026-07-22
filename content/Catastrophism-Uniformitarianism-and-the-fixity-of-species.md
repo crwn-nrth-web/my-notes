@@ -5,6 +5,9 @@ tags:
   - 
 aliases:
   - Lamarck-Cuvier-and-Lyle
+  - Lamarck
+  - Cuvier
+  - Lyell
 ---
 Three positions regarding the same evidence (fossil/rock record) split across two questions:
 - is change gradual or catastrophic?
@@ -34,9 +37,7 @@ He also argued that there was a secondary process of evolution at work, to expla
 
 > The influence of the environment as a matter of fact is in all times and places operative on living bodies, but what makes this influence difficult to perceive is that its effects only become perceptible or recognizable (especially in animals) after a long period of time. (p. 216)
 
-Lamarck argued against the popular view that animal parts determined what they could do. *A bird has wings so it can fly*. Instead he says that the need came first. *the bird had to fly so it gained wings*.
-
-His argument against *special creation* was that if body parts cam first then nature would have to create a new species to perfectly suit every environment.
+Lamarck argued against the popular view that animal parts determined what they could do. *A bird has wings so it can fly*. Instead he says that the need came first. *the bird had to fly so it gained wings*. His argument against *special creation* was that if body parts came first then nature would have to create a new species to perfectly suit every environment.
 
 Change in environment → Change in needs → Change in activities → Development of new habits → Use or disuse of animal parts → Enhancement/emergence of a new parts and/or diminution/disappearance of animal parts
 
@@ -88,6 +89,8 @@ He distinguished fossil mammoths remains from living elephants. It is one of the
 > These repeated eruptions and retreats of the sea have neither been slow nor gradual; most of the catastrophes which have occasioned them have been sudden; and this is easily proved, especially with regard to the last of them, the traces of which are most conspicuous. In the northern regions it has left the carcasses of some large quadrupeds which the ice had arrested, and which are preserved even to the present day with their skin, their hair, and their flesh. 
 #### Cuvier against evolution
 
+Cuvier did not agree that organisms did not come from spontaneous generation, species were created by god and were fixed.
+
 Cuvier points out that there is no evidence for intermediate species, so there is no proof of continuous evolution. [[#Lamarck]] takes this and declares this as simply a lack of evidence and not a refutation of his theory of continuous evolution
 
 > If the species have changed by degrees, as they assume, we ought to find traces of this gradual modification. Thus, between the *palaeotherium* and the species of our own days, we should be able to discover some intermediate forms; and yet no such discovery has ever been made. Since the bowels of the Earth have not preserved monuments of this strange genealogy, we have a right to conclude that the ancient and now extinct species were as permanent in their forms and characters as those which exist at present; or at least that the catastrophe which destroyed them did not leave sufficient time for the production of the changes that are alleged to have taken place.
@@ -100,23 +103,16 @@ For Cuvier, only the least important characteristics (*superficial characteristi
 
 While foxes are found in a variety of environments from tundras to deserts, the only difference are in superficial characteristics like the thickness of fur. If Lamarck was right, the different environments would produce major anatomical changes but when comparing the bones of these foxes, they are fundamentally unchanged.
 
-Cuvier did not agree that organisms did not come from spontaneous generation, species were created by god and were fixed.
+law of conservation of parts =
 
-law of conservation of parts 
-
->Yet, in all these varieties, the relations of the bones with each other remain essentially the same, and the form of the teeth never changes in any perceptible degree, except that in some individuals one additional false grinder occasionally appears, sometimes on the one side, and sometimes on the other. It follows from these observations, that animals have certain fixed and natural char-acters, which resist the effects of every kind of influence, whether proceeding from natural causes or human interference; and we have not the smallest reason to suspect that time has any more effect upon them than climate...
-
-
-**Cuvier vs. Lemark**
-- Cuvier = want it to be simplified explanation, do not want to support conjectures upon conjectures
-
+>Yet, in all these varieties, the relations of the bones with each other remain essentially the same, and the form of the teeth never changes in any perceptible degree . . . It follows from these observations, that animals have certain fixed and natural characters, which resist the effects of every kind of influence, whether proceeding from natural causes or human interference; and we have not the smallest reason to suspect that time has any more effect upon them than climate...
 ### Lyell (1797 - 1875)
 
-**Charles Lyle** developed a theory in opposition to [[#Catastrophism]]. 
+**Charles Lyle** developed a theory in opposition to [[#Catastrophism]] in his work *Principles of Geology* (1830)
 
 He supposed the [[#Catastrophism]] along with [[#Neptunist theory]] were implausible theories based on a straw-man case that these theories were motivated by unscientific considerations. He thought that people were supporting catastrophism and Neptunist theories for religious reasons, such as Noah's flood, to explain the horizontal laying down of rocks. However, this was not the case.
 
-**Uniformitarianism** = he argues that only currently observable causes (earthquakes, volcanic action, gradual uplift, etc.) should be invoked to explain the past and that they have been the same kind and intensity throughout history. 
+**Uniformitarianism** = he argues that only currently observable causes (earthquakes, volcanic action, gradual uplift, etc.) should be invoked to explain the past and that they have been the same kind and intensity throughout history.  ^2d0d93
 
 In other words, Lyell is rejecting the idea of catastrophism that there has been catastrophes of larger intensity in the past.
 
