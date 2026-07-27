@@ -10,6 +10,8 @@ is there extinction?
 
 [[Emergence-of-Evolutionary-Biology-before-Darwin]]
 [[Catastrophism-Uniformitarianism-and-the-fixity-of-species]]
+
+Darwin's theory of evolution converted people to be evolutionists, but specifically Lamarck's, not his.
 # Darwin's Evolution
 **Charles Darwin** 1809 - 1882 
 - Grandson of Eramus Darwin

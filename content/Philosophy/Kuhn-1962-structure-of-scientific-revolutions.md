@@ -24,8 +24,6 @@ tags:
 
 [[Essay-social-dimension-of-kuhn-account]]
 
-
-
 # Kuhn's account of science
 Thomas Kuhn was a physicist with a PhD in quantum mechanics. He went on to specialize in history of science (which was not a field fully developed at that time). Kuhn's philosophy of science was based on detailed historical study, seeing how science worked and progressed in the past. 
 
@@ -42,11 +40,14 @@ An central idea to Kuhn's overall picture is that science is a social mechanism 
 3. **Crisis**
 	- scientists starts encountering anomalies don't fit paradigm's prediction 
 	- once these anomalies can no longer be ignored, it leads to a crisis
-4. **Revolution**
+4. **Extraordinary Science / Revolutionary Science**
+	- seeks to revise the fundamentals of a science, overturning existing and practices
+	- leading to a 
+5. **Revolution**
 	- When a scientific field is in crisis, a radical paradigm shift occurs where a new paradigm that can explain the anomalies better replace the old one. Kuhn calls this a **[[Kuhn-on-crisis-and-scientific-revolutions|scientific-revolution]]**.
-5. **Normal Science (under a different paradigm)**
-6. Crisis
-. . . etc.
+6. **Normal Science (under a different paradigm)**
+
+And repeats.
 
 **Example: Light (Kuhn, p. 12)** =
 1. in the 18th century, the paradigm was provided by Newton's *Opticks* which taught that light was material corpuscles
@@ -65,9 +66,7 @@ Pre-science is the period of activity that precedes the first period of normal s
 - the early stages of the development of any science involves different people describing and interpreting the same range of phenomena in different ways (p. 17)
 - The end of the early stages is the triumph of one pre-paradigm schools as the first paradigm.
 
-
-
-
+> "In the absence of a paradigm or some candidate for the paradigm, all of the facts that could possibly pertain o the development of a given science are likely to seem equally relevant. As a result, early fact gathering is a far more nearly random activity than the one that subsequent scientific development makes familiar." (p. 15)
 # Evaluation of Kuhn
 
 | Strength                                                                                                                                                                                                                                                                                        | Weakness                                                                                                                                                                                                                                                                                                                                                                                   |

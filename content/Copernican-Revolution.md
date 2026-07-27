@@ -149,3 +149,19 @@ Galileo observed four moons orbiting Jupiter (now called the Galilean moons). He
 - in 162
 - Galileo publishes the *Dialogue concerning the two chief world systems* which was an attempt to discuss both models in equal matter but clearly supports the heliocentric model
 
+# Was it actually a revolution?
+
+Paradigms: Geocentric vs. Heliocentric
+
+Ptolemy: 
+- is it unprecedented? 
+- did it set a standard? yes, it was the most influential 
+
+Both geocentric and heliocentric is just the argument of what is at the middle of the cosmos and causing the world to move. 
+
+Geocentric model was accepted for 3000 years but it took many contributions after Copernicus so when do we call that it is normal science?
+
+Copernicus' theory only changed very few points of Ptolemy, the view of heliocentrism developed way after him. So how can we call it the Copernican Revolution? 
+
+
+
