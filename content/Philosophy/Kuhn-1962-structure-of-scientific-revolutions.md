@@ -73,11 +73,11 @@ Normal science leads to the necessary demise of its paradigm. A paradigm has nev
 
 > Discovery commences with the awareness of an **anomaly** i.e. with the recognition that nature has somehow violated the paradigm-induced expectations that govern normal science (p. 52)
 
-Anomaly can only be visible within the backdrop of a paradigm
+Anomaly can only be visible against the backdrop of a paradigm (p. 65).
 
-> Persistent and recognized anomaly does not always induced crisis . . . (p. 81)
+In CHAPTER 8, Kuhn discusses when an anomaly results in a period of crisis. 
 
-It is not about the magnitude or how long its been anomaly that induces a crisis, but it is a matter of scientists deeming it as a serious anomaly and reacting in crisis mode
+It is not about the magnitude or how long its been for an anomaly to induce a crisis, but it is a matter of scientists deeming it as a serious anomaly and reacting in crisis mode.
 
 **What marks a crisis?** =
 - professional insecurity in the current paradigm
