@@ -26,7 +26,6 @@ It was also thought for the universe to be infinitely divisible. This is based o
 	- arrangement
 - According to Atomist, change is simply atoms in motion
 - this view did not catch on until the 17th century when scientist were looking for an alternative to Aristotle 
-
 ## Views on the natural world
 
 **Experimental philosophy**
@@ -67,7 +66,7 @@ During the late 1650s and early 1660s, Boyle created out a number of experiments
 
 Before the 18th century, air was seen as a single substance, one of the four Aristotelian elements. Investigating the chemical properties of air was an 18th century innovation, as in the 17th century chemists usually assumed that air was chemically inert and played no role in chemical reactions.
 
-[[phlogiston vs. oxygen]]]
+[[phlogiston vs. oxygen]]
 
 **Georg Ernst Stahl** (1660-1734) 
 - Prussian physician and chemist
@@ -97,21 +96,13 @@ By heating *red calx of mercury*, Priestley produced an air that seemed to conta
 There wasn't a combination of atomic theory and chemical theory until **John Dalton** (1766 - 1844), where he hypothesizes that each element has its own atom associated to it. He works with this assumption to figure out the weight of the atom, which leads to the combination of atomic and chemical theory. 
 
 
-Mixts - Chemical compounds
-
-Mixtion - Mixtures (chemical reactions/change)
-
-
-
-
-Oxide (calx) - Oxygen combined with a metal
-
-Metals were thought as compounds, not its own element
-
-Plants absorbed phlogiston from the atmosphere (that’s why trees could burn)
-
-
-Mercurius calcinatus (mercurous oxide, HgO) - Red precipitate, when heated, produced a “new” air that caused fire to burn more vigorously
+**additional notes** =
+- Mixts - Chemical compounds
+- Mixtion - Mixtures (chemical reactions/change)
+- Oxide (calx) - Oxygen combined with a metal
+- Metals were thought as compounds, not its own element
+- Plants absorbed phlogiston from the atmosphere (that’s why trees could burn)
+- Mercurius calcinatus (mercurous oxide, HgO) - Red precipitate, when heated, produced a “new” air that caused fire to burn more vigorously
 
 
 

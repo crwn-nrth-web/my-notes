@@ -9,7 +9,7 @@ aliases:
 ---
 In [[Kuhn-1962-structure-of-scientific-revolutions]], Kuhn distinguishes between two fundamentally different phases of scientific activity:
 - [[Kuhn-on-normal-science|normal-science]]
-- scientific revolutions
+- extraordinary science
 
 **Scientific revolutions** are non-cumulative development episodes (or transition phase) after the crisis period where a [[Kuhn-on-paradigms|paradigm]] shift occurs, replacing the older paradigm in whole or in part by an incompatible favor new one (p. 92).
 ### Crisis

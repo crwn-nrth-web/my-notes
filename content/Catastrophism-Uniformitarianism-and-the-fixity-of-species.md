@@ -2,7 +2,7 @@
 title: Catastrophism-Uniformitarianism-and-the-fixity-of-species
 draft: false
 tags:
-  - 
+  - history
 aliases:
   - Lamarck-Cuvier-and-Lyle
   - Lamarck

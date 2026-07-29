@@ -15,7 +15,8 @@ The transition from geocentrism to heliocentrism therefore challenges Kuhn's dis
 
 #### was the Copernican model a paradigm?
 Kuhn defines a [[Kuhn-on-paradigms|paradigm]] using two criteria (or achievements):
-
+- “Their achievement was sufficiently unprecedented to attract an enduring group of adherents away from competing modes of scientific activity”
+- “Sufficiently open-ended to leave all sorts of problems for the redefined group of practitioners to resolve” (Kuhn, p. 10)
 
 Kuhn describes a paradigm as organizing normal science.
 
@@ -48,9 +49,7 @@ After the publication of _De revolutionibus_ (1543), astronomy did not enter a s
 - Why is there no observable stellar parallax?
 - Why do objects fall straight downward if the Earth is rotating?
 
-When we look closely, there isn’t a clean line because the “revolution” from geocentric to heliocentric was a slow continuous transformation. Copernicus provided the mathematical model, Galileo provided evidence that cracked Aristotelian foundation, Newton provided the backing physics. 
-
-
+[[why-heliocentrism-lacked-proof-until-Newton]] = When we look closely, there isn’t a clean line because the “revolution” from geocentric to heliocentric was a slow continuous transformation. Copernicus provided the mathematical model, Galileo provided evidence that cracked Aristotelian foundation, Newton provided the backing physics. 
 
 Rather than producing an immediate paradigm shift, they initiated a prolonged period in which competing paradigms coexisted.
 

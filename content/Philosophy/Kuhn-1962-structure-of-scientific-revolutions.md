@@ -67,6 +67,42 @@ Pre-science is the period of activity that precedes the first period of normal s
 - The end of the early stages is the triumph of one pre-paradigm schools as the first paradigm.
 
 > "In the absence of a paradigm or some candidate for the paradigm, all of the facts that could possibly pertain o the development of a given science are likely to seem equally relevant. As a result, early fact gathering is a far more nearly random activity than the one that subsequent scientific development makes familiar." (p. 15)
+
+### Revolutionary science
+Normal science leads to the necessary demise of its paradigm. A paradigm has never gotten it all correct, and anomalies will occur that will lead to a overturn and replacement of the paradigm by a more successful one. 
+
+> Discovery commences with the awareness of an **anomaly** i.e. with the recognition that nature has somehow violated the paradigm-induced expectations that govern normal science (p. 52)
+
+Anomaly can only be visible within the backdrop of a paradigm
+
+> Persistent and recognized anomaly does not always induced crisis . . . (p. 81)
+
+It is not about the magnitude or how long its been anomaly that induces a crisis, but it is a matter of scientists deeming it as a serious anomaly and reacting in crisis mode
+
+**What marks a crisis?** =
+- professional insecurity in the current paradigm
+- New theories are created as a result of this crisis
+- science during crisis resembles pre-paradigm science (fact gathering, building new theories from the ground up, etc.) 
+
+> Let us then assume that crises are a necessary precondition for the emergence of novel theories (p. 77)
+
+"Three types of phenomena about which a new theory might be developed:" (p. 97)
+- phenomena already well explained by existing paradigm
+- phenomena whose nature is indicated by existing paradigm, but details can be understood only through further articulation
+- recognized anomalies whose characteristics feature is their refusal to be assimilated to existing paradigm
+
+**Revolutionary science** = conducting research in a more scattered manner to see what sticks in hopes to reveal the road to a new paradigm
+
+> Confronted with anomaly or with crisis, scientists take different attitude toward existing paradigms, and the nature of their research changes accordingly. The proliferation of competing articulations, the willingness to try anything, the expression of explicit discontent, the recourse to philosophy and to debate over fundamentals, all these are symptoms of a transition from normal to extraordinary research. (p. 91)
+
+Crisis close in one of three ways =
+- normal science ultimately is able to resolve the crisis
+- the problem is labelled and set aside for later generations with more developed tools
+- emergence of a new paradigm, and a debate arises over its acceptance
+
+> Once it has achieved the status of a paradigm, a scientific theory is only declared invalid only if an alternative candidate is available to take its place (p. 77)
+
+> The decision to reject one paradigm is always simultaneous the decision to accept another, and the judgement leading to that decision involves the comparison of both paradigms with nature *and* with each other (p. 77)
 # Evaluation of Kuhn
 
 | Strength                                                                                                                                                                                                                                                                                        | Weakness                                                                                                                                                                                                                                                                                                                                                                                   |

@@ -2,7 +2,7 @@
 title: phlogiston vs. oxygen
 draft: false
 tags:
-  - 
+  - history
 aliases:
   - phlogiston-to-oxygen
 ---
@@ -49,7 +49,6 @@ In introducing oxygen, Lavoisier developed a new nomenclature for chemistry. He 
 ![[Pasted image 20260624140205.png]]
 
 > We must trust to nothing but facts. These are presented to us by nature, and cannot deceive. We ought, in every instance, to submit our reasoning to the test of experiment, and never to search for truth but by the natural road of experiment and observation. 
-
 # Who discovered oxygen?
 
 1. **Carl Scheele** (1742 - 1786) = Sweedish chemist performing experiments in 1770 - 1771 discovering *fire air* but doesn't publish his findings until 1777 ^d70dde
