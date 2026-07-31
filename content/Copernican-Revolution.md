@@ -77,7 +77,6 @@ He also criticized internal consistencies within the geocentric model that it fa
 
 *Assessment of the objections* = The calendar and the unity argument are strong practical arguments but are not strict logical proofs that the earth moves. The calendar problem was corrected without adopting a heliocentric model, and despite his objections of too many moving parts, Copernicus still used many epicycles and eccentrics. The equant objection rests on a narrower definition of uniform circular motion than Ptolemy's making it a definitional argument rather than a physical one.
 
-
 Copernicus' model still has epicycles and eccentrics, but he eliminates equants. It also solves the problem of figuring out whether mercury and venus is below or above the sun, as the sun is now at the center.
 ### Features of Copernicus model
 - the universe and the earth is spherical 
