@@ -8,6 +8,7 @@ The Copernican Revolution refers to the shift from a geocentric to a heliocentri
 
 [[Ancient-astronomy]]
 [[why-heliocentrism-lacked-proof-until-Newton]]
+[[Was-the-Copernican-Revolution-really-a-revolution]]
 #### Objections to a heliocentric model
 - ancient Greeks believed that earth is noble to occupy the center of the heavens
 - Aristotelian argument from natural movements = heavy objects naturally travel towards the center of the earth and so the center of the earth may be presumed to coincide with the center of the universe 
