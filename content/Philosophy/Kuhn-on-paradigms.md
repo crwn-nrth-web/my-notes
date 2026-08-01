@@ -25,7 +25,7 @@ In pre-paradigm science, there is a lot of fact-gathering that is random activit
 - key formulas, constants, and methods
 - standards for what counts as a legitimate problem and solution
 - "puzzles" assumed to have solutions
-- consensus = using a shared paradigm means to be committed  o the same rules and standards for scientific practice = it is the pre-requisite of normal science
+- consensus = using a shared paradigm means to be committed to the same rules and standards for scientific practice = it is the pre-requisite of normal science
 - paradigms are often limited in both scope and precision at the time of its first appearance 
 
 > "paradigms provide scientists not only with a map but also with some of the directions essential for map-making. In learning a paradigm the scientist acquires theory, methods, and standards together, usually in an inextricable mixture." (Kuhn, p. 109)
