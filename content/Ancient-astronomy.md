@@ -6,6 +6,8 @@ tags:
 ---
 In Antiquity, to do science was to do philosophy
 
+Early cosmological thought was largely limited to the sun, moon, and planets. For the Greeks, the universe was bounded by an outer and unchanging sphere of stars. 
+
 **Important figures in Antiquity:**
 - Pythagoreans (6th to 5th century BCE)
 - Plato (429 - 347 BCE)
@@ -54,7 +56,7 @@ According to Hesiod's Theology:
 	- Hestia (central fire) is a separate body (invisible because we never face it), circling around Hestia is the counter-earth (invisible body that could account for eclipses maybe), then the earth, then the moon, sun, and the five visible planets with the naked eye, all circling Hestia
 	- this gives 10 circular bodies
 ## Fourth century Astronomy
-**Saving the phenomena** was an ancient philosophical and scientific goal to develop theories that could give an account of the apparent appearances of the heavens (sun, moon, planets and stars) by means of uniform circular motion
+[[Saving-the-Phenomena]] was an ancient philosophical and scientific goal to develop theories that could give an account of the apparent appearances of the heavens (sun, moon, planets and stars) by means of uniform circular motion
 
 Main phenomena:
 - all heavenly bodies circle the earth from *east to west* in about 24 hours (due to the earth's daily rotation)
