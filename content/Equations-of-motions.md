@@ -4,15 +4,15 @@ draft: false
 tags:
   - physics
 ---
-One of the fundamental concepts of mechanics is a *particle*, which is a body whose dimension can be neglected in describing its motion. 
+One of the fundamental concepts of mechanics is a **particle**, which is a body whose dimension can be neglected in describing its motion. 
 
-The number of independent quantities which must be specified in order to uniquely define the position of any system is called the number of *degrees of freedom*. 
+The number of independent quantities which must be specified in order to uniquely define the position of any system is called the number of **degrees of freedom.** 
 
-Any $n$ quantities $q_{1}, q_{2}, \dots$ which completely define the position of the system with $n$ degree of freedom are called the *generalized coordinates* of the systems, and the derivates are called the *generalized velocities*.
+Any $n$ quantities $q_{1}, q_{2}, \dots$ which completely define the position of the system with $n$ degree of freedom are called the **generalized** coordinates of the systems, and the derivates are called the **generalized velocities**.
 
 The relations between the accelerations, velocities and coordinates are called the *equations of motions*. They are second order differential equations and their integration, in principle, determines the path of the system 
 
-A *monogenic* system is if all the forces acting on it (except the constraint forces) can be derived from a single generalized scalar potential.
+A **monogenic** system is if all the forces acting on it (except the constraint forces) can be derived from a single generalized scalar potential.
 
 For a monogenic system, the **Lagrangian** can be defined as:
 $$\boxed{\mathcal{L} = T(q_{i}, \dot{q_{i}}, t) - V(q_{i}, \dot{q_{i}}, t)}$$
