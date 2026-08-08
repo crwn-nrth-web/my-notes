@@ -18,7 +18,7 @@ $$\boxed{\frac{\partial{\mathcal{L}}}{\partial q} - \frac{d}{dt} \left(\frac{\pa
 
 $$\frac{d}{dt} \frac{\partial \mathcal{L}}{\partial \dot{q_{i}}} = 0 , \frac{\partial \mathcal{L}}{\partial \dot{q_{i}}} = c$$
 
-canonical momentum conjugate of $q_i$ is conserved $$\frac{\partial \mathcal{L}}{\partial \dot{q_{i}}} = p_{i}$$
+The canonical momentum conjugate of $q_i$ is conserved $$\frac{\partial \mathcal{L}}{\partial \dot{q_{i}}} = p_{i}$$
 **Time independent Lagrangian** means that the system's properties and constraints do not change wit time
 - in this case, the hamiltonian is a conserved quantity and is equal to the total energy of the system
 
