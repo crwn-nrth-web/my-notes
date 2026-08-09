@@ -40,3 +40,14 @@ $$δ \mathcal{L} = \frac{dF}{dt}$$
 
 Noether’s theorem can be naturally described using Lagrangian mechanics.
 
+## Equilibrium analysis
+
+In general, to find equilibrium points, set $q = q_{0}$ and $\dot{q} = \ddot{q} = 0$
+
+By setting $\ddot{q} = 0$ in the equation of motion, we see that each equilibrium point must be a stationary point of the potential energy i.e. $V'(q_{0}) = 0$
+- **Stable equilibrium point** = objects returns to its original position after a small push and $$\frac{d^2 V}{dx^2} > 0$$
+- **Unstable equilibrium point** = object moves increasingly further away from its original position after a small push and $$\frac{d^2 V}{dx^2} < 0$$
+#### Phase portrait
+A phase portrait plots $q$ vs $\dot{q}$, so each point corresponds to the mechanism of being in a certain configuration and moving at a certain rate.
+
+[[python-for-physics#Phase Portraits|Plotting Phase portraits in python]]
