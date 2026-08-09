@@ -38,14 +38,19 @@ Using generalized coordinates gives $n$ number of coupled second order different
 
 To solve coupled differential equations,
 1. write the equations of motion in matrix form
-2. for oscillations, we expect the solution to be in the form of $q = Ce^{-i\lambda t}$ . Substitute this into the matrix equation
+2. for oscillations, we expect the solution to be in the form of $q = Ce^{i\lambda t}$ . Substitute this into the matrix equation
 3. set the determinant to zero and find the eigenvalues $\lambda^2$
 4. find the eigenvectors
 
 The **normal modes** can be written using the eigenvalues and the eigenvectors. 
+
 Given eigenvalue $\lambda_1$ and $\lambda_2$ and eigenvectors $\begin{pmatrix} 1 \\ 1\end{pmatrix}$ and $\begin{pmatrix} 1 \\ -1\end{pmatrix}$ respectively =
-1.  $\begin{pmatrix}q_{1}  \\ q_{1} \end{pmatrix} = \begin{pmatrix}1 \\ 1\end{pmatrix}e^{-i \lambda_{1} t}$
-2. $\begin{pmatrix}q_{1}  \\ q_{1} \end{pmatrix} = \begin{pmatrix}1 \\ -1\end{pmatrix}e^{-i \lambda_{2} t}$
+1. normalize each eigenvector to get the eigenvector matrix $$A = \frac{1}{\sqrt{ 2m }}$$
+
+
+
+2.  $\begin{pmatrix}q_{1}  \\ q_{1} \end{pmatrix} = \begin{pmatrix}1 \\ 1\end{pmatrix}e^{-i \lambda_{1} t}$
+3. $\begin{pmatrix}q_{1}  \\ q_{1} \end{pmatrix} = \begin{pmatrix}1 \\ -1\end{pmatrix}e^{-i \lambda_{2} t}$
 
 Note that 
 - **symmetric mode** refers to when the behavior of the system remains unchanged under symmetry (same signs in the eigenvectors). 
@@ -56,3 +61,13 @@ Note that
 
 The **normal coordinates** can be used to describe the system in such a way that no coupling occurs, even though there is coupling in the generalized coordinates.
 - Using the normalized eigenvectors, we can find the normal coordinates
+
+
+
+
+
+
+$$\begin{pmatrix}
+-2 & 1 \\
+1 & -2
+\end{pmatrix}$$
