@@ -1,11 +1,14 @@
 ---
-title: Lagrangian-mechanics
+title: Lagrangian-and-Hamiltonian-mechanics
 draft: false
 tags:
   - physics
 aliases:
   - Euler-Lagrangian-equation
+  - Lagrangian
+  - Hamiltonian
 ---
+# Lagrangian Mechanics
 [The Lagrangian Method, Morin](https://www.ipcms.fr/uploads/2021/06/chap6.pdf)
 
 the **Lagrangian** can be defined for a monogenic system as:
@@ -51,3 +54,20 @@ By setting $\ddot{q} = 0$ in the equation of motion, we see that each equilibriu
 A phase portrait plots $q$ vs $\dot{q}$, so each point corresponds to the mechanism of being in a certain configuration and moving at a certain rate.
 
 [[python-for-physics#Phase Portraits|Plotting Phase portraits in python]]
+
+# Hamiltonian mechanics
+
+Recall that generalized momenta $$p_{i} = \frac{\partial \mathcal{L}}{\partial \dot{q_{i}}}$$
+From the Lagrangian $\mathcal{L} =\mathcal{L}(q_i , \dot{q_{i}}, t )$, the **Hamiltonian** is $$\mathcal{H} = \sum_{i} p_{i} \dot{q_{i}} - \mathcal{L}$$
+Note that the Hamiltonian is in terms of $\mathcal{H}(q_{i}, p_{i}, t)$ and does not depend on $\dot{q_{i}}$
+
+**Hamilton's eq of motion**
+$$\begin{aligned}
+\dot{q_{i}} = \frac{\partial \mathcal{H}}{\partial p_{i}} \\
+\dot{p_{i}} = -\frac{\partial \mathcal{H}}{\partial q_{i}}
+\end{aligned}$$
+##### Poisson Brackets
+For functions, $f(q_{i}, p_{i}, t)$ and $g(q_{i}, p_{i}, t)$:
+$$\{f,g \} = \sum_{i}\left( \frac{\partial f}{\partial q_{i}} \frac{\partial g}{\partial p_{i}} - \frac{\partial f}{\partial p_{i}} \frac{\partial g}{\partial q_{i}}\right)$$
+For any function $f(q_{i}, p_{i}, t)$, the total time derivate is =
+$$\frac{df}{dt} = \frac{\partial f}{\partial t} + \{f, \mathcal{H} \}$$

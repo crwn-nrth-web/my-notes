@@ -23,10 +23,10 @@ This is the most general formulation of the law governing the motion of mechanic
 The path of a particle between two points A and B in a given time interval from $t_1$ to $t_2$ will take the least possible value: $$S = \int_{t_{1}}^{t_{2}} \mathcal{L}(q_{i}, \dot{q_{i}}, t) dt$$
 where the integral is called the *action*.
 
-The requirement that the action integral must be stationary implies the [[Lagrangian-mechanics|Euler-Lagrangian-equation]]:
+The requirement that the action integral must be stationary implies the [[Lagrangian-and-Hamiltonian-mechanics|Euler-Lagrangian-equation]]:
 $$\boxed{\frac{\partial{\mathcal{L}}}{\partial q} - \frac{d}{dt} \left(\frac{\partial{\mathcal{L}}}{\partial \dot{q}}\right) = 0}$$
 Solving this partial differential equation gives the **equations of motions** in order to find how the coordinates vary with time. 
 
-It can be seen that the [[Lagrangian-mechanics|Euler-Lagrangian-equation]] is simply the [[calculus-of-variations|Euler-equation]] with time as the independent variable and the coordinates that specify the position as the dependent variable. 
+It can be seen that the [[Lagrangian-and-Hamiltonian-mechanics|Euler-Lagrangian-equation]] is simply the [[calculus-of-variations|Euler-equation]] with time as the independent variable and the coordinates that specify the position as the dependent variable. 
 
 

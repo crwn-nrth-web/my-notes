@@ -12,6 +12,7 @@ tags:
 ## Topics
 [[Equations-of-motions]]
 [[calculus-of-variations]]
-[[Lagrangian-mechanics]]
+[[Lagrangian-and-Hamiltonian-mechanics]]
+[[conserved-quantities]]
 [[oscillations]]
 [[non-inertial-reference-frame]]
