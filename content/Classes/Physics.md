@@ -21,3 +21,4 @@ tags:
 # PHYS 364: Mathematical Physics 1
 
 [[fourier-series]]
+[[partial-differential-equations]]
