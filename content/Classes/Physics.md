@@ -20,5 +20,6 @@ tags:
 
 # PHYS 364: Mathematical Physics 1
 
-[[fourier-series]]
+[[Fourier-series]]
 [[partial-differential-equations]]
+[[Separation-of-variables]]
