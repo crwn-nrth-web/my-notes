@@ -4,7 +4,10 @@ draft: false
 tags:
   - physics
   - math
+aliases:
+  - curvilinear-coordinates
 ---
+**curvilinear coordinates** are a way to map points in space where the grid lines can bend or curve, unlike the straight gridlines of cartesian coordinates
 
 | coordinate  | x                        | y                         | z            | velocity                                                                             |
 | ----------- | ------------------------ | ------------------------- | ------------ | ------------------------------------------------------------------------------------ |

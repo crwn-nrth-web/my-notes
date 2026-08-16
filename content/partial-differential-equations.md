@@ -7,9 +7,9 @@ tags:
 ---
 A **partial differential equation** involves a function of multiple variables and its partial derivates
 
-For example, if $u= u(x,t)$ then the heat equation is $$\frac{\partial u}{\partial t} = \alpha \frac{\partial^2 u}{\partial x^2}$$
 A two-variable second order PDE:
-$$Au_{xx} + Bu_{xy} + Cu_{yy} + . . . = 0$$
+$$Au_{xx} + Bu_{xy} + Cu_{yy} + . . . = 0$$ For example, for $u= u(x,t)$, the heat equation is $$\frac{\partial u}{\partial t} = \alpha \frac{\partial^2 u}{\partial x^2}$$
+[[Separation-of-variables]] is a method to easily solve partial differential equation.
 #### Initial and Boundary conditions
 Suppose we are solving a PDE on an interval $0 \leq x\leq L$. 
 
