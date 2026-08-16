@@ -51,6 +51,10 @@ To find the coefficient for the time equation, we need the initial condition, su
 This would give us 
 $$f(x) = \sum C_{n} \sin\left( \frac{n\pi x}{L} \right)$$
 Since this is the Fourier sine series,$$C_{n} = \frac{2}{L} \int_{0}^L f(x) \sin\left( \frac{n\pi x}{L} \right)$$
+### Cylindrical coordinates
+The cylindrical Laplacian
+$$\nabla^2 u = \frac{1}{r} \frac{\partial}{\partial r} \left( r \frac{\partial u}{\partial r} \right) + \frac{1}{r^2} \frac{\partial^2 u}{\partial \theta^2}+ \frac{\partial^2 u}{\partial z^2}$$
+Separating variables $u = R(r) \Theta(\theta)Z(z)$
 
 
 
