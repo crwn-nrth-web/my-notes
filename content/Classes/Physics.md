@@ -23,3 +23,4 @@ tags:
 [[Fourier-series]]
 [[partial-differential-equations]]
 [[Separation-of-variables]]
+[[Legendre-polynomials]]
