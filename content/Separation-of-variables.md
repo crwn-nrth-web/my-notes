@@ -99,4 +99,4 @@ where
 so, for each $l$, there are $2l+1$ possible values of m
 
 
-[^1]: [[Legendre-polynomials.md]]
+[^1]: [[Legendre-polynomials]]
