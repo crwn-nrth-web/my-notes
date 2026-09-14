@@ -5,7 +5,9 @@ tags:
   - class
   - philosophy
 ---
-> Dr. Fraiser, UW Winter 2026
+> Dr. Fraser, UW Winter 2026
+
+**Philosophy of science** = concerned with the foundations, methods, and implications of science
 ## Topics
 - [[defining-philosophy-of-science]]
 - [[logical-empiricism]]
@@ -25,5 +27,7 @@ tags:
 
 #### other mentions
 [[Foster-proposed-solution-to-the-problem-of-induction#The scope of scientific laws|Foster-on-the-scope-of-scientific-laws]]
+[[PHIL-437-Philosophy-of-Applied-Mathematics]]
+
 
 

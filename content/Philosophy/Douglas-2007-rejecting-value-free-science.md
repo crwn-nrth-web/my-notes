@@ -3,6 +3,7 @@ title: Douglas-2007-rejecting-value-free-science
 draft: false
 tags:
   - philosophy
+  - source
 aliases:
   - rejecting-the-ideal-of-value-free-science
   - values-in-science

@@ -3,6 +3,7 @@ title: Richardson-2008-role-of-gender-criticism-in-the-case-of-sex-determination
 draft: false
 tags:
   - philosophy
+  - source
 aliases:
   - Richardson-2008-case-study
 ---

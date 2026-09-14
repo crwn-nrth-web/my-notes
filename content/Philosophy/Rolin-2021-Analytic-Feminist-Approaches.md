@@ -3,6 +3,7 @@ title: Rolin-2021-Analytic-Feminist-Approaches
 draft: false
 tags:
   - philosophy
+  - source
 aliases:
   - Analytic-Feminist-Approaches
 ---
