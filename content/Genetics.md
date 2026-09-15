@@ -32,6 +32,7 @@ He also conducting another experiment using a hyper-aggressive line of foxes. It
 > - **genotype** = genetic makeup; description of the genetic information carried by an individual
 > 	- Genotype/alleles are always designated by italics
 > - **Alleles** = discrete units of inheritance are alleles of genes, i.e. alternative forms of a single gene
+> 	- At the DNA level, different alleles differ in nucleotide sequence. This results in changes in amino acid sequence or the amount of protein
 > - **Homologous Chromosomes** = pair of matching chromosomes (one from each parent) that share the same gene sequences, but not necessarily the same alleles
 > - **Polymorphic gene** has several alleles that normally occur in a population
 > 	- a maximum of two alleles for one gene can exist in a diploid individual (human)
@@ -51,11 +52,13 @@ Mendel used selective breeding to produce *true breeding lines* = offsprings sho
 
 Between different phenotypes, he used *reciprocal breeding* = taking the pollen of the dwarf plant and transferring it to the tall plant (short male, tall female) or vice versa (short female, tall male)
 - In order to control his crosses, he would prevent self-fertilization by removing the anthers (pollen producing parts) before they were matured from the plant he wanted to cross to.
-##### Monohybrid Crossing
+#### Monohybrid Crossing
 - Matings between individuals that differ in only one trait (height)
 - mating of parents with opposing traits (tall x short) produce monohybrids
 - All $F_{1}$ offspring resemble one of the parental strain
 - In $F_{2}$ offspring, the lost trait appears
+
+A **monohybrid** is the offspring of two true-breeding parents that differ in only one traits. Monohybrids will show the dominant trait
 
 > [!Monohybrid crossing process]
 > 1. P = *Parental generation* first generation in the experiment
@@ -71,13 +74,49 @@ Between different phenotypes, he used *reciprocal breeding* = taking the pollen 
 	- one parent contributed most to an offspring's inherited features
 	- parental traits become mixed and forever changed in the offspring
 
-#### Mendel's First Law
+##### Mendel's First Law
 This describes how one gene (two alleles) behave
 
 **Law of segregation** = Two alleles for each trait separate (segregate) during genetic formation, then unite at random, one from each parent, at fertilization.
 
 Each parent carries two copies (alleles) of each gene and an individual receives one allele from each parent.
 
-Example 1: $WW$ x $ww$ (Homozygous dominant x Homozygous recessive)
-- $F_{1}$ genotypes are all monohybrids $Ww$ (heterozygous)
-- $F_{1}$ phenotypes are all smooth (smooth being the dominant)
+**Dominant and Recessive** are terms used to describe the phenotypic effect of different alleles
+
+For smooth peas (W) x wrinkled peas (w), where W is dominant
+
+|             | Offspring Genotypes                                                                                       | Offspring phenotypes                  |
+| ----------- | --------------------------------------------------------------------------------------------------------- | ------------------------------------- |
+| $WW$ x $ww$ | All $F_{1}$ genotypes are monohybrids hetrozygous $Ww$                                                    | All $F_{1}$ phenotypes are all smooth |
+| $Ww$ x $Ww$ | $F_{2}$ Genotypic ratio = 1:2:1<br><br>1/4 Homozygous dominant, 1/2 Hetrozygous, 1/4 Homozygous recessive | $F_{2}$ Phenotypic ratio = 3:1        |
+
+A 3:1 phenotypic ratio will always occur for simple dominant and recessive traits that result from a cross between monohybrids.
+
+![[Drawing 2026-09-15 16.40.39.excalidraw]]
+**Molecular explanation of smooth vs wrinkled peas**
+Consider the trait: Texture
+- Alleles: smooth (W) or wrinkled (w)
+- Gene: codes for the enzyme starch-branching enzyme 1 (SBE1)
+- mutation causes amino acid change resulting in inactive SBE1
+
+The $W$ Allele is dominant over $w$ allele for the gene encoding SBE1.
+
+$WW$ homozygous dominant contains large amount of branched insoluble starch, while $ww$ homozygous recessive contains no branched starch.  
+
+In $ww$, the soluble starch builds up, causing excess water to enter the young peas so when they mature, they lose this water and shrink, appearing wrinkled.
+
+In $Ww$, the $W$ allele produces enough branched starch to prevent wrinkling. 
+
+##### Test crosses with homozygous recessive
+In order to determine the genotype, you can test cross it with a homozygous recessive.
+
+Consider a smooth pea of unknown genotype, test crossing with a homozygous recessive gives you one of two possibilities:
+- if the smooth pea is a homozygous dominant, the offspring will be all smooth monohybrids
+- if the smooth pea is a heterozygous, the offsprings will be 50/50 smooth and wrinkled 
+
+![[Drawing 2026-09-15 17.05.30.excalidraw]]
+
+The test cross with the homozygous recessive individual allows you to uncover any recessive alleles that might be there for the trait.
+
+##### Law of Product
+Mendel's results reflect basic rules of probability
