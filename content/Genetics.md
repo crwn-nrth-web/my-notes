@@ -58,7 +58,7 @@ Between different phenotypes, he used *reciprocal breeding* = taking the pollen 
 - All $F_{1}$ offspring resemble one of the parental strain
 - In $F_{2}$ offspring, the lost trait appears
 
-A **monohybrid** is the offspring of two true-breeding parents that differ in only one traits. Monohybrids will show the dominant trait
+A **monohybrid** is the heterozygous offspring of two true-breeding parents that differ in only one traits ($Aa$). Monohybrids will show the dominant trait.
 
 > [!Monohybrid crossing process]
 > 1. P = *Parental generation* first generation in the experiment
@@ -93,6 +93,7 @@ For smooth peas (W) x wrinkled peas (w), where W is dominant
 A 3:1 phenotypic ratio will always occur for simple dominant and recessive traits that result from a cross between monohybrids.
 
 ![[Drawing 2026-09-15 16.40.39.excalidraw]]
+![[Pasted image 20260916120133.png]]
 **Molecular explanation of smooth vs wrinkled peas**
 Consider the trait: Texture
 - Alleles: smooth (W) or wrinkled (w)
@@ -118,5 +119,21 @@ Consider a smooth pea of unknown genotype, test crossing with a homozygous reces
 
 The test cross with the homozygous recessive individual allows you to uncover any recessive alleles that might be there for the trait.
 
-##### Law of Product
-Mendel's results reflect basic rules of probability
+##### Probability
+Mendel's results reflect basic rules of probability.
+
+**Law of Product** = the probability of two or more independent events occurring together (at the same time) is the product of the product of the probabilities that each event occur by itself
+$$P(A \text{ and } B) = A \times B$$
+- Chances of cross between heterozygotes ($Aa$) producing a homozygous recessive offspring ($aa$) = $\frac{1}{2} \times \frac{1}{2} = \frac{1}{4}$
+
+**Law of Sum** = the probability of either of two mutually exclusive events occurring is the sum of their individual probabilities
+$$P(A \text{ or } B) = A + B$$
+- chances of cross between heterozygotes ($Aa$) producing a dominant phenotype = $AA$ or $Aa$ or $aA$ = $\left( \frac{1}{2} \times \frac{1}{2} \right) + \left( \frac{1}{2} \times \frac{1}{2} \right) + \left( \frac{1}{2} \times \frac{1}{2} \right) = \frac{3}{4}$
+
+#### Dihybrid crossing
+- Matings between individuals that differ in two traits, where alleles of two genes act independently in dominant and recessive manner
+- Number of gametes = $2^n$ where (2 = diploid, n = number of genes/traits examined)
+
+A **Dihybrid** is the heterozygous offspring of two true breeding parents at two different genes ($AaBb$)
+- $AA \times BB = AaBb$
+
