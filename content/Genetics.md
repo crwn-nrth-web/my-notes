@@ -40,6 +40,17 @@ He also conducting another experiment using a hyper-aggressive line of foxes. It
 > - **Monomorphic gene** has only one allele normally present in a population
 > 	- e.g. genetic diseases = sickle cell anemia, hemophilia, etc.
 
+>[!summary|c:b16286]+
+>- **Law of segregation** = Two alleles for each trait separate (segregate) during genetic formation, then unite at random, one from each parent, at fertilization
+>- **Monohybrid** =  heterozygous offspring of two true-breeding parents that differ in only one traits 
+>- **Monohybrid cross** 
+>	- phenotypic ratio = 3:1
+>	- genotypic ratio = 1:2:1
+>- **Law of independent Assortment** = During the gamete formation, different pairs of alleles segregate independently of each other
+>- **Dihybrid** = heterozygous offspring of two true-breeding parents of two different genes
+>- **Dihybrid cross**
+>	- phenotypic ratio = 9:3:3:1
+
 ![[Pasted image 20260915152441.png|509]]
 
 Mendel developed theories of inheritance through breeding experiments with garden peas.
@@ -134,6 +145,23 @@ $$P(A \text{ or } B) = A + B$$
 - Matings between individuals that differ in two traits, where alleles of two genes act independently in dominant and recessive manner
 - Number of gametes = $2^n$ where (2 = diploid, n = number of genes/traits examined)
 
-A **Dihybrid** is the heterozygous offspring of two true breeding parents at two different genes ($AaBb$)
-- $AA \times BB = AaBb$
+A **Dihybrid** is the heterozygous offspring of two true breeding parents at two different genes ($AaBb$) i.e. $AABB \times aabb = AaBb$
+
+A dihybrid cross results in new phenotypic combinations.
+
+The Law of segregation means that we can treat a dihybrid cross as two monohybrid crosses.
+
+![[Pasted image 20260916233904.png]]
+![[Pasted image 20260916233650.png|317]]
+##### Branching Diagrams
+**Law of independent Assortment** = During the gamete formation, different pairs of alleles segregate independently of each other.
+- This describes how do the alleles of different genes interact with each other.
+
+**Branching Diagram for Genotypic ratio**
+![[Pasted image 20260916234834.png]]
+**Branching Diagram for Phenotypic ratio**
+The underscore _ refers to either W or w allele.
+![[Pasted image 20260916234927.png]]
+##### Test crosses with Dihybrids
+
 

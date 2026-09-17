@@ -75,3 +75,16 @@ Plato argues that it is like the Forms in every way, and is unlike changing mate
 
 ### Ibn Sina: The Floating Man
 
+Ibn Sina's argument on the existence of souls is an argument from observation. 
+
+> “We commonly observe certain bodies perceiving by the senses and being moved by volition; in fact, we observe certain bodies taking in nutrients, growing, and reproducing their like. That does not belong to them on account of their corporeality; so the remaining option is that in themselves there are principles for that other than their corporeality.” (Ibn Sina, p. 1)
+
+He begins by stating that we can clearly observe living bodies voluntarily moving, taking in nutrients, growing, reproducing, etc. He argues that just because something is a physical body (has corporeality) doesn't explain why it can do these particular things. Therefore, there must be something else, some additional principle, responsible for these activities. This principle is what he calls a *soul*
+
+For Ibn Sina, *soul* = the principle or source that explains the characteristic activities of living things
+
+**Floating Man Thought Experiment** = Imagine a person suspended in a vacuum such that they have no sense perception (no sight, sound, touch, etc.), would this person be aware of their own existence?
+
+Ibn Sina argues that the "floating man" would certainly be aware of their existence without having to be aware of the existence of their physical body. In other words, he would be aware of his soul.
+
+**Intelligibles**
