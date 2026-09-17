@@ -8,7 +8,7 @@ draft: false
 title: Cartesian-Skepticism
 ---
  
-> [!source] Descartes, R. (2000). [Meditations on First Philosophy](https://learn.uwaterloo.ca/content/enforced/1162856-PHIL251_081_cel_1259/media/documents/week05/descartes-meditation-2-and-6.pdf?ou=1162856). Selections from _Meditations 1_. In R. Ariew and E. Watkins (Eds.), Readings in Modern Philosophy Volume 1: Descartes, Spinoza and Leibniz, pp. 30-32, 50. Indianapolis, Ind.: Hackett publishing. (Original work published in 1641).
+> Descartes, R. (2000). [Meditations on First Philosophy](https://learn.uwaterloo.ca/content/enforced/1162856-PHIL251_081_cel_1259/media/documents/week05/descartes-meditation-2-and-6.pdf?ou=1162856). Selections from _Meditations 1_. In R. Ariew and E. Watkins (Eds.), Readings in Modern Philosophy Volume 1: Descartes, Spinoza and Leibniz, pp. 30-32, 50. Indianapolis, Ind.: Hackett publishing. (Original work published in 1641).
 
 
 **Methodological skepticism** = used by Descartes, it adopts (temporary) [[Skepticism]] as a methodological stance that can be overcome in order to secure knowledge. For Descartes, skepticism is the first step to reconstruct knowledge on firm foundations

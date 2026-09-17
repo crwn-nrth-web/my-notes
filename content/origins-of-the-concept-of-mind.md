@@ -3,6 +3,11 @@ title: origins-of-the-concept-of-mind
 draft: false
 tags:
   - philosophy
+aliases:
+  - Plato-on-the-self
+  - Cartesian-Dualism
+  - Ibn-Sina-Floating-man
+  - Akan-concept-of-the-mind
 ---
 ### Plato on the Self
 Plato's gives us the first account of how we are essentially dualistic entities. 
@@ -18,10 +23,11 @@ Dialogues =
 In the Phaedo, Socrates defines death as the separation of the body and the soul. Hence, why death is a liberation, to free the soul from the imprisonment of the body, as philosopher’s search for knowledge is most successful when the soul is “most by itself.”
 
 ##### Argument from imperfection *(Phaedo 74 - 76)* 
+This argues for the existence of an immortal soul in order to explain our cognitive processes.
+
 - If you had to gather two sticks of equal length, no matter how close you get, they will always be imperfectly equal. 
 - in order to have a notion of imperfectly equal, you must have a notion of perfect equality
 - We conceive of perfect, abstract things such as the Equal, Circle, Square, etc. These concepts cannot derive from sense-perception, because we realize the particular things we perceive through the senses “fall short” of corresponding perfectly to them.
-
 
 > [!argument]
 > 1. we perceive sensible objects to be F (e.g. equal in length)
@@ -32,9 +38,11 @@ In the Phaedo, Socrates defines death as the separation of the body and the soul
 > 6. Therefore, there is such a thing as the F itself (e.g., the Equal itself, or the Form EQUALITY), and it is distinct from any sensible object
 
 Seeing imperfect instantiations of a Form is an opportunity to recollect the perfect Form itself
-The Argument from imperfection supposes the existence of a soul as it presumes that you already have the have knowledge that predates your sensory experience
 
+The Argument from imperfection supposes the existence of a soul as it presumes that you already have the have knowledge that predates your sensory experience, i.e. we could not have knowledge of perfect things (Equality) from the perception of imperfect things.
 ##### Argument from Opposites
+This argues that the soul is the principle of life, an animating principle, that differentiates us from non-living things.
+
 - For most ancient Greeks, the soul *psyche* was an animating principle that which brings life
 - For Plato, the soul must always bring life -- for everything with a soul is living, and everything without a soul is not living
 	- the Greeks ha an expanded understanding of the soul, such that even plants had a soul (anything that moved/changed had a soul) = a plant's soul allows it to grow, with it being the lowest level of soul
@@ -59,8 +67,8 @@ In other words,
 2. When the body dies, it leaves  
 3. But bodily death does not destroy the soul  
 4. The soul continues to exist
-
 ##### The Affinity Argument
+Is the soul a Form? Is our soul an imperfect instance of a perfect soul Form?
 Why should we think our soul is like the Forms i.e. perfect and eternal?
 
 Plato argues that it is like the Forms in every way, and is unlike changing material things in every way. It is like the Forms in that it is invisible, immortal (by the [[#Argument from Opposites]]), and incorporeal. 
@@ -73,6 +81,43 @@ Plato argues that it is like the Forms in every way, and is unlike changing mate
 | visible                        | invisible, but grasped by the mind                     |
 | material                       | immaterial                                             |
 
+### Cartesian Dualism 
+Moving from a platonic dualism to a cartesian dualism of the mind.
+
+Descartes uses the *method of doubt*, suspending all belief, in order to establish knowledge on a foundation of absolute certainty, rejecting any belief that can be even slightly doubted
+
+By the end of [[Descartes-Meditations]], Descartes believes to have proven the existence of minds and bodies where
+- *essence (defining characteristics) of minds* = thought
+- *essence of material beings* = spatial extension
+
+**Descartes establishes the existence of soul =** ![[Descartes-Meditations#^3b865e]]
+For Descartes, the soul is immortal, unchanging, but imperfect
+- the soul is imperfect because we are finite
+
+**Descartes establishes the existence of the body =** ![[Descartes-Meditations#^2b4fb5]]
+Descartes' argument for **substance dualism** (also known as Cartesian Dualism) =
+1. I have a clear and distinct conception of myself as a thinking thing.
+2. I have a clear and distinct conception of my body as an extended thing.
+3. I can conceive of each of these things without conceiving of the other.
+4. “My ability clearly and distinctly to understand one thing without another suffices to make me certain that the one thing is different from the other, since they can be separated from each other, at least by God.” 
+Therefore, “it is certain that I am really distinct from my body, and can exist without it.”
+
+Descartes argues that mind and body are distinct substances as we can conceive of mind existing without body, and body existing without mind. And since w can conceive of the two things as separate without contradiction, then God could make them exist separately.
+
+*Is everything around me just a mode of some fundamental infinite substance?*
+- our minds are mode of the finite substance body
+
+*How does Descartes account for our rational tools (deduction, introspection, etc.)?*
+
+[[Ryle-concept-of-the-mind]] criticizes Descartes' substance dualism calling it "the ghost in the machine." 
+#### Descartes on the Mind Body problem
+How can entities with completely different natures enter into causal relationships with each other?
+
+> “There is nothing… nature teaches me more explicitly than that I have a body that is ill-disposed when I feel pain, that needs food and drink when I suffer hunger or thirst, and the like…. By means of these sensations of pain, hunger, thirst, and so on, nature teaches that I am present to my body not merely in the way a sailor is present in his ship, but that I am most tightly joined and, so to speak, commingled with it, so much so that I and the body constitute one single thing…. For clearly these sensations of thirst, hunger, pain, and so on are nothing but certain confused modes of thinking arising from the union and, as it were, commingling of the mind with the body.”
+
+For Descartes, there is a connected unity between the two distinct ontological entities. Hunger, pain, etc. are mental states for Descartes, that occur with bodily disorders (needing food or having an injury). Descartes acknowledges that there is an active two-way causal interaction between mind and  bodies. ^64ef67
+
+Descartes sees the unity of mind and bodies as a sort of solution to the [[Problem-of-Mind-Body-interaction]]. He treats the mind and body together as a composite thing, so much so that we can legitimately talk of them as being one thing. ^0f73cf
 ### Ibn Sina: The Floating Man
 
 Ibn Sina's argument on the existence of souls is an argument from observation. 
@@ -88,3 +133,7 @@ For Ibn Sina, *soul* = the principle or source that explains the characteristic 
 Ibn Sina argues that the "floating man" would certainly be aware of their existence without having to be aware of the existence of their physical body. In other words, he would be aware of his soul.
 
 **Intelligibles**
+
+### Akan conception of the mind
+
+*Akan* = group 13th century around present day Ghana
