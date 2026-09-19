@@ -12,7 +12,7 @@ tags:
 - *Pythagoreanism* = the world is math
 - *Mathematical structuralism* = math represents structure, which composes mathematical reality (e.g. natural number system)
 
- [[Wigner-1960-unreasonable-effectiveness-of-mathematics-in-the-natural-sciences]]
+ [[The-unreasonable-effectiveness-of-mathematics-in-physics]]
  
 Islami (2017), “A match not made in heaven: on the applicability of mathematics in physics” = reads Wigner's conclusion as rhetorical
 
