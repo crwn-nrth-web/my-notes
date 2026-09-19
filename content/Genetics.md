@@ -141,7 +141,7 @@ $$P(A \text{ and } B) = A \times B$$
 $$P(A \text{ or } B) = A + B$$
 - chances of cross between heterozygotes ($Aa$) producing a dominant phenotype = $AA$ or $Aa$ or $aA$ = $\left( \frac{1}{2} \times \frac{1}{2} \right) + \left( \frac{1}{2} \times \frac{1}{2} \right) + \left( \frac{1}{2} \times \frac{1}{2} \right) = \frac{3}{4}$
 
-#### Dihybrid crossing
+#### Dihybrid crossing and Multihybrid crossing
 - Matings between individuals that differ in two traits, where alleles of two genes act independently in dominant and recessive manner
 - Number of gametes = $2^n$ where (2 = diploid, n = number of genes/traits examined)
 
@@ -157,11 +157,24 @@ The Law of segregation means that we can treat a dihybrid cross as two monohybri
 **Law of independent Assortment** = During the gamete formation, different pairs of alleles segregate independently of each other.
 - This describes how do the alleles of different genes interact with each other.
 
+The limitation of the Punnet square is that when it comes to multiple genes, it becomes unwieldy and long. The Punnet square works best for monohybrid crossing.
+
 **Branching Diagram for Genotypic ratio**
 ![[Pasted image 20260916234834.png]]
 **Branching Diagram for Phenotypic ratio**
 The underscore _ refers to either W or w allele.
 ![[Pasted image 20260916234927.png]]
-##### Test crosses with Dihybrids
+**Trihybrid example**
+![[Pasted image 20260917123817.png|0]]
+**Multihybrid crossing probability**
 
+> Consider the cross of four genes: $Aa \ Bb  \ Cc \ Dd \times Aa \ Bb \ Cc \ Dd$ 
+> What is the probability of an $AA \ bb \ Cc \ Dd$ offspring?
 
+Begin by breaking each down into 4 individual gametes and work the probability for each combination
+- $Aa \times Aa$ = $\frac{1}{2} \times \frac{1}{2} = \frac{1}{4}$ to get $AA$
+- $Bb \times Bb$ = $\frac{1}{4}$ to get $bb$
+- $Cc \times Cc$ = $\left( \frac{1}{2} \times \frac{1}{2} \right) + \left( \frac{1}{2} \times \frac{1}{2} \right) = \frac{1}{2}$ to get $Cc$
+- $Dd \times Dd$ = $\frac{1}{2}$ to get $Dd$
+
+So probability of getting $AA \ bb \ Cc \ Dd$ = $\frac{1}{4} \times \frac{1}{4} \times \frac{1}{2} \times \frac{1}{2} = \frac{1}{64}$
