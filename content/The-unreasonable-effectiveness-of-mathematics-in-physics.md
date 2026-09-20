@@ -17,7 +17,13 @@ Wigner (1960) argues that it is *miracle* that the relationship between maths an
 
 **Applicability Problem** = Why is it that mathematics is applicable to the natural sciences?
 
-#### Wigner (1960) The unreasonable effectiveness of mathematics in the natural sciences
+*Objections to the Applicability Problem* (Islami, 2017, p. 8) =
+1. Is this a genuine philosophical problem? A significant part of mathematics was devised for the use in science, e.g. calculus was invented to be used in the study of motion
+2. Not all mathematical concepts are used in natural science, most of pure maths do not have any particular use
+
+Islami's response to these objections is that while these statements are true in some sense, this doesn’t explain why the more advanced concepts in mathematical analysis, which were developed independently of the primary motivation, ended up playing important roles in physics, or why mathematical concepts that were devised to solve a specific scientific problem appeared later in a completely unrelated and unexpected field.
+
+### Wigner (1960) The unreasonable effectiveness of mathematics in the natural sciences
 
 > ". . . the enormous usefulness of mathematics in the natural sciences is something bordering on the mysterious and that there is *no rational explanation* for it. Second, it is just this uncanny usefulness of mathematical concepts that raises the question of the uniqueness of our physical theories” (Wigner, 1960, p. 2)
 
@@ -25,19 +31,47 @@ Wigner (1960) argues that it is *miracle* that the relationship between maths an
 
 Wigner's conclusion (and answer to the Applicability Problem) is that the effectiveness of mathematics in the natural science is unreasonable, i.e. there is no rational explanation for the Applicability Problem.
 
-What are the assumptions he is making on the applicability of mathematics? $\rightarrow$ Wigner has a very specific picture of how mathematics work.
-
-There seems to be a mismatch between applied mathematics and how our mathematics emerge. Mathematicians seem to be introspective and more focused on theoretical logical problems with no interest in the physical world. Physics then seems to take these mathematical concepts and fits them perfectly into the description of the physical world.
-
-i.e. the *epistemological problem* = knowledge of the world from our scientific theories are incompatible with origins and nature of math
-
 Mark Steiner (1998, as cited in Islami, 2017, p. 5) reconstructs Wigner's argument = ^9a17ab
 1. Mathematical concepts arise from the aesthetic impulse in humans. 
 2. It is unreasonable to expect that what arises from the aesthetic impulse in humans should be significantly effective in physics. 
 3. Nevertheless, a significant number of these concepts are significantly effective in physics. 
 4. Hence, mathematical concepts are unreasonably effective in physics
 
-#### Islami (2017) A match not made in heaven: on the applicability of mathematics in science
+A common example for Wigner's argument are complex numbers ($i= \sqrt{ -1 }$). Complex numbers were defined in the 16th century in order to solve polynomial equations, and our sense experiences clearly does not suggest the presence of these quantities. But later, complex numbers became an integral part in theories of physics. 
+
+*What are the assumptions he is making on the applicability of mathematics?* $\rightarrow$ Wigner has a very specific picture of how mathematics work.
+
+Wigner defines mathematics as “the science of skillful operations with concepts and rules invented just for this purpose.” (p. 2)
+- i.e. invented only for the purpose of mathematics
+
+He emphasizes that mathematics invents new concepts simply for their mathematical qualities (manipulability, formal beauty, generality, etc.) and in doing so, turns completely away from nature, "unconcerned with usefulness and applicability of her creation in the study of nature"[^1]
+
+There seems to be a mismatch between applied mathematics and how our mathematics emerge. Mathematicians seem to be introspective and more focused on theoretical logical problems with no interest in the physical world. Physics is however able to take these mathematical concepts and fits them perfectly into the description of the physical world.
+
+i.e. the *epistemological problem* = knowledge of the world from our scientific theories are incompatible with origins and nature of math
+
+Wigner's **Empirical Law of Epistemology** (ELE) = “the appropriateness and accuracy of the mathematical formulation of the laws of nature in terms of concepts chosen for their manipulability”[^2]
+
+#### Invariance principle
+
+Wigner defines physics to be interested in "discovering the laws of inanimate nature" (p.3). 
+
+> “Regularities determine the time evolution of a system (if a physical system is in the state of s1 at time t1, it will be in the state s2 at time t2) whereas initial conditions are about the state of the system at the outset of its evolution. The laws of nature are statements of these regularities.” (Islami, 2017, p. 14)
+
+> “the division between laws of nature and initial conditions is a condition for the possibility of modern physics” (Islami, 2017, p. 14)
+
+Example: the case of freely falling bodies (objects dropped from the same height at the same time reach the ground at the same time). This is observed no matter where the experiment is done, no matter if it sunny or rainy, no matter if the objects were of different size, shape, material etc. The only thing the time it takes for a falling body to reach the ground is distance
+
+> “What makes it possible for us to formulate the division between initial conditions and regularities is the fact that the correlations between events hold under different circumstances, or as mathematicians put it, under different transformations.” (Islami, 2017, p. 16)
+
+In a later paper, Wigner (1963) lays out a hierarchy in our knowledge of the world around us [^3] :
+1. first tier = events that we observe
+2. second tier = regularities in events i.e. laws of nature
+3. third tier = regularities in laws of nature i.e. invariance principles
+
+The invariance principles give law their universality, which makes their mathematical formulation possible. If there were no regularities in nature, like invariance principles, mathematics would lose its usefulness in their formulation.
+
+### Islami (2017) A match not made in heaven: on the applicability of mathematics in science
 
 Islami provides the context behind Wigner (1960)
 > “Wigner is lecturing to a particular audience, who have gathered to celebrate Courant’s vision: that the mathematics that is invented so playfully and aesthetically by mathematicians ends up in natural sciences to such a remarkable and unexpected degree.” (Islami, 2017, p. 6)
@@ -48,3 +82,6 @@ He argues that Wigner is asking a more particular version of the Applicability p
 
 
 
+[^1]: Islami (2017), p. 11
+[^2]: Islami (2017), p. 10
+[^3]: Islami (2017), p. 17
