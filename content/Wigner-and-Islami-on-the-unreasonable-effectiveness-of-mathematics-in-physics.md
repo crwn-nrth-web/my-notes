@@ -1,8 +1,10 @@
 ---
-title: The-unreasonable-effectiveness-of-mathematics-in-physics
+title: Wigner-and-Islami-on-the-unreasonable-effectiveness-of-mathematics-in-physics
 draft: false
 tags:
   - philosophy
+aliases:
+  - The-unreasonable-effectiveness-of-mathematics-in-physics
 ---
 > [!source|i:arrow-up-right-from-square c:a7c080]
 > Wigner, E. P. (1960). The unreasonable effectiveness of mathematics in the natural sciences. _Communications in Pure and Applied Mathematics_, 13(1), 1–14. https://doi.org/10.1002/cpa.3160130102
@@ -28,9 +30,11 @@ Islami's response to these objections is that while these statements are true in
 *My understanding of the two papers* =
 The common interpretation of Wigner's paper is roughly: Mathematics is an abstract human creation  of mathematical concepts that is unconcerned with fitting with reality. Physics, however, is able to take these mathematical concepts and fit them perfectly into the descriptions of the physical world. Why should an abstract mathematical concept, like complex numbers or Hilbert space, turn out to be useful for describing something physically real?
 
-Islami offers a different interpretation, that Wigner is asking a more particular question: why is mathematics such a good language for formulating the laws of modern theoretical physics? The answer: Because of the particular structure of modern physics, especially its reliance on invariance principles. The fact that laws of nature are invariant allows it to be mathematically formulated. Mathematics is effective because the laws of physics have the sort of structures that mathematics is good at representing.
+Islami offers a different interpretation, that Wigner is asking a more particular question: why is mathematics such a good language for formulating the *laws of modern theoretical physics*? The answer: Because of the particular structure of modern physics, especially its reliance on invariance principles. The fact that laws of nature are invariant allows it to be mathematically formulated. Mathematics is effective because the laws of physics have the sort of structures that mathematics is good at representing.
 
 ### Wigner (1960) The unreasonable effectiveness of mathematics in the natural sciences
+
+This paper was originally a lecture, in the Richard Courant Lecture in Mathematical Sciences, New York University, 1959
 
 > ". . . the enormous usefulness of mathematics in the natural sciences is something bordering on the mysterious and that there is *no rational explanation* for it. Second, it is just this uncanny usefulness of mathematical concepts that raises the question of the uniqueness of our physical theories” (Wigner, 1960, p. 2)
 
@@ -38,13 +42,20 @@ Islami offers a different interpretation, that Wigner is asking a more particula
 
 Wigner's conclusion (and answer to the Applicability Problem) is that the effectiveness of mathematics in the natural science is unreasonable, i.e. there is no rational explanation for the Applicability Problem.
 
-Mark Steiner (1998, as cited in Islami, 2017, p. 5) reconstructs Wigner's argument = ^9a17ab
+Mark Steiner (1998) [^4] reconstructs Wigner's argument = ^9a17ab
 1. Mathematical concepts arise from the aesthetic impulse in humans. 
 2. It is unreasonable to expect that what arises from the aesthetic impulse in humans should be significantly effective in physics. 
 3. Nevertheless, a significant number of these concepts are significantly effective in physics. 
-4. Hence, mathematical concepts are unreasonably effective in physics
+Hence, mathematical concepts are unreasonably effective in physics
+
+Another way to formulate Wigner's argument =
+1. Pure mathematics is developed in accordance of considerations far from human experience
+2. math is correct language in which to formulate laws
+Hence, the appropriateness of the language of mathematics for the formulation of the laws of physics is a miracle
 
 A common example for Wigner's argument are complex numbers ($i= \sqrt{ -1 }$). Complex numbers were defined in the 16th century in order to solve polynomial equations, and our sense experiences clearly does not suggest the presence of these quantities. But later, complex numbers became an integral part in theories of physics. 
+
+
 
 *What are the assumptions he is making on the applicability of mathematics?* $\rightarrow$ Wigner has a very specific picture of how mathematics work.
 
@@ -58,6 +69,8 @@ There seems to be a mismatch between applied mathematics and how our mathematics
 i.e. the *epistemological problem* = knowledge of the world from our scientific theories are incompatible with origins and nature of math
 
 Wigner's **Empirical Law of Epistemology** (ELE) = “the appropriateness and accuracy of the mathematical formulation of the laws of nature in terms of concepts chosen for their manipulability”[^2]
+
+Another assumption is that Wigner's argument relies on [[Scientific-realism]] (the view that an important function of theories is to describe reality) and mathematical Formalism (view that math is a system of symbols manipulated according to strict rules, rather than a study of real, abstract objects)
 
 #### Invariance principle
 
@@ -87,8 +100,18 @@ Islami argues that the reading of Wigner's paper, as outlined by Mark Steiner ([
 
 He argues that Wigner is asking a more particular version of the Applicability problem: *what is it about physics that makes mathematics an appropriate language for the formulation of its laws*? (p. 7)
 
+Islami's argument (Interpretation of Wigner) =
+1. There is an incomplete understanding of events, so there is a need of laws of nature 
+2. laws involves abstracting from initial conditions
+3. invariance principles are needed because there is an incomplete understanding of the laws of nature.
+4. Both the existence of the laws of nature and the invariance principles are contingent
+5. The regularities and invariances are approximate
+Therefore, mathematics is an appropriate language for modern physics
+
+> “for Wigner, there is a Why question and a How question. The Why question is “Why is mathematics useful in physics?”, which is just the applicability problem (in physics). The How question is “How is mathematics useful in physics?”.” (Islami, 2017, p. 7)
 
 
 [^1]: Islami (2017), p. 11
 [^2]: Islami (2017), p. 10
 [^3]: Islami (2017), p. 17
+[^4]: as cited in Islami, 2017, p. 5

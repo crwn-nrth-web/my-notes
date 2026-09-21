@@ -12,7 +12,9 @@ tags:
 - *Pythagoreanism* = the world is math
 - *Mathematical structuralism* = math represents structure, which composes mathematical reality (e.g. natural number system)
 
- [[The-unreasonable-effectiveness-of-mathematics-in-physics]]
- 
-Islami (2017), “A match not made in heaven: on the applicability of mathematics in physics” = reads Wigner's conclusion as rhetorical
+## Topics
+ [[Wigner-and-Islami-on-the-unreasonable-effectiveness-of-mathematics-in-physics]]
+ [[Steiner-on-the-applicability-of-mathematics]]
 
+## General notes
+Kitcher has a naturalist, empiricist view of mathematics that even the most advanced abstract mathematical concepts that can lead back to basic mathematical concepts that are rooted in the natural world (e.g. natural world)
