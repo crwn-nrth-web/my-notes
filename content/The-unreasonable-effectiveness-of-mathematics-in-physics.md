@@ -23,6 +23,13 @@ Wigner (1960) argues that it is *miracle* that the relationship between maths an
 
 Islami's response to these objections is that while these statements are true in some sense, this doesn’t explain why the more advanced concepts in mathematical analysis, which were developed independently of the primary motivation, ended up playing important roles in physics, or why mathematical concepts that were devised to solve a specific scientific problem appeared later in a completely unrelated and unexpected field.
 
+---
+
+*My understanding of the two papers* =
+The common interpretation of Wigner's paper is roughly: Mathematics is an abstract human creation  of mathematical concepts that is unconcerned with fitting with reality. Physics, however, is able to take these mathematical concepts and fit them perfectly into the descriptions of the physical world. Why should an abstract mathematical concept, like complex numbers or Hilbert space, turn out to be useful for describing something physically real?
+
+Islami offers a different interpretation, that Wigner is asking a more particular question: why is mathematics such a good language for formulating the laws of modern theoretical physics? The answer: Because of the particular structure of modern physics, especially its reliance on invariance principles. The fact that laws of nature are invariant allows it to be mathematically formulated. Mathematics is effective because the laws of physics have the sort of structures that mathematics is good at representing.
+
 ### Wigner (1960) The unreasonable effectiveness of mathematics in the natural sciences
 
 > ". . . the enormous usefulness of mathematics in the natural sciences is something bordering on the mysterious and that there is *no rational explanation* for it. Second, it is just this uncanny usefulness of mathematical concepts that raises the question of the uniqueness of our physical theories” (Wigner, 1960, p. 2)
