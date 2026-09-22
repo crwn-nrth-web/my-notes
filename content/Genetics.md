@@ -5,6 +5,15 @@ tags:
   - biology
   - class
 ---
+
+|                                                                            | Phenotypic ratio                                  |
+| -------------------------------------------------------------------------- | ------------------------------------------------- |
+| 1 gene, 2 alleles<br>dominant/recessive heterozygous cross                 | 3:1                                               |
+| 1 gene, 2 alleles<br>incomplete dominance/codominance heterozygous cross   | 1:2:1                                             |
+| 2 genes, 2 alleles each<br>dominant/ recessive heterozygous dihybrid cross | 1:2:1                                             |
+| Pleiotropy, 1 gene, 2 alleles <br>dominant/mutant                          | mutant allele responsible for multiple phenotypes |
+| Pleiotropy, 1 gene, 2 alleles<br>recessive lethal heterozygous cross       | 2:1                                               |
+
 # Examples of Artificial selection
 
 Genetic traits are passed from one generation to the next, through **natural or artificial selection**.
@@ -50,7 +59,12 @@ He also conducting another experiment using a hyper-aggressive line of foxes. It
 >- **Dihybrid** = heterozygous offspring of two true-breeding parents of two different genes
 >- **Dihybrid cross**
 >	- phenotypic ratio = 9:3:3:1
+>- **Incomplete dominance** = when two alleles of one gene act together, and the $F_1$ hybrid resembles neither purebred parents (often an intermediate phenotype)
+>	- genotype and phenotype ratios are both 1:2:1
+>- **Co-dominance** = when two alleles of one gene come together, and alternative traits are both visible in $F_{1}$ hybrid
+>	- genotype and phenotype ratios are both 1:2:1
 
+#### Mendel Pea experiment
 ![[Pasted image 20260915152441.png|509]]
 
 Mendel developed theories of inheritance through breeding experiments with garden peas.
@@ -153,6 +167,10 @@ The Law of segregation means that we can treat a dihybrid cross as two monohybri
 
 ![[Pasted image 20260916233904.png]]
 ![[Pasted image 20260916233650.png|317]]
+For dihybrid test cross breeding, two tests will need to be done using the homozygous recessive genotype of each gene.
+- e.g. for two genes (t and d) = perform two test crosses with genotype $ttDD$ and $TTdd$
+ 
+
 ##### Branching Diagrams
 **Law of independent Assortment** = During the gamete formation, different pairs of alleles segregate independently of each other.
 - This describes how do the alleles of different genes interact with each other.
@@ -178,3 +196,57 @@ Begin by breaking each down into 4 individual gametes and work the probability f
 - $Dd \times Dd$ = $\frac{1}{2}$ to get $Dd$
 
 So probability of getting $AA \ bb \ Cc \ Dd$ = $\frac{1}{4} \times \frac{1}{4} \times \frac{1}{2} \times \frac{1}{2} = \frac{1}{64}$
+
+
+# Modifications of Mendelian Ratios
+
+
+>[!Important-terms|c:b16286]+
+>- **Allele frequency** = percentage of the total number of copies of a gene in a population represented by a particular allele
+>- **Wild-type allele** (normal allele) = present in more than 1% of a population
+>- **mutant allele** = present in less than 1% of a population
+>- **monomorphic** = gene with only one wild-type allele
+>- **polymorphic** = gene with more than one wild-type allele
+>- **mutant alleles** = new alleles can arise through mutation
+
+
+
+>[!summary|c:b16286]+
+>- **Incomplete dominance** = when two alleles of one gene act together, and the $F_1$ hybrid resembles neither purebred parents (often an intermediate phenotype)
+>	- genotype and phenotype ratios are both 1:2:1
+>- **Co-dominance** = when two alleles of one gene come together, and alternative traits are both visible in $F_{1}$ hybrid
+>	- genotype and phenotype ratios are both 1:2:1
+#### Incomplete and co-dominance
+
+**Incomplete dominance** = when two alleles of one gene act together, and the $F_1$ hybrid resembles neither purebred parents (often an intermediate phenotype)
+- genotype and phenotype ratios are both 1:2:1
+
+*Molecular basis for incomplete dominance* =
+- Consider two alleles for color of flower, red ($A^r$) and white ($A^w$) that are incomplete dominant to form pink flowers ($A^r A^w$)
+- The allele $A^r$ produces the wild red pigment and the allele $A^w$ produces white (or lack of red pigment)
+- When red $A^r A^r$ plants are crossed with white $A^wA^w$ plants, the resulting $F_1$ are pink $A^r A^w$
+- this is because only one "dose" of red pigment is produced resulting in pink offspring that do not resemble either parent
+
+**Co-dominance** = when two alleles of one gene come together, and alternative traits are both visible in $F_{1}$ hybrid
+- genotype and phenotype ratios are both 1:2:1
+
+![[Pasted image 20260921191419.png]]
+#### Multiple Alleles
+
+*Example:* ABO blood group
+- The gene controlling the cell surface sugars responsible for the ABO blood grouping system is a multiple allele system in which $I^A$ and $I^B$ are codominant allele to each other but they are both dominant to the $i$ allele
+- Allele $I^A$ attaches a sugar different to that of allele $I^B$ and allele $i$ does not attach the sugar at all
+- heterozygous $I^A I^B$ have both types of sugar on their cell surface
+Hence, $I$ is a polymorphic gene since three alleles are commonly found
+
+**polymorphic gene** = multiple alleles, in which more than one allele is present in high frequency (>1%) in a population (i.e. there is more than one wild-type allele)
+
+When dealing with multiple alleles, the wild-type allele is designated with $A^+$
+
+In multiple alleles, reciprocal crosses can be conducted between pure-breeding lines representing all phenotypes to establish the dominant relationships between all possible pairs of alleles. This reveals a **dominant series** in which the alleles are listed in order from dominant to recessive
+
+**Pleiotropy** = where a single gene influences two or more seemingly unrelated phenotypic traits
+- e.g. sickle cell anemia = Sickle cell anemia is caused by a mutation in a single gene; it affects the gene that codes for one of the proteins involved in making hemoglobin. Sickle red blood cells are sickled shape, rather than round shaped. This gives a variety of phenotypic effects, like physical weakness, impaired mental functions, etc.
+
+**Lethal Alleles** = some alleles may result not only in a visible phenotype but also affect viability (live or die)
+- phenotypic ratio of offspring from heterozygous cross with recessive lethal allele = 2:1 because the homozygous lethal recessive will die
