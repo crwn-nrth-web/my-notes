@@ -4,8 +4,6 @@ title: Ryle-concept-of-the-mind
 tags:
   - philosophy
 ---
- 
-
 #### Ryle on substance dualism
 Ryle realizes that [[Descartes-Meditations|Descartes-substance-Dualism]] made an error in grammar, calling it a "categorical mistake" 
 

@@ -104,12 +104,23 @@ Therefore, “it is certain that I am really distinct from my body, and can exis
 
 Descartes argues that mind and body are distinct substances as we can conceive of mind existing without body, and body existing without mind. And since w can conceive of the two things as separate without contradiction, then God could make them exist separately.
 
+$$\text{cognitive activity} \rightarrow \text{mode} \rightarrow \text{substance}$$
+
 *Is everything around me just a mode of some fundamental infinite substance?*
 - our minds are mode of the finite substance body
+- xxxx
 
 *How does Descartes account for our rational tools (deduction, introspection, etc.)?*
 
 [[Ryle-concept-of-the-mind]] criticizes Descartes' substance dualism calling it "the ghost in the machine." 
+
+A modern cartesian defense is Kripke's essential vs accidental properties, which together constitutes as personhood
+- *essential properties* = a property that an object must have in order to exist or be the specific thing that it is
+	- e.g. a person's biological orgin (who our parents are)
+- *accidental properties* = properties that object happens to have in the actual world, but could logically lack without losing its identity
+	- e.g. our religious, political beliefs, etc.
+	- For Kripke, our physical body is an accidental property of your soul 
+
 #### Descartes on the Mind Body problem
 How can entities with completely different natures enter into causal relationships with each other?
 
@@ -128,12 +139,27 @@ He begins by stating that we can clearly observe living bodies voluntarily movin
 
 For Ibn Sina, *soul* = the principle or source that explains the characteristic activities of living things
 
-**Floating Man Thought Experiment** = Imagine a person suspended in a vacuum such that they have no sense perception (no sight, sound, touch, etc.), would this person be aware of their own existence?
+**Floating Man Thought Experiment** = Imagine a person created and suspended in a vacuum, positioned that they can't touch their own limbs and they have no sense perception (no sight, sound, touch, etc.), what would this person know? Would this person be aware of their own existence?
 
-Ibn Sina argues that the "floating man" would certainly be aware of their existence without having to be aware of the existence of their physical body. In other words, he would be aware of his soul.
+Ibn Sina argues that the "floating man" would certainly be aware of their existence without having to be aware of the existence of their physical body. Consequently, our awareness of ourselves in not simply a matter of perceiving our body. In other words, he would be aware of his soul. This provides evidence for a distinction between body and soul
 
-**Intelligibles**
+**How does the argument differ from Descartes' [[Cartesian-Skepticism]]?**
+- the Floating man does not arrive at his existence *through* an act of doubt/thinking, rather his self-awareness is an intrinsic, ever-present reality. For Descartes, his existence is constituted through active cognitive process.
+
 
 ### Akan conception of the mind
 
-*Akan* = group 13th century around present day Ghana
+*Akan* = native to present day Ghana and parts of the Ivory Coast in West Africa
+
+*Kwasi Wiredu* (1931 - 2022) worked with Gilbert Ryle, and was focused on decolonizing African philosophy
+- [[Ryle-concept-of-the-mind]] = western conception of mind is built on a "category mistake"
+- Wiredu = we should avoid reading Western metaphysical categories into Akan conceptions of mind and person
+
+Wiredu argues that the Akan do not have a concept corresponding neatly to the Western concept of the "mind" at all.
+
+The word *adwene* (often simply translated as "mind") is not a substitute or component of the person. His primary claim: adwene is better understood as the function or activity of thinking, rather than as a thing or entity located inside a person.
+
+*Adwene* = capacity/activity of thinking engaged in by the person
+
+Translating Adwene simply as "mind" can be philosophically misleading, as mind often suggests a thing, substance, or ontological component of the person. Adwene functions differently in Akan thought
+

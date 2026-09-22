@@ -11,7 +11,6 @@ tags:
 The concept of the mind is a *mongrel* concept.
 ## Topics
 - [[origins-of-the-concept-of-mind]]
-- [[Descartes-Meditations]]
 - Subjectivity and Phenomenology
 - Hard problem of consciousness
 - Neural Correlates
@@ -22,3 +21,5 @@ The concept of the mind is a *mongrel* concept.
 - animal consciousness
 - embodied phenomenology
 
+## General ideas/thoughts:
+- Kripke
