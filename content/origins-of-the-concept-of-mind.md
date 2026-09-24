@@ -152,7 +152,7 @@ Ibn Sina argues that the "floating man" would certainly be aware of their existe
 *Akan* = native to present day Ghana and parts of the Ivory Coast in West Africa
 
 *Kwasi Wiredu* (1931 - 2022) worked with Gilbert Ryle, and was focused on decolonizing African philosophy
-- [[Ryle-concept-of-the-mind]] = western conception of mind is built on a "category mistake"
+- [[Ryle-concept-of-the-mind]] = western conception of mind is built on a "category mistake". We think of the mind as an inseparable entity, placed on the same ontological level as the body, but instead the mind is the emergent property of the body
 - Wiredu = we should avoid reading Western metaphysical categories into Akan conceptions of mind and person
 
 Wiredu argues that the Akan do not have a concept corresponding neatly to the Western concept of the "mind" at all.
@@ -161,5 +161,26 @@ The word *adwene* (often simply translated as "mind") is not a substitute or com
 
 *Adwene* = capacity/activity of thinking engaged in by the person
 
-Translating Adwene simply as "mind" can be philosophically misleading, as mind often suggests a thing, substance, or ontological component of the person. Adwene functions differently in Akan thought
+Translating Adwene simply as "mind" can be philosophically misleading, as mind often suggests a thing, substance, or ontological component of the person. 
+
+Reconceiving of the mind as something other than a tpical ontological category complicates downstream concepts like personhood. Wiredu discusses several elements associated with the human personhood:
+- *nipadua* = the body
+- *okra* = life-giving principle associated with life and destiny
+- *sunsum* = roughly, the force associated with personality
+- *mogya* = blood
+
+The Akan term *onipa* (usually translated as "person") has a dual meaning. It can refer to a human being in the biological sense and to someone who has achieved a higher degree of personhood. 
+
+Wiredu therefore distinguishes human beings from persons. Not every human being is automatically a person in the exact same sense.  Possession of *okra* gives someone a fundamental status as a human being and potential moral agent, but full personhood is something achieved through one's conduct.
+
+The achievement involves things as:
+- intellectual and moral maturity
+- exercising responsibility
+- caring for one's family
+- fulfilling obligations to one's lineage
+- developing empathy and concern for others
+
+
+
+
 
