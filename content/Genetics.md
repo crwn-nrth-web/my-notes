@@ -6,13 +6,17 @@ tags:
   - class
 ---
 
-|                                                                            | Phenotypic ratio                                  |
-| -------------------------------------------------------------------------- | ------------------------------------------------- |
-| 1 gene, 2 alleles<br>dominant/recessive heterozygous cross                 | 3:1                                               |
-| 1 gene, 2 alleles<br>incomplete dominance/codominance heterozygous cross   | 1:2:1                                             |
-| 2 genes, 2 alleles each<br>dominant/ recessive heterozygous dihybrid cross | 1:2:1                                             |
-| Pleiotropy, 1 gene, 2 alleles <br>dominant/mutant                          | mutant allele responsible for multiple phenotypes |
-| Pleiotropy, 1 gene, 2 alleles<br>recessive lethal heterozygous cross       | 2:1                                               |
+|                                                                                      | Phenotypic ratio                                  |
+| ------------------------------------------------------------------------------------ | ------------------------------------------------- |
+| 1 gene, 2 alleles<br>dominant/recessive heterozygous cross                           | 3:1                                               |
+| 1 gene, 2 alleles<br>incomplete dominance/codominance heterozygous cross             | 1:2:1                                             |
+| 2 genes, 2 alleles each, 2 traits<br>dominant/ recessive heterozygous dihybrid cross | 9:3:3:1                                           |
+| Pleiotropy, 1 gene, 2 alleles <br>dominant/mutant                                    | mutant allele responsible for multiple phenotypes |
+| Pleiotropy, 1 gene, 2 alleles, 1 recessive lethal heterozygous cross                 | 2:1                                               |
+| 2 genes. 2 alleles each, 1 trait<br>heterozygous                                     | 9:3:3:1                                           |
+| Complementary action, 2 genes, 2 alleles each, 1 trait<br>heterogeneous              | 9:7                                               |
+| Recessive epistasis, 2 genes                                                         | 9:3:4                                             |
+|                                                                                      |                                                   |
 
 # Examples of Artificial selection
 
@@ -250,3 +254,35 @@ In multiple alleles, reciprocal crosses can be conducted between pure-breeding l
 
 **Lethal Alleles** = some alleles may result not only in a visible phenotype but also affect viability (live or die)
 - phenotypic ratio of offspring from heterozygous cross with recessive lethal allele = 2:1 because the homozygous lethal recessive will die
+
+#### Multifactorial inheritance
+**Multifactorial inheritance** = a phenotype arising from the action of two or more genes (polygenic) or from interactions between genes and the environment
+- e.g. skin (multiple genes and interaction from the sun)
+
+**Novel phenotype** = emerges from combined action of alleles of two genes
+
+Multifactorial inheritance pattern as for dihybrid crosses
+![[Pasted image 20260924123031.png]]
+**Complimentary gene action** = two or more genes can work in tandem, in the same biochemical pathway to produce a particular trait
+
+**Heterogeneous trait** = a mutation at any one of a number of genes can give rise to the same phenotype
+- Albinism
+![[Pasted image 20260924123617.png]]
+ *Deafness* = 
+ - two parents that are genetically deaf have a hearing child is an example of *complementation* $$AAbb \times aaBB \rightarrow AaBb$$The two parents are homozygous mutant for different genes; one is mutant for gene B and the other is mutant for gene A, which gives the offspring at least one wild-type A and one wild-type B so they can hear
+ - two parents that are genetically deaf having all deaf children means is an example of *non complementation* $$AAbb \times AAbb \rightarrow AAbb$$This means that the parents are homozygous mutant for the same gene, so there is no chance for the offspring to get a wild-type copy for either gene needed for the mechanism of hearing
+
+To determine if 1 gene or 2 or more genes are involved in producing a particular phenotype, we must use **complementation testing**. Complementation testing can also be used to determine if two individuals have mutations in the same or different gene. 
+- complementation testing is done by isolating true-breeding mutant lines for that trait and crossing them; if the wild type phenotype emerges then the trait is a heterogenous trait that can be complemented
+
+**Epistasis** = gene interaction between two genes in which the effects of an allele at one gene hid the effects of alleles at another gene
+![[Pasted image 20260924125849.png]]
+Emergence of novel phenotype (in this case brown) indicates 2 genes
+
+*Recessive Epistasis in human blood groups*
+- Can two blood type O parents have a type A child?
+	- type O would be $ii$
+	- gene H/h controls production of lipids to which the A and B sugars attach to 
+	- a true O type = $iiH$_
+	- Bombay allele (phenotypically appears as type O) = $hh$
+So type O x type A $\rightarrow$ type A = $I^A$_ $hh \times iiH$_ $\rightarrow$  $I^A i Hh$
