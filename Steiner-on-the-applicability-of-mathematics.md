@@ -4,6 +4,9 @@ draft: false
 tags:
   - philosophy
 ---
+> [!source|i:arrow-up-right-from-square c:a7c080]
+> Steiner, excerpt from “Introduction” and "Chapter 4: Pythagorean analogies in physics" (p. 76 - 90), *The Applicability of Mathematics as a Philosophical Problem*
+
 > “To the extent that "naturalism" rejects any anthropocentric point of view (and I think all forms of naturalism do) - then this book challenges naturalism. This makes the book consistent with natural theology, but there are many positions available that are neither naturalist nor theological.” (Steiner, p. 10)
 
 **Thesis:** Rejection of naturalism and anthropocentrism, being consistent with natural theology or Pythagoreanism 
@@ -14,6 +17,7 @@ tags:
 Steiner argument =
 1. mathematics (as a whole) is anthropocentric
 2. application of mathematics is successful
+
 Conclusion:
 > “Since this structure is defined anthropocentrically, we can now conclude both that physicists acted as though they held (implicitly, for the most part) anthropocentric beliefs, and also that the world really does look anthropocentric-in the limited sense that it is intellectually accessible to human research.” (Steiner, p. 9)
 

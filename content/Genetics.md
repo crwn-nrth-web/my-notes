@@ -204,7 +204,6 @@ So probability of getting $AA \ bb \ Cc \ Dd$ = $\frac{1}{4} \times \frac{1}{4} 
 
 # Modifications of Mendelian Ratios
 
-
 >[!Important-terms|c:b16286]+
 >- **Allele frequency** = percentage of the total number of copies of a gene in a population represented by a particular allele
 >- **Wild-type allele** (normal allele) = present in more than 1% of a population
@@ -212,8 +211,9 @@ So probability of getting $AA \ bb \ Cc \ Dd$ = $\frac{1}{4} \times \frac{1}{4} 
 >- **monomorphic** = gene with only one wild-type allele
 >- **polymorphic** = gene with more than one wild-type allele
 >- **mutant alleles** = new alleles can arise through mutation
-
-
+>- **Multifactorial inheritance** = a phenotype arising from the action of two or more genes (polygenic) or from interactions between genes and the environment
+>- **Complimentary gene action** = two or more genes can work in tandem, in the same biochemical pathway to produce a particular trait
+>- **Heterogeneous trait** = a mutation at any one of a number of genes can give rise to the same phenotype
 
 >[!summary|c:b16286]+
 >- **Incomplete dominance** = when two alleles of one gene act together, and the $F_1$ hybrid resembles neither purebred parents (often an intermediate phenotype)
