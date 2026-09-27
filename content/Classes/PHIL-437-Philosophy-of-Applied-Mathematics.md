@@ -18,4 +18,5 @@ tags:
  [[Tegmark-Mathematical-Universe]]
 
 ## General notes
-Kitcher has a naturalist, empiricist view of mathematics that even the most advanced abstract mathematical concepts that can lead back to basic mathematical concepts that are rooted in the natural world (e.g. natural world)
+Kitcher has a naturalist, empiricist view of mathematics that even the most advanced abstract mathematical concepts that can lead back to basic mathematical concepts that are rooted in the natural world (e.g. natural world).
+
