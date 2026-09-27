@@ -15,8 +15,8 @@ tags:
 | Pleiotropy, 1 gene, 2 alleles, 1 recessive lethal heterozygous cross                 | 2:1                                               |
 | 2 genes. 2 alleles each, 1 trait<br>heterozygous                                     | 9:3:3:1                                           |
 | Complementary action, 2 genes, 2 alleles each, 1 trait<br>heterogeneous              | 9:7                                               |
-| Recessive epistasis, 2 genes                                                         | 9:3:4                                             |
-|                                                                                      |                                                   |
+| Recessive epistasis, 2 genes, dihybrid cross                                         | 9:3:4                                             |
+| Dominant epistasis, 2 genes, dihybrid cross                                          | 12:3:1                                            |
 
 # Examples of Artificial selection
 
@@ -275,8 +275,16 @@ Multifactorial inheritance pattern as for dihybrid crosses
 To determine if 1 gene or 2 or more genes are involved in producing a particular phenotype, we must use **complementation testing**. Complementation testing can also be used to determine if two individuals have mutations in the same or different gene. 
 - complementation testing is done by isolating true-breeding mutant lines for that trait and crossing them; if the wild type phenotype emerges then the trait is a heterogenous trait that can be complemented
 
-**Epistasis** = gene interaction between two genes in which the effects of an allele at one gene hid the effects of alleles at another gene
+#### Epistasis
+**Epistasis** = when two different genes interact together to affect the same trait in which one gene acts to suppress the effects of another
+- *Epistatic gene* = gene whose expression masks the effects of the other gene
+- *hypostatic gene* = gene whose expression is suppressed
+
+**Recessive Epistasis** = recessive alleles of one gene masks the expression of the alleles of another gene
+- dominant epistasis for a dihybrid cross = 9:3:4
 ![[Pasted image 20260924125849.png]]
+![[Pasted image 20260927141056.png]]
+
 Emergence of novel phenotype (in this case brown) indicates 2 genes
 
 *Recessive Epistasis in human blood groups*
@@ -286,3 +294,45 @@ Emergence of novel phenotype (in this case brown) indicates 2 genes
 	- a true O type = $iiH$_
 	- Bombay allele (phenotypically appears as type O) = $hh$
 So type O x type A $\rightarrow$ type A = $I^A$_ $hh \times iiH$_ $\rightarrow$  $I^A i Hh$
+
+**Dominant Epistasis** = dominant allele of one gene masks the expression of alleles of another
+- dominant epistasis for a dihybrid cross = 12:3:1
+![[Pasted image 20260927140908.png]]
+#### Penetrance and Expressivity
+The same genotype does not always result in the same phenotype. Phenotype may be influenced by the environment, modifier genes, and chance.
+
+**Penetrance** = percentage of the population with a particular genotype that demonstrate the expected trait
+- *complete penetrance* = 100% of the population with a particular genotype show the expected phenotype
+- *incomplete penetrance* = some of the population do not show the expected phenotype 
+
+**Expressivity** = the degree or intensity with which a particular genotype is expressed in a phenotype in a population
+- *incomplete expression* = all show the expected phenotype but to different degrees
+
+*Example: Retinoblastoma in Humans*
+- Retinoblastoma = cancer in the retina
+- it is a dominant mutant allele but not all people carrying the allele get the disease
+	- 75% penetrance (25% do not develop the disease)
+	- Out of those who get the disease, some get it in one eye (30% expressivity)
+
+#### Sex linked traits
+Genes can also determine differences between sexes.
+
+**Sex-linked traits** = trait that is the result of genes on the X or Y chromosome
+- there are a lot of genes on the X/Y chromosome that have nothing to do with sex determination
+- in humans, sex-linked traits (that don't determine sex determination) will be on the X chromosome. The only genes on the Y chromosome are genes that are involved in determining maleness
+- e.g. hemophilia and color blindness
+
+**Sex-limited traits** = trait that affect a structure or process that is found in one sex but not the other
+- these are traits that are not on the X/Y chromosome but are expressed in the different sexes
+- e.g. bright plumage in male birds, milk production, horns/antlers
+
+**Sex-influenced traits** = traits that show up in both sexes but their expression may differ between the two sexes
+- these traits are  not on the X/Y chromosome but are influenced by sex hormones
+- e.g. pattern baldness in humans
+	- premature loss of hair from top of head, but not the sides
+	- begins in late 20s in heterozygous men, but heterozygous women show no effect. In homozygous men and women, baldness results in both, but much earlier in men
+	- $b^+ b^+$ will not show pattern baldness, men with $bb$ will be bald earlier in life than $bb^+$ 
+	- women with $bb^+$ will not be bald, and those with $bb$ will experience thinning on the top of the head later in life
+
+# Pedigree Analysis
+
