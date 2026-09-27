@@ -335,4 +335,20 @@ Genes can also determine differences between sexes.
 	- women with $bb^+$ will not be bald, and those with $bb$ will experience thinning on the top of the head later in life
 
 # Pedigree Analysis
+When breeding experiments are not possible, we use pedigree analysis to learn how traits are inherited. From individuals that show the trait, we can look back into generations to find the origin of particular alleles.
+
+Most human traits that run in families do not show simple Mendelian pattern of inheritance because most of influenced by more than one gene. Single gene traits in people are relatively rare, involving abnormalities that are either disabling or life-threatening.
+
+Studying family genetic histories (or pedigrees) gives insights as to how mutant alleles causing abnormalities are inherited. 
+
+**Single gene traits in Humans** = example of monomorphic genes with mutant phenotypes showing pleiotropy
+- sickle-cell disease
+- Tay-Sachs disease
+- Phenylketonuria (PKU)
+- Albinism
+- Huntington's disease
+- Cystic Fibrosis
+
+**Sickle-Cell an**
+
 
