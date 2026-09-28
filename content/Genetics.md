@@ -250,7 +250,21 @@ When dealing with multiple alleles, the wild-type allele is designated with $A^+
 In multiple alleles, reciprocal crosses can be conducted between pure-breeding lines representing all phenotypes to establish the dominant relationships between all possible pairs of alleles. This reveals a **dominant series** in which the alleles are listed in order from dominant to recessive
 
 **Pleiotropy** = where a single gene influences two or more seemingly unrelated phenotypic traits
-- e.g. sickle cell anemia = Sickle cell anemia is caused by a mutation in a single gene; it affects the gene that codes for one of the proteins involved in making hemoglobin. Sickle red blood cells are sickled shape, rather than round shaped. This gives a variety of phenotypic effects, like physical weakness, impaired mental functions, etc.
+
+example of monomorphic genes with mutant phenotypes showing pleiotropy
+- sickle-cell disease
+- Tay-Sachs disease
+- Phenylketonuria (PKU)
+- Albinism
+- Huntington's disease
+- Cystic Fibrosis
+
+**Example: sickle cell anemia** 
+- Sickle cell anemia is caused by a mutation in a single gene; it affects the gene that codes for one of the proteins involved in making hemoglobin. 
+- mutation within the gene for B-globin 
+- Sickle red blood cells are sickled shape, rather than round shaped. This gives a variety of phenotypic effects, like physical weakness, impaired mental functions, etc.
+
+![[Pasted image 20260927191444.png]]
 
 **Lethal Alleles** = some alleles may result not only in a visible phenotype but also affect viability (live or die)
 - phenotypic ratio of offspring from heterozygous cross with recessive lethal allele = 2:1 because the homozygous lethal recessive will die
@@ -317,6 +331,11 @@ The same genotype does not always result in the same phenotype. Phenotype may be
 #### Sex linked traits
 Genes can also determine differences between sexes.
 
+![[Pasted image 20260927193054.png]]
+**Karyotype** = visualization of chromosomes that have been pulled out of the cell and organized electronically so that they’re all paired up
+
+**Autosomal trait** = trait that is the result of genes residing on a chromosome not involved with sex determination
+
 **Sex-linked traits** = trait that is the result of genes on the X or Y chromosome
 - there are a lot of genes on the X/Y chromosome that have nothing to do with sex determination
 - in humans, sex-linked traits (that don't determine sex determination) will be on the X chromosome. The only genes on the Y chromosome are genes that are involved in determining maleness
@@ -341,14 +360,10 @@ Most human traits that run in families do not show simple Mendelian pattern of i
 
 Studying family genetic histories (or pedigrees) gives insights as to how mutant alleles causing abnormalities are inherited. 
 
-**Single gene traits in Humans** = example of monomorphic genes with mutant phenotypes showing pleiotropy
-- sickle-cell disease
-- Tay-Sachs disease
-- Phenylketonuria (PKU)
-- Albinism
-- Huntington's disease
-- Cystic Fibrosis
+**Symbols used in pedigree analysis**
+![[Pasted image 20260927191754.png]]
+Marriage between two individuals that share the same bloodline is represented by a double line between them
 
-**Sickle-Cell an**
+# Chromosomes
 
 
