@@ -100,7 +100,7 @@ Islami provides the context behind Wigner (1960)
 
 Islami argues that the reading of Wigner's paper, as outlined by Mark Steiner ([[#^9a17ab|see here]]), is "understandable but not accurate". 
 
-He argues that Wigner is asking a more particular version of the Applicability problem: *what is it about physics that makes mathematics an appropriate language for the formulation of its laws*? (p. 7)
+She argues that Wigner is asking a more particular version of the Applicability problem: *what is it about physics that makes mathematics an appropriate language for the formulation of its laws*? (p. 7)
 
 Islami's argument (Interpretation of Wigner) =
 1. There is an incomplete understanding of events, so there is a need of laws of nature 

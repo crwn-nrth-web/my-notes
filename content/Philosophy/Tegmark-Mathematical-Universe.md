@@ -19,6 +19,10 @@ tags:
 - he does not endorse the anthropocentric view of mathematics that [[Steiner-on-the-applicability-of-mathematics]] endorses
 - it makes sense that mathematics describes our physical theories because the world is maths
 
+Tegmark also argues for **complete mathematical democracy** = "that mathematical existence and physical existence are equivalent, so that all mathematical structures have the same ontological status.” (Tegmark, 2008, p. 16) 
+- you shouldn't think that mathematical structures are created, but discovered  
+- argument against: what does it mean if we develop wrong math?
+
 *Implications of ERH* =
 > “The ERH implies that for a description to be complete, it must be well-defined also according to non-human sentient entities (say aliens or future supercomputers) that lack the common understanding of concepts that we humans have evolved, e.g., “particle”, “observation” or indeed any other English words. Put differently, such a description must be expressible in a form that is devoid of human “baggage”.” (Tegmark, 2008, p. 1)
 
