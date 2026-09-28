@@ -366,4 +366,24 @@ Marriage between two individuals that share the same bloodline is represented by
 
 # Chromosomes
 
+**Chromosomal theory of inheritance**  states that 
+1. hereditary information is on genes and that genes are located on chromosomes
+2. egg and sperm contribute equally to the genetic endowment of offspring through their nuclei
+
+Genes are transmitted from organism to organisms via two major processes
+1. **mitosis** = nuclear division that results in 2 daughter cells each containing identical number of chromosomes to the parent cells. The daughter cells are clones
+2. **meiosis** = nuclear division that results in each egg and sperm containing half the number of chromosomes found in other (somatic) cells. The daughter cells are unique
+
+**Haploid** = 1 copy of each chromosome
+**Diploid** = 2 copies of each chromosome
+- where n = 1 complete set of chromosomes
+
+**Homologous chromosomes** = chromosomes that have the exact same genes on them
+**non-homologous chromosomes** = chromosomes that have the different genes.
+- you can often tell nonhomologous chromosomes because they differ in size
+**Centromere** = site of construction in each chromosome, covered by a protein
+**Chromatid** = a single DNA molecule
+- one chromosome = 2 chromatid
+![[Pasted image 20260927215840.png]]
+![[Pasted image 20260927220211.png]]
 

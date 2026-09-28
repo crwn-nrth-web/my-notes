@@ -145,8 +145,6 @@ Ibn Sina argues that the "floating man" would certainly be aware of their existe
 
 **How does the argument differ from Descartes' [[Cartesian-Skepticism]]?**
 - the Floating man does not arrive at his existence *through* an act of doubt/thinking, rather his self-awareness is an intrinsic, ever-present reality. For Descartes, his existence is constituted through active cognitive process.
-
-
 ### Akan conception of the mind
 
 *Akan* = native to present day Ghana and parts of the Ivory Coast in West Africa
