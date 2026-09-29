@@ -11,7 +11,7 @@ UT Place accepted that logical [[Behaviorism]] works as reduction theory for cog
 
 UT Place [[Mind-Brain-Identity-theory]] claims the identity relation as a **relation of composition**, not definition. 
 
-When we say “consciousness = brain process,” we are not asserting a definitional identity (as in “bachelor = unmarried man”). Rather, we are claiming that they are the same thing in reality, described in two different ways.
+When we say “[[PHIL 371 - Consciousness|consciousness]] = brain process,” we are not asserting a definitional identity (as in “bachelor = unmarried man”). Rather, we are claiming that they are the same thing in reality, described in two different ways.
 
 Example = “Lightning” and “a discharge of electricity” refer to the same physical event, just from different perspectives — one phenomenal (what it looks like), one scientific (what it is physically).
 

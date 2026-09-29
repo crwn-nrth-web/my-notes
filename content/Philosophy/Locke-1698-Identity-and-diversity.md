@@ -71,7 +71,7 @@ Locke, however, distinguishes between the category of "man" and "person". To be 
 
 To put it simply, Locke defines a person as a being that can consider itself as itself in different times and places. You can retrieve your past experiences, your past thoughts, you past actions, through a certain kind of consciousness. 
 
-Locke considers [[consciousness]] as inseparable from thinking (for people at least), and the term **consciousness** for Locke means awareness of our own thoughts and perceptions. It is this kind of consciousness that Locke associates with personhood.
+Locke considers [[PHIL 371 - Consciousness|consciousness]] as inseparable from thinking (for people at least), and the term **consciousness** for Locke means awareness of our own thoughts and perceptions. It is this kind of consciousness that Locke associates with personhood.
 
 > “As far as this consciousness can be extended backwards to any past action or thought, so far reaches the identity of that person; it is the same self now as it was then.”
 

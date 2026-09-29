@@ -44,7 +44,7 @@ Baier is embracing a kind of **social constructivist account** of personhood tha
 
 ### Problems with Baier
 - If personhood is entirely a relational status, then what happens to the intimate, first-person relation each of us has with ourselves?
-	- There’s something uniquely personal about my access to my own consciousness—an immediacy that no one else can have.
+	- There’s something uniquely personal about my access to my own [[PHIL 371 - Consciousness|consciousness]]—an immediacy that no one else can have.
 	- Baier’s relational and social conception of personhood doesn’t seem to account for this inner, self-reflective dimension—the sense in which I am specially related to myself.
 - being a status term doesn't necessarily mean that its application is grounded purely in social collectives; it is compatible and possible for a status term to grounded in some metaphysical fact, like how [[Locke-1698-Identity-and-diversity|Locke-on-personal-identity]] treats “person” as a forensic status term (connected to moral and legal responsibility) but still grounds it in metaphysical facts
 ---

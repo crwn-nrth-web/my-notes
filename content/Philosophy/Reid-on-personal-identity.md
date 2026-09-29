@@ -24,7 +24,7 @@ Personhood, or selfhood, according to Reid, is not to be identified with anythin
 
 > “My thoughts, and actions, and feelings change every moment; they have no continued, but successive existence; but that self, or I, to which they belong, is permanent, and has the same relation to all the succeeding thoughts, actions, and feelings, which I call mine.”
 
-This contrasts with [[Locke-1698-Identity-and-diversity|Locke-on-personal-identity]] as consciousness is always changing over time. Reid sees the self as a being that has consciousness and is subject of all the processes of transformation, but not to be identified with any of the processes.
+This contrasts with [[Locke-1698-Identity-and-diversity|Locke-on-personal-identity]] as Reid's version of [[PHIL 371 - Consciousness|consciousness]] is always changing over time. Reid sees the self as a being that has consciousness and is subject of all the processes of transformation, but not to be identified with any of the processes.
 
 - The identity of self = perfect identity (there is no variation in it)
 - the self is indivisible into parts and calls it a *monad*

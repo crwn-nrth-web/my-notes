@@ -28,7 +28,7 @@ His two line of reasoning to get to this view =
 By this, he means that while he agrees with the classical view ([[Descartes-Meditations|Descartes-substance-Dualism]]) that there is something internal happening, they are not mysterious non-physical things, but instead are physical states of the brain that *cause* behavior. Here, Armstrong is endorsing (implicitly) a [[Mind-Brain-Identity-theory#Type Physicalism|type-physicalism]] identity theory.
 
 
-##### Armstrong on [[consciousness]]
+##### Armstrong on [[PHIL 371 - Consciousness|consciousness]]
 Armstrong outlines an objection that is shared with [[Behaviorism]] and his physicalist view of the mind. 
 
 [[Behaviorism]] may be a satisfactory account from an *other-person* point of view, but it will not do as a first-person account. We are aware from our own point of view that we are so much more than behavior. The same argument can be applied to Armstrong's view that the mind is an inner principle that causes behavior. Is consciousness simply something that goes on within us that causes certain behavior?

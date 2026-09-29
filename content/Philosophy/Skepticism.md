@@ -41,7 +41,7 @@ Sensory impressions are fleeting and intermittent, lasting as long as the sensat
 
 Another way of saying it = there is nothing in our sense experience that tells us an object continues to exist when we stop perceiving it
 ##### Skeptical argument concerning the distinct existence of bodies
-Can the senses establish that external objects exist distinctly from our consciousness of them (are they mind independent?)
+Can the senses establish that external objects exist distinctly from our [[PHIL 371 - Consciousness|consciousness]] of them (are they mind independent?)
 
 Hume highlights two possible views that gives us the notion of distinct existence:
 1. offer it as represented
