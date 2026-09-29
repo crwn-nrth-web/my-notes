@@ -121,14 +121,14 @@ A modern cartesian defense is Kripke's essential vs accidental properties, which
 	- e.g. our religious, political beliefs, etc.
 	- For Kripke, our physical body is an accidental property of your soul 
 
-#### Descartes on the Mind Body problem
+#### Descartes on the [[Mind-Body-problem]]
 How can entities with completely different natures enter into causal relationships with each other?
 
 > “There is nothing… nature teaches me more explicitly than that I have a body that is ill-disposed when I feel pain, that needs food and drink when I suffer hunger or thirst, and the like…. By means of these sensations of pain, hunger, thirst, and so on, nature teaches that I am present to my body not merely in the way a sailor is present in his ship, but that I am most tightly joined and, so to speak, commingled with it, so much so that I and the body constitute one single thing…. For clearly these sensations of thirst, hunger, pain, and so on are nothing but certain confused modes of thinking arising from the union and, as it were, commingling of the mind with the body.”
 
 For Descartes, there is a connected unity between the two distinct ontological entities. Hunger, pain, etc. are mental states for Descartes, that occur with bodily disorders (needing food or having an injury). Descartes acknowledges that there is an active two-way causal interaction between mind and  bodies. ^64ef67
 
-Descartes sees the unity of mind and bodies as a sort of solution to the [[Problem-of-Mind-Body-interaction]]. He treats the mind and body together as a composite thing, so much so that we can legitimately talk of them as being one thing. ^0f73cf
+Descartes sees the unity of mind and bodies as a sort of solution to the [[Mind-Body-problem]] He treats the mind and body together as a composite thing, so much so that we can legitimately talk of them as being one thing. ^0f73cf
 ### Ibn Sina: The Floating Man
 
 Ibn Sina's argument on the existence of souls is an argument from observation. 

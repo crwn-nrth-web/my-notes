@@ -17,7 +17,6 @@ In this view, pain is whatever internal state causes to have aversion behavior, 
 Functionalism avoids the chauvinism objection of [[Mind-Brain-Identity-theory]] as it does not make any assumptions about what kind of states will fulfill the relevant functional roles. 
 
 Functionalism (and mainly any other materialist view of the mind) struggles with the problem of [[consciousness]] in explaining subjective experiences
-
 ##### Functionalism and artificial intelligence
 Functionalism allows for the possibility that machines could realize the functional roles of states associated with intelligence. I.E. if a computer could be designed such that its hardware states could realize the same functional roles we associate with human intelligence, then the computer would be intelligent.
 

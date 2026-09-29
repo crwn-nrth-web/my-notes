@@ -5,27 +5,20 @@ tags:
 draft: false
 title: Mind-Body-problem
 ---
+The **Mind-Body Problem** is the metaphysical problem, or a problem of causation, of trying to understand the relationship between the physical and mental aspects of our nature. 
 
-[[Armstrong-materialist-view-of-the-mind]] = [[Mind-Brain-Identity-theory]]
-[[Functionalism]]
-[[Jackson-what-Mary-didn't-know]] = property dualism / epiphenomenalism
+Descartes gives a [[Descartes-Meditations|substance-Dualism]] that mind and body are of the same ontological category but they're radically different substances.
+- body = extended in dimensionality in space-time
+- mind = thinking things
 
-The **Mind-Body Problem** is the metaphysical problem of trying to understand the relationship between the physical and mental aspects of our nature. 
-##### Ontologies of mind and body
-**[[Descartes-Meditations|Descartes-substance-Dualism]]** = view that the realm of the physical is ultimately distinct from the realm of the mental
-- *Substance dualism* = the mind and the body are distinct entities / different categories of things. 
-- *Property dualism* = the view that individuals might be a singular kind of thing, but they have different ranges of properties (mental properties and physical properties)
+This results in a problem to define the causal relationship between these two distinct substances. [[origins-of-the-concept-of-mind|Cartesian-Dualism]] leads to a conflict in physical sciences: if the mind has no physical properties, how could it cause physical changes in the body?
 
-**Idealism** = the view that there is ultimately no ontological distinction between the realm of the physical and mental. This is because it is all one realm = all of reality is mental
+The mind body problem led to a search for an alternative explanation of what minds are based on a scientific approach.
+### Some solutions to the Mind body problem
 
-**Materialism** =ultimately there is no ontological distinction between the realm of physical and the realm of the mental, and all of reality is ultimately physical
-
-To solve the [[Mind-Body-problem]] and the problem of interaction, one could consider physicalism: no ontological distinction between the realm of physical and the realm of the mental, all of it is physical. 
-
-Other solutions to the [[Mind-Body-problem]]:
-- reductionism = reducing mental states to physical (brain) states ([[Mind-Brain-Identity-theory]])
-- non-reductionism = [[Functionalism]]; anomalous monism
-
-
-
+- **Idealism** = the view that there is ultimately no ontological distinction between the realm of the physical and mental. This is because it is all one realm = all of reality is mental
+- **Materialism/physicalism** = ultimately there is no ontological distinction between the realm of physical and the realm of the mental, and all of reality is ultimately physical
+	- **reductionism** = reducing mental states to physical states i.e. [[Mind-Brain-Identity-theory]] or [[Armstrong-materialist-view-of-the-mind]]
+	- **non-reductionism** = [[Functionalism]]
+- **epiphenomenalism** = [[Jackson-what-Mary-didn't-know#Property dualism (Epiphenomenalism) and the Problem-of-Mind-Body-interaction Interaction-problem|property-dualism]]
 

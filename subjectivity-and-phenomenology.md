@@ -9,7 +9,7 @@ tags:
 
 **Qualia** = phenomenal character of experiential states 
 
-Physicalism does not fit comfortably with phenomenology as it is not obvious how conscious mental states as we experience them (sensations, thoughts, emotions) could correspond to complex neural states. 
+Physicalism does not fit comfortably with phenomenology as it is not obvious how conscious mental states as we experience them (sensations, thoughts, emotions) could correspond to complex neural states. This calls into question our commitment to physicalism: 
 
 
 
