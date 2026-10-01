@@ -8,23 +8,32 @@ title: Jackson-what-Mary-didn't-know
  
 > [!Source]  Jackson F. (2010). "[What Mary Didn’t Know](https://learn.uwaterloo.ca/content/enforced/1162856-PHIL251_081_cel_1259/media/documents/week05/jackson-what-mary-didnt-know.pdf?ou=1162856)". In J. Perry, M. Bratman, J.M. Fischer (Eds.), Introduction to Philosophy: Classical and Contemporary Readings, Fifth Edition, pp. 320-323. New York: Oxford University Press. (Original work published in 1986)
 
-Jackson's view implies a view of **property dualism** with respect to subjective [[consciousness]] as a whole = though the world contains only physical substances, some of the properties of physical substances are non-physical. 
+Jackson's view in his paper "Epiphenomenalism Qualia" (1982) implies a view of **property dualism** with respect to [[phenomenology|subjective consciousness]] as a whole = though the world contains only physical substances, some of the properties of physical substances are non-physical. 
 
-This relates closely to the idea of **phenomenal properties (qualia)** = properties of experience. Jackson suggests that qualia go beyond what can be described in purely physical terms. A commitment to qualia is called **Epiphenomenalism** =  view that phenomenal properties are a kind of byproduct of physical causal processes that have no causal powers of their own. 
+Jackson suggests that qualia go beyond what can be described in purely physical terms. A commitment to qualia is called **Epiphenomenalism** =  view that phenomenal properties are a kind of byproduct of physical causal processes that have no causal powers of their own. 
 #### The Knowledge Argument
-Jackson talks about Mary’s thought experiment as the knowledge argument. 
+Jackson talks about the Mary’s thought experiment as the knowledge argument. 
 
-*Summary of Mary's though experiment* = Mary is confined to a black-and-white room, is educated through black-and white books and through lectures on black-and-white television. In this way she learns everything there is to know about the physical nature of the world, for instance, learns all the physical facts about color, and is omniscient. 
+*Summary of Mary's though experiment* = Mary is confined to a black-and-white room, is educated through black-and white books and through lectures on black-and-white television. In this way she learns everything there is to know about the physical nature of the world of colour, i.e. learns all the physical facts about color, and is omniscient regarding colour. 
 
 *Does she learn something when she steps out into the real world?* 
+
 If yes, then physicalism is false. Physicalism tells us that everything in the world is physical stuff obeying physical laws, and there is nothing else. Our intuition says that Mary learns something when she leaves her black-and-white room and sees color for the first time. as she never knew what it looked like before.  The new knowledge is not only knowledge about her own experience, but it’s also indirectly knowledge about other people’s experience. She comes to know what everybody else knows about the experience of color. 
 
-Jackson's conclusion from this thought experiment is that since there is something that she came to learn, then physicalism offers an incomplete description of reality, leaving out the phenomenal aspects of [[consciousness]].
+Jackson's conclusion from this thought experiment is that since there is something that she came to learn, then physicalism offers an incomplete description of reality, leaving out the phenomenal aspects of [[PHIL 371 - Consciousness|consciousness]]
 ##### Other views on the the thought experiment
-It could be argued that while Mary does have a new kind of experience when she leaves the black-and-white room, the facts are the same physical facts she knew before leaving the room. David Lewis argues that physicalism remains true; Mary gains a new ability *know-how* to differentiate color, but she learns nothing new about color itself (*know-that*). 
+An argument by Dennett is that Jackson's thought experiment relies on intuition, and we don't know how an omniscient being will think: are we in any real position to say what Mary would and wouldn't know, given her omniscient physical knowledge?
 
-Another argument by Dennett is that Jackson's thought experiment relies on intuition, and we don't know how an omniscient being will think: are we in any real position to say what Mary would and wouldn't know, given her omniscient physical knowledge. It can be argued that if her knowledge of the physical world is complete, she would not be surprised when she sees red for the first time as she would have been able to infer from her physical knowledge what the experience would be like. We can't say anything on Mary's situation as we are not omniscient. 
+It can be argued that if her knowledge of the physical world is complete, she would not be surprised when she sees red for the first time as she would have been able to infer from her physical knowledge what the experience would be like. Dennett is arguing that we can't say anything on Mary's situation as we are not omniscient. Further, whether our intuitions, they are not evidence for anything.
 
+Even if we share Jackson's intuition that Mary learned something, does Jackson's argument against physicalism succeed?
+
+David Lewis argues that Mary could learn something new, and physicalism could remain true. While Mary does have a new kind of experience when she leaves the black-and-white room, the facts are the same physical facts she knew before leaving the room. 
+
+Science gives us propositional knowledge = *Knowledge That p* where p is a proposition that can be true or false. There is also *Knowledge How* (know-how), which is skill-based knowledge and is non-propositional. Physicalism was never met to capture all of our know-how, only the propositional knowledge.
+- E.g. you can know all the physical facts about bikes, but only when you ride a bike can you learn *how* to ride the bike.
+
+David Lewis argues that Mary gains a new ability *know-how* to differentiate color, but she learns nothing new about color itself (*know-that*). 
 #### Property dualism (Epiphenomenalism) and the [[Problem-of-Mind-Body-interaction|Interaction-problem]]
 Epiphenomenalism claims that there is one physical substance that has both physical and non-physical properties, avoiding the [[Problem-of-Mind-Body-interaction|Interaction-problem]] of substance dualism. Given the Epiphenomenalist’s view that phenomenal properties don’t cause anything themselves, the traditional two-way interaction problem does not arise: qualia are not supposed to influence physical processes in the first place.
 

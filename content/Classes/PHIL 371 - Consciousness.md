@@ -14,7 +14,8 @@ The concept of the mind is a *mongrel* concept. Mongrel concepts are still attac
 ## Topics
 - [[origins-of-the-concept-of-mind]]
 - [[Mind-Body-problem]]
-- [[subjectivity-and-phenomenology]]
+- [[phenomenology]]
+- [[Block-on-Consciousness]]
 - Hard problem of consciousness
 - Neural Correlates
 - High order thought theories
