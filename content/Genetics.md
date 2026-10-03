@@ -370,20 +370,46 @@ Marriage between two individuals that share the same bloodline is represented by
 1. hereditary information is on genes and that genes are located on chromosomes
 2. egg and sperm contribute equally to the genetic endowment of offspring through their nuclei
 
-Genes are transmitted from organism to organisms via two major processes
-1. **mitosis** = nuclear division that results in 2 daughter cells each containing identical number of chromosomes to the parent cells. The daughter cells are clones
-2. **meiosis** = nuclear division that results in each egg and sperm containing half the number of chromosomes found in other (somatic) cells. The daughter cells are unique
-
 **Haploid** = 1 copy of each chromosome
 **Diploid** = 2 copies of each chromosome
 - where n = 1 complete set of chromosomes
 
 **Homologous chromosomes** = chromosomes that have the exact same genes on them
-**non-homologous chromosomes** = chromosomes that have the different genes.
+**Non-homologous chromosomes** = chromosomes that have the different genes.
 - you can often tell nonhomologous chromosomes because they differ in size
-**Centromere** = site of construction in each chromosome, covered by a protein
-**Chromatid** = a single DNA molecule
-- one chromosome = 2 chromatid
-![[Pasted image 20260927215840.png]]
-![[Pasted image 20260927220211.png]]
+
+**Parts of a chromosome:**
+- **Chromatid** = the complex of DNA and protein found in a cell's nucleus
+	- one chromosome = 2 chromatid
+- **Centromere** = site of construction in each chromosome, covered by a protein
+	- two sister chromatids are held together at the centromere by the two protein **kinetochores**
+- **telomeres** = the ends of the DNA molecule
+
+![[Pasted image 20261002193247.png|219]]![[Pasted image 20260927215840.png|498]]![[Pasted image 20260927220211.png|500]]
+#### The Cell Cycle
+
+Genes are transmitted from organism to organisms via two major processes
+1. **mitosis** = nuclear division in cells that produces 2 daughter cells that are genetically identical to each other
+2. **meiosis** = nuclear division that results in each egg and sperm containing half the number of chromosomes found in other (somatic) cells. The daughter cells are unique
+
+![[Pasted image 20261002192248.png|353]]
+In the average cell cycle:
+1. **Interphase**
+	1. **G1**: Gap phase 1 = first growth stage of cell cycle where a newly formed cell physically grows, makes protein, and gets ready to copy its DNA. There are single chromatids in the G1 phase
+		- G1 varies in length depending on cell type. 
+		- Mature human nerve cells do not divide, G1 being their only phase, called $G_0$
+		- skin cells divide rapidly and go through G1 quicker than average
+	2. **S**: synthesis phase = cell replicates its entire genome. Each single-chromatid chromosome becomes two identical sister chromatids joined at the centromere.
+	3. **G2**: Gap phase 2 = cell synthesizes proteins to prepare for mitosis
+2. **Cell division** 
+	1. **Mitosis** = division of the nucleus
+		1. *Prophase* = chromosomes condenses and sister chromatids becomes visible. The centrosomes migrate to the opposites poles. The nucleolus breaks down, and protein structures called *microtubules* begin to form a mitotic spindle by attaching to the kinetochores at the poles. 
+		2. *Metaphase* = chromosomes align on the metaphase plate where sister chromatids face opposite poles
+		3. *Anaphase* = sister chromatids separate at the centromere. Separated sister chromatids move to opposite poles, called *disjunction*
+			- the unequal division of sister chromatids = *nondisjunction*
+		4. *Telophase* = two nuclear membranes and nucleoli reform to form two nuclei. The spindle fibers disappear as chromosomes uncoil and become a tangle of chromatin
+	2. **Cytokinesis** = division of the cell
+
+
+
 
