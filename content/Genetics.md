@@ -370,9 +370,9 @@ Marriage between two individuals that share the same bloodline is represented by
 1. hereditary information is on genes and that genes are located on chromosomes
 2. egg and sperm contribute equally to the genetic endowment of offspring through their nuclei
 
-**Haploid** = 1 copy of each chromosome
-**Diploid** = 2 copies of each chromosome
-- where n = 1 complete set of chromosomes
+**Haploid** (n)= 1 copy of each chromosome
+**Diploid** (2n) = 2 copies of each chromosome
+- where n = number of chromosomes in a gamete
 
 **Homologous chromosomes** = chromosomes that have the exact same genes on them
 **Non-homologous chromosomes** = chromosomes that have the different genes.
@@ -385,13 +385,17 @@ Marriage between two individuals that share the same bloodline is represented by
 	- two sister chromatids are held together at the centromere by the two protein **kinetochores**
 - **telomeres** = the ends of the DNA molecule
 
-![[Pasted image 20261002193247.png|219]]![[Pasted image 20260927215840.png|498]]![[Pasted image 20260927220211.png|500]]
-#### The Cell Cycle
+![[Pasted image 20261002193247.png|219]]
 
 Genes are transmitted from organism to organisms via two major processes
 1. **mitosis** = nuclear division in cells that produces 2 daughter cells that are genetically identical to each other
-2. **meiosis** = nuclear division that results in each egg and sperm containing half the number of chromosomes found in other (somatic) cells. The daughter cells are unique
+2. **meiosis** = process of gamete formation that produces daughter cells that are genetically distinct from each other. Chromosome number is reduced from diploid to haploid
 
+**Somatic cells** = mitotically dividing and G-arrested cells (cells that have paused their cell cycle in the G1 phase) make up the vast majority of tissues diploid in humans 
+
+**Germ cells** (Gamete cells) = pockets of specialized cells (2n) incorporated into ovaries and testes. These germ cells undergo meiosis to form gametes (egg and sperm). In humans, gametes are haploid (n).
+![[Pasted image 20260927215840.png|562]]![[Pasted image 20260927220211.png|555]]![[Pasted image 20261002222131.png|566]]
+#### Mitosis in the cell cycle
 ![[Pasted image 20261002192248.png|353]]
 In the average cell cycle:
 1. **Interphase**
@@ -410,6 +414,44 @@ In the average cell cycle:
 		4. *Telophase* = two nuclear membranes and nucleoli reform to form two nuclei. The spindle fibers disappear as chromosomes uncoil and become a tangle of chromatin
 	2. **Cytokinesis** = division of the cell
 
+#### Meiosis in gamete formation
 
+Germ cells undergo two successive nuclear divisions: meiosis I and meiosis II
+- **meiosis I** = separation of chromosome pairs 2n to n
+	1. *Prophase I (longest phase)*
+		1. *leptonema* = similar to mitosis prophase. Chromosomes duplicate, thicken and become visible. Centrosomes begin to move to each pole and produce spindle fibers 
+		2. *zygonema* = the two homologous chromosomes (one from father, one from mother) pair up together, called *synapsis*. 
+			- Synapsis forms the synaptonemal complex between homologous chromosomes
+		3. *pachynema* = Recombination nodules appear along the synaptonemal complex to facilitate the exchange of DNA at various points. This allows genetic material to be crossed over between paternal and maternal chromosomes (homologous chromosomes) and results in new allelic combinations. 
+			- in humans, average crossing-over is 3 or 4 per chromosomes 
+			- sites vary from meiosis to meiosis
+			- the points at which chromosomes crossed-over are called *chiasmata*
+			- ![[Pasted image 20261002220546.png|311]]
+		4. *diplonema* = synaptonemal complex dissolves and the chromosomes are only held together at the chiasmata
+		5. *diakinesis* = nuclear membrane breaks down and the spindles attach to kinetochores
+	2. *Metaphase I* = chromosomes align on the metaphase plane and each chromosome of a homologous pair attaches to fibers from opposite poles
+	3. *Anaphase I* = chiasmata are removed and homologous chromosomes move to opposite poles
+	4. *Telophase I* = two nuclei form around haploid number of chromosomes, with two chromatids
+- **meiosis II** = separation of sister chromatid (2 cells to 4 cells)
+	1. *Prophase II*
+	2. *Metaphase II*
+	3. *Anaphase II*
+	4. *Telophase II*
+- **cytokinesis**
+![[Pasted image 20261002215415.png|417]]
+
+**what happens if there was a crossover in meiosis between two sister chromatids** = there would no genetic exchange of any significance because they are identical DNA sequences
+
+**Why is meiosis so important** 
+- if gametes remained diploid, offsprings would be tetraploid (not viable) i.e. there would be an exponential increase in the number of chromosomes with every generations
+- crossing over ensures a wide variety of traits among offsprings
+- allele combinations are subject to evolutionary forces. Wide variations optimizes chances for individuals carrying advantageous traits to adapt to changes in the environment
+- if variation among offsprings is reduced, evolution stops and vulnerability to extinction increases
+
+**In a diploid somatic cell where 2n = 12, how many chromatids would you expect in metaphase I? how many chromatids in a gamete?**
+- 24 chromatids in metaphase I
+- 6 chromatids in a gamete
+
+##### Variation in meiosis - Oogenesis
 
 
