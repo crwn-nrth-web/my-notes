@@ -6,7 +6,7 @@ tags:
 aliases:
   - no-miracles-argument-for-realism
 ---
-The **no-miracle argument** argues that because scientific theories reliably predict, explain, and control phenomena (including unobservable entities) they must be approximately true rather than lucky guesses. It would be miracle if our scientific theories were as successful as they are yet the world were not even approximately the way our scientific theories describe it as being.
+The **no-miracle argument** argues that because scientific theories reliably predict, explain, and control phenomena (including unobservable entities) they must be approximately true rather than lucky guesses. It would be a miracle if our scientific theories were as successful as they are yet the world were not even approximately the way our scientific theories describe it as being. ^b801bc
 
 >The best explanation for the success of science is that the world is approximately the way that our scientific theories describe it as being. Therefore, it is true that the world is approximately the way that our scientific theories describe it as being.
 

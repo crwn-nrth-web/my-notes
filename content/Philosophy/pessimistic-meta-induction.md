@@ -8,7 +8,7 @@ aliases:
 ---
 Also known as **Pessimistic induction from the history of science**
 
-In the past, we have had scientific theories which were successful but did not furnish approximately true descriptions of the world. Our current best scientific theories are successful,  but eventually we will also realize that they do not furnish approximately true descriptions of the  world either, as talked about in [[Kuhn-on-crisis-and-scientific-revolutions]].
+In the past, we have had scientific theories which were successful but did not furnish approximately true descriptions of the world. Our current best scientific theories are successful, but eventually we will also realize that they do not furnish approximately true descriptions of the  world either, as talked about in [[Kuhn-on-crisis-and-scientific-revolutions]].
 
 Historical examples of successful theories which do not furnish approximately true descriptions of the world:
 - [[scientific-discovery-are-not-discrete-events|paradigm-shift-from-phlogiston-to-oxygen]]

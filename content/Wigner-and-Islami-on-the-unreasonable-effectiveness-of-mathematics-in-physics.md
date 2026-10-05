@@ -7,6 +7,7 @@ tags:
 aliases:
   - The-unreasonable-effectiveness-of-mathematics-in-physics
   - wigner-on-the-unreasonable-effectiveness-of-mathematics-in-physics
+  - unreasonable-effectiveness-of-mathematics
 ---
 > [!source|i:arrow-up-right-from-square c:a7c080]
 > Wigner, E. P. (1960). The unreasonable effectiveness of mathematics in the natural sciences. _Communications in Pure and Applied Mathematics_, 13(1), 1–14. https://doi.org/10.1002/cpa.3160130102

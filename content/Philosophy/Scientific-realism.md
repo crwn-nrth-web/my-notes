@@ -6,8 +6,6 @@ tags:
 aliases:
   - scientific-realism
 ---
-[[Hacking-on-scientific-realism]]
-[[no-miracles-argument]] VS [[pessimistic-meta-induction]]
 [[scientific-anti-realism]]
 
 A *scientific realist* thinks it does make sense to say that science aims at describing the real structure of the world we live in. 
@@ -16,6 +14,8 @@ A *scientific realist* thinks it does make sense to say that science aims at des
 
 ^0b2935
 In a minimal way, being a common-sense realist means that before us, there was a world and there will be a world after us. 
+
+An argument for scientific realism = [[no-miracles-argument]]
 #### How should we define scientific realism?
 One approach: scientific realism asserts that the world really is the way our best-established theories describe it. 
 
@@ -46,7 +46,3 @@ Godfrey-Smith believes that his statement of scientific realism intends to captu
 **pessimistic version of scientific realism** = thinks that it is very hard for us humans to get the right theories, that the evidence is often misleading, and we often get too confident too quickly
 
 [[Kuhn-1962-structure-of-scientific-revolutions]] at times seems like a pessimistic scientific realist as he seems to think that the world is just so complicated that our theories will always run into trouble, and hence why scientific progress is a vicious cycle and that [[Kuhn-on-paradigms|paradigm]]s are doomed to fail as we try to force nature into boxes.
-
-**[[pessimistic-meta-induction]]** = since fundamental ideas have changed so often within science (especially science), we should always expect our current views to turn out to be wrong
-### my current position on defining scientific realism
-supporting Godfrey-Smith's definition of scientific realism: actual and reasonable *aim* of science is to give us an accurate description of reality, including those aspects of it that lie beyond direct observation. However, I posit that this does not commit us to the strong claim

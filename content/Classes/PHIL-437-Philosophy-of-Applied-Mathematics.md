@@ -17,7 +17,8 @@ tags:
  [[Steiner-on-the-applicability-of-mathematics]]
  [[Tegmark-Mathematical-Universe]]
  [[mathematical-structuralism]]
- [[Shapiro-2017-mathematics-and-reality]]
+ [[Shapiro-1983-mathematics-and-reality]]
+ [[Worrall-1989-structural-realism-best-of-both-worlds]]
 
 ## General notes
 Kitcher has a naturalist, empiricist view of mathematics that even the most advanced abstract mathematical concepts that can lead back to basic mathematical concepts that are rooted in the natural world (e.g. natural world).

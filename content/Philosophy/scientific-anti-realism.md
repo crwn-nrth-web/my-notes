@@ -4,13 +4,13 @@ draft: false
 tags:
   - philosophy
 ---
-[[pessimistic-meta-induction]]
- 
 **anti-realism** = it is *not* reasonable to believe that the world is approx. the way in which our best scientific theories describe it as being
 
 Anti-realist would be committed with the observable phenomenon like tables, chairs, etc. but would believe that is not reasonable to believe that electrons, fundamental particles, genes, etc. in our scientific theories is not actually present in the world. 
 
-[[Van-Fraassen-constructive-empiricism]]
+A main argument for scientific anti-realism = [[pessimistic-meta-induction]]
+
+[[Van-Fraassen-constructive-empiricism]] offers an anti-realist view that while theoretical terms do refer to real entities, there is no reason  to assume that even our best theories are true or even "approximately" true.
 ### Metaphysical Constructivism
 
 One way to be a scientific anti-realist is to reject the common-sense realism. 
