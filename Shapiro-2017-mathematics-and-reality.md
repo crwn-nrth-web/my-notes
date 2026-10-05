@@ -40,6 +40,31 @@ The formulas of mathematics are considered to be strings of meaningless characte
 
 E.g. a theorem of arithmetic does not represent a fact about the natural numbers. The theorem is just the result of a series of manipulations according to the rules of arithmetic
 
+> “If this account of mathematics is correct, then any systematic correspondence or relationship between the theorems of a branch of mathematics and facts about the world must be a fortuitous coincidence.” (p. 528)
+
+One formulation of formalism is to reject the claim that the choice of rules for a branch of mathematics is always arbitrary. Instead, the rules may be chosen with science in mind. A branch of mathematics can be applied to physics through *mapping* of the language of mathematics into the language for physics.
+
+A problem with this formulation is that is presupposes a distinction between pure mathematics (whose rules are arbitrary) and applied mathematics (whose rules correspond to rules of a scientific language). Shapiro in [[#Section 1 why does the relationship between mathematics and the non-mathematical world matter|section 1]] argued that such a distinction is arbitrary.
+
+2. **Logicism** = "mathematics is logic"
+	1. **Translation logicism** = "when mathematical terms are given proper definitions, mathematical statements are themselves true or false solely in virtue of their forms" (p. 529). In other words, mathematical truths are understood as logical truths
+	2. **Postulate logicism** = "mathematics consists of no more than a study of the logical consequences of uninterpreted sets of axioms"
+
+Translational logicism denies the possibility of a systematic relationship between mathematics and scientific reality, because physical phenomena cannot be substantially explained by logical truths.
+
+In Postulate logicism, there is no predetermined subject matter. The usual picture is that arithmetic is about natural number, geometry is about Euclidean space, etc. but postulate logicism denies that any branch of mathematics has such fixed subject. Primitive (non-logical) terms are undefined basic words of a theory and act as placeholders with no fixed meaning.
+
+E.g. you could take the axioms of Euclidean geometry. Replace "point, line, plane" with "table, chair, beer mug" and the theorems would still follow, because the derivations depend only on the logical form of the axioms.
+
+Because of this, a branch of mathematics could be about anything that satifies the axioms. If you choose an interpretation drawn from non-mathematical reality ("point" means a location in physical space and "line" means a path of a light ray), then the theorems of the theory line up with facts about the world. On this view, the connection between mathematics and reality is not a mystery and the role of mathematics in science becomes to uncover logical connections between certain scientific theorems.
+
+This allows presuppose a sharp distinction between pure mathematics (whose primitive terms are not interpreted) and applied mathematics (whose primitive terms are). Also, this view only accounts for applications involving branches of mathematics that have straightforward interpretations.
+
+3. **Platonism** = "mathematics is an immaterial and non-mental realm or universe that exists independently of the physical world." (p. 531)
+
+
+4. **[[mathematical-structuralism]]** = mathematics is the study of patterns or structures.
+
 
 
 
