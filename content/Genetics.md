@@ -384,7 +384,7 @@ Marriage between two individuals that share the same bloodline is represented by
 	- one chromosome = 2 chromatid
 - **Centromere** = site of construction in each chromosome, covered by a protein
 	- two sister chromatids are held together at the centromere by the two protein **kinetochores**
-- **telomeres** = the ends of the DNA molecule
+- **telomeres** = the ends of each chromosome
 
 ![[Pasted image 20261002193247.png|219]]
 
