@@ -22,6 +22,8 @@ Dialogues =
 
 In the Phaedo, Socrates defines death as the separation of the body and the soul. Hence, why death is a liberation, to free the soul from the imprisonment of the body, as philosopher’s search for knowledge is most successful when the soul is “most by itself.”
 
+> "And will he who is a true lover of wisdom, and is persuaded in like manner that only in the world below he can worthily enjoy her, still repine at death? Will he not depart with joy? Surely he will, my friend, if he be a true philosopher. For he will have a firm conviction that there only, and nowhere else, he can find wisdom in her purity. And if this be true, he would be very absurd, as I was saying, if he were to fear death."
+
 ##### Argument from imperfection *(Phaedo 74 - 76)* 
 This argues for the existence of an immortal soul in order to explain our cognitive processes.
 

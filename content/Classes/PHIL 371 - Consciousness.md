@@ -16,6 +16,7 @@ The concept of the mind is a *mongrel* concept. Mongrel concepts are still attac
 - [[Mind-Body-problem]]
 - [[phenomenology]]
 - [[Block-on-Consciousness]]
+- [[Nagel-what-is-it-like-to-be]]
 - Hard problem of consciousness
 - Neural Correlates
 - High order thought theories

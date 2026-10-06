@@ -48,9 +48,9 @@ If phenomenal properties are by-products of physical processes, then physical ev
 Jackson also gives a thought experiment about difference in color vision. It is concerned with the fact that there is something about Fred's experience, a property of it, not explained through physicalism. Even if we come to know about the property, no amount of knowledge, amounts to the knowledge "from inside" concerning Fred. There is this subjective nature of Fred's experience, and a distinction made between first-person experience, and third-person observation, leading back into the problem with other minds.
 
 He also puts forth modal arguments. 
-Zombies = No amount of physical information about another logically entails that he or she is conscious or feels anything at. This not only talks about the possibility of zombies, but also applies to other human beings. It could be seen as a new form of  the problem with other minds. A complete physical picture cannot tell us whether or not another human being is conscious. We inductively infer that people are conscious based on behavior, but behavior alone cannot logically entail consciousness. It's the same sense that a philosophical zombie is physically and behaviorally identical to us, but doesn't have consciousness.
 
-Another modal argument is inverted qualia. A problem for physicalism and functionalism if it is possible on a metaphysical or physical ground. This is because it would mean that there are differences in mentality that aren't fixed by the subvening realizing base, i.e. "there must be changes in the subvening base to change the supervening property."
+
+
 
 Assuming qualia evolved over time, we should expect qualia to be conductive to survival. Jackson refutes this on the observation that we should expect any evolved characteristic to be *either* conductive to survival *or* a by-product of one that is conductive (polar bear's warm coat and its by-product of a heavy coat). In this case, qualia would fall into the latter category.
 
