@@ -10,9 +10,13 @@ The **no-miracle argument** argues that because scientific theories reliably pre
 
 >The best explanation for the success of science is that the world is approximately the way that our scientific theories describe it as being. Therefore, it is true that the world is approximately the way that our scientific theories describe it as being.
 
+Worrall notes one consideration for this argument that "Not every empirical consequence that a theory has and which happens to be correct will give intuitive support for the idea that the theory must somehow or other have latched onto the universal blueprint." (p. 101) Clearly it is no miracle if a theory gets right a fact that was used in the construction of a theory. 
+
 This argument uses **[[Foster-proposed-solution-to-the-problem-of-induction|inference-to-the-best-explanation]]** because it assumes that theories are not just occasionally good way of explaining the world, but that scientific realism is the best approach that properly explains the success of theories.
+
 > The best explanation for X is that Y. *Therefore*, it is true that Y
 
+This is problematic in the sense that anti-realist denies the validity of [[Foster-proposed-solution-to-the-problem-of-induction|inference-to-the-best-explanation]] in general, and is hardly likely to allow it in philosophy as a means of arguing for realism. 
 ### Objection to the no miracles argument = selectionism
 
 An **objection** to this argument is that scientific theories are designed to be successful in practical ways, so it is not surprising that they are. Some [[scientific-anti-realism]] attribute the success of science to natural selection; scientific community doesn't tolerate theories that fail to make accurate predictions. Another argument is that success is a social consensus relative to different expectations of scientists in different historical periods. In contrast, Popper (a realist selectionist) believes that in scientific selection, weak theories are eliminated and the successive replacement enables the theories to get ever closer to the truth.
