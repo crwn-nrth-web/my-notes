@@ -5,6 +5,7 @@ tags:
   - philosophy
 aliases:
   - subjectivity-and-phenomenology
+  - phenomenal-consciousness
 ---
 **Phenomenology** = the study of structures of [[PHIL 371 - Consciousness|consciousness]] as experienced from the first-person point of view, i.e. the study of phenomenal aspects of consciousness
 - phenomenal aspects = seeing things, experiencing things, "what it is like" to have sensations and experiences ([[Block-on-Consciousness#^54efa3|P-consciousness]])
@@ -31,5 +32,6 @@ Consider two *functionally* identical individuals who could have different menta
 **Zombies** = it is perfectly consistent to think that two functionally identical entities could differ in mentality together; one could have conscious mental states, and the other could lack them entirely. No amount of physical information about another individual logically entails that he or she is conscious or feels anything at. 
 - This not only talks about the possibility of zombies, but also applies to other human beings. It could be seen as a new form of the problem with other minds. A complete physical picture cannot tell us whether or not another human being is conscious. 
 - We inductively infer that people are conscious based on behavior, but behavior alone cannot logically entail consciousness. It's the same sense that a philosophical zombie is physically and behaviorally identical to us, but doesn't have consciousness.
+- this also poses a problem for [[Functionalism]] since it breaks the supervenience relationship under the assumption that they're functionally identical and that there is no change in underlying states but there would be change in the higher order status (feeling pain and feeling no pain)
 
 
