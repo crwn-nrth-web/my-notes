@@ -13,6 +13,7 @@ aliases:
 **Qualia** = phenomenal character of experiential states 
 - experiences that do not correlate to neural states
 - they escape the physical description of the world and yet we know the exist (via introspection, or direct awareness)
+- *epiphenomenal* = causally inert
 
 Physicalism does not fit comfortably with phenomenology as it is not obvious how conscious mental states as we experience them (sensations, thoughts, emotions) could correspond to complex neural states. This calls into question our commitment to physicalism: 
 
@@ -30,8 +31,16 @@ Consider two *functionally* identical individuals who could have different menta
 - this is a problem for physicalism and functionalism as  "there must be changes in the subvening base to change the supervening property."
 
 **Zombies** = it is perfectly consistent to think that two functionally identical entities could differ in mentality together; one could have conscious mental states, and the other could lack them entirely. No amount of physical information about another individual logically entails that he or she is conscious or feels anything at. 
-- This not only talks about the possibility of zombies, but also applies to other human beings. It could be seen as a new form of the problem with other minds. A complete physical picture cannot tell us whether or not another human being is conscious. 
-- We inductively infer that people are conscious based on behavior, but behavior alone cannot logically entail consciousness. It's the same sense that a philosophical zombie is physically and behaviorally identical to us, but doesn't have consciousness.
+- This not only talks about the possibility of zombies, but also applies to other human beings. It could be seen as a new form of the problem with other minds. A complete physical picture cannot tell us whether or not another human being is conscious. We inductively infer that people are conscious based on behavior, but behavior alone cannot logically entail consciousness. It's the same sense that a philosophical zombie is physically and behaviorally identical to us, but doesn't have consciousness.
 - this also poses a problem for [[Functionalism]] since it breaks the supervenience relationship under the assumption that they're functionally identical and that there is no change in underlying states but there would be change in the higher order status (feeling pain and feeling no pain)
+
+Chalmer's argument for philosophical zombies is as follows:
+1. philosophical zombies are conceivable
+2. if zombies are conceivable, they are metaphysically possible
+3. If zombies are possible, physical facts do not necessitate phenomenal facts.  
+- Therefore, phenomenal consciousness is not reducible to physical facts.  
+- Therefore, physicalism is false
+
+The controversial step: conceivability $\rightarrow$ metaphysical possibility
 
 
