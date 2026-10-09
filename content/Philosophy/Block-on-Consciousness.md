@@ -4,7 +4,7 @@ draft: false
 tags:
   - philosophy
 ---
-Ned Block believes we are talking about (at least) two different kinds of consciousness when we use the word
+Ned Block believes we are talking about (at least) two different kinds of [[PHIL 371 - Consciousness|consciousness]] when we use the word
 - **Access Consciousness (A-Consciousness)** = the set of mental the set of mental states we have access to at any given time: memories, rational capacities, language(s), know-how or skill, occurrent beliefs or desires, etc.  
 - **Phenomenal Consciousness (P-Consciousness)** = roughly “what it is like” to enjoy experiential states ([[phenomenology]]) ^54efa3
 

@@ -7,22 +7,32 @@ aliases:
   - hard-problem-of-consciousness
   - the-explanatory-gap
 ---
-David Chalmers introduced the idea of the **hard problem of consciousness** = the challenge of explaining *why* we have subjective, first-person experiences (qualia)
+#### Chalmers on the Hard problem of consciousness
 
-**easy problem of consciousness** =
+> [!source|i:arrow-up-right-from-square c:a7c080]
+> Chalmers, D. J. (1995). Facing Up to The Problem of Consciousness. _Journal of Consciousness Studies_, _2_(3), p. 200–219.
+
+David Chalmers introduced the idea of the **hard problem of [[PHIL 371 - Consciousness|consciousness]]** = the challenge of explaining *why* we have subjective, first-person experiences (qualia or [[Nagel-what-is-it-like-to-be]])
+
+**easy problem of consciousness** = these are concerned with the explanation of cognitive abilities and functions
 - how does the brain discriminate information?
 - how does it integrate information?
 - how does it control behavior?
 - how does it report mental states?
 
 **hard problem of consciousness** =
-- why are these processes accompanied by experience
+- why is it that when our cognitive systems engage in visual information-processing, we have visual experience, e.g. the quality of deep blue
+- why are these processes accompanied by experience?
+- Why doesn't the information-processing happen "in the dark", free of any inner feel?
+
+> “Why should physical processing give rise to a rich inner life at all? It seems objectively unreasonable that it should, and yet it does.” (p. 201)
 
 Note this is not a distinction between easy and hard scientific problems; it is a distinction between different kinds of explanatory questions.
 
 **Physicalist response** = the fact that we cannot currently explain consciousness does not show that consciousness is non-physical. Perhaps the problem is our *concepts* rather than reality. Before modern science, people did not understand life, heredity, heat, disease, lightning, etc. Our inability to explain something doesn't establish that it is fundamentally non-physical. 
 
 Is the hard problem a genuine metaphysical problem or merely a limitation of our current understanding?
+#### Levine's explanatory gap
 
 A different way of looking at the hard problem of consciousness is in light of Joseph Levine's **explanatory gap**[^1]. These are distinct views but both explore the idea of why qualia introduces a problem for the scientific study of consciousness.
 
