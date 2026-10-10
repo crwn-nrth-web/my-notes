@@ -8,10 +8,10 @@ aliases:
   - constructive-empiricism
 ---
 [[being-a-scientific-realist|realist-objection-to-van-fraassen]]
-
 ### Van Fraassen on the division between scientific realism and anti-realism
 
 Van Fraasen begins by giving different philosophers take on [[Scientific-realism]] and then gives his own formulation:
+
 > "Science aims to give us, in its theories, a literally true story of what the world is like; and acceptance of a scientific theory involves the belief that it is true. This is the correct statement of scientific realism" 
 
 ^90cf55
@@ -32,7 +32,6 @@ To demonstrate the distinction between [[Scientific-realism]] and [[scientific-a
 > What does a scientist do then, according to these different positions? According to the realist, when someone proposes a theory. he is asserting it to be true. But according to the anti-realist, the proposer does not assert the theory to be true; he displays it, and claims certain virtues for it. (p. 10)
 
 He asserts that the distinction he draws between realism and anti-realism "in  so far as it pertains to acceptance, concerns only how much belief is  involved therein." (p. 12) The main point Van Fraassen is arguing is on the acceptance of a theory.
-
 ### literally constructed language
 
 Van Fraassen claims an important aspect of a **literally true account** is that language is to be *literally constructed*
@@ -45,7 +44,6 @@ This divides anti-realist into two types:
 2. language of science should be literally constructed but its theories need not to be true or good
 
 The second type is what Van Fraassen's **constructive empiricism** is. Insisting on a literal construal of the language of science is to rule out the construal of a theory as a metaphor or simile. But every scientific account which insists on a literal construal of the language of science is not a realist position.
-
 ## Constructive Empiricism
 
 Van Fraassen describes **constructive empiricism** as:
@@ -55,7 +53,6 @@ Van Fraassen describes **constructive empiricism** as:
 This stands in contrast to [[Scientific-realism]] that Van Fraassen describes previously. 
 
 The constructive empiricist holds that science aims at truth about the observable aspects of the world but not aim at truth about unobservable aspects. 
-
 ### Empirical Adequacy
 By empirically adequate, Van Fraassen means that 
 > "a theory is empirically adequate exactly if what it says about the observable things and events in this world, is true -- exactly if it 'saves the phenomena'. A little more precisely: such a theory has at least one model that all the actual phenomena fit inside."

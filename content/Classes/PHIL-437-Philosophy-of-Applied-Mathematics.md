@@ -11,13 +11,13 @@ tags:
 **Philosophy of mathematics** aims to learn about the nature of maths itself and is concerned with questions, such as = do numbers exist? how can we have knowledge of mathematical entities?
 - *Pythagoreanism* = the world is math
 - *Mathematical structuralism* = math represents structure, which composes mathematical reality (e.g. natural number system)
-
 ## Topics
  [[Wigner-and-Islami-on-the-unreasonable-effectiveness-of-mathematics-in-physics]]
  [[Steiner-on-the-applicability-of-mathematics]]
  [[Tegmark-Mathematical-Universe]]
  [[mathematical-structuralism]]
  [[Shapiro-1983-mathematics-and-reality]]
+[[structural-realism]]
  [[Worrall-1989-structural-realism-best-of-both-worlds]]
 
 ## General notes
