@@ -10,8 +10,4 @@ title: Realism-and-anti-realism
 
 **Anti-realism** is the view that X is not a purely objective feature of reality, and that the existence of X depends, in some way, on minds perceiving it.
 
-![[analyzing-universals#^1eb87a]]
-
-![[analyzing-universals#^41ac6a]]
-
-![[Humean-theory-of-causation#Hume's stance on realism and anti-realism]]
+[[Scientific-realism]] vs [[scientific-anti-realism]]

@@ -4,9 +4,10 @@ draft: false
 tags:
   - philosophy
 ---
-**anti-realism** = it is *not* reasonable to believe that the world is approx. the way in which our best scientific theories describe it as being
+**anti-realism** = it is *not* reasonable to believe that the world is approx. the way in which our best scientific theories describe it as being. In fact, not even the aim of science is to produce true theories, instead acceptance of a theory should be taken to involve only the claim that the theory is 'empirically adequate'
 
-Anti-realist would be committed with the observable phenomenon like tables, chairs, etc. but would believe that is not reasonable to believe that electrons, fundamental particles, genes, etc. in our scientific theories is not actually present in the world. 
+**instrumentalism** is an anti-realist view that holds that our scientific theories are not literal descriptions of an objective reality, but rather useful tools or instruments for predicting observations and solving practical problems
+- such an anti-realist would be committed with the observable phenomenon like tables, chairs, etc. but would believe that is not reasonable to believe that electrons, fundamental particles, genes, etc. in our scientific theories are not actually present in the world. 
 
 A main argument for scientific anti-realism = [[pessimistic-meta-induction]]
 
@@ -35,8 +36,7 @@ This argues that you can have different theories with the same body of observati
 ### Stanford - Recurrent Transient underdetermination
 This combines underdetermination + [[pessimistic-meta-induction]]
 
-In the past, scientists failed to conceive of alternative theories that were consistent with  
-their evidence. In the future, scientists will look back and recognize that present scientists are failing to conceive of alternative theories that are consistent with our present evidence.
+In the past, scientists failed to conceive of alternative theories that were consistent with their evidence. In the future, scientists will look back and recognize that present scientists are failing to conceive of alternative theories that are consistent with our present evidence.
 
 This argument focuses on the predictions, rather than the entities like in [[pessimistic-meta-induction]].
 

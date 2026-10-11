@@ -27,7 +27,6 @@ John Worrall highlights two opposing arguments
 2. [[pessimistic-meta-induction]] = supports [[scientific-anti-realism]] that "there have been enormously successful theories which were once accepted but are now regarded as false". It asks what rational basis do we have for believing current theories describes the world, given that past successful theories were abandoned
 
 The aim of structural realism is to satisfy both arguments.
-
 ##### How radical has theory change been?
 
 [[Scientific-realism]] claims that we have grounds for holding our present theories to be approximately true
@@ -37,7 +36,6 @@ An important question for the realist is whether or not the history of science s
 Realism is plausible only if science has been "essentially cumulative", that deposed theories themselves (not just their successful empirical consequences) have lived on in some way.
 
 Realism is incompatible with radical theoretical changes at the level of theoretical content ([[Kuhn-on-crisis-and-scientific-revolutions|scientific-revolution]]). If successor theories have nothing in common with their predecessors, except a broader but overlapping range of empirical consequences, then it is hard to say that there is an approximate truth that is captured by both stages of the theory.
-
 ##### If pessimistic met-induction holds
 Worrall notes that if theory change is empirically cumulative but theoretically non-cumulative, we have two options = 
 
@@ -49,7 +47,7 @@ Worrall argues instead for a third option **structural realism**.
 Realism can be saved by finding continuity between successive theories, but at the level of structure (or mathematical formulation), instead of at the level of entities and causal powers. 
 
 Examples:
-- When optics shifted from Fresnel’s elastic solid ether theory to James Clerk Maxwell’s electromagnetic field theory, the physical belief in an "ether" was abandoned, but Fresnel’s mathematical equations for light propagation were preserved inside Maxwell's new framework. Since Fresnel's theory was empirically successful despite its false claim about the ether, its success must be credited to the structure captured in the equations, which is what survived.
+- When optics shifted from Fresnel’s elastic solid ether theory to Maxwell’s electromagnetic field theory, the physical belief in an "ether" was abandoned, but Fresnel’s mathematical equations for light propagation were preserved inside Maxwell's new framework. Since Fresnel's theory was empirically successful despite its false claim about the ether, its success must be credited to the structure captured in the equations, which is what survived.
 
 #### main features of structural realism
 
@@ -59,10 +57,18 @@ In summary, main features of structural realism =
 
 For Worrall, what is "essentially" correct about a current theory is not the constituents named by the current theory, as this can easily be under-determined by a new theory, but instead the *mathematical structure*.
 
+Evidence of this is given by the **correspondence principle** = When a new theory replaces an empirically successful old one, the new theory is expected to relate to the old one in a particular way. Worrall argues that this occurs when the mathematical equations of the old theory reemerge as limiting cases of the mathematical equations of the new (Example: Newtonian mechanics emerges from relativity as $\frac{v}{c} \to 0$ ). This allows the new theory to recover the old equations while giving them a completely different physical interpretation.
 
+> "It cannot be said that this is reducing physical theories to simple practical recipes; these  equations express relations, and if the equations remain true, itis because the relations preserve their reality. They teach us now, as they did then, that there is such and such a relation between this thing and that; only the something which we then called motion, we now call electric current. But these are merely names of the images we substituted for the real objects which Nature will hide for ever from our eyes. The true relations between these real objects are the only reality we can attain . . ." (Poincare, as cited by Worrall, p. 118)
 
-Worrall's version is epistemic: 
+### Epistemic vs ontic structural realism
 
+Worrall's **structural realism** is epistemic, i.e. there is a commitment to the structure of our best scientific theories but agnosticism about the rest of the content. **Epistemic structural realism** doesn't rule out that there might be intrisnic non-structural and non-relational aspects of these things, just that we can't know much about them.
+
+**Ontic structural realism** asserts that all there is to the entities is the structure or relations. 
+## Objections and arguments against structural realism
+
+Whether structures can be separated from nature
 
 A problem that arises is filling in the gaps (what is structure? where does math go?) = the argument that there are continuities in particular cases rests on deriving equations of old theory from new in particular limits. Does this work beyond physics and some examples in chemistry?
 

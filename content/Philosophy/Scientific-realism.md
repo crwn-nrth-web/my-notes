@@ -10,9 +10,10 @@ aliases:
 
 A *scientific realist* thinks it does make sense to say that science aims at describing the real structure of the world we live in. 
 
+The fact that scientific progress, even in "successful mature" sciences, is not strictly cumulative but instead involved modification and revision leads to realist claims that we have grounds for holding that our theories are "approximately" true 
+
 > **Common-sense realism** = We all inhabit a common reality, which has a structure that exists independently of what people think and say about it, except insofar as reality is comprised of, or is causally affected by, thoughts, theories, and other symbols - Theory and Reality, p. 174
 
-^0b2935
 In a minimal way, being a common-sense realist means that before us, there was a world and there will be a world after us. 
 
 An argument for scientific realism = [[no-miracles-argument]]
