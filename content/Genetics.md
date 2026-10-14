@@ -454,5 +454,38 @@ Germ cells undergo two successive nuclear divisions: meiosis I and meiosis II
 - 6 chromatids in a gamete
 
 ##### Variation in meiosis - Oogenesis
+**Oogenesis** is the biological process of forming mature female gametes (egg cells) inside the ovaries. Instead of going from one cell to two to four cells, we go from one diploid cell to one haploid cell.
+1. diploid germ cells undergoes mitosis producing a **primary oocyte**
+2. primary oocyte undergo meiosis I, producing one **secondary oocyte** and one **polar body** which disintegrates
+3. secondary oocyte undergoes meiosis II producing one ovum (egg) and another polar body
+
+In some species, the first polar body also completes meiosis II, but all polar bodies disintegrate and are reabsorbed.
+![[Pasted image 20261014151125.png|386]]
+In a lot of mammals, including humans, meiosis doesn't occur in one go from start to finish.
+- In humans, oocytes develop and start to go through meiosis till prophase I in the womb and are stored in the ovaries
+- between 12 to 15, sexual maturation occurs and the primary oocyte completes meiosis up to metaphase II
+- At fertilization with a sperm cell, the oocyte complete metaphase II, and the ovum and sperm combine to get an embryo
+- perhaps the long interval at arrested meiosis in women older than 40 contributes to segregational errors such as trisomies (down syndrome)
+
+#### Proving the chromosomal theory of inheritance
+
+**Chromosomal theory of inheritance**  states that 
+1. hereditary information is on genes and that genes are located on chromosomes
+2. egg and sperm contribute equally to the genetic endowment of offspring through their nuclei
+
+**Circumstantial evidence** =
+1. demonstrated by many early biologists that the phenotype of sexual identity (being male or female) is associated with the inheritance of particular chromosomes
+	- suggests specific traits are carried by specific chromosomes
+2. events of mitosis and meiosis ensure a constant number of chromosomes in the somatic cells of a species
+	- not other molecule is so conserved in each cell
+	- suggest chromosomes are the agents of inheritance
+
+we need evidence that inheritance of genes corresponds to inheritance of chromosomes, i.e.
+- are genes actually on chromosomes?
+- transmission of particular chromosomes coincides with other traits, not just sex determination
+
+**Thomas Hunt Morgan's Drosophilia Experiments**
+
+
 
 
