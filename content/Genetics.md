@@ -484,8 +484,79 @@ we need evidence that inheritance of genes corresponds to inheritance of chromos
 - are genes actually on chromosomes?
 - transmission of particular chromosomes coincides with other traits, not just sex determination
 
-**Thomas Hunt Morgan's Drosophilia Experiments**
+**Thomas Hunt Morgan's Drosophila Experiments**
+- this is the first time an experiment was conducted to track a trait that was not sex determination
+- he looked at a gene determining eye color that resides in the X chromosome of drosophila 
+- he found a mutant white-eyed male among thousands wild type red-eyed flies
+
+#### Non-disjunction
+
+**Non-disjunction** (Error in segregation) = when the X chromosome fails to separate properly during meiosis I or II, leading to abnormal eggs.
+- **diplo-X** = some eggs will inherit two X chromosomes. If fertilized by a Y sperm, this can lead to Klinefelter syndrome XXY
+- **nullo-X** = some eggs will inherit no X chromosomes. If fertilized by a X sperm, this can lead to turner syndrome XO
+
+##### Aneuploidy
+
+**Aneuploidy** = results from the loss or gain of one or more chromosomes
+
+**Aneuploids** = individuals whose chromosome number is not the exact multiple of the haploid number (n) of the species
+- for humans, either having a chromosome number of 45 or 47
+- **Monosomic** = individuals lacking one chromosome from the diploid number ($2n -1$)
+- **Trisomic** = individuals having one additional chromosome in addition to the diploid set ($2n+1$)
+- **Tetrasomic** = individuals having four copies of a particular chromosome ($2n+2$)
+
+###### Aneuploidy in meiosis
+
+**Autosomal aneuploidy** = abnormal number of non-sex chromosomes
+- autosomal monosomy is generally lethal in humans
+- autosomal trisomy is not always lethal in humans
+	- Trisomies of chromosomes 1 or 2 (large) are almost always not viable, because of the excessive amounts of protein produced from the genes result in lethal abnormalities in the cells
+	- Trisomy 21 (small) is tolerated, but abnormalities still result (down syndrome)
+	- Trisomy 13 and 18 are the only other trisomies are the only other ones that are reported surviving in utero in humans
+
+**Non-disjunction in meiosis I** results in all aneuploids
+![[Pasted image 20261016160339.png|343]]
+
+**Non-disjunction in meiosis II** results in half normal, half aneuploids
+![[Pasted image 20261016162718.png|261]]
+**Aneuploidy in Sex chromosomes**
+- there must be at least one X for viability, known as gene dosage
+- **Gene dosage** = number of copies of a gene present in a cell
+
+We are programmed to deal with one gene dosage (one copy) for all genes on the X chromosome. So, in females, one of the X chromosomes are inactivated
+
+**X-inactivation**
+- early on in embryogenesis, one of the X chromosomes is selected in each cell at random for inactivation
+- the inactivated X chromosome exists as a highly condensed body within the cell referred to as a **Barr body**
+- females are hence **genetic mosaic**: half of the cells are expressing the X chromosome from father, and the other half are expressing the X chromosome from the mother
+	- but there is no phenotypic expression of this
+- the inactivated gene contains some genes that are still expressed and needed for viability
 
 
+**XXX** = normal, fertile females
+- Because of X-inactivation, XXX females are normal because the extra X chromosomes are inactivated leading to a normal phenotype.
 
+**XO (Turner syndrome)**
+- true turner syndrome where all cells are XO is lethal
+- Turner syndrome where only some of the cells are XO (because of problems in mitosis) result in abnormal, infertile females
+
+
+**XXY (Klinefelter syndrome)** 
+- results in abnormal infertile male
+- Phenotype: no frontal baldness, poor bread growth, wide hips, some breast development, small testes, higher pitched voice, reduced fertility
+- having two X chromosomes means that even if it is inactivated X chromosome, some of its genes are still expressed leading to the pseudo-female phenotype
+
+Klinefelter syndrome can occur from the male parent, but only if there is non-disjunction in meiosis I
+
+**XYY** = normal, fertile males
+
+**OY** = Lethal
+###### Aneuploidy in mitosis
+- Aneuploids can results from mitotic non-disjunction or from chromosome loss
+	- anaphase non-disjunction = results in one trisomic cell and one monosomic cell
+	- chromosome loss during anaphase = results in one monosomic cell and one normal cell
+		- this can result in non-lethal turner syndrome females
+- This occurs early in embryo development after fertilization (e.g. during the first mitotic division)
+
+##### Euploidy
 
