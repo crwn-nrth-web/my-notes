@@ -574,4 +574,4 @@ Plants are often induced to become euploid: triploid or tetraploid species
 - Case 1: in meiosis I, two chromosomes pair up during the metaphase, leaving the third behind to move into a daughter cell. This results in half normal, half aneuploidy
 - Case 2: synaptic complex forms between all chromosomes and do not separate during anaphase, so all chromosomes move into one daughter cell and results in aneuploidy
 
-**Tetraploidy**
+**Tetraploidy **
