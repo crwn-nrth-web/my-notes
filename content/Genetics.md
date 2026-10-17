@@ -560,3 +560,18 @@ Klinefelter syndrome can occur from the male parent, but only if there is non-di
 
 ##### Euploidy
 
+**Euploidy** is related to complete sets of chromosomes
+- most eukaryotes are diploids
+- **monoploids** = have one complete set of chromosomes (usually infertile)
+- **Polyploids** = have three or more complete sets
+
+*Examples of Monoploidy* = fertile individuals are diploids, but sterile males (e.g. worker bees) are produced through parthogenesis, where an unfertilized gamete from the female develops into an embryo
+ 
+Plants are often induced to become euploid: triploid or tetraploid species
+
+**Sterility in Triploids**
+- triploids are viable but are almost sterile
+- Case 1: in meiosis I, two chromosomes pair up during the metaphase, leaving the third behind to move into a daughter cell. This results in half normal, half aneuploidy
+- Case 2: synaptic complex forms between all chromosomes and do not separate during anaphase, so all chromosomes move into one daughter cell and results in aneuploidy
+
+**Tetraploidy**
