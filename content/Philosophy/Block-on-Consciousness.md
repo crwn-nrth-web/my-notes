@@ -4,7 +4,7 @@ draft: false
 tags:
   - philosophy
 ---
-Ned Block believes we are talking about (at least) two different kinds of [[PHIL 371 - Consciousness|consciousness]] when we use the word
+Ned Block believes we are talking about (at least) two different kinds of [[PHIL 371 - Consciousness|consciousness]] when we use the word consciousness=
 - **Access Consciousness (A-Consciousness)** = the set of mental the set of mental states we have access to at any given time: memories, rational capacities, language(s), know-how or skill, occurrent beliefs or desires, etc.  
 - **Phenomenal Consciousness (P-Consciousness)** = roughly “what it is like” to enjoy experiential states ([[phenomenology]]) ^54efa3
 
@@ -23,4 +23,22 @@ Blind sight is a close analogue to the notion of a *philosophical zombie* = a th
 	- no language, no reasoning ability, no structured thoughts with propositionally precise content
 	- this is not the best argument, as it has been empirically tested that dogs have some rational reasonings
 - In humans, we do have some phenomenal evidence of us coming to be aware -- experiencing the world but only coming to realize at a later point e.g. the sound I have been hearing is now part of my attention
+
+### Methodological puzzle of consciousness
+
+Ned Block introduces the **methodological puzzle of consciousness research** = how to empirically test whether a mental state is phenomenally conscious without assuming cognitive access (the ability to report)
+- to identify or measure a conscious state, we either assume both consciousness and access are present, or both absent
+- this makes it difficult to determine if a state can be phenomenally conscious without cognitive access
+
+Scientists primarily study [[phenomenology|phenomenal-consciousness]] through subjective verbal or behavioral reports. This relies on the **Phenomenally conscious $\rightarrow$ reportable principle** = any subjective, qualitative mental experience ([[phenomenology|phenomenal-consciousness]]) must inherently be available for verbal or behavioral report.
+
+Block points out a problem with the phenomenal $\rightarrow$ reportability principle. If a person loses all ability to produce or understand language, and so does not have the language capacity required for reporting, that does not mean they no longer have phenomenal consciousness. 
+
+It also raises the question: is access consciousness necessary for phenomenal consciousness? If not, then there can be phenomenal states that are not access conscious, and in principle not reportable. This leads to phenomenal consciousness overflowing into access consciousness, i.e.
+
+> "phenomenal consciousness wrapped together with the cognitive machinery of access to phenomenal consciousness." (p. 4)
+
+
+
+
 

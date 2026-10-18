@@ -5,6 +5,7 @@ tags:
   - philosophy
 aliases:
   - scientific-structural-realism
+  - Worrall-1989-structural-realism
 ---
 ![[pessimistic-meta-induction#^324fbc]]
 

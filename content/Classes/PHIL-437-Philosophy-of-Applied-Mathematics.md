@@ -12,13 +12,13 @@ tags:
 - *Pythagoreanism* = the world is math
 - *Mathematical structuralism* = math represents structure, which composes mathematical reality (e.g. natural number system)
 ## Topics
- [[Wigner-and-Islami-on-the-unreasonable-effectiveness-of-mathematics-in-physics]]
- [[Steiner-on-the-applicability-of-mathematics]]
- [[Tegmark-Mathematical-Universe]]
- [[mathematical-structuralism]]
- [[Shapiro-1983-mathematics-and-reality]]
+[[Wigner-and-Islami-on-the-unreasonable-effectiveness-of-mathematics-in-physics]]
+[[Steiner-on-the-applicability-of-mathematics]]
+[[Tegmark-Mathematical-Universe]]
+[[mathematical-structuralism]]
+- [[Shapiro-1983-mathematics-and-reality]]
 [[structural-realism]]
- [[Worrall-1989-structural-realism-best-of-both-worlds]]
+[[mathematical-naturalism]]
 
 ## General notes
 Kitcher has a naturalist, empiricist view of mathematics that even the most advanced abstract mathematical concepts that can lead back to basic mathematical concepts that are rooted in the natural world (e.g. natural world).

@@ -567,11 +567,16 @@ Klinefelter syndrome can occur from the male parent, but only if there is non-di
 
 *Examples of Monoploidy* = fertile individuals are diploids, but sterile males (e.g. worker bees) are produced through parthogenesis, where an unfertilized gamete from the female develops into an embryo
  
-Plants are often induced to become euploid: triploid or tetraploid species
+Plants are often induced to become euploid: triploid or tetraploid species. Larger chromosome numbers often lead to increased size. Seedless varieties are polyploids; they are propagated by cuttings.
 
 **Sterility in Triploids**
-- triploids are viable but are almost sterile
+- triploids are viable but are almost always sterile
 - Case 1: in meiosis I, two chromosomes pair up during the metaphase, leaving the third behind to move into a daughter cell. This results in half normal, half aneuploidy
 - Case 2: synaptic complex forms between all chromosomes and do not separate during anaphase, so all chromosomes move into one daughter cell and results in aneuploidy
 
-**Tetraploidy **
+**Tetraploidy** 
+- can arise in germinal tissue, if during mitosis the chromosomes in a diploid tissue fail to segregate after replication, forming diploid gametes. 
+- Fertilization of a diploid gamete with another diploid gamete forms a tetraploid
+- synapsis is not uniform so gametes can still be aneuploid and lead to infertile offspring
+- Salmon are fertile tetraploids: this is due to a tagging system that ensures equal pairing at synapsis (and so equal distribution in gametes)
+	- e.g. two copies of chromosome A are called A1 and A2
