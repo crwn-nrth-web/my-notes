@@ -396,6 +396,8 @@ Genes are transmitted from organism to organisms via two major processes
 
 **Germ cells** (Gamete cells) = pockets of specialized cells (2n) incorporated into ovaries and testes. These germ cells undergo meiosis to form gametes (egg and sperm). In humans, gametes are haploid (n).
 ![[Pasted image 20260927215840.png|562]]![[Pasted image 20260927220211.png|555]]![[Pasted image 20261002222131.png|566]]
+What occurs in meiosis but not mitosis that enables genetic information to be exchanged?
+- Homologous chromosomes only form tetrads during the process of meiosis in prophase I
 #### Mitosis in the cell cycle
 ![[Pasted image 20261002192248.png|353]]
 In the average cell cycle:
