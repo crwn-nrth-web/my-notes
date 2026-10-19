@@ -8,6 +8,7 @@ aliases:
   - The-unreasonable-effectiveness-of-mathematics-in-physics
   - wigner-on-the-unreasonable-effectiveness-of-mathematics-in-physics
   - unreasonable-effectiveness-of-mathematics
+  - Islami-interpretation-of-wigner
 ---
 > [!source|i:arrow-up-right-from-square c:a7c080]
 > Wigner, E. P. (1960). The unreasonable effectiveness of mathematics in the natural sciences. _Communications in Pure and Applied Mathematics_, 13(1), 1–14. https://doi.org/10.1002/cpa.3160130102
@@ -58,8 +59,6 @@ Hence, the appropriateness of the language of mathematics for the formulation of
 
 A common example for Wigner's argument are complex numbers ($i= \sqrt{ -1 }$). Complex numbers were defined in the 16th century in order to solve polynomial equations, and our sense experiences clearly does not suggest the presence of these quantities. But later, complex numbers became an integral part in theories of physics. 
 
-
-
 *What are the assumptions he is making on the applicability of mathematics?* $\rightarrow$ Wigner has a very specific picture of how mathematics work.
 
 Wigner defines mathematics as “the science of skillful operations with concepts and rules invented just for this purpose.” (p. 2)
@@ -83,6 +82,8 @@ Wigner defines physics to be interested in "discovering the laws of inanimate na
 
 > “the division between laws of nature and initial conditions is a condition for the possibility of modern physics” (Islami, 2017, p. 14)
 
+> “The laws of nature, however, are only a small part of our knowledge of the inanimate world. The rest, what we call initial conditions, only appear in laws as the antecedents.” (Islami, 2017, p. 16)
+
 Example: the case of freely falling bodies (objects dropped from the same height at the same time reach the ground at the same time). This is observed no matter where the experiment is done, no matter if it sunny or rainy, no matter if the objects were of different size, shape, material etc. The only thing the time it takes for a falling body to reach the ground is distance
 
 > “What makes it possible for us to formulate the division between initial conditions and regularities is the fact that the correlations between events hold under different circumstances, or as mathematicians put it, under different transformations.” (Islami, 2017, p. 16)
@@ -92,9 +93,12 @@ In a later paper, Wigner (1963) lays out a hierarchy in our knowledge of the wor
 2. second tier = regularities in events i.e. laws of nature
 3. third tier = regularities in laws of nature i.e. invariance principles
 
+**Hierarchy of knowledge in modern physics** =
+> “At the bottom, the first tier of this hierarchy is comprised of events that we observe in this world. The regularities we discern [the laws of nature] are the second tier of the hierarchy. And invariance principles make up the third tier of the hierarchy of our knowledge.” (Islami, 2017, p. 17)
+
 The invariance principles give law their universality, which makes their mathematical formulation possible. If there were no regularities in nature, like invariance principles, mathematics would lose its usefulness in their formulation.
 
-### Islami (2017) A match not made in heaven: on the applicability of mathematics in science
+# Islami (2017) A match not made in heaven: on the applicability of mathematics in science
 
 Islami provides the context behind Wigner (1960)
 > “Wigner is lecturing to a particular audience, who have gathered to celebrate Courant’s vision: that the mathematics that is invented so playfully and aesthetically by mathematicians ends up in natural sciences to such a remarkable and unexpected degree.” (Islami, 2017, p. 6)
@@ -110,9 +114,6 @@ Islami's argument (Interpretation of Wigner) =
 4. Both the existence of the laws of nature and the invariance principles are contingent
 5. The regularities and invariances are approximate
 Therefore, mathematics is an appropriate language for modern physics
-
-> “for Wigner, there is a Why question and a How question. The Why question is “Why is mathematics useful in physics?”, which is just the applicability problem (in physics). The How question is “How is mathematics useful in physics?”.” (Islami, 2017, p. 7)
-
 
 [^1]: Islami (2017), p. 11
 [^2]: Islami (2017), p. 10
