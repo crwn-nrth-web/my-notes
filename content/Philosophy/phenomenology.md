@@ -15,7 +15,7 @@ aliases:
 - they escape the physical description of the world and yet we know the exist (via introspection, or direct awareness)
 - *epiphenomenal* = causally inert
 
-Physicalism does not fit comfortably with phenomenology as it is not obvious how conscious mental states as we experience them (sensations, thoughts, emotions) could correspond to complex neural states. This calls into question our commitment to physicalism: 
+Physicalism does not fit comfortably with phenomenology as it is not obvious how conscious mental states as we experience them (sensations, thoughts, emotions) could correspond to complex neural states. This calls into question our commitment to physicalism.
 #### Knowledge arguments
 
 [[Jackson-what-Mary-didn't-know]]
