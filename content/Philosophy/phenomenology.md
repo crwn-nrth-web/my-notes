@@ -21,7 +21,7 @@ Physicalism does not fit comfortably with phenomenology as it is not obvious how
 [[Jackson-what-Mary-didn't-know]]
 [[Nagel-what-is-it-like-to-be]]
 
-#### modal arguments
+#### Modal arguments
 modal arguments means we are talking about what is logically / metaphysically possible.
 
 Consider two *functionally* identical individuals who could have different mental lives.

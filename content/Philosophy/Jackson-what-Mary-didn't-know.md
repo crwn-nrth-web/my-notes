@@ -8,13 +8,21 @@ title: Jackson-what-Mary-didn't-know
  
 > [!Source]  Jackson F. (2010). "[What Mary Didn’t Know](https://learn.uwaterloo.ca/content/enforced/1162856-PHIL251_081_cel_1259/media/documents/week05/jackson-what-mary-didnt-know.pdf?ou=1162856)". In J. Perry, M. Bratman, J.M. Fischer (Eds.), Introduction to Philosophy: Classical and Contemporary Readings, Fifth Edition, pp. 320-323. New York: Oxford University Press. (Original work published in 1986)
 
-Jackson's view in his paper "Epiphenomenalism Qualia" (1982) implies a view of **property dualism** with respect to [[phenomenology|subjective consciousness]] as a whole = though the world contains only physical substances, some of the properties of physical substances are non-physical. 
+Jackson's view in his paper "Epiphenomenal Qualia" (1982) implies a view of **property dualism** with respect to [[phenomenology|subjective consciousness]] as a whole = though the world contains only physical substances, some of the properties of physical substances are non-physical. 
 
 Jackson suggests that qualia go beyond what can be described in purely physical terms. A commitment to qualia is called **Epiphenomenalism** =  view that phenomenal properties are a kind of byproduct of physical causal processes that have no causal powers of their own. 
-#### The Knowledge Argument
-Jackson talks about the Mary’s thought experiment as the knowledge argument. 
 
-*Summary of Mary's though experiment* = Mary is confined to a black-and-white room, is educated through black-and white books and through lectures on black-and-white television. In this way she learns everything there is to know about the physical nature of the world of colour, i.e. learns all the physical facts about color, and is omniscient regarding colour. 
+> “I think that there are certain features of the bodily sensations especially, but also of certain perceptual experiences, which no amount of purely physical information includes. Tell me everything physical there is to tell about what is goin on in a living brain, the kind of states, their functional role, their relation to what goes on at other times and in other brains, and so on and so forth and be I as clever as can be in fitting it all together, you won't have told me about the hurtfulness of pains, the itchiness of itches, pangs of jealousy, about the characteristic experience of tasting a lemon, smelling a rose, hearing a loud noise or seeing th” (Jackson, 1982, p. 127)
+
+#### The Knowledge Arguments
+
+##### Fred's colour vision
+Suppose that Fred has better colour vision than anyone on record. He explains that he sees two colours where we see one, and he has in consequence developed for his own use two words "red_1" and "red_2" to mark the difference. For him, red_1 and red_2 are as different from each other and all other colours as yellow is from blue. In fact, physiological investigation shows that Fred's optical system is able to separate two groups of wavelengths in the red spectrum.
+
+There is something about Fred's experience, a property of it, not explained through physicalism. No amount of knowledge, amounts to the knowledge "from inside" concerning Fred. There is this subjective nature of Fred's experience, and a distinction made between first-person experience, and third-person observation, leading back into the problem with other minds.
+##### Mary Thought experiment
+
+*Summary of Mary's though experiment* = Mary is  a brilliant scientist, confined to a black-and-white room, and is educated through black-and white books and through lectures on black-and-white television. In this way she learns everything there is to know about the physical nature of the world of colour, i.e. learns all the physical facts about color, and is omniscient regarding colour. 
 
 *Does she learn something when she steps out into the real world?* 
 
