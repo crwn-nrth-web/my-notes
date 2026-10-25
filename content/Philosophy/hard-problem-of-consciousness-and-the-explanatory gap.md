@@ -34,7 +34,9 @@ Note this is not a distinction between easy and hard scientific problems; it is 
 Is the hard problem a genuine metaphysical problem or merely a limitation of our current understanding?
 #### Levine's explanatory gap
 
-A different way of looking at the hard problem of consciousness is in light of Joseph Levine's **explanatory gap**[^1]. These are distinct views but both explore the idea of why qualia introduces a problem for the scientific study of consciousness.
+
+
+A different way of looking at the hard problem of consciousness is in light of Joseph Levine's [[Levine-1983-the-explanatory-gap|explanatory-gap]][^1]. These are distinct views but both explore the idea of why qualia introduces a problem for the scientific study of consciousness.
 
 | Chalmer's Hard problem                                               | Levine's explanatory gap                                                                        |
 | -------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
