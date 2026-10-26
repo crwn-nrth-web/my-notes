@@ -17,3 +17,6 @@ Kitcher and Maddy are focused on two different questions:
 - *Maddy* = by what standards is mathematics now evaluated, and does application make it answerable to empirical confirmation?
 	- Mathematical methodology is autonomous, even for applied mathematics
 
+kitcher focuses on how mathematics and science are one of the same, both originating from sensory experiences. Maddy, on the other hand, does not want to combine the two, but instead advocates for treating mathematics as its own discipline like science. Mathematics goes through the corrective and revisonary process that science does, while also focusing on criterion specific to mathematics.
+
+Naturalized accounts of mathematics are interesting to me as it treats mathematics as a practice, rather than some abstract realm (looking at you, pythagoreamism). 

@@ -17,4 +17,5 @@ tags:
 - *Mathematical structuralism* = math represents structure, which composes mathematical reality (e.g. natural number system)
 	- [[Shapiro-1983-mathematics-and-reality]]
 	- [[structural-realism|scientific-structural-realism]]
-- *Naturalized account of mathematics* = mathematics is a lot like science, where even the most advanced abstract mathematical concepts that can lead back to basic mathematical concepts that are rooted in the natural world (e.g. natural world).
+- [[mathematical-naturalism]] = mathematics is a lot like science, where even the most advanced abstract mathematical concepts that can lead back to basic mathematical concepts that are rooted in the natural world (e.g. natural world).
+- [[Wilson-2000-the-unreaosonable-uncooperativeness-of-mathematics]]

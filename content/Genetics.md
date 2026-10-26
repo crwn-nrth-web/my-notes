@@ -582,3 +582,31 @@ Plants are often induced to become euploid: triploid or tetraploid species. Larg
 - synapsis is not uniform so gametes can still be aneuploid and lead to infertile offspring
 - Salmon are fertile tetraploids: this is due to a tagging system that ensures equal pairing at synapsis (and so equal distribution in gametes)
 	- e.g. two copies of chromosome A are called A1 and A2
+
+# Linkage and Recombination
+
+**Linkage** = some genes on the same chromosome assort together more often than not. In other words, they are in close proximity to one another. So if genes are linked, they most certainly lie on the same chromosome.
+
+Alleles on different chromosomes 
+- gamete phenotypic ratio = 1:1:1:1
+- e.g. dihybrid cross gives $F_2$ phenotypic ratio = 9:3:3:1
+
+Alleles on the same chromosomes
+- gamete phenotypic ratio = 1:1
+- e.g. dihybrid cross gives $F_{2}$ phenotypic ration = 1:1
+
+We can tell if genes are linked by observing the $F_2$ generation or by pedigree analysis. Law of independent assortment predicts all 4 phenotypes will occur in a dihybrid test cross. The departure from the typical $F_{2}$ phenotypic ratio (9:3:3:1) indicates that the two genes are on the same chromosome and not completely independent of each other.
+
+When genes are linked, parental combinations outnumber recombinant types
+
+**Genotypic notation** = to keep track of parental allelic combination, we can represent the genotype of $F_1$ as 
+
+![[Pasted image 20261026175225.png|402]]
+**Example**
+
+![[Pasted image 20261026175710.png|447]]
+
+
+
+
+# Chi-square and mapping
