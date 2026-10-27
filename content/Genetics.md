@@ -597,7 +597,7 @@ Alleles on the same chromosomes
 
 We can tell if genes are linked by observing the $F_2$ generation or by pedigree analysis. Law of independent assortment predicts all 4 phenotypes will occur in a dihybrid test cross. The departure from the typical $F_{2}$ phenotypic ratio (9:3:3:1) indicates that the two genes are on the same chromosome and not completely independent of each other.
 
-When genes are linked, parental combinations outnumber recombinant types
+When genes are linked, parental combinations outnumber recombinant types. When genes are unlinked (on different chromosomes), expect relatively the same number in the parental and recombinant class
 
 **Genotypic notation** = to keep track of parental allelic combination, we can represent the genotype of $F_1$ as 
 
@@ -605,8 +605,43 @@ When genes are linked, parental combinations outnumber recombinant types
 **Example**
 
 ![[Pasted image 20261026175710.png|447]]
+Comparing recombination frequencies allows us to compare the distances between different genes.
+- since recombination frequency for w and m (35%) is higher than for w and y (1%), we know w and y are closer together than w and m
 
-
-
-
+**Recombination** results when crossing-over during meiosis separates linked genes 
 # Chi-square and mapping
+
+**Chi square test** = used to evaluate hypotheses that two genes assort independently or are genetically linked
+- indicates how often an experimentally observed deviation from a particular hypothesis will occur solely by chance
+- comparison between observed and predicted values
+- require large sample sizes
+
+when geneticists want to determine if two genes are linked, they actually test whether the data is consistent with a null hypothesis of no linkage. If the chi square test shows that the observed data differ significantly from what would be expected with independent assortment, the null hypothesis is rejected and the genes are linked.
+
+**Chi square test method**
+1) Use the data obtained from a breeding experiment to determine the total number of offspring, the number of different classes of offspring and the number of offspring observed in each class.
+2) Calculate the number of offspring that would be expected for each class if the null hypothesis were correct (percentage predicted total number of offspring).
+3) $$x^2 = \sum \frac{(\text{number observed - number expected})^2}{\text{number expected}}$$
+4) Determine the degrees of freedom ($df$) = number of classes -1.
+5) Find the chi-square value and number of degrees of freedom on a chi square table, to determine a p value: the probability that a deviation from the predicted numbers at least as large as that observed in the experiment will occur by chance.
+6) Evaluate the significance of the p value. The convention is that a 0.05 p value is the boundary between accepting and rejecting the null hypothesis. Very small p values indicate a high degree of significant difference.
+0.05 = 5% chance that the observation is due to chance alone (in other words, a 95% probability that the observation is not due to chance. It is a REAL difference)
+
+**Chi square table**
+![[Pasted image 20261026214553.png|529]]
+**Standard deviation**
+- the area under the curve is the standard deviation about a mean results 
+- a 5% ($p = 0.05$) cutoff corresponds to 2 standard deviations 
+![[Pasted image 20261026214840.png|370]]
+**p-value**
+- if the p value is high, we conclude: the null hypothesis is correct; the deviation from expected is due to chance, the difference is not significant, and the genes are not linked
+- if the p value is low, we conclude: the null hypothesis is incorrect, the deviation from expected is not due to chance, the difference is significant, and the genes are linked
+
+**map units**
+- Recombination frequencies of pairs of genes reflect the distances between them along a chromosome.
+- The probability of a crossover occurring between two genes increases with the distance separating them.
+- 1% RF = 1 centimorgan (cM) = 1 map unit (m.u.).
+- Recombination frequencies provide the basis of genetic mapping.
+- Experimental recombination frequencies between two genes are never greater than 50%
+- recombination frequencies of 50% between two genes indicates the genes are either not on the same chromosome or are at a great distance from each other on the some chromosome 
+
