@@ -640,6 +640,8 @@ when geneticists want to determine if two genes are linked, they actually test w
 **map units**
 - Recombination frequencies of pairs of genes reflect the distances between them along a chromosome.
 - The probability of a crossover occurring between two genes increases with the distance separating them.
+
+
 - 1% RF = 1 centimorgan (cM) = 1 map unit (m.u.).
 - Recombination frequencies provide the basis of genetic mapping.
 - Experimental recombination frequencies between two genes are never greater than 50%

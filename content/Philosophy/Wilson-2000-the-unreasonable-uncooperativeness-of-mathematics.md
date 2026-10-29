@@ -1,5 +1,5 @@
 ---
-title: Wilson-2000-the-unreaosonable-uncooperativeness-of-mathematics
+title: Wilson-2000-the-unreasonable-uncooperativeness-of-mathematics
 draft: false
 tags:
   - philosophy

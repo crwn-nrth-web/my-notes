@@ -18,4 +18,5 @@ tags:
 	- [[Shapiro-1983-mathematics-and-reality]]
 	- [[structural-realism|scientific-structural-realism]]
 - [[mathematical-naturalism]] = mathematics is a lot like science, where even the most advanced abstract mathematical concepts that can lead back to basic mathematical concepts that are rooted in the natural world (e.g. natural world).
-- [[Wilson-2000-the-unreaosonable-uncooperativeness-of-mathematics]]
+- [[Wilson-2000-the-unreasonable-uncooperativeness-of-mathematics]]
+- 

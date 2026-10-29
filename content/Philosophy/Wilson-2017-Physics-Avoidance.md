@@ -17,7 +17,7 @@ Examples:
 - vibrations of a string = trading uncountably many particle positions $q(r)$ for a few harmonic modes $E_{i} , \theta_{i}$
 - putting grids (discrete steps) on continuous motion
 - water flowing through a pipe = laminar steady states replace molecular tracking
-- [[Wilson-2000-the-unreaosonable-uncooperativeness-of-mathematics#Core vs. Satellite equations|core vs. satellite equations]] = leaving behind the core evolutionary equations for equilibrium satellite equations
+- [[Wilson-2000-the-unreasonable-uncooperativeness-of-mathematics#Core vs. Satellite equations|core vs. satellite equations]] = leaving behind the core evolutionary equations for equilibrium satellite equations
 
 When we use physics avoidance (equilibrium conditions, or assuming animals as cylinders), there is a worry about the fit of the model to reality, i.e. how far we've strayed from reality in order to make simpler mathematical models
 
@@ -31,8 +31,13 @@ Looking at (1), Wilson gives an illustrative example:
 ---
 
 **D-N model** = deductive-nomological explanation in philosophy of scientific explanation
-- plugging the initial conditions into the laws of nature 
+- explaining a phenomena by showing that it was to be expected by logically deducing it from general laws of nature and specific initial conditions
 - consists of two main parts:
-	- *explanandum* = describing the phenomena to be explained
 	- *explanans* =  the set of statements that does the explaining, which must contain general laws (nomological component) and initial conditions (deductive component)
+	- *explanandum* = describing the phenomena to be explained
 - e.g. explaining there will be a solar eclipse next year by plugging a general law and specific initial conditions into a logical deduction
+
+![[Pasted image 20261029162642.png|466]]
+Wilson describes Railton's **D-N-P model** = instead of each transition being fixed deductively, the basic laws now permit a number of possible next stages governed by some probability measure
+
+These are exemplars of what Wilson calls **Theory T syndrome** = the founding habit of analytic philosophy of science, modelling theories and explanations as logical structures rather than as the mathematical objects scientists actually use
