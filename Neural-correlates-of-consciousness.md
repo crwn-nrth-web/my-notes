@@ -49,6 +49,13 @@ Dennett's multiple draft model (Fame in the Brain) is a version of GWT
 - *Preconscious* = information could become globally accessible, but is not currently selected into the workspace
 - *Conscious* = information is selected and globally broadcasted, making it available for flexible use
 
+this taxonomy distinguishes processing a stimulus from the stimulus becoming consciously accessible.
+
+**Neural evidence**
+- Frontoparietal activation during conscious perception (eg. Dehaene & Naccache, 2001)  
+- Recurrent activity and long-range connectivity (e.g. Lamme, 2006)  
+- Disrupting prefrontal cortex can reduce conscious access (e.g. transcranial magnetic stimulation or TMS studies)  
+- No-report studies show similar activation patterns, suggesting consciousness is not just about reporting
 
 ### Higher Order Thought Theory (HOTT / HOT)
 
@@ -58,6 +65,39 @@ In other words, you are conscious when you think about your own mental states.
 
 - *First order states* = basic  sensory, emotional or cognitive perceptions are initially unconscious on their own
 - *Higher order states* = consciousness emerges strictly when a higher-order thought directs attention or meta-represents that first-order states (e.g. thinking "I am experiencing pain" or "I am seeing an apple")
+	- the higher order state does not need to be verbal, it can be verbal or implicit
 
 Some argue that lower animals lack the high-level conceptual thought required to have thoughts about their thoughts
 
+**Key features of HOTT**
+- The theory is a representationalist theory, preserving what we often think to be  distinctive of mentality (that it be representational, and not merely functional)  
+- Specifically, it is meta-representation 
+- Involves self-awareness, which we take to be definitive of consciousness  
+- Distinction between first-order and higher-order states may track neural hierarchies at the level of implementation, e.g. representations in working memory and the visual cortex
+
+![[Pasted image 20261029103337.png|406]]
+**why posit a higher order thouhgt?**
+- Many kinds of mental states (beliefs, desires, perceptions) can occur unconscious, such as absent-minded driving = visual processing guides action, yet little of the route is later consciously recalled
+- higher-order thought allows us to explain these unconscious behaviors
+
+##### David Rosenthal
+Actualist HOTT
+
+- Designed to demystify phenomenal consciousness, reducing it to mental  representations
+- For that first-order state to become conscious, the brain must generate a separate, distinct, and actual (i.e. occurrent) thought directed at the first-order  state
+- The content of this HOT is roughly: "I am currently experiencing this specific first-order state"
+- The HOT must arise immediately and automatically
+	-  If you have to infer that you are in a mental state (e.g., observing your own shaking hands and concluding you are nervous), that state is not conscious in the way HOTT describes
+
+**Three forms of consciousness**
+1. *Creature Consciousness* = the biological state of an organism being awake, alert, or responsive, as opposed to being asleep, anesthetized, or in a coma  
+2. *Transitive Consciousness* = the state of a creature being conscious of something (e.g. conscious of a humming and rattling heating vent)
+3. *State Consciousness (Intransitive)* = the property that belongs to a mental state itself; this is the central target of Rosenthal's theory: what makes a particular brain state a "conscious state" instead of an "unconscious state"?
+
+*Transitivity principle* (IP) = a mental state is conscious (transitively) only if the subject is aware of being in that state
+- It provides the logical foundation for Rosenthal's model of consciousness by defining exactly what it means for a mental state to be conscious
+- it requires a logical (transitive) relationship between two things. For consciousness to occur, there must be a subject doing something (“becoming  aware”) and a mental state, being the thing the subject is aware of  
+
+Rosenthal develops this in response to the intrinsicality of qualia. [[phenomenology]] and many other philosophers assume that consciousness is a fundamental, intrinsic property of certain mental states. The transitivity principle rejects the intrinsic consciousness. Rosenthal isolates two fundamental problems with intrinsicality =
+1. *Intrinsicality ignores unconscious states* = We know from modern psychology and neuroscience that the brain processes visual inputs, language, and emotions unconsciously all the time. If a visual state can exist unconsciously, then "being conscious" cannot be an inherent property of a visual state  
+2. *Explanatorily empty* = The Transitivity Principle allows Rosenthal to explain consciousness using a mechanism (one state representing another state) rather than treating it as a magical, unexplainable property
