@@ -24,12 +24,38 @@ Source: [[Genetics]]
 
 These form the *nucleotides* which are linked in a directional chain through phosphodiester bonds on the 3' end of the ribose sugar
 
-![[Pasted image 20261030221658.png|184]] ![[Pasted image 20261030221153.png|471]]
+![[Pasted image 20261031115230.png|351]] ![[Pasted image 20261030221153.png|471]]
 
 **Structure**
+- anti-parallel strands (from 5' to 3') held together by hydrogen bonds between the base pairs
+- A pairs with T (with 2 hydrogens between them)
+- G pairs with C (with 3 hydrogens between them)
+- each turn of the DNA molecule is 34 $\dot{{A}}$ (0.34 nm)
 
+> Question: if A in a sample is 12%, what is the percentage of C?
+> 	 A + T = 24%
+> 	 C + G = 100 - 24 = 76%
+> 	 C = 76/2 = 38%
 
-##### Discovering DNA as genetic material
+**Alternate forms of DNA**
+
+```hblock
+
+- The B-form is hydrated DNA and the A-form is dehydrated DNA. These spiral to the right
+- Some nucleotide sequences (alternating purine : pyrimidine base pair repeats) cause the DNA to assume Z-form which spirals to the left and the phosphorus backbone takes on a zig-zag shape
+---
+![[Pasted image 20261031120149.png|360]]
+```
+
+| Helix form | Direction    |
+| ---------- | ------------ |
+| A          | Right-handed |
+| B          | Right-handed |
+| Z          | Left-handed  |
+
+- some DNA molecules are circular rather than linear
+- some viruses carry single-stranded DNA while others use RNA as their primary genetic material
+### Discovering DNA as genetic material
 
 Historical timeline of what constitutes a gene / what makes up genetic material =
 - early scientists considered proteins to be the substance of genes
@@ -83,4 +109,4 @@ These mediums were used because phosphorus is not present in proteins, and sulfu
 - For Batch 2, the radioactive phosphorus was found inside the bacterial cells in the pellet, showing that DNA had been injected into the host molecule
 - hence, DNA is the hereditary molecule
 
-
+### DNA Replication
