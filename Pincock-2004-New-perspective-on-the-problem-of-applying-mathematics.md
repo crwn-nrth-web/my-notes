@@ -17,7 +17,7 @@ Pincock's approach to answering the applicability problem is to begin by focusin
 - e.g. "the mass of the satellite is 100 kg", "the gravitational acceleration is 9.81 $m / s^2$"
 
 In this article, Pincock is considering accounts for the application of mathematics "in a way that is independent of accounts of pure mathematics"
-##### relation vs no-relation accounts
+### relation vs no-relation accounts
 
 A division of accounts of application can be made based on whether or not an account accepts mixed statements as claims about complex relations between mathematical and non-mathematical objects
 
@@ -26,8 +26,16 @@ A division of accounts of application can be made based on whether or not an acc
 **Relation account** accepts that mixed statements depend on a relation between mathematical and physical domains for their truth
 
 *Internal relation account* 
-- an internal relation for an object $a$ is a relation that $a$ must stand in if it is to be that particular object
 - requires that an internal relation obtain between the mathematical domain and the physical world
+- an internal relation for an object $a$ is a relation that $a$ must stand in if it is to be that particular object
+
+*external relation account*
+- mixed statements require for their truth the existence of an external relation between the mathematical and physical domain
+- external relation is any relation that does not involve the criteria of identity of the mathematical objects
+
+One external relation approach is the *structuralist approach*
+- the truth of mixed statements depend upon the existence of mappings that have the right properties, and these properties that can be picked out in structural terms
+- this structuralist approach is independent of the structuralist account of pure mathematics
 
  
 

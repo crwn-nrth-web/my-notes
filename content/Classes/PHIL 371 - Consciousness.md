@@ -18,6 +18,7 @@ The concept of the mind is a *mongrel* concept. Mongrel concepts are still attac
 - [[Block-on-Consciousness]]
 - [[Nagel-what-is-it-like-to-be]]
 - [[hard-problem-of-consciousness-and-the-explanatory gap]]
+- [[Dennett-Quining-Qualia]]
 - [[Neural-correlates-of-consciousness]]
 - High order thought theories
 - Cognitive theories
