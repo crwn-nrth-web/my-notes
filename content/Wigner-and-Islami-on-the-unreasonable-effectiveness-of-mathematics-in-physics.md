@@ -15,7 +15,8 @@ aliases:
 > 
 > Islami, A. (2017). A match not made in heaven: on the applicability of mathematics in physics. _Synthese_ **194**, 4839–4861. https://doi.org/10.1007/s11229-016-1171-4
 
-What has puzzled philosophers of science is the relationship between mathematics and physics, and how despite their underlying differences, they work so well together, i.e.
+What has puzzled philosophers of science is the r
+elationship between mathematics and physics, and how despite their underlying differences, they work so well together, i.e.
 
 > “physics is the study of inanimate nature, concerned with the discovery of laws of nature, while mathematics is the study of concepts (structures) and operations, which seems to be far removed from the empirical study of the natural world” (Islami, 2017, p. 2)
 
