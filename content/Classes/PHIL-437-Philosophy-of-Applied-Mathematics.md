@@ -8,9 +8,14 @@ tags:
 
 > Theoretical physicist Eugene Wigner infamously argued that “the miracle of the appropriateness of the language of mathematics for the formulation of the laws of physics is a wonderful gift which we neither understand nor deserve.” We will take Wigner’s argument that the application of mathematics in science is miraculous and unreasonable as a challenge. What is the reasonable explanation for our success in applying mathematics? What does this explanation tell us about the nature of logical, mathematical and scientific knowledge? How (if at all) does applied mathematics succeed in describing the world?
 
+
+
+#### topics 
+
 [[Wigner-and-Islami-on-the-unreasonable-effectiveness-of-mathematics-in-physics]]
 
 **Philosophy of mathematics** aims to learn about the nature of maths itself and is concerned with questions, such as = do numbers exist? how can we have knowledge of mathematical entities?
+
 - *Pythagoreanism* = the world is math
 	- [[Steiner-on-the-applicability-of-mathematics]]
 	- [[Tegmark-Mathematical-Universe]]
@@ -19,7 +24,7 @@ tags:
 	- [[structural-realism|scientific-structural-realism]]
 - [[mathematical-naturalism]] = mathematics is a lot like science, where even the most advanced abstract mathematical concepts that can lead back to basic mathematical concepts that are rooted in the natural world (e.g. natural world).
 - [[Wilson-2000-the-unreasonable-uncooperativeness-of-mathematics]]
-- 
 
 The mapping account of the applicability of mathematics
 - [[Pincock-2004-New-perspective-on-the-problem-of-applying-mathematics]]
+
