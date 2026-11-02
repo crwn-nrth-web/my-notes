@@ -5,7 +5,7 @@ tags:
   - philosophy
   - source
 ---
- Wilson begins by pointing out that it has become common to characterize mathematics as "the general science of possible structures". Within mathematics big bag of general "structures", there must be a structure that is structurally isomorphic to that of the physical world. 
+Wilson begins by pointing out that it has become common to characterize mathematics as "the general science of possible structures". Within mathematics big bag of general "structures", there must be a structure that is structurally isomorphic to that of the physical world. 
  
 > “I have defined *mathematical optimism* to be the doctrine that every real-life physical structure can be expected to possess a suitable direct representative within the world of mathematics.” (Wilson, 2000, p. 297)
 

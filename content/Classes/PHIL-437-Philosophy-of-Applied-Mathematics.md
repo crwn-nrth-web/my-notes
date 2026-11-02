@@ -20,3 +20,6 @@ tags:
 - [[mathematical-naturalism]] = mathematics is a lot like science, where even the most advanced abstract mathematical concepts that can lead back to basic mathematical concepts that are rooted in the natural world (e.g. natural world).
 - [[Wilson-2000-the-unreasonable-uncooperativeness-of-mathematics]]
 - 
+
+The mapping account of the applicability of mathematics
+- [[Pincock-2004-New-perspective-on-the-problem-of-applying-mathematics]]

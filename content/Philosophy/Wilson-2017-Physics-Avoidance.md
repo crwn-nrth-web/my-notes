@@ -7,7 +7,9 @@ tags:
 aliases:
   - physics-avoidance
 ---
-This essay argues that practical physics often achieves predictive and explanatory success through **“physics avoidance”**: transforming problems into more tractable explanatory frameworks rather than modeling every process directly.
+[[Ruetsche-when-the-concrete-is-hard]]
+
+This section of the book argues that practical physics often achieves predictive and explanatory success through **“physics avoidance”**: transforming problems into more tractable explanatory frameworks rather than modeling every process directly.
 
 The focus is “to investigate how various strategies for effective “physics avoidance” can alter the background explanatory landscape in which a problem is framed” (p. 2).
 
@@ -41,3 +43,4 @@ Looking at (1), Wilson gives an illustrative example:
 Wilson describes Railton's **D-N-P model** = instead of each transition being fixed deductively, the basic laws now permit a number of possible next stages governed by some probability measure
 
 These are exemplars of what Wilson calls **Theory T syndrome** = the founding habit of analytic philosophy of science, modelling theories and explanations as logical structures rather than as the mathematical objects scientists actually use
+
