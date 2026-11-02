@@ -9,4 +9,6 @@ views:
       - file.name
       - file.tags
     columnSize:
-      file.name: 422
+      file.name: 509
+  - type: table
+    name: View
