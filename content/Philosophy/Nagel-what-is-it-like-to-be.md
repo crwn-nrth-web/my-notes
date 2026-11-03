@@ -30,6 +30,10 @@ Trying to imagine what it is like to be a bat (or anything that is not ourselves
 Nagel argues that experiential facts (what it is like) are essentially tied to a subjective point of a view. Physicalism however aims at objectivity, which means describing things in a way that doesn't depend on any particular observer's viewpoint. Therefore, it is "a mystery" how a perspective-bound fact could be captured by a perspective-free account. Normally, in reductionism we set aside how the object appears to us, leaving behind the objective nature which the physical theory explain. With experience, this move fails because the appearance is the phenomenon and so there is no objective ore left behind.
 
 > "After all, what would be left of what it was like to be a bat if one removed the viewpoint of the bat?" (p. 443)
+
+#### How physicalism is undermined
+
+
 #### Nagel's proposal for science of consciousness
 
 > "At present we are completely unequipped to think about the subjective character of experience without relying on the imagination -- without taking up the point of view of the experiential subject. This should be regarded as a challenge to form new concepts and devise a new method -- an objective phenomenology not dependent on empathy or the imagination."
