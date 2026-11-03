@@ -110,3 +110,7 @@ These mediums were used because phosphorus is not present in proteins, and sulfu
 - hence, DNA is the hereditary molecule
 
 ### DNA Replication
+
+- two helicase should be used, one at each replication fork
+- primase should make two RNA primers initially, top primer and bottom primer
+- 
