@@ -4,7 +4,7 @@ draft: false
 tags:
   - biology
 ---
-Source: [[Genetics]]
+To transcribe an RNA strand from a DNA template strandSource: [[Genetics]]
 
 **characterization of DNA**
 - it is phosphorous rich, acting as a backbone down the single strand of DNA molecules. 
@@ -113,4 +113,15 @@ These mediums were used because phosphorus is not present in proteins, and sulfu
 
 - two helicase should be used, one at each replication fork
 - primase should make two RNA primers initially, top primer and bottom primer
-- 
+
+To transcribe an RNA strand from a DNA template strand,
+- *Antiparallel orientation:* The DNA template strand is read in the **3' to 5'** direction, meaning the resulting mRNA strand is synthesized in the **5' to 3'** direction
+- DNA **A** pairs with RNA **U** 
+- DNA **T** pairs with RNA **A**
+- DNA **C** pairs with RNA **G**
+- DNA **G** pairs with RNA **C**
+
+To translate an mRNA sequence into an amino acid sequence,
+- read in triplets
+- match codon to amino acids (using standard genetic)
+- end the sequence when yo
