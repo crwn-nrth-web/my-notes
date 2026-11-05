@@ -75,10 +75,17 @@ Some argue that lower animals lack the high-level conceptual thought required to
 - Involves self-awareness, which we take to be definitive of consciousness  
 - Distinction between first-order and higher-order states may track neural hierarchies at the level of implementation, e.g. representations in working memory and the visual cortex
 
-![[Pasted image 20261029103337.png|406]]
-**why posit a higher order thouhgt?**
+![[Pasted image 20261029103337.png|406]] %%iw-row align=center%%
+
+**why posit a higher order thought?**
 - Many kinds of mental states (beliefs, desires, perceptions) can occur unconscious, such as absent-minded driving = visual processing guides action, yet little of the route is later consciously recalled
 - higher-order thought allows us to explain these unconscious behaviors
+
+**Benefits of HOTT**
+- the higher-order thought makes the mental state available to the self
+- provides a basis for reporting
+- helps explain the unity and intentionality of conscious experience
+- complements intuitively with the view that consciousness comes with the knowledge that one is in a state
 
 ##### David Rosenthal
 Actualist HOTT
@@ -101,3 +108,25 @@ Actualist HOTT
 Rosenthal develops this in response to the intrinsicality of qualia. [[phenomenology]] and many other philosophers assume that consciousness is a fundamental, intrinsic property of certain mental states. The transitivity principle rejects the intrinsic consciousness. Rosenthal isolates two fundamental problems with intrinsicality =
 1. *Intrinsicality ignores unconscious states* = We know from modern psychology and neuroscience that the brain processes visual inputs, language, and emotions unconsciously all the time. If a visual state can exist unconsciously, then "being conscious" cannot be an inherent property of a visual state  
 2. *Explanatorily empty* = The Transitivity Principle allows Rosenthal to explain consciousness using a mechanism (one state representing another state) rather than treating it as a magical, unexplainable property
+
+###### problems with HOTT
+
+**Are HOTs themselves conscious?** = The regress problem
+
+If every conscious state requires you to be aware of it via higher order state then:
+1. to have a conscious first order thought (FO), you need a higher order thought HOT(1)
+2. but if HOT(1) is itself a conscious state, then that presupposes the existence of HOT(2) = a higher higher order thought (or a third order state)
+3. if HOT(2) is conscious then, so on and so forth, forming an infinite regress problem
+
+In order to stop the regress (having higher higher . . . order thoughts), Rosenthal says that the highest order thought is unconscious. 
+
+**The Rock objection**
+According to Rosenthal, state consciousness is a relational property. A first order state becomes a conscious state simply because a higher order thought points at it and represents it.
+
+Critics argue that if simply being represented by a thought is this theory's magic ingredient that grants consciousness, why doesn't this same logic should apply to everything else we think about? Why doesn't thinking about a rock (having a higher order thought about a rock) make a rock conscious? 
+
+Rosenthal responds to this objection that he is talking only about the property of mental states. The target must be an appropriate mental state of the subject. There is a distinction between the subject being conscious of something, and the subject being in a conscious state. HOTT is designed only to speak of the latter -- internal states.
+
+**The "Liver twist" objection**
+
+
