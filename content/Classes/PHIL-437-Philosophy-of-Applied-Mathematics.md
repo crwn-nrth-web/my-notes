@@ -8,8 +8,6 @@ tags:
 
 > Theoretical physicist Eugene Wigner infamously argued that “the miracle of the appropriateness of the language of mathematics for the formulation of the laws of physics is a wonderful gift which we neither understand nor deserve.” We will take Wigner’s argument that the application of mathematics in science is miraculous and unreasonable as a challenge. What is the reasonable explanation for our success in applying mathematics? What does this explanation tell us about the nature of logical, mathematical and scientific knowledge? How (if at all) does applied mathematics succeed in describing the world?
 
-
-
 #### topics 
 
 [[Wigner-and-Islami-on-the-unreasonable-effectiveness-of-mathematics-in-physics]]
@@ -24,9 +22,11 @@ tags:
 	- [[structural-realism|scientific-structural-realism]]
 - [[mathematical-naturalism]] = mathematics is a lot like science, where even the most advanced abstract mathematical concepts that can lead back to basic mathematical concepts that are rooted in the natural world (e.g. natural world).
 - [[Wilson-2000-the-unreasonable-uncooperativeness-of-mathematics]]
-
-The mapping account of the applicability of mathematics
-- [[Pincock-2004-New-perspective-on-the-problem-of-applying-mathematics]]
-- [[Bueno-&-Colyvan-2011-inferential-account-of-applied-maths]]
-- [[Batterman-2010-mathematical-explanation]]
-
+- *The mapping accounts of the applicability of mathematics*
+	- [[Pincock-2004-New-perspective-on-the-problem-of-applying-mathematics]]
+	- [[Bueno-&-Colyvan-2011-inferential-account-of-applied-maths]]
+	- [[Batterman-2010-mathematical-explanation]]
+- Applying mathematics in other disciplines (economics, biology, etc.)
+	- [[Marino-2026-philosophy-of-mathematics-in-economics]]
+	- [[Andrews-2025]]
+- *beauty*
