@@ -4,6 +4,8 @@ draft: false
 tags:
   - philosophy
   - source
+aliases:
+  - Pincock-mapping-account
 ---
 Pincock begins by giving a great analogy for the **applicability problem** = 
 > If we are looking to launch a satellite, we begin by "taking the specifications of the latest rocket engine and consider what velocity and height the rocket will reach before burnout. But the velocity and altitude that will be reached depends on the mass of the rocket, which decreases as it uses its fuel . . . we derive equations for the magnitudes that we are interested in and solve them. The equations are derived from basic equations of our scientific theory, along with certain assumptions like the conservation of linear momentum. Given our knowledge of mathematics we can solve these equations using the appropriate constants and we conclude that at burnout the rocket will be 100 km above the Earth and that it will have a velocity of 2.16 x 103 m/s away from the Earth. . . 

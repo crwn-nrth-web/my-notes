@@ -27,4 +27,6 @@ tags:
 
 The mapping account of the applicability of mathematics
 - [[Pincock-2004-New-perspective-on-the-problem-of-applying-mathematics]]
+- [[Bueno-&-Colyvan-2011-inferential-account-of-applied-maths]]
+- [[Batterman-2010-mathematical-explanation]]
 
