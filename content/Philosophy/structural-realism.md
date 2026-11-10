@@ -73,3 +73,5 @@ Whether structures can be separated from nature
 
 A problem that arises is filling in the gaps (what is structure? where does math go?) = the argument that there are continuities in particular cases rests on deriving equations of old theory from new in particular limits. Does this work beyond physics and some examples in chemistry?
 
+we recognize the relations that matter only after they have been retained across theories, so persistence cannot tell us which relations matter in our current theories
+
