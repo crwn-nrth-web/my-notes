@@ -27,6 +27,6 @@ tags:
 	- [[Bueno-&-Colyvan-2011-inferential-account-of-applied-maths]]
 	- [[Batterman-2010-mathematical-explanation]]
 - Applying mathematics in other disciplines (economics, biology, etc.)
-	- [[Marino-2026-philosophy-of-mathematics-in-economics]]
+	- [[Marino-2025-philosophy-of-mathematics-in-economics]]
 	- [[Andrews-2025]]
 - *beauty*
