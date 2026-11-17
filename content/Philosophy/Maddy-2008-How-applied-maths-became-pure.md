@@ -32,9 +32,13 @@ Finite collections are often treated more successfully with infinitary, continuu
 
 > “When a physicist does an experiment, two very distinct representations of the instrument on which he is working fill his mind: one is the image of the concrete instrument that he manipulates in reality; the other is a schematic model of the same instrument, constructed with the aid of symbols supplied by theories; and it is on this ideal and symbolic instrument that he does his reasoning, and it is to it that he applies the laws and formulas of physics." (Duhem, 1906, pp. 155–156, as cited in Maddy, 2008, p. 32)
 
-This argument follows [[mark-wilson]] about how there seems to be a mismatch between mathematical models and the world, but you can construct models that capture at least some of the phenomena
+This argument follows [[Wilson-2000-the-unreasonable-uncooperativeness-of-mathematics]] about how there seems to be a mismatch between mathematical models and the world, but you can construct models that capture at least some of the phenomena. 
+
+
 ##### Conclusion: Applied mathematics has become pure
 
 By "pure", she means "assessed by mathematics' own standards" rather than by empirical confirmation. 
 
 Her arguments show that empirical failure doesn't revise mathematics, and empirical success doesn't confirm mathematics. Applied mathematics is not justified by empirical means. Hence, applied mathematics has become "pure" in the sense that even applied maths is justified by mathematics' own standard.
+
+> "What we have traced is a more or less simultaneous rise of pure mathematics and reevaluation of applied mathematics. Before all these, back in Newton’s or Euler’s day, the methods of mathematics and the methods of science were one and the same; if the goal is to uncover the underlying structure of the world, if mathematics is simply the language of that underlying structure, then the needs of celestial mechanics (for Newton) or rational mechanics (for Euler) are the needs of mathematics . . . In contrast, after the developments we have been tracing, mathematics has been freed to pursue inquiries without application, it is encouraged to stock the warehouses with structures and leave the choices to the natural scientists, and even the mathematical constructs that do function in application do so with a new autonomy as freestanding abstract models.” (Maddy, 2008, p. 36)
