@@ -16,6 +16,10 @@ aliases:
 - *epiphenomenal* = causally inert
 
 Physicalism does not fit comfortably with phenomenology as it is not obvious how conscious mental states as we experience them (sensations, thoughts, emotions) could correspond to complex neural states. This calls into question our commitment to physicalism.
+
+Views against phenomenal aspects of experience =
+- [[Dennett-Quining-Qualia]]
+- [[Frankish-2016-Illusionism-as-a-theory-of-consciousness]]
 #### Knowledge arguments
 
 [[Jackson-what-Mary-didn't-know]]
