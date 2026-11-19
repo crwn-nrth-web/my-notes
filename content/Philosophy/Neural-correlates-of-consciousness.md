@@ -42,7 +42,7 @@ A mental content is conscious when it enters a global neuronal workspace and bec
 
 Theatre metaphor (Bernard Baars) = the brain operates like a theater: many things happen backstage in the dark, but only what makes it onto the brightly lit stage becomes conscious.
 
-Dennett's multiple draft model (Fame in the Brain) is a version of GWT
+[[Dennett-Multiple-draft-model]] (Fame in the Brain) is a version of GWT
 
 **Taxonomy of brain processes**
 - *Subliminal* (unconscious) = information is processed but not available for global access
