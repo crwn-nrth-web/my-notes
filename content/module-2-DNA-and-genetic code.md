@@ -1,10 +1,10 @@
 ---
-title: week-2-DNA-and-genetic code
+title: module-2-DNA-and-genetic code
 draft: false
 tags:
   - biology
 ---
-To transcribe an RNA strand from a DNA template strandSource: [[Genetics]]
+To transcribe an RNA strand from a DNA template
 
 **characterization of DNA**
 - it is phosphorous rich, acting as a backbone down the single strand of DNA molecules. 

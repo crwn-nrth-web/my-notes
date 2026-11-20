@@ -1,5 +1,5 @@
 ---
-title: week-1-how-traits-are-transmitted
+title: module-1-how-traits-are-transmitted
 draft: false
 tags:
   - biology
