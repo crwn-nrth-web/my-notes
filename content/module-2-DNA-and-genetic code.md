@@ -125,3 +125,15 @@ To translate an mRNA sequence into an amino acid sequence,
 - read in triplets
 - match codon to amino acids (using standard genetic)
 - end the sequence when yo
+
+# Genetic code
+
+**Gene expression**
+- the flow of genetic information from DNA via RNA to protein
+- information in DNA is transcribed into a messenger RNA where it gets translated into proteins (or polypeptides)
+
+**translating from nucleotides to amino acids** = how do we go to 20 amino acids from 4 nucleotides?
+- each nucleotide triplet is known as a *codon* that codes for one unique amino acid
+- the start codon that begins the translation: *AUG = methionine* 
+
+![[Pasted image 20261120214132.png|290]] ![[Pasted image 20261120214903.png|391]]
