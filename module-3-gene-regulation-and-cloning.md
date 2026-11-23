@@ -73,4 +73,5 @@ Separation of DNA fragments can be done through the process of electrophoresis
 # Gene regulation in prokaryotes
 
 **Control of gene expression**
-- in prokaryotes, gene expression is regulated at all levels: transcription, RNA processing, RNA stability, translation, posttranslation, and protein function
+- in prokaryotes, gene expression is regulated at all levels: transcription, RNA processing, RNA stability, translation, post-translation, and protein function
+

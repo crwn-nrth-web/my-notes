@@ -27,7 +27,6 @@ Steiner doesn't see a miracle for the [[Wigner-and-Islami-on-the-unreasonable-ef
 **Steiner's Pythagoreanism** = the world is math and math is anthropocentric. Both the world and math exist (and are the same). 
 
 
-
 > “The weak conclusion is that scientists have recently abandoned naturalist thinking in their desperate attempt to discover what looked like the undiscoverable. This is a conclusion about scientists, not about nature. The strong conclusion is about naturalism: the apparent success of Pythagorean and formalist methods is sufficiently impressive to create a significant challenge to naturalism itself.” (Chapter 3, p. 75)
 
 ### Steiner on Wigner

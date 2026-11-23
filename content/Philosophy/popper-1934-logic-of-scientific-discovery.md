@@ -3,6 +3,8 @@ title: popper-1934-logic-of-scientific-discovery
 draft: false
 tags:
   - philosophy
+aliases:
+  - popper-falsification-of-a-theory
 ---
 > Popper, K. R.(1934). _The Logic of scientific discovery_ . Routledge.
 

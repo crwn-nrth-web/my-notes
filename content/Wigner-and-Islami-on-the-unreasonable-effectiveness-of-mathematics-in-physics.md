@@ -45,8 +45,7 @@ This paper was originally a lecture, in the Richard Courant Lecture in Mathemati
 > “The miracle of the appropriateness of the language of mathematics for the formulation of the laws of physics is a wonderful gift which we neither understand nor deserve. We should be grateful for it and hope that it will remain valid in future research and that it will extend, for better or for worse, to our pleasure even though perhaps also to our bafflement, to wide branches of learning.” (Wigner, 1960, p. 14)
 
 Wigner's conclusion (and answer to the Applicability Problem) is that the effectiveness of mathematics in the natural science is unreasonable, i.e. there is no rational explanation for the Applicability Problem.
-
-Mark Steiner (1998) [^4] reconstructs Wigner's argument = ^9a17ab
+[[Steiner-on-the-applicability-of-mathematics]] (1998) [^4] reconstructs Wigner's argument = ^9a17ab
 1. Mathematical concepts arise from the aesthetic impulse in humans. 
 2. It is unreasonable to expect that what arises from the aesthetic impulse in humans should be significantly effective in physics. 
 3. Nevertheless, a significant number of these concepts are significantly effective in physics. 

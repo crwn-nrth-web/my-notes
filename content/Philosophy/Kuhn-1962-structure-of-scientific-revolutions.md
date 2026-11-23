@@ -4,6 +4,8 @@ draft: false
 tags:
   - philosophy
   - source
+aliases:
+  - Khunian-account-of-science
 ---
  > Kuhn, T. S. (1994). _The structure of scientific revolutions_ (2. ed., enlarged, 21. print). Univ. of Chicago Press.
 

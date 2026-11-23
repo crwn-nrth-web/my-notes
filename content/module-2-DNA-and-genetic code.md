@@ -109,7 +109,7 @@ These mediums were used because phosphorus is not present in proteins, and sulfu
 - For Batch 2, the radioactive phosphorus was found inside the bacterial cells in the pellet, showing that DNA had been injected into the host molecule
 - hence, DNA is the hereditary molecule
 
-### DNA Replication
+# DNA Replication
 
 - two helicase should be used, one at each replication fork
 - primase should make two RNA primers initially, top primer and bottom primer
@@ -135,5 +135,47 @@ To translate an mRNA sequence into an amino acid sequence,
 **translating from nucleotides to amino acids** = how do we go to 20 amino acids from 4 nucleotides?
 - each nucleotide triplet is known as a *codon* that codes for one unique amino acid
 - the start codon that begins the translation: *AUG = methionine* 
+- stop codons: *UAA / UAG / UGA*
+- the genetic code is degenerate = several codons will give you the same codons
 
 ![[Pasted image 20261120214132.png|290]] ![[Pasted image 20261120214903.png|391]]
+
+There is a linear relationship between the nucleotide sequence in a gene and the order of amino acids in the polypeptide chain specified by the gene
+
+![[Pasted image 20261121205242.png|1185]]
+
+Moving from 5' to 3' end of an mRNA, each successive codon is sequentially interpreted into an amino acid, starting with the N-terminus and ending with the C-terminus
+
+![[Pasted image 20261121212156.png|380]] %%iw-row align=center%%
+
+**Finding the Open Reading Frame**
+- starting from the 5' end, look for the start codon *ATG*
+- the Open Reading Frame is between the start and stop codon
+
+### Frameshift mutations
+
+**Frameshift mutations** = changes that alter the grouping of nucleotides into codons
+- inserting or deleting nucleotides, not in multiples of three, shifts the reading frame and alters downstream amino acids
+	- Adding a single nucleotide +1
+	- Adding two nucleotides +2
+	- etc.
+
+**Intragenic suppression** = a nearby compensating insertion or deletion can restore the reading frame and yield a functioning protein of enough of the original sequence remains intact
+
+![[Pasted image 20261121210052.png|578]] ![[Pasted image 20261121210943.png]]
+
+If a gene sustains 3 (or multiple of 3) nucleotide mutations of the same sign (insertions or deletions), the protein can still function. 
+
+This is only true only if the mutation does not affect the majority of amino acids
+- if all 3 insertions/deletions happen close together at the beginning, only a tiny section is scrambled, leaving most of the reading frame functional
+- having the insertions/deletions far apart keeps most of the protein altered, it becomes a non-functional mutant
+
+![[Pasted image 20261121211005.png]]
+
+**mutations between genes** = adding a nucleotide in an intervening region between two genes has no effect 
+
+![[Pasted image 20261121211357.png]]
+
+
+# Transcription
+

@@ -29,4 +29,4 @@ tags:
 - Applying mathematics in other disciplines (economics, biology, etc.)
 	- [[Marino-2025-philosophy-of-mathematics-in-economics]]
 	- [[Andrews-2025]]
-- *beauty*
+- [[mathematical-beauty]]
