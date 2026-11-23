@@ -40,7 +40,7 @@ Douglas identifies several reasons scientists and philosophers maintain the valu
 ## Douglas' Thesis: The ideal is unattainable and undesirable
 Main claim = For policy-relevant science, we need to reject the value free ideal. Non-epistemic values are logically needed for reasoning in science and the rejection of the value-free ideal does not demolish science's objectivity
 
-Douglas argues that the value-free ideal is *unattainable* because scientists must be the ones to make choices that that require weighing consequences of errors, which necessarily involves value judgements. It is *undesirable* because pretending science is value-free doesn't eliminate values, it merely hides them and makes science less transparent and less democratically accountable as values creep back in subconsciously regardless.
+Douglas argues that the value-free ideal is *unattainable* because scientists must be the ones to make choices that that require weighing consequences of errors, which necessarily involves value judgements. It is *undesirable* because pretending science is value-free doesn't eliminate values, it merely hides them and makes science less transparent and less democratically accountable as values creep back in subconsciously regardless. ^cd2c65
 #### Core arguments
 1. [[Douglas-on-choices-and-values-in-science]] = choices under uncertainty require weighing false positives and false negatives, which involve value judgements about consequence
 2. even routine scientific work (characterizing data, selecting methods, interpreting result) involves choices with potential for error

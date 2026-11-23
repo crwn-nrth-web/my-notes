@@ -3,6 +3,9 @@ title: mathematical-beauty
 draft: false
 tags:
   - philosophy
+aliases:
+  - Hossenfelder-how-beauty-leads-physics-astray
+  - Dickson-Beauty-doth-of-itself-persuade
 ---
 ## Dickson, Beauty Doth of Itself Persuade
 
