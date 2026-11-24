@@ -24,3 +24,5 @@ As Hossenfelder writes:
 This also brings to mind [[Douglas-2007-rejecting-value-free-science]]. Douglas argues that the value-free ideal is both unattainable and undesirable. Importantly, pretending that science is value-free does not eliminate the influence of values; it merely makes them less visible. When values are not explicitly acknowledged, they can continue to influence scientific practice subconsciously, without being subjected to the scrutiny they deserve. 
 
 I think the same concern applies to the role of beauty in physics. Attempting to establish beauty as an objective criterion for theory assessment does not necessarily remove the subjective preferences underlying it. Instead, it risks disguising those preferences as objective scientific standards. Perhaps scientific objectivity is better served not by attempting to eliminate values, but by making their influence explicit, allowing them to be critically examined and challenged.
+
+> Now mathematicians I am not going after your conception of mathematical beauty. There is genuine merit and it has been a genuine source of inspiration in theoretical physics

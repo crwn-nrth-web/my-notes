@@ -22,9 +22,11 @@ The concept of the mind is a *mongrel* concept. Mongrel concepts are still attac
 	- [[Dennett-Quining-Qualia]]
 	- [[Frankish-2016-Illusionism-as-a-theory-of-consciousness]]
 - [[Neural-correlates-of-consciousness]]
-- High order thought theories
-- Cognitive theories
-- Information integration theory and panpsychism
+- [[Thaggard-NBC-theory-of-consciousness]]
+- [[Dennett-Multiple-draft-model]]
+- [[Panpsychism]]
+- information integration theory
 - machine consciousness
 - animal consciousness
 - embodied phenomenology
+
