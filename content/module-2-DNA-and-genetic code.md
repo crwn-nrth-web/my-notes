@@ -126,6 +126,31 @@ To translate an mRNA sequence into an amino acid sequence,
 - match codon to amino acids (using standard genetic)
 - end the sequence when yo
 
+## Molecular mechanism of DNA replication
+
+Replication is a complex process which occurs at a precise moment in the cell cycle (S-phase in eukaryotes)
+
+Synthesis is always 5' to 3' direction
+
+Two steps: 
+1. **initiation**
+	- the origin of replication is targeted by initiator (DNA-A) proteins
+	- more DNA-A binds forming a complex with the origin 
+	- DNA-B (DNA helicase) and DNA-C protein join the initiation complex and produce a replication bubble
+	- DNA helicase catalyzes the unwinding of the parental double helix
+	- single stranded binding (SBB) protein keeps the strands apart 
+2. **elongation**
+	- DNA polymerase needs a free 3' OH in order to add nucleotides, so the orientation of the strands is important
+	- DNA primase (i.e. RNA polymerase) makes an RNA primer with a free 3' OH
+	- DNA polymerase III extends DNA using RNA primers, making leading strands
+	- RNA primers are added as the replication bubble opens up
+
+Using E.coli of DNA replication as a model =
+- E.coli has only one origin of replication (ori C), while eukaryotes have multiple origins
+
+
+
+
 # Genetic code
 
 **Gene expression**
@@ -177,5 +202,23 @@ This is only true only if the mutation does not affect the majority of amino aci
 ![[Pasted image 20261121211357.png]]
 
 
-# Transcription
+## Transcription
+
+**Transcription** = the process by which the polymerization of ribonucleotides guided by the complementary base pairings produces an RNA transcript of a gene
+- going from DNA to mRNA
+- nucleotides are added in the *5' to 3'* direction
+- T is replaced with U in RNA
+
+**RNA polymerase** = enzyme that catalyzes transcription
+
+**Promoters** = DNA sequences near the the beginnings of genes that signal RNA polymerase where to begin the transcription
+
+**Terminators** = sequences in the RNA products that tell RNA polymerase where to stop
+
+In DNA, the start and stop codons are nested within the promoter and terminator regions. The mRNA transcribes the region between the promoter and terminator, including the start and stop codons. The region between the stop and start codons is the *open reading frame* (ORF)
+
+![[Pasted image 20261125133325.png]]
+
+
+
 
