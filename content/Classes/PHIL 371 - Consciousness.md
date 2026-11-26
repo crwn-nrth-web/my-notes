@@ -25,8 +25,7 @@ The concept of the mind is a *mongrel* concept. Mongrel concepts are still attac
 - [[Thaggard-NBC-theory-of-consciousness]]
 - [[Dennett-Multiple-draft-model]]
 - [[Panpsychism]]
-- information integration theory
-- machine consciousness
-- animal consciousness
+- [[radical-physicalism]]
+- [[animal-and-artificial-consciousness]]
 - embodied phenomenology
 

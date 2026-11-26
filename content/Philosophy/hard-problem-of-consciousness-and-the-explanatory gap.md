@@ -34,8 +34,6 @@ Note this is not a distinction between easy and hard scientific problems; it is 
 Is the hard problem a genuine metaphysical problem or merely a limitation of our current understanding?
 #### Levine's explanatory gap
 
-
-
 A different way of looking at the hard problem of consciousness is in light of Joseph Levine's [[Levine-1983-the-explanatory-gap|explanatory-gap]][^1]. These are distinct views but both explore the idea of why qualia introduces a problem for the scientific study of consciousness.
 
 | Chalmer's Hard problem                                               | Levine's explanatory gap                                                                        |
@@ -78,7 +76,7 @@ It is important to make sure that the move form explanatory gap to ontological g
 	- Phenomenal properties are fundamental.  
 3. More radical alternatives  
 	- Perhaps our conception of consciousness (or even our conception of physical explanation) is mistaken  
-	- Possible directions: panpsychism; different kinds of monism; illusionism; other information integration theories; etc.
+	- Possible directions: [[radical-physicalism|panpsychism]]; different kinds of monism; illusionism; other information integration theories; etc.
 
 [^1]: "Materialism and qualia: the explanatory gap" (1983)
 [^2]: Nick Ray's terminology
