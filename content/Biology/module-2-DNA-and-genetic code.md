@@ -132,6 +132,9 @@ Replication is a complex process which occurs at a precise moment in the cell cy
 
 Synthesis is always 5' to 3' direction
 
+Using E.coli of DNA replication as a model =
+- E.coli has only one origin of replication (ori C), while eukaryotes have multiple origins
+
 Two steps: 
 1. **initiation**
 	- the origin of replication is targeted by initiator (DNA-A) proteins
@@ -143,11 +146,12 @@ Two steps:
 	- DNA polymerase needs a free 3' OH in order to add nucleotides, so the orientation of the strands is important
 	- DNA primase (i.e. RNA polymerase) makes an RNA primer with a free 3' OH
 	- DNA polymerase III extends DNA using RNA primers, making leading strands
-	- RNA primers are added as the replication bubble opens up
+	- additional RNA primers are added at the other ends as the replication bubble opens up, forming Okazaki fragments
+	- The RNA primers are removed by DNA polymerase I , which simultaneously replaces them with DNA (5' to 3'), still leaving a gap between a 5' and 3' end
+	- DNA ligase seals the 3' OH and 5' PO4 nicks by catalyzing the formation of polypeptides bonds. This completes the formation of the lagging strand
 
-Using E.coli of DNA replication as a model =
-- E.coli has only one origin of replication (ori C), while eukaryotes have multiple origins
-
+*leading strand* = synthesized continuously toward the replication fork
+*lagging strand* = synthesized discontinuously in short segments called *Okazaki fragments* away from the replication fork
 
 
 
