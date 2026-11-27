@@ -4,6 +4,8 @@ draft: false
 tags:
   - philosophy
   - source
+aliases:
+  - Wilson (2000)
 ---
 Wilson begins by pointing out that it has become common to characterize mathematics as "the general science of possible structures". Within mathematics big bag of general "structures", there must be a structure that is structurally isomorphic to that of the physical world. 
  
@@ -23,16 +25,14 @@ However, there has also been the opinion that only when the processes of nature 
 
 > "*mathematical opportunism*: it is the job of the applied mathematician to look out for the special circumstances that allow mathematics to say something useful about physical behavior." (Wilson, 2000, p. 297)
 
-Mathematical opportunism is "based upon the belief that the success of applied mathematics require some alien element that cannot be regarded as invariably present in the physical world" 
+**Mathematical opportunism** is "based upon the belief that the success of applied mathematics require some alien element that cannot be regarded as invariably present in the physical world" 
 
 The prime question of mathematical opportunism is to what extent do we succeed in representing reality with physics. 
 
 Wilson's argument is that the difficulties in modelling nature that anti-realists treat as blows against science are actually facts about mathematics, not about the world, and so they should be reinterpreted as supporting mathematical opportunism rather than anti-realism. 
 
-**Stance of the paper** =
 
-
-wilson is against analytic philosophy. If you try to simplify things, even by just providing a general framework of how science works, then we lose the specific details that is involved in applied mathematics
+Wilson is against analytic philosophy. If you try to simplify things, even by just providing a general framework of how science works, then we lose the specific details that is involved in applied mathematics
 ###### d'Alembert example
 
 > “the applicability of the classical equation for a vibrating string, which had been developed by d'Alembert. This formula contains a second derivative reflecting the string's change of shape. Intuitively, one expects that a string can be plucked into a "V" configuration. But the equation's reliance upon the second derivative makes it seem as if it can't possibly make sense for a string containing a sharp bend. D'Alembert concluded, in an admirably opportunist spirit, that, although the bent string represents a genuine physical possibility, mathematics cannot expect to treat such a case and must restrict its attention to strings that are regular enough to possess second derivatives. . .

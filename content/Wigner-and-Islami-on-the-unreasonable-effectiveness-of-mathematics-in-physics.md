@@ -45,18 +45,22 @@ This paper was originally a lecture, in the Richard Courant Lecture in Mathemati
 > “The miracle of the appropriateness of the language of mathematics for the formulation of the laws of physics is a wonderful gift which we neither understand nor deserve. We should be grateful for it and hope that it will remain valid in future research and that it will extend, for better or for worse, to our pleasure even though perhaps also to our bafflement, to wide branches of learning.” (Wigner, 1960, p. 14)
 
 Wigner's conclusion (and answer to the Applicability Problem) is that the effectiveness of mathematics in the natural science is unreasonable, i.e. there is no rational explanation for the Applicability Problem.
+
 [[Steiner-on-the-applicability-of-mathematics]] (1998) [^4] reconstructs Wigner's argument = ^9a17ab
 1. Mathematical concepts arise from the aesthetic impulse in humans. 
 2. It is unreasonable to expect that what arises from the aesthetic impulse in humans should be significantly effective in physics. 
 3. Nevertheless, a significant number of these concepts are significantly effective in physics. 
 Hence, mathematical concepts are unreasonably effective in physics
 
-Another way to formulate Wigner's argument =
+*Another way to formulate Wigner's argument* =
 1. Pure mathematics is developed in accordance of considerations far from human experience
 2. math is correct language in which to formulate laws
 Hence, the appropriateness of the language of mathematics for the formulation of the laws of physics is a miracle
 
+For Wigner, Mathematics "is, in a very real sense, the correct language" is demonstrated by the fact that the mathematical formulation of the physicist’s often crude experience leads in an uncanny number of cases to an amazingly accurate description of a large class of phenomena” (p. 230)
+
 A common example for Wigner's argument are complex numbers ($i= \sqrt{ -1 }$). Complex numbers were defined in the 16th century in order to solve polynomial equations, and our sense experiences clearly does not suggest the presence of these quantities. But later, complex numbers became an integral part in theories of physics. 
+
 
 *What are the assumptions he is making on the applicability of mathematics?* $\rightarrow$ Wigner has a very specific picture of how mathematics work.
 
@@ -69,9 +73,10 @@ There seems to be a mismatch between applied mathematics and how our mathematics
 
 i.e. the *epistemological problem* = knowledge of the world from our scientific theories are incompatible with origins and nature of math
 
-Wigner's **Empirical Law of Epistemology** (ELE) = “the appropriateness and accuracy of the mathematical formulation of the laws of nature in terms of concepts chosen for their manipulability”[^2]
+Wigner's **Empirical Law of Epistemology** (ELE) = “the appropriateness and accuracy of the mathematical formulation of the laws of nature in terms of concepts chosen for their manipulability, the laws of nature being almost fantastic accuracy but of strictly limited scope” (p. 233)
+- “only applies to a very small part of our knowledge of the inanimate world; for example, we can formulate a mathematically simple expression for the second derivative of position, but not for position or velocity” 
 
-Another assumption is that Wigner's argument relies on [[Scientific-realism]] (the view that an important function of theories is to describe reality) and mathematical Formalism (view that math is a system of symbols manipulated according to strict rules, rather than a study of real, abstract objects)
+Another assumption is that Wigner's argument relies on [[Scientific-realism]] (the view that an important function of theories is to describe reality) and mathematical Formalism (view that math is a system of symbols manipulated according to strict rules, rather than a study of real, abstract objects).
 
 #### Invariance principle
 
@@ -115,6 +120,5 @@ Islami's argument (Interpretation of Wigner) =
 Therefore, mathematics is an appropriate language for modern physics
 
 [^1]: Islami (2017), p. 11
-[^2]: Islami (2017), p. 10
 [^3]: Islami (2017), p. 17
 [^4]: as cited in Islami, 2017, p. 5

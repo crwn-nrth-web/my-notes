@@ -30,3 +30,4 @@ tags:
 	- [[Marino-2025-philosophy-of-mathematics-in-economics]]
 	- [[Andrews-2025]]
 - [[mathematical-beauty]]
+- [[Fraser-on-formal-analogies-in-physics]]
