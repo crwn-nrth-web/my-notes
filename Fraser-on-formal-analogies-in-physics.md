@@ -41,8 +41,38 @@ For a frog, the strategy of waiting to catch a fly until it loops around in its 
 
 In [[Wilson-2000-the-unreasonable-uncooperativeness-of-mathematics|Wilson (2000)]], he critiques the view he labels as *lazy optimism* (there is a neat fit between mathematical representations and the world) that fits with Wigner's view that mathematics is the correct language. Wilson argue that lazy optimism as unwarranted and offers *honest optimism* and *opportunism* as alternatives. 
 
-To distinguish, honest optimism and opportunism consider modelling a goose's flight path in a plane under specified wind conditions. According to Wilson, 
+To characterize honest optimism and opportunism, Fraser uses the following example. Consider modelling a goose's flight path in a plane under specified wind conditions. According to Wilson, three levels need to be distinguished: 
+1. goose's actual flight curve
+2. the differential equation's true solution modelling of the flight
+3. the numerical estimates we can actually obtain from numerical reasoning rules (e.g. Euler's method)
+
+(2) has a "mildly transcendental" relationship with (3) because (3) approaches (2) but in practice can never coincide with (2) because of the infinitely many "computational refinements" that would be required. 
+
+> “Honest mathematical optimists maintain that there is good reason (derived from knowledge of level (3) and empirical data) to believe that there is some level (2) solution that accurately represents any level (1) actual flight path of the goose. Mathematical opportunists believe that mathematical models that culminate in level (3) computed approximations is only applicable in special circumstances.” (Fraser, p. 15)
+
+There is also *semantic mimicry* which puts pressure on the the [[no-miracles-argument]] connection between predictive success and accurate description of the world. 
+
+*Semantic mimicry* is when (3) appear to correspond to (2) when in fact there is some different and more complicated (2*) that better represents (1), the target in the world. 
+
+## Using formal analogies in physical theories
+
+Abstraction = freedom to attach different physical interpretations to mathematically similar elements of representation
+
+Generality = having a broad scope of application
+
+Bartha's [^1] version of Steiner's argument is that the following three propositions are incompatible (p. 6) =
+1. purely formal analogies have played a crucial role in many fundamental discoveries
+2. purely formal analogies contribute nothing to the plausibility of a physical hypothesis
+	(a) purely formal analogies are based on mathematical similarities with no physical significance
+	 (b) reasoning about the physical world based on purely mathematical similarities contributes nothing to the plausibility of a hypothesis
+3. the fundemental discoveries were in fact based on (somewhat) plausible arguments
+
+Fraser rejects the proposition (2).
+
+> “The hypothesis that is supported by a purely formal analogy is that a solution strategy for an applied mathematical problem that was successfully applied within a mathematical representation for domain A can be transferred to a mathematical representation for domain B to solve a mathematically similar problem. The existence of the purely formal analogy does contribute to the plausibility of this hypothesis in (at least) the minimal sense that it is worth the effort to try applying this solution strategy to the mathematical representation for domain B.” (Fraser, p. 18)
 
 
+Fraser's account is naturalistic in nature = 
+> “Applying mathematics does have an important human dimension because it reflects a human capacity for solving problems. Human limitations and preferences (e.g., for beauty and convenience) may be factors.” (Fraser, p. 18)
 
-
+[^1]: Bartha, P. F. (2010). By Parallel Reasoning: The Construction and Evaluation of Analogical Arguments. Oxford: Oxford University Press.

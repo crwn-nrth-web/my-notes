@@ -27,10 +27,11 @@ However, there has also been the opinion that only when the processes of nature 
 
 **Mathematical opportunism** is "based upon the belief that the success of applied mathematics require some alien element that cannot be regarded as invariably present in the physical world" 
 
+[[Fraser-on-formal-analogies-in-physics]] gives a good example to characterize honest optimism and opportunism
+
 The prime question of mathematical opportunism is to what extent do we succeed in representing reality with physics. 
 
 Wilson's argument is that the difficulties in modelling nature that anti-realists treat as blows against science are actually facts about mathematics, not about the world, and so they should be reinterpreted as supporting mathematical opportunism rather than anti-realism. 
-
 
 Wilson is against analytic philosophy. If you try to simplify things, even by just providing a general framework of how science works, then we lose the specific details that is involved in applied mathematics
 ###### d'Alembert example
